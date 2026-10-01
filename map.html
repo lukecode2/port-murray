@@ -1,17 +1,1 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,nofollow"><title>Port Murray map</title>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<style>body{margin:0;font-family:-apple-system,'Segoe UI',Arial,sans-serif;background:#f2ecdc}#map{position:absolute;top:44px;bottom:0;left:0;right:0}
-.bar{height:44px;display:flex;align-items:center;gap:12px;padding:0 16px;font-size:15px}.bar a{color:#a0342a;font-weight:700}
-.legend{background:#fbf8ef;padding:6px 8px;border-radius:6px;font-size:12px;line-height:1.5}</style>
-</head><body><div class="bar"><a href="index.html">← Port Murray</a><span>Recent items with a location. Some pins are town-level.</span></div>
-<div id="map"></div><script src="map-data.js"></script><script>
-const colors={"animals": "#a0342a", "land": "#5f7a57", "sales": "#b7791f", "town": "#5b6b8c", "jobs": "#7a4e8c"},labels={"animals": "Animals", "land": "Land & Homes", "sales": "Sales & Markets", "town": "Around Town", "jobs": "Jobs"};
-const map=L.map('map').setView([40.79,-74.90],11);
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; OpenStreetMap contributors'}).addTo(map);
-const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-for(const p of POINTS){L.circleMarker([p.lat,p.lon],{radius:6,color:colors[p.c]||'#555',fillOpacity:.7}).addTo(map)
- .bindPopup(`<a href="${esc(p.u)}" target="_blank" rel="noopener">${esc(p.t)}</a><br><small>${esc(p.s)} ${esc(p.d)}</small>`);}
-const lg=L.control({position:'bottomleft'});lg.onAdd=()=>{const d=L.DomUtil.create('div','legend');d.innerHTML=Object.keys(labels).map(k=>`<span style="color:${colors[k]}">●</span> ${labels[k]}`).join('<br>');return d};lg.addTo(map);
-</script></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>Port Murray map</title><meta http-equiv="refresh" content="0; url=index.html#map"></head><body><a href="index.html#map">Open the map</a></body></html>
