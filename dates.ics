@@ -1,0 +1,1219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray dates//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Port Murray dates
+BEGIN:VEVENT
+UID:f5761a5dfdbaa78b36a533259430b158de33102c@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:29th Annual MANHATTAN SHORT Film Festival
+LOCATION:Belvidere\, NJ
+URL:https://www.explorewarren.org/events/29th-annual-manhattan-short-film
+ -festival
+DESCRIPTION:Details: https://www.explorewarren.org/events/29th-annual-man
+ hattan-short-film-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:0d77452b101adb54aa8f3f3e0f0589aba2941766@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Foreclosure auction 2026-10-01: 35 Budd Lake Heights Road\, Mount
+  Olive\, NJ 07828\, Morris County
+LOCATION:ZIP 07828
+URL:https://www.auction.com/details/35-budd-lake-heights-rd-budd-lake-nj-
+ 2142466
+DESCRIPTION:Details: https://www.auction.com/details/35-budd-lake-heights
+ -rd-budd-lake-nj-2142466
+END:VEVENT
+BEGIN:VEVENT
+UID:c599c452aac625229b343002fb63d1fde40b796c@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Sheriff sale Oct 1\, 2026 (Morris): 205 Old Center Grove Road Ran
+ dolph Nj 07869
+LOCATION:ZIP 07869
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692805
+ 5
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928055
+END:VEVENT
+BEGIN:VEVENT
+UID:20c902b5d7e18d0f9337e5852c47c477634d203e@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Sheriff sale Oct 1\, 2026 (Morris): 35 Budd Lake Heights Road Mou
+ nt Olive Nj 07828
+LOCATION:ZIP 07828
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692805
+ 7
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928057
+END:VEVENT
+BEGIN:VEVENT
+UID:5070342c2a88595fe6aae29e1fd6199101c02506@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Sheriff sale Oct 1\, 2026 (Morris): 516 Wills Road Landing Nj 078
+ 50
+LOCATION:ZIP 07850
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692811
+ 8
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928118
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5dc4888c1badb0947d523299adc6edd18a2135@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Garage Sale - Hopatcong - Oct 2-3 $0
+LOCATION:Port Murray\, NJ
+URL:https://www.craigslist.org/view/d/hopatcong-garage-sale-hopatcong-oct
+ -3/fxtXPaFAgLb3719wuekBx4
+DESCRIPTION:Details: https://www.craigslist.org/view/d/hopatcong-garage-s
+ ale-hopatcong-oct-3/fxtXPaFAgLb3719wuekBx4
+END:VEVENT
+BEGIN:VEVENT
+UID:17412c80d09a5cf7285ad63bc192fbe3d7807e51@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:13th Annual Harvest Festival at Longmeadow Farm
+LOCATION:Explore Warren events calendar (next month)
+URL:https://explorewarren.org/events/13th-annual-harvest-festival-longmea
+ dow-farm
+DESCRIPTION:Details: https://explorewarren.org/events/13th-annual-harvest
+ -festival-longmeadow-farm
+END:VEVENT
+BEGIN:VEVENT
+UID:6374252dba8a32b9f9704d2679b47499eac274a5@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:1st Annual Craft Show
+LOCATION:Easton-area events (Easton Post)
+URL:https://eastonpost.com/event/1st-annual-craft-show/
+DESCRIPTION:Details: https://eastonpost.com/event/1st-annual-craft-show/
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf1b5187ff076866ff55a92f936e9e1d0c3d941@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Fall Fest Weekends 2026 at Tranquillity Farms
+LOCATION:Belvidere\, NJ
+URL:https://www.explorewarren.org/events/fall-fest-weekends-tranquillity-
+ farms-10
+DESCRIPTION:Details: https://www.explorewarren.org/events/fall-fest-weeke
+ nds-tranquillity-farms-10
+END:VEVENT
+BEGIN:VEVENT
+UID:ee0aecaac0172256109dd6724dccb4432e475a02@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Fall Festival Weekends at Von Thun Farms
+LOCATION:Belvidere\, NJ
+URL:https://www.explorewarren.org/events/fall-festival-weekends-von-thun-
+ farms
+DESCRIPTION:Details: https://www.explorewarren.org/events/fall-festival-w
+ eekends-von-thun-farms
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a9be09db808e5aebde3c6cca9442cd02f1eba0@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Fall Harvest Weekends at Donaldson Farms
+LOCATION:Belvidere\, NJ
+URL:https://www.explorewarren.org/events/fall-harvest-weekends-donaldson-
+ farms-7
+DESCRIPTION:Details: https://www.explorewarren.org/events/fall-harvest-we
+ ekends-donaldson-farms-7
+END:VEVENT
+BEGIN:VEVENT
+UID:0b1ae79729ac8fe84da7abe8b439e3b487177b11@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Fourth Annual Lehigh Valley CaresFest – Fall Festival
+LOCATION:Easton-area events (Easton Post)
+URL:https://eastonpost.com/event/fourth-annual-lehigh-valley-caresfest-fa
+ ll-festival/
+DESCRIPTION:Details: https://eastonpost.com/event/fourth-annual-lehigh-va
+ lley-caresfest-fall-festival/
+END:VEVENT
+BEGIN:VEVENT
+UID:76d0ae15ca1e64feb2c614b26e40dd424ecd06b5@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Phillipsburg Farmers' Market at Shappell Park
+LOCATION:Phillipsburg
+URL:https://www.explorewarren.org/events/phillipsburg-summer-farmers-mark
+ et-shappell-park-3
+DESCRIPTION:Details: https://www.explorewarren.org/events/phillipsburg-su
+ mmer-farmers-market-shappell-park-3
+END:VEVENT
+BEGIN:VEVENT
+UID:41bcca4de65531c311495d564f5a7cdf376d1b03@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 10 South Pickel Avenue\, Washingt
+ on\, NJ 07882\, Warren County
+LOCATION:ZIP 07882
+URL:https://www.auction.com/details/10-s-pickel-ave-washington-nj-2136590
+DESCRIPTION:Details: https://www.auction.com/details/10-s-pickel-ave-wash
+ ington-nj-2136590
+END:VEVENT
+BEGIN:VEVENT
+UID:a55686c4360a1e4f860d5ed62d3143d000eaa805@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 156 Revere Rd\, Stewartsville\, N
+ J 08886\, Warren County
+LOCATION:ZIP 08886
+URL:https://www.auction.com/details/156-revere-rd-stewartsville-nj-215971
+ 9
+DESCRIPTION:Details: https://www.auction.com/details/156-revere-rd-stewar
+ tsville-nj-2159719
+END:VEVENT
+BEGIN:VEVENT
+UID:dea4e63f54794b0593a168619fd51fb26b9bc54e@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 16 Spring Hill Lane\, Great Meado
+ ws\, NJ 07838\, Warren County
+LOCATION:ZIP 07838
+URL:https://www.auction.com/details/16-spring-hill-ln-great-meadows-nj-21
+ 62974
+DESCRIPTION:Details: https://www.auction.com/details/16-spring-hill-ln-gr
+ eat-meadows-nj-2162974
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f3898d269407639977a70ced7af45fca82e588@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 18 Hillcrest Drive\, Great Meadow
+ s\, NJ 07838\, Warren County
+LOCATION:ZIP 07838
+URL:https://www.auction.com/details/18-hillcrest-dr-great-meadows-nj-2150
+ 404
+DESCRIPTION:Details: https://www.auction.com/details/18-hillcrest-dr-grea
+ t-meadows-nj-2150404
+END:VEVENT
+BEGIN:VEVENT
+UID:98504b4c269ec1c2d042635b4a6ce685fd29ba15@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 235 Parkside Ave\, Phillipsburg\,
+  NJ 08865\, Warren County
+LOCATION:ZIP 08865
+URL:https://www.auction.com/details/235-parkside-ave-phillipsburg-nj-2163
+ 347
+DESCRIPTION:Details: https://www.auction.com/details/235-parkside-ave-phi
+ llipsburg-nj-2163347
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4274b3948c64846ac8bc2b97f98073843c15f5@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 493 Ringwood Ave\, Alpha\, NJ 088
+ 65\, Warren County
+LOCATION:ZIP 08865
+URL:https://www.auction.com/details/493-ringwood-ave-alpha-nj-2134063
+DESCRIPTION:Details: https://www.auction.com/details/493-ringwood-ave-alp
+ ha-nj-2134063
+END:VEVENT
+BEGIN:VEVENT
+UID:2812e96601b5dd5faec8411adbcf6a9183f15768@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Foreclosure auction 2026-10-05: 760 High St\, Phillipsburg\, NJ 0
+ 8865\, Warren County
+LOCATION:ZIP 08865
+URL:https://www.auction.com/details/760-high-st-phillipsburg-nj-2166838
+DESCRIPTION:Details: https://www.auction.com/details/760-high-st-phillips
+ burg-nj-2166838
+END:VEVENT
+BEGIN:VEVENT
+UID:22b9630688ad9f2c54f528dbc9b0fbeeffd98096@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 10 South Pickel Avenue\, Washington Bo
+ rough (Block 44 Lot 39-40)
+LOCATION:Washington Borough
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000324
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000324
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4bd857d40c821815385109884f17baccb61399@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 156 Revere Road - Affordable Housing R
+ estrictions\, Greenwich Township (Block 23.16 Lot 1 C0029)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000440
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000440
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f77f3922efd690ebb3813ae32561ba389e09eb@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 16 Spring Hill Lane\, Liberty Township
+  (Block 21.02 Lot 18)
+LOCATION:Liberty Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000430
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000430
+END:VEVENT
+BEGIN:VEVENT
+UID:392e4470844ebab3d4368743434869f56ecf01e7@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 160 Esposito Road\, Harmony (Block 44 
+ Lot 20.01 and 20.01 QFarm)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000127
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000127
+END:VEVENT
+BEGIN:VEVENT
+UID:86949ebd0ec239dbc2acad4f8f175619e586cb25@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 18 Hillcrest Drive\, Liberty Township 
+ (Block 21.01 Lot 12.07)
+LOCATION:Liberty Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000442
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000442
+END:VEVENT
+BEGIN:VEVENT
+UID:ffa048a4face427aa0fbbec6c8f8ec02a10ea7f6@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 235 Parkside Avenue\, Pohatcong Townsh
+ ip (Block 21.02 Lot 2)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#25000325
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#25000325
+END:VEVENT
+BEGIN:VEVENT
+UID:eb287856bcea2f714c7895f876b02480e4a8b99c@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 3 Lisa Court\, White Township (Block 1
+ 5 Lot 5.19)
+LOCATION:White Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000035
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000035
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff86a6e72e54f33d5ac092ebde03311e11cc9ad@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 31 Ridgeway Avenue\, Hope Township (Bl
+ ock 4000 Lot 1500)
+LOCATION:Hope Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000441
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000441
+END:VEVENT
+BEGIN:VEVENT
+UID:8a0779a744631429639dde4f2ee1f55e7a1bb75f@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 38 Stark Road\, Knowlton Township (Blo
+ ck 9 Lot 4 & 4 QFarm)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000475
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000475
+END:VEVENT
+BEGIN:VEVENT
+UID:7c60f4a08d45b3b7b5ad170e722274ddc0c6760b@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 493 Ringwood Avenue\, Pohatcong Townsh
+ ip (Block 88 Lot 4.01)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000339
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000339
+END:VEVENT
+BEGIN:VEVENT
+UID:ef339868fa29fc3e6c3f095c450df9f9b38a2ccb@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 760 High Street\, Alpha Borough (Block
+  37 Lot 6)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000031
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000031
+END:VEVENT
+BEGIN:VEVENT
+UID:53e2c524c1604e1116e5ac3009d6f788e4820dae@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sheriff sale Oct 5\, 2026: 96 Park Avenue\, Washington Borough (B
+ lock 79 Lot 3)
+LOCATION:Washington Borough
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000463
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000463
+END:VEVENT
+BEGIN:VEVENT
+UID:69d652d662e4506bf216edc3dc1906052c4ce8f2@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Autumn Harvest Festival at Genesis Farm
+LOCATION:Explore Warren events calendar (next month)
+URL:https://explorewarren.org/events/autumn-harvest-festival-genesis-farm
+ -0
+DESCRIPTION:Details: https://explorewarren.org/events/autumn-harvest-fest
+ ival-genesis-farm-0
+END:VEVENT
+BEGIN:VEVENT
+UID:58caebc7ff9f3b3e0f1075f9ea9bdab1b5f04602@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Sheriff sale Oct 14\, 2026 (Hunterdon): 238 Mt. Airy Road Glen Ga
+ rdner Nj 08826
+LOCATION:ZIP 08826
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691140
+ 8
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911408
+END:VEVENT
+BEGIN:VEVENT
+UID:64592d29401c91730f5cfbcd89d1db6d0aba4454@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Sheriff sale Oct 14\, 2026 (Hunterdon): 4 Blackberry Lane Whiteho
+ use Station Nj 08889
+LOCATION:ZIP 08889
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691139
+ 1
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911391
+END:VEVENT
+BEGIN:VEVENT
+UID:def844b395d7f1316e254e6933d9061bb38597af@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Sheriff sale Oct 14\, 2026 (Hunterdon): 47 Broad Street Flemingto
+ n Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691140
+ 7
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911407
+END:VEVENT
+BEGIN:VEVENT
+UID:de8ef1ec800dbf13ce3989ba75b8e9252cb0b82c@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Foreclosure auction 2026-10-15: 17 Sanford Road\, Budd Lake\, NJ 
+ 07828\, Morris County
+LOCATION:ZIP 07828
+URL:https://www.auction.com/details/17-sanford-rd-budd-lake-nj-2123438
+DESCRIPTION:Details: https://www.auction.com/details/17-sanford-rd-budd-l
+ ake-nj-2123438
+END:VEVENT
+BEGIN:VEVENT
+UID:f0db4247af40be33b81f57dea24cdf98570fff91@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Foreclosure auction 2026-10-15: 6 Trout Brook Court\, Chester\, N
+ J 07930\, Morris County
+LOCATION:ZIP 07930
+URL:https://www.auction.com/details/6-trout-brook-ct-chester-nj-2176729
+DESCRIPTION:Details: https://www.auction.com/details/6-trout-brook-ct-che
+ ster-nj-2176729
+END:VEVENT
+BEGIN:VEVENT
+UID:ea53027b066b44354a12326cdbf242f89dcc0443@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sheriff sale Oct 15\, 2026 (Morris): 17 Sanford Road Mount Olive 
+ Nj 07828
+LOCATION:ZIP 07828
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692806
+ 1
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928061
+END:VEVENT
+BEGIN:VEVENT
+UID:39e394cf82a78d3a228668dab5953fe17d0e7e0c@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sheriff sale Oct 15\, 2026 (Morris): 24 Third Street Wharton Nj 0
+ 7885-2163
+LOCATION:ZIP 07885
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692809
+ 9
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928099
+END:VEVENT
+BEGIN:VEVENT
+UID:d5be8da31f29ee8a0f07bcc9c9de28d8b313f8b8@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sheriff sale Oct 15\, 2026 (Morris): 6 Trout Brook Court Chester 
+ Nj 07930
+LOCATION:ZIP 07930
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692785
+ 4
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166927854
+END:VEVENT
+BEGIN:VEVENT
+UID:abd4739eb3b1ebd07ccef5ed2c2dff4228d25105@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sheriff sale Oct 15\, 2026 (Morris): 7 Hall Road Chester Nj 07930
+LOCATION:ZIP 07930
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692813
+ 3
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928133
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd339fa3e4c791ee2ac309623204ad9f54e0036@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sheriff sale Oct 15\, 2026 (Morris): 8 Misty Mountain Road Randol
+ ph Twp Nj 07869
+LOCATION:ZIP 07869
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692813
+ 6
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928136
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa18350d2990046a6a4e44554618d60c924cb02@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Blairstown Fall Festival and Bed Races
+LOCATION:Blairstown
+URL:https://explorewarren.org/events/blairstown-fall-festival-and-bed-rac
+ es
+DESCRIPTION:Details: https://explorewarren.org/events/blairstown-fall-fes
+ tival-and-bed-races
+END:VEVENT
+BEGIN:VEVENT
+UID:86033b9c2931fbfb1956188baa30fc3cee638c68@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Mansfield Township tax-sale list due to be advertised this week
+URL:https://www.mansfieldtownship-nj.gov/media/attachments/2026/07/09/jun
+ e-24-2026---approved-minutes.pdf
+DESCRIPTION:Details: https://www.mansfieldtownship-nj.gov/media/attachmen
+ ts/2026/07/09/june-24-2026---approved-minutes.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:5135ac8f87c75cbd16b3dc2cf815ede432f96eb6@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Morris County rabies clinics: current schedule
+LOCATION:Morris County rabies clinics
+URL:https://www.morriscountynj.gov/Residents/Public-Safety/Rabies-Clinics
+DESCRIPTION:Details: https://www.morriscountynj.gov/Residents/Public-Safe
+ ty/Rabies-Clinics
+END:VEVENT
+BEGIN:VEVENT
+UID:fe251dc957e8325b40acb95fbfc4d29b8266f961@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Fall Festival in Shappell Park
+LOCATION:Explore Warren events calendar (next month)
+URL:https://explorewarren.org/events/fall-festival-shappell-park
+DESCRIPTION:Details: https://explorewarren.org/events/fall-festival-shapp
+ ell-park
+END:VEVENT
+BEGIN:VEVENT
+UID:548f220cc2b2fc33b8032fad0e1854d6a8548ef7@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 1101 Farley Road Whitehou
+ se Station Nj 08889
+LOCATION:ZIP 08889
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691138
+ 3
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911383
+END:VEVENT
+BEGIN:VEVENT
+UID:a4e2b854d216ae578985dbe28c5875b39be99b66@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 12 Orchard Drive Flemingt
+ on Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 2
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911372
+END:VEVENT
+BEGIN:VEVENT
+UID:af0d847d530f1dfd0cc653c1c67857fcdfe63e75@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 5 Everitts Farm Lane Mail
+ ing Address: 5 Everitts Farm Lane\, Frenchtown\, Nj 08825 Kingwood Twp Nj
+  08825
+LOCATION:ZIP 08825
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691140
+ 5
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911405
+END:VEVENT
+BEGIN:VEVENT
+UID:879e8896343e0d88d651f2f1a08bccaa3c2c21f3@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 501 Goritz Road Asbury Nj
+  08802
+LOCATION:ZIP 08802
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691139
+ 3
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911393
+END:VEVENT
+BEGIN:VEVENT
+UID:394655f923a4f6e8755e6c5f647fc2cfae490a14@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 89 Old Clinton Road Flemi
+ ngton Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691139
+ 6
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911396
+END:VEVENT
+BEGIN:VEVENT
+UID:0d01121d2660e94b617075d82b1b710d823499eb@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 89 Violet Court Whitehous
+ e Station Nj 08889
+LOCATION:ZIP 08889
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691138
+ 9
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911389
+END:VEVENT
+BEGIN:VEVENT
+UID:c3261578b9478b0101ed3251abdf5c1daa0e55e2@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Sheriff sale Oct 28\, 2026 (Hunterdon): 91 Main Street Flemington
+  Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691138
+ 0
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911380
+END:VEVENT
+BEGIN:VEVENT
+UID:0bec60f314ba530048a02f71966bd81ec65c10ef@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Sheriff sale Oct 29\, 2026 (Morris): 41 Center Street Budd Lake N
+ j 07828
+LOCATION:ZIP 07828
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692814
+ 7
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928147
+END:VEVENT
+BEGIN:VEVENT
+UID:f286f0b9095d5e4aec0da7e0bc5d192beb9fef09@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Sheriff sale Oct 29\, 2026 (Morris): 627 Dorothy Lane Landing Nj 
+ 07850
+LOCATION:ZIP 07850
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692814
+ 2
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928142
+END:VEVENT
+BEGIN:VEVENT
+UID:169bcf7b28bea5784d11667d18c5499034efa0d0@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Sheriff sale Oct 29\, 2026 (Morris): 97 West Dewey Avenue Wharton
+  Nj 07885
+LOCATION:ZIP 07885
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692793
+ 8
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166927938
+END:VEVENT
+BEGIN:VEVENT
+UID:47f9c9d41a14532e0c27e039d55b241a3e366e02@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Warren County rabies clinics: current schedule
+LOCATION:Hackettstown
+URL:https://www.warrencountynj.gov/government/health-department/animal-co
+ ntrol-rabies-clinics/rabies-clinics
+DESCRIPTION:Details: https://www.warrencountynj.gov/government/health-dep
+ artment/animal-control-rabies-clinics/rabies-clinics
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff9f625ae2a1a904002629df163d1ffa95d5f12@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Property tax\, 4th quarter (Mansfield)
+URL:https://mansfieldtownship-nj.gov/index.php/offices/tax-collector
+DESCRIPTION:Details: https://mansfieldtownship-nj.gov/index.php/offices/t
+ ax-collector
+END:VEVENT
+BEGIN:VEVENT
+UID:7a06794415fe966b2f12779f3229a7842548ce25@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:ANCHOR 2025 application deadline
+URL:https://www.nj.gov/treasury/taxation/anchor/index.shtml
+DESCRIPTION:Details: https://www.nj.gov/treasury/taxation/anchor/index.sh
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:d11d35a8aea059495e7b4c32d61f4bc89df325c9@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:PAS-1 deadline: Stay NJ + Senior Freeze (65+)
+URL:https://propertytaxrelief.nj.gov
+DESCRIPTION:Details: https://propertytaxrelief.nj.gov
+END:VEVENT
+BEGIN:VEVENT
+UID:4efe0e13c3dd776330163db61543b21928d7f320@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 118 Brook Drive\, Hackettstown (Block 
+ 29.04 Lot 1.20)
+LOCATION:Hackettstown
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000503
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000503
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc1374d3fe4a3b0d626f0fed6ef513f78dc8c5b@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 119 Belvidere Avenue\, Oxford Township
+  (Block 24 Lot 65)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000297
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000297
+END:VEVENT
+BEGIN:VEVENT
+UID:ef3ea4ab7e38c8363a6173cf596ac0f7caedfe09@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 125 Water Street\, Hackettstown (Block
+  123 Lot 5)
+LOCATION:Hackettstown
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000514
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000514
+END:VEVENT
+BEGIN:VEVENT
+UID:87698d98abd96c715902b74e30b5a95a58b2a029@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 127 Russling Road\, Independence Towns
+ hip (Block 1 Lot 13)
+LOCATION:Independence Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000494
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000494
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae36e3ae3f12df517585d738313093c4caf6606@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 13 Cobblewood Road\, Blairstown Townsh
+ ip (Block 702 Lot 23.04)
+LOCATION:Blairstown
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000476
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000476
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f74cf094d7053101d96db261a5269e54480cbe@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 150 Rockport Road\, Mansfield Township
+  (Block 802 Lot 6.09)
+LOCATION:Mansfield Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000509
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000509
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5e1502fc22c01835722c240e0ec6c6fbcb583d@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 18 Canterbury Lane\, Mansfield Townshi
+ p (Block 1105.04 Lot 15)
+LOCATION:Mansfield Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000295
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000295
+END:VEVENT
+BEGIN:VEVENT
+UID:453d77e850baa630fa9c6f200b7adba3d32e306b@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 21 Midland Drive\, Liberty Township (B
+ lock 11 Lot 42.21)
+LOCATION:Liberty Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000501
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000501
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f5a1cf7e272bd265a1c6fd405c43268a50501e@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 372 Firth Street\, Phillipsburg (Block
+  1220 Lot 19)
+LOCATION:Phillipsburg
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000001
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000001
+END:VEVENT
+BEGIN:VEVENT
+UID:c4fa518146e8bc011934f9aee17aaaa11154f4fd@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 39 Canterbury Lane\, Mansfield Townshi
+ p (Block 1805 Lot 28)
+LOCATION:Mansfield Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000504
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000504
+END:VEVENT
+BEGIN:VEVENT
+UID:a3afcf57988532e91267f69bbd09f609557ef50b@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 55 Millbrook Road\, Blairstown (Block 
+ 906 Lot 2.01)
+LOCATION:Blairstown
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000412
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000412
+END:VEVENT
+BEGIN:VEVENT
+UID:43094a213e242b3964f8063e8d56c4fbee0d0ced@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 574 South Main Street\, Phillipsburg (
+ Block 2015 Lot 9)
+LOCATION:Phillipsburg
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000416
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000416
+END:VEVENT
+BEGIN:VEVENT
+UID:361b08dee0517109bde17b595bc3382a13483f67@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 628 Brass Castle Road\, White Township
+  (Block 16 Lot 10)
+LOCATION:White Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000390
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000390
+END:VEVENT
+BEGIN:VEVENT
+UID:7f83f7ca4de94ae3f4d31818bdd25dc8159ce296@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 65 Alvin Sloan Avenue\, Washington Bor
+ ough (Block 2.11 Lot 9)
+LOCATION:Washington Borough
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000048
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000048
+END:VEVENT
+BEGIN:VEVENT
+UID:dd636ecce14f3f83a1f6171c2884d319cd1e9a46@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 672 Brass Castle Road\, White Township
+  (Block 16 Lot 18)
+LOCATION:White Township
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000432
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000432
+END:VEVENT
+BEGIN:VEVENT
+UID:99f06d48ff993e54983eaae309d55ccd0cd00b56@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 7 A Knowlton Road\, Knowlton Township 
+ (Block 45.01 Lot 1.04)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000353
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000353
+END:VEVENT
+BEGIN:VEVENT
+UID:d27b3905778c9ffe2af73955f452250ec8a27ae6@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 78 Front Street\, Belvidere (Block 15 
+ Lot 5)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000508
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000508
+END:VEVENT
+BEGIN:VEVENT
+UID:ab3532a856f6b859492cb9ff680c920026d269e0@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sheriff sale Nov 2\, 2026: 80 East Asbury Anderson Road\, Washing
+ ton Township (Block 81 Lot 5.06)
+LOCATION:Belvidere
+URL:https://www.wcsheriffnj.gov/foreclosuresv2#26000487
+DESCRIPTION:Details: https://www.wcsheriffnj.gov/foreclosuresv2#26000487
+END:VEVENT
+BEGIN:VEVENT
+UID:b81b8c0b13ab87405953eb0ac1c550f7e15278a7@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Check bidder registration deadline: Mansfield Township tax sale
+URL:https://mansfield-warren.newjerseytaxsale.com
+DESCRIPTION:Details: https://mansfield-warren.newjerseytaxsale.com
+END:VEVENT
+BEGIN:VEVENT
+UID:01f435a9de6987a033f324fd40ce00ef1a74fc3e@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Sheriff sale Nov 12\, 2026 (Morris): 25 1St Street Roxbury Nj 078
+ 47
+LOCATION:ZIP 07847
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692815
+ 2
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928152
+END:VEVENT
+BEGIN:VEVENT
+UID:5d089f0ef99e7c073b3c28f4d23f817e8eb6435d@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Sheriff sale Nov 12\, 2026 (Morris): 508 Main Street Landing Nj 0
+ 7850
+LOCATION:ZIP 07850
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692815
+ 5
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166928155
+END:VEVENT
+BEGIN:VEVENT
+UID:95d6072a7dd29e4c8db500f8f4e7edd0d8070734@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sheriff sale Nov 18\, 2026 (Hunterdon): 107 Pennsylvania Avenue F
+ lemington Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691136
+ 9
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911369
+END:VEVENT
+BEGIN:VEVENT
+UID:11ea93173c1b9eaef2b472acef3fe3076696c9cc@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sheriff sale Nov 18\, 2026 (Hunterdon): 129 Kosciuszko Roas White
+ house Station Nj 08889
+LOCATION:ZIP 08889
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691141
+ 2
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911412
+END:VEVENT
+BEGIN:VEVENT
+UID:d8366efa2ac08c17403c7e603a5211bb804bf9c9@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sheriff sale Nov 18\, 2026 (Hunterdon): 15 Woodland Terrace Bloom
+ sbury Nj 08804
+LOCATION:ZIP 08804
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691139
+ 8
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911398
+END:VEVENT
+BEGIN:VEVENT
+UID:fabe53b4591e8bdecf73b7c8ded92be976eb5144@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sheriff sale Nov 18\, 2026 (Hunterdon): 1704 Newbury Court Flemin
+ gton Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 3
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911373
+END:VEVENT
+BEGIN:VEVENT
+UID:21003675683b008e4648e2bb2d7ad4316646a0f7@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sheriff sale Nov 18\, 2026 (Hunterdon): 212 Kingwood Station -Bar
+ bertown Road Frenchtown Nj 08825
+LOCATION:ZIP 08825
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691140
+ 1
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911401
+END:VEVENT
+BEGIN:VEVENT
+UID:313fa6ba128c85920a8291d3f3c0298e380b4db8@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sheriff sale Nov 18\, 2026 (Hunterdon): 25 Stonehaven Lane Asbury
+  Nj 08802
+LOCATION:ZIP 08802
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691141
+ 1
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911411
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd5fd7fa16e58a16e3c09e3d3c8091be51c7c7e@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Mansfield Township tax-lien sale (online)
+LOCATION:RealAuction online
+URL:https://mansfield-warren.newjerseytaxsale.com
+DESCRIPTION:Details: https://mansfield-warren.newjerseytaxsale.com
+END:VEVENT
+BEGIN:VEVENT
+UID:644a81ebd370a85b59652c029ddc2a3d52a05a54@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Sheriff sale Dec 2\, 2026 (Hunterdon): 1002 Spruce Hills Drive Gl
+ en Gardner Nj 08826
+LOCATION:ZIP 08826
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691141
+ 0
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911410
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7636c3fdd29aa11d647eab4fe948c592f732e0@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Sheriff sale Dec 2\, 2026 (Hunterdon): 665 Route 579 Pittstown Nj
+  08867
+LOCATION:ZIP 08867
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691140
+ 2
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911402
+END:VEVENT
+BEGIN:VEVENT
+UID:64d8944211a1b6f6d29f6ca07c99bc515f7186f9@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Sheriff sale Dec 3\, 2026 (Morris): 26 Galway Drive Mendham Nj 07
+ 945
+LOCATION:ZIP 07945
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216692796
+ 3
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166927963
+END:VEVENT
+BEGIN:VEVENT
+UID:dfae91a7efafd8a238adc1b9e48839ed736e4e8c@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:BOE Meeting @ 7:15 PM
+LOCATION:Washington\, NJ
+URL:https://www.warrenhills.org/fs/calendar-manager/events.ics?calendar_i
+ ds%5B%5D=12&calendar_ids%5B%5D=11&calendar_ids%5B%5D=13&calendar_ids%5B%5
+ D=9&calendar_ids%5B%5D=8&calendar_ids%5B%5D=7
+DESCRIPTION:Details: https://www.warrenhills.org/fs/calendar-manager/even
+ ts.ics?calendar_ids%5B%5D=12&calendar_ids%5B%5D=11&calendar_ids%5B%5D=13&
+ calendar_ids%5B%5D=9&calendar_ids%5B%5D=8&calendar_ids%5B%5D=7
+END:VEVENT
+BEGIN:VEVENT
+UID:2535a2133e8d036e75af406105ad8fddb1cd949a@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Sheriff sale Dec 16\, 2026 (Hunterdon): 9 Creamery Lane Frenchtow
+ n Nj 08825
+LOCATION:ZIP 08825
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691140
+ 6
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911406
+END:VEVENT
+BEGIN:VEVENT
+UID:7bc254d94ec5fdb1e4b48a378af754f92b993816@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sheriff sale Dec 30\, 2026 (Hunterdon): 117 Lilac Drive Annandale
+  Nj 08801
+LOCATION:ZIP 08801
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 0
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911370
+END:VEVENT
+BEGIN:VEVENT
+UID:d4529a2b9c4b994a4380868209c682a34d30c283@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sheriff sale Dec 30\, 2026 (Hunterdon): 275 County Road 513 Frenc
+ htown Nj 08825
+LOCATION:ZIP 08825
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 4
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911374
+END:VEVENT
+BEGIN:VEVENT
+UID:a1440df185952bc7d99233e665163d8812772b49@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sheriff sale Dec 30\, 2026 (Hunterdon): 528 Frenchtown Road Milfo
+ rd Nj 08848
+LOCATION:ZIP 08848
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691138
+ 2
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911382
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0d3aa611feec7078a74a9311912e1fc258a1d3@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sheriff sale Dec 30\, 2026 (Hunterdon): 65 Center Street Clinton 
+ Nj 08809
+LOCATION:ZIP 08809
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 8
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911378
+END:VEVENT
+BEGIN:VEVENT
+UID:1a931f3601fb1e2fecd0a888cd0dbb4befe0c2c6@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sheriff sale Dec 30\, 2026 (Hunterdon): 8 Tiffany Drive Flemingto
+ n Nj
+LOCATION:Flemington\, NJ
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 7
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911377
+END:VEVENT
+BEGIN:VEVENT
+UID:6de85be983e26e2786cfceb19061c9470ae4c4d6@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:BOE Meeting @ 6:30pm Reorganization
+LOCATION:Washington\, NJ
+URL:https://www.warrenhills.org/fs/calendar-manager/events.ics?calendar_i
+ ds%5B%5D=12&calendar_ids%5B%5D=11&calendar_ids%5B%5D=13&calendar_ids%5B%5
+ D=9&calendar_ids%5B%5D=8&calendar_ids%5B%5D=7
+DESCRIPTION:Details: https://www.warrenhills.org/fs/calendar-manager/even
+ ts.ics?calendar_ids%5B%5D=12&calendar_ids%5B%5D=11&calendar_ids%5B%5D=13&
+ calendar_ids%5B%5D=9&calendar_ids%5B%5D=8&calendar_ids%5B%5D=7
+END:VEVENT
+BEGIN:VEVENT
+UID:2f433fb4cac0ce2a7937f320b90ec80c90015e9f@port-murray
+DTSTAMP:20261001T033602Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Sheriff sale Jan 13\, 2027 (Hunterdon): 39 Biser Road Delaware Tw
+ p Nj 08822
+LOCATION:ZIP 08822
+URL:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=216691137
+ 1
+DESCRIPTION:Details: https://salesweb.civilview.com/Sales/SaleDetails?Pro
+ pertyId=2166911371
+END:VEVENT
+END:VCALENDAR
