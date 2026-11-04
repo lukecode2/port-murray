@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-10987-20261106@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
+ es
+DTSTART;TZID=America/New_York:20261106T100000
+DTEND;TZID=America/New_York:20261106T150000
+LOCATION:Franklin Township\, NJ\, 08873
+DESCRIPTION:White Pine Estate Sales is teaming up with Inside Out Estate S
+ ales to present THREE DAYS OF UNUSUAL FINDS & ONE-OF-A-KIND TREASURES. Fr
+ om the home of a 45+ year collector of top quality items\, you’ll find 
+ something you love.\nGet ready for an estate sale that’s anything but o
+ rdinary! This house is filled with a mix of unusual and rare items includ
+ ing MCM\, vintage galore\, antiques\, collectibles\, electronics\, tools\
+ , clothing and so much more. From hard-to-find pieces and unexpected disc
+ overies to items you won’t see at every estate sale - make plans to vis
+ it!\nToys\, Beatles\, glass\, ephemera\, electronics\, lanterns\, books..
+ .\nAlbums\, clothing\, jeweled prism chandelier\, crates\, purses\, MCM c
+ rystal waterfall lamps\, boots\, furniture\, lamps and lighting\, origina
+ l artwork\, vintage posters\, outdoor furniture\, live plants\, vintage W
+ ashington Redskins memorabilia\, outdoor concrete decor and planters.\nSt
+ ar Wars\, bronze\, art deco spice jars\, apothecary bottles\, Folk art do
+ lls including African American and Mexican\, Loredano Rosin Murano sculpt
+ ures\, vintage signs\, linens\, Steiff bears\, Hollywood Regency vanity\,
+  MCM furniture\, Fiestaware\, holiday\, garage items including ladders\, 
+ tools\, hand trucks and more.\nSunday is bundle day!\nFor planning purpos
+ es\, this home is close to Inman Park in Somerset\, NJ
+URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
+ inds-2470579
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-10987-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
+ es
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T150000
+LOCATION:Franklin Township\, NJ\, 08873
+DESCRIPTION:White Pine Estate Sales is teaming up with Inside Out Estate S
+ ales to present THREE DAYS OF UNUSUAL FINDS & ONE-OF-A-KIND TREASURES. Fr
+ om the home of a 45+ year collector of top quality items\, you’ll find 
+ something you love.\nGet ready for an estate sale that’s anything but o
+ rdinary! This house is filled with a mix of unusual and rare items includ
+ ing MCM\, vintage galore\, antiques\, collectibles\, electronics\, tools\
+ , clothing and so much more. From hard-to-find pieces and unexpected disc
+ overies to items you won’t see at every estate sale - make plans to vis
+ it!\nToys\, Beatles\, glass\, ephemera\, electronics\, lanterns\, books..
+ .\nAlbums\, clothing\, jeweled prism chandelier\, crates\, purses\, MCM c
+ rystal waterfall lamps\, boots\, furniture\, lamps and lighting\, origina
+ l artwork\, vintage posters\, outdoor furniture\, live plants\, vintage W
+ ashington Redskins memorabilia\, outdoor concrete decor and planters.\nSt
+ ar Wars\, bronze\, art deco spice jars\, apothecary bottles\, Folk art do
+ lls including African American and Mexican\, Loredano Rosin Murano sculpt
+ ures\, vintage signs\, linens\, Steiff bears\, Hollywood Regency vanity\,
+  MCM furniture\, Fiestaware\, holiday\, garage items including ladders\, 
+ tools\, hand trucks and more.\nSunday is bundle day!\nFor planning purpos
+ es\, this home is close to Inman Park in Somerset\, NJ
+URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
+ inds-2470579
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-10987-20261108@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
+ es
+DTSTART;TZID=America/New_York:20261108T090000
+DTEND;TZID=America/New_York:20261108T150000
+LOCATION:Franklin Township\, NJ\, 08873
+DESCRIPTION:White Pine Estate Sales is teaming up with Inside Out Estate S
+ ales to present THREE DAYS OF UNUSUAL FINDS & ONE-OF-A-KIND TREASURES. Fr
+ om the home of a 45+ year collector of top quality items\, you’ll find 
+ something you love.\nGet ready for an estate sale that’s anything but o
+ rdinary! This house is filled with a mix of unusual and rare items includ
+ ing MCM\, vintage galore\, antiques\, collectibles\, electronics\, tools\
+ , clothing and so much more. From hard-to-find pieces and unexpected disc
+ overies to items you won’t see at every estate sale - make plans to vis
+ it!\nToys\, Beatles\, glass\, ephemera\, electronics\, lanterns\, books..
+ .\nAlbums\, clothing\, jeweled prism chandelier\, crates\, purses\, MCM c
+ rystal waterfall lamps\, boots\, furniture\, lamps and lighting\, origina
+ l artwork\, vintage posters\, outdoor furniture\, live plants\, vintage W
+ ashington Redskins memorabilia\, outdoor concrete decor and planters.\nSt
+ ar Wars\, bronze\, art deco spice jars\, apothecary bottles\, Folk art do
+ lls including African American and Mexican\, Loredano Rosin Murano sculpt
+ ures\, vintage signs\, linens\, Steiff bears\, Hollywood Regency vanity\,
+  MCM furniture\, Fiestaware\, holiday\, garage items including ladders\, 
+ tools\, hand trucks and more.\nSunday is bundle day!\nFor planning purpos
+ es\, this home is close to Inman Park in Somerset\, NJ
+URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
+ inds-2470579
+END:VEVENT
+END:VCALENDAR

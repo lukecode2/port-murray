@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11179-20261106@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Grandparent’s Global Treasures Antiques\, Art\, Decorator Furnis
+ hings
+DTSTART;TZID=America/New_York:20261106T110000
+DTEND;TZID=America/New_York:20261106T160000
+LOCATION:Denville\, NJ\, 07834
+DESCRIPTION:Beloved Grandparents home filled with treasures from their tra
+ vels. Lots of collections decorate the home.\nFurniture: Chenille Sofa\, 
+ Pair Iron and Glass End Tables w/ Matching Coffee Table \, Decorative Met
+ al Etagere\, French Style Armchair\, Mahogany Floor Lamp\, Lighted Three 
+ Door Display Cabinet\, Andre Originals Bamboo Kitchen Table and Chairs\, 
+ Pair of Andre Originals Chairs\, Ultrasuede Sofa and Loveseat\, Vintage M
+ arble Top Dresser and Nightstands\, French Style Armoire w/ Brass Mesh Do
+ ors\, Recliners\, Decorative Headboard\, Guest BR Sleigh Bed(King)\,Dress
+ er and Nightstands\, Andre Originals Bamboo Chair\, Sleeper Sofa\, Bamboo
+  Folding Chairs\, Parson Table \, Folding Trays\, MCM Red and White Lamin
+ ate BR Chests and Desk \, Royal Lounge Co. MCM Two Part Sofa\, White Lami
+ nate Desk\, Sideboard and Entertainment Cabinet\nArt: Marilyn Thompson Si
+ ca “ Castles in Spain” Tryptic \, R.C. Gorman “ Desert Lily” sign
+ ed A/ P\nDecorative Items: Warren Kessler Crystal Lamps\, Signed Art Glas
+ s \, Waterford Crystal\, Wedgwood\, English China\nCollectibles/ Collecti
+ ons: Perfume\, Costume Jewelry\, Art Supplies\, Books\,Dollhouse\,Games\,
+  Dolls\, Judaica\, LPs\, CDs\, DVDs\,Cameras\nClothes: Lots of Women’s 
+ Large- 3X\, Size 10 Shoes \, Ralph Lauren\, Some Men’s Large Clothes\,H
+ andbags\, Linens\, Towels\nPopcorn Machine\nLots of Electronics\, Samsung
+  TVs\nKitchen Stuff\nOutdoor Furniture\nFaux/Fake Plants
+URL:https://www.estatesales.net/NJ/Denville/07834/5143608
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11179-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Grandparent’s Global Treasures Antiques\, Art\, Decorator Furnis
+ hings
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T160000
+LOCATION:Denville\, NJ\, 07834
+DESCRIPTION:Beloved Grandparents home filled with treasures from their tra
+ vels. Lots of collections decorate the home.\nFurniture: Chenille Sofa\, 
+ Pair Iron and Glass End Tables w/ Matching Coffee Table \, Decorative Met
+ al Etagere\, French Style Armchair\, Mahogany Floor Lamp\, Lighted Three 
+ Door Display Cabinet\, Andre Originals Bamboo Kitchen Table and Chairs\, 
+ Pair of Andre Originals Chairs\, Ultrasuede Sofa and Loveseat\, Vintage M
+ arble Top Dresser and Nightstands\, French Style Armoire w/ Brass Mesh Do
+ ors\, Recliners\, Decorative Headboard\, Guest BR Sleigh Bed(King)\,Dress
+ er and Nightstands\, Andre Originals Bamboo Chair\, Sleeper Sofa\, Bamboo
+  Folding Chairs\, Parson Table \, Folding Trays\, MCM Red and White Lamin
+ ate BR Chests and Desk \, Royal Lounge Co. MCM Two Part Sofa\, White Lami
+ nate Desk\, Sideboard and Entertainment Cabinet\nArt: Marilyn Thompson Si
+ ca “ Castles in Spain” Tryptic \, R.C. Gorman “ Desert Lily” sign
+ ed A/ P\nDecorative Items: Warren Kessler Crystal Lamps\, Signed Art Glas
+ s \, Waterford Crystal\, Wedgwood\, English China\nCollectibles/ Collecti
+ ons: Perfume\, Costume Jewelry\, Art Supplies\, Books\,Dollhouse\,Games\,
+  Dolls\, Judaica\, LPs\, CDs\, DVDs\,Cameras\nClothes: Lots of Women’s 
+ Large- 3X\, Size 10 Shoes \, Ralph Lauren\, Some Men’s Large Clothes\,H
+ andbags\, Linens\, Towels\nPopcorn Machine\nLots of Electronics\, Samsung
+  TVs\nKitchen Stuff\nOutdoor Furniture\nFaux/Fake Plants
+URL:https://www.estatesales.net/NJ/Denville/07834/5143608
+END:VEVENT
+END:VCALENDAR

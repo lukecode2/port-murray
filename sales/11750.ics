@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11750-20261115@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Milford NJ Online Estate Auction
+DTSTART;TZID=America/New_York:20261115T235900
+LOCATION:Milford\, NJ\, 08848
+DESCRIPTION:READ ALL OF THIS BEFORE BIDDING !!  There is only one pickup d
+ ay for this sale.  Friday Nov.20th from 9:30am to 4:30pm.  All items will
+  need to be picked up in Milford NJ.  Pick up address will be sent out da
+ y after the Auction.  BRING packing material\, tools \, any equipment nee
+ ded and HELP TO LOAD YOUR ITEMS ! THERE WILL BE NO ONE TO HELP YOU LOAD .
+    PAYMENT IS DUE BY Nov. 18th @3pm.  All items must be paid for with a c
+ redit card thru LiveAuctioneers .  Shipping- If we ship it in house\, the
+ re is a $15 handling fee for the first lot (unless a price is stated in d
+ escription) and $5 each additional lot\, plus actual postage.  If the des
+ cription states ?No Shipping? we will not ship or transport items.  ANY I
+ TEMS NOT PICKED UP\, WILL BE CONSIDERED ABANDONED ! All items are sold as
+  is\, as pictured\, with no guarantees. If it is a lot with multiple item
+ s\, we do not visually inspect every item. If you do not pay by the pick 
+ up day\, a dispute will automatically be filed thru LiveAuctioneers. Paym
+ ents are only accepted thru LiveAuctioneers Invoice\, with one credit car
+ d.  If you have a Resale Tax Number\, fill out the correct forms with Liv
+ eAuctioneers BEFORE bidding. There will be no refunds\, once you submit p
+ ayment. Pa #AU2867
+URL:https://www.estatesales.net/NJ/Milford/08848/5145267
+END:VEVENT
+END:VCALENDAR

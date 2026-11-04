@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11546-20261106@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Hopewell Estate Sale
+DTSTART;TZID=America/New_York:20261106T090000
+DTEND;TZID=America/New_York:20261106T160000
+LOCATION:Hopewell\, NJ\, 08525
+DESCRIPTION:SPECIAL NOTE:  PLEASE BE CAREFUL WHEN DRVING THROUGH 2 SETS OF
+  GATES.  PLEASE DRIVE NO MORE THAN 10 MILES PER HOUR\nPLEASE NOTE: SALE I
+ S IN THE CARRIAGE HOUSE\nGreat Estate Sale in Hopewell\nSomething for eve
+ ryone\nSale to Include:\nFurniture\,\nAntiques\,\nArtwork\,\nDepression G
+ lassware\,\nWaterford\,\nChina\,\nAccessories\,\nHerend\,\nBoehm Birds\,\
+ nPottery\,\nFabric\,\nHoliday Items\,\nBikes\,\nTools\,\nOrvis Rods & Ree
+ ls\,\nPolywood Glider\,\nDesign Within Reach Sofa\,\nLeather Swivel Moder
+ n Chairs\,\nDrop Leaf Antique Pine Table\,\nPair of Burlwood Chests\,\nOa
+ k Bar Stools\,\nBird Houses\,\nTons of XL Mens Clothing & Womens Size Sma
+ ll\, Medium and Large Clothing\nMore Pictures will be coming\nAnd Much\, 
+ Much More\nPlease call Gary with any questions 215-962-7222.
+URL:https://www.estatesales.net/NJ/Hopewell/08525/5116869
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11546-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Hopewell Estate Sale
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T160000
+LOCATION:Hopewell\, NJ\, 08525
+DESCRIPTION:SPECIAL NOTE:  PLEASE BE CAREFUL WHEN DRVING THROUGH 2 SETS OF
+  GATES.  PLEASE DRIVE NO MORE THAN 10 MILES PER HOUR\nPLEASE NOTE: SALE I
+ S IN THE CARRIAGE HOUSE\nGreat Estate Sale in Hopewell\nSomething for eve
+ ryone\nSale to Include:\nFurniture\,\nAntiques\,\nArtwork\,\nDepression G
+ lassware\,\nWaterford\,\nChina\,\nAccessories\,\nHerend\,\nBoehm Birds\,\
+ nPottery\,\nFabric\,\nHoliday Items\,\nBikes\,\nTools\,\nOrvis Rods & Ree
+ ls\,\nPolywood Glider\,\nDesign Within Reach Sofa\,\nLeather Swivel Moder
+ n Chairs\,\nDrop Leaf Antique Pine Table\,\nPair of Burlwood Chests\,\nOa
+ k Bar Stools\,\nBird Houses\,\nTons of XL Mens Clothing & Womens Size Sma
+ ll\, Medium and Large Clothing\nMore Pictures will be coming\nAnd Much\, 
+ Much More\nPlease call Gary with any questions 215-962-7222.
+URL:https://www.estatesales.net/NJ/Hopewell/08525/5116869
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11546-20261108@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Hopewell Estate Sale
+DTSTART;TZID=America/New_York:20261108T090000
+DTEND;TZID=America/New_York:20261108T160000
+LOCATION:Hopewell\, NJ\, 08525
+DESCRIPTION:SPECIAL NOTE:  PLEASE BE CAREFUL WHEN DRVING THROUGH 2 SETS OF
+  GATES.  PLEASE DRIVE NO MORE THAN 10 MILES PER HOUR\nPLEASE NOTE: SALE I
+ S IN THE CARRIAGE HOUSE\nGreat Estate Sale in Hopewell\nSomething for eve
+ ryone\nSale to Include:\nFurniture\,\nAntiques\,\nArtwork\,\nDepression G
+ lassware\,\nWaterford\,\nChina\,\nAccessories\,\nHerend\,\nBoehm Birds\,\
+ nPottery\,\nFabric\,\nHoliday Items\,\nBikes\,\nTools\,\nOrvis Rods & Ree
+ ls\,\nPolywood Glider\,\nDesign Within Reach Sofa\,\nLeather Swivel Moder
+ n Chairs\,\nDrop Leaf Antique Pine Table\,\nPair of Burlwood Chests\,\nOa
+ k Bar Stools\,\nBird Houses\,\nTons of XL Mens Clothing & Womens Size Sma
+ ll\, Medium and Large Clothing\nMore Pictures will be coming\nAnd Much\, 
+ Much More\nPlease call Gary with any questions 215-962-7222.
+URL:https://www.estatesales.net/NJ/Hopewell/08525/5116869
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11746-20261108@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Another vP Sale!! Lake Hopatcong/Jefferson Twnshp Appt only QVC Xm
+ as 2023 Honda\, Oh my!
+DTSTART;TZID=America/New_York:20261108T081500
+DTEND;TZID=America/New_York:20261108T140000
+LOCATION:Lake Hopatcong\, NJ\, 07849
+DESCRIPTION:Estate and Family home in Jefferson Township packed with boxes
+  and boxes of treasures many unused new with tags original boxes opportun
+ ity for bulk purchases just in time for the holidays!\nMore photos going 
+ up\, just text me for info and access.\nAnd there’s a 2023 Honda EX Acc
+ ord w/ 24k miles!!\nEngine: 4-Cyl\, i-VTEC\, Turbo\, 1.5 Liter\, Transmis
+ sion: Automatic\, CVT w/Sport Mode. Ooh lah lah!!
+URL:https://www.estatesales.net/NJ/Lake-Hopatcong/07849/5142198
+END:VEVENT
+END:VCALENDAR

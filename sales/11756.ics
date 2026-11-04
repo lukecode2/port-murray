@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11756-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Phabulus in Phillipsburg!
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:802 Charles Rd\, Phillipsburg\, NJ\, 08865
+DESCRIPTION:Date and Time:\nSaturday\, November  7\, 2026\n9:00 am - 3:30 
+ pm\nAddress:\n802 Charles Rd\, Phillipsburg\, NJ 08865\nDescription:\nJoi
+ n us in Phillipsburg\, NJ for an extraordinary\, high-quality one-day est
+ ate sale!\nThis home is in phenomenal condition\, spotlessly clean\, and 
+ packed with an eclectic mix of fine antique furniture\, power tools\, woo
+ dshop machinery\, musical instruments\, fine crystal and china\, cookware
+ \, fashion accessories\, and outdoor gear.\nEverything is priced to sell 
+ fast\, and because this is a strict one-day event\, no reasonable offer w
+ ill be turned down!\nSee Full Deets & 300 pics.\nhttps://www.estatesales.
+ net/NJ/Phillipsburg/08865/5113719\nComments\nSign in\nto add a comment or
+  ask a question about this post.\nAdd Comment\nSale Photos:\n(28 photos) 
+ View photo gallery »\nSocial Share:
+URL:https://gsalr.com/phabulus-in-phillipsburg-phillipsburg-nj-38988849.ht
+ ml
+END:VEVENT
+END:VCALENDAR

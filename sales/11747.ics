@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11747-20261113@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
+DTSTART;TZID=America/New_York:20261113T093000
+DTEND;TZID=America/New_York:20261113T150000
+LOCATION:Bridgewater\, NJ\, 08807
+DESCRIPTION:Online sign up opens at 8pm on Wednesday November 11\, 2026: h
+ ttps://form.jotform.com/263055640960154\nFurniture & Home Accents\nDining
+  & Kitchen:\nGate Leg Dining Table with Captains Chairs\, China Cabinet\,
+  Kitchen Table with 4 Chairs\, Pie Safe\nLiving & Seating:\nVintage Coast
+ al Rattan Sofa & Chair\, Upholstered Furniture\, Directors Chairs\, Room 
+ Divider\nBedroom:\nBedroom Suite\, Beds\, Blanket Chest\nOffice Furniture
+ :\nOffice Chair\nCrafting\, Sewing & Hobbies\nCrafting Room Equipment:\nL
+ arge Cutting Table\nSupplies:\nFabric\, Yarn\, Thread\, Fasteners\, Sewin
+ g Supplies & Notions\nMedia & Games:\nBooks\, Cookbooks\, Puzzles\nKitche
+ nware\, Dinnerware & Glassware\nFine Dinnerware & Collectibles:\nTheodore
+  Haviland New York\nApple Blossom\nChina Set\, Additional China Set\,Leno
+ x\, Corelle\nGlassware & Serveware:\nCut Glass & Crystal\, Silver-Plated 
+ Serving & Decor Items\, Steins\, Flatware\, Vases\nSmall Appliances & Ute
+ nsils:\nKeurig Coffee Maker\, Mixmaster\, Pots & Pans\, Kitchen Items & U
+ tensils\nHome Decor\, Collectibles & Antiques\nVintage & Antiques:\nHowdy
+  Doody Marionette Doll\, Primitive Woodworking Tools\, Copper & Brass Min
+ iatures\nCollectibles & Pottery:\nAsian Blue & White Pottery / Tea Set\, 
+ Hummel Figurines\, Brass Umbrella Holder with Windmill Motif\nLighting & 
+ Wall Decor:\nLamps\, Brass Candlestick Wall Sconces\, Wall Art\, Picture 
+ Frames\nSeasonal & Textiles:\nChristmas Ornaments\, Linens\, Decorative B
+ askets\nElectronics\, Instruments & Office\nMusical Instruments:\nWurlitz
+ er Upright Organ Piano\nElectronics:\nTelevisions\, Stereo Equipment\nOff
+ ice:\nOffice Supplies & Electronics\nClothing & Accessories\nHandbags\nAs
+ sorted Clothing\nGarage\, Attic & Tools\nGarage:\nMiscellaneous Tools & G
+ arage Items\nAttic:\nAttic Contents – Partial Digger\n(Mask & Gloves Re
+ commended)\nView All Photos - Not everything is listed
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11747-20261114@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
+DTSTART;TZID=America/New_York:20261114T090000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Bridgewater\, NJ\, 08807
+DESCRIPTION:Online sign up opens at 8pm on Wednesday November 11\, 2026: h
+ ttps://form.jotform.com/263055640960154\nFurniture & Home Accents\nDining
+  & Kitchen:\nGate Leg Dining Table with Captains Chairs\, China Cabinet\,
+  Kitchen Table with 4 Chairs\, Pie Safe\nLiving & Seating:\nVintage Coast
+ al Rattan Sofa & Chair\, Upholstered Furniture\, Directors Chairs\, Room 
+ Divider\nBedroom:\nBedroom Suite\, Beds\, Blanket Chest\nOffice Furniture
+ :\nOffice Chair\nCrafting\, Sewing & Hobbies\nCrafting Room Equipment:\nL
+ arge Cutting Table\nSupplies:\nFabric\, Yarn\, Thread\, Fasteners\, Sewin
+ g Supplies & Notions\nMedia & Games:\nBooks\, Cookbooks\, Puzzles\nKitche
+ nware\, Dinnerware & Glassware\nFine Dinnerware & Collectibles:\nTheodore
+  Haviland New York\nApple Blossom\nChina Set\, Additional China Set\,Leno
+ x\, Corelle\nGlassware & Serveware:\nCut Glass & Crystal\, Silver-Plated 
+ Serving & Decor Items\, Steins\, Flatware\, Vases\nSmall Appliances & Ute
+ nsils:\nKeurig Coffee Maker\, Mixmaster\, Pots & Pans\, Kitchen Items & U
+ tensils\nHome Decor\, Collectibles & Antiques\nVintage & Antiques:\nHowdy
+  Doody Marionette Doll\, Primitive Woodworking Tools\, Copper & Brass Min
+ iatures\nCollectibles & Pottery:\nAsian Blue & White Pottery / Tea Set\, 
+ Hummel Figurines\, Brass Umbrella Holder with Windmill Motif\nLighting & 
+ Wall Decor:\nLamps\, Brass Candlestick Wall Sconces\, Wall Art\, Picture 
+ Frames\nSeasonal & Textiles:\nChristmas Ornaments\, Linens\, Decorative B
+ askets\nElectronics\, Instruments & Office\nMusical Instruments:\nWurlitz
+ er Upright Organ Piano\nElectronics:\nTelevisions\, Stereo Equipment\nOff
+ ice:\nOffice Supplies & Electronics\nClothing & Accessories\nHandbags\nAs
+ sorted Clothing\nGarage\, Attic & Tools\nGarage:\nMiscellaneous Tools & G
+ arage Items\nAttic:\nAttic Contents – Partial Digger\n(Mask & Gloves Re
+ commended)\nView All Photos - Not everything is listed
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
+END:VEVENT
+END:VCALENDAR

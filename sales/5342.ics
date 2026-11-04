@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-5342-20261115@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Mark This DATE: November 15th James Koch Estate
+DTSTART;TZID=America/New_York:20261115T180000
+LOCATION:7665 Pohopoco DR\, Kunkletown\, PA
+DESCRIPTION:Catalog – Bid Now !!\nPublic Auction\nEstate of James Koch\n
+ ON-Line ONLY on Sunday\, November 15\nth\n@ 6pm\n7665 Pohopoco DR\, Kunkl
+ etown\, PA\nThis sale has 2 locations for pick up.  200 to 215 will be a
+ t another location.  Please read terms and conditions.\nPREVIEW:  SATUR
+ DAY\, NOVEMBER 7\nTH\nFROM 8 AM TO NOON\n2015 John Deere 60G w/661 hrs\; 
+  2007 John Deere 50D w/12\,704 hrs\; Cat D3B Dozer\, John Deere 310D 4×
+ 4 Backhoe\;  2007 & 2004 Ford F-550 TURBO DIESEL\, V8 Dump Trucks\;  FO
+ RD 350 TURBO DIESEL\, V8 PICK UP\; Trailers: EAGER BEAVER LANDSCAPE\, BRI
+ MAR DUMP TRAILER AND OTHERS\;  1991 & ’86 Corvettes\, 2005 Wood Mizer\
+ ;  2001 F 750 Bucket Truck\; HONDA MOTOCYCLES\, 2024 TOPCAR STUMP SHEAR 
+ WITH GRAPPLE\; EXCAVATOR ROATING GRAPPLE\; VINTAGE ALLIS CHALMERS TRACTOR
+ S\; MULTITEK WOOD PROCESSOR\; TOPSOIL SCREENER LINDIG\; JOHN DEERE 1240 P
+ LANTER\; JOHN DEERE 336 BALER\;  and a lot more not listed.\nAuctioneer:
+ \nHartzell’s Auction Gallery Inc.\n521 Richmond Road\, Bangor\, PA  18
+ 013\nPhone:\n610.588.5831\nToll Free:\n1.800.724.6808\nFax:\n610.588.6206
+ \nPA # AU – 000395-L  |  AH – 1919  |  EST. 1943\n[caldera_form i
+ d="CF5c7434bbb1a01"]
+URL:https://www.hartzellsauction.com/event/mark-this-date-november-15th-ja
+ mes-koch-estate/
+END:VEVENT
+END:VCALENDAR

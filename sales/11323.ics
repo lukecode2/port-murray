@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11323-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Belle Mead Historical Americana & Militaria\, Fine Glass\, Timepie
+ ces & Edged Collectibles by Caring Transitions - Ends 11/7!
+DTSTART;TZID=America/New_York:20261107T180000
+LOCATION:Montgomery\, NJ\, 08502
+DESCRIPTION:Caring Transitions of Somerset County is proud to present this
+  exceptional online auction\nfeaturing a remarkable collection of\nhistor
+ ical Americana\, militaria\, antique glass\, collectible watches\, premiu
+ m pocket knives\, antique porcelain\, fine art\, sports memorabilia\, and
+  decorative arts\n. Curated over many years\, this collection reflects a 
+ passion for craftsmanship\, history\, and collecting\, offering something
+  for seasoned collectors\, dealers\, decorators\, and treasure hunters al
+ ike.\nFeatured Highlights\n🔹 Extensive collection of collectible and t
+ actical knives from renowned makers including\nMicrotech\, Al Mar\, Mcust
+ a\, Kershaw\, AKC Italy\, Gerber\, KA-BAR\, Marbles\, and L.L. Bean\n.\n
+ 🔹 Quality men's watch collections featuring\nCitizen Eco-Drive\, Torgo
+ en\, GV2 by Gevril\, Victorinox\, Invicta\, Oceanaut\n\, and other respec
+ ted brands.\n🔹 Historical Americana and military collectibles\, includ
+ ing\nCivil War relics\, excavated projectiles\, military powder flasks\, 
+ colonial currency\, patriotic memorabilia\, and a rare 1776 New Jersey On
+ e Shilling Bank Note\n.\n🔹 Antique\nBoston & Sandwich glass\, Vaseline
+  glass\, Early American Pattern Glass (EAPG)\, pressed flint glass candle
+ sticks\, whale oil lamps\, and antique lighting\n.\n🔹 Fine English and
+  European porcelain from makers including\nWedgwood\, Copeland Spode\, Co
+ alport\, Nippon\, Haviland Limoges\, Staffordshire\, and Imari porcelain\
+ n.\n🔹 Original artwork\, signed lithographs\, etchings\, watercolors\,
+  framed prints\, historical artwork\, and limited-edition bronzes.\n🔹 
+ Decorative arts featuring\nart glass\, studio pottery\, hand-painted porc
+ elain\, vintage table lamps\, sculptures\, and antique home décor\n.\n
+ 🔹 Sports memorabilia\, historical documents\, railroad collectibles\, 
+ sterling silver\, fine jewelry\, and specialty antiques.\nCategories Incl
+ ude\n✅ Antique Knives & Edged Weapons\n✅ Luxury & Collectible Watches
+ \n✅ Militaria & Civil War Collectibles\n✅ Historical Americana\n✅ C
+ olonial Currency & Historical Documents\n✅ Antique Glass & Early Lighti
+ ng\n✅ Whale Oil Lamps & EAPG Glass\n✅ Fine China & Antique Porcelain\
+ n✅ Coins\, Currency & Stamps\n✅ Sports Memorabilia\n✅ Fine Art\, Li
+ thographs & Prints\n✅ Decorative Arts & Sculptures\n✅ Art Glass & Stu
+ dio Pottery\n✅ Jewelry\, Silver & Accessories\n✅ Railroad & Transport
+ ation Memorabilia\n✅ Vintage & Antique Home Décor\nFrom\nrare colonial
+ -era collectibles and Civil War artifacts\nto\nMicrotech knives\, antique
+  glass\, collectible watches\, porcelain\, sports memorabilia\, and fine 
+ decorative arts\n\, this auction offers an outstanding opportunity to acq
+ uire unique and hard-to-find pieces from a thoughtfully assembled private
+  collection.\nCTBids is more than an auction platform. It's a community w
+ here meaningful belongings find new homes\, treasured collections continu
+ e their stories\, and every purchase helps families navigate life's trans
+ itions. When you bid with CTBids\, you're preserving history\, celebratin
+ g craftsmanship\, and becoming part of the next chapter for these remarka
+ ble pieces.\n⭐\nAll bids start at just $1.00 - and everything must go.\
+ n⭐\nAll items are available for nationwide shipping\, making this an id
+ eal opportunity for collectors across the country.\n⭐\nNew bidders are 
+ always welcome. Registration is quick\, easy\, and free.\nBrowse the cata
+ log\, mark your favorites\, and place your bids early. Competition is exp
+ ected on many highly sought-after lots\, including\nantique knives\, mili
+ taria\, Civil War relics\, antique glass\, collectible watches\, porcelai
+ n\, colonial currency\, and historical Americana.\nHappy Bidding!\n🎉
+URL:https://estatesales.org/estate-sales/nj/montgomery/08502/belle-mead-hi
+ storical-americana-militaria-2471715
+END:VEVENT
+END:VCALENDAR

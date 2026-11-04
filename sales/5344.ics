@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-5344-20261120@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Two-Day Quality Antiques and Holiday Auction (Day #2)
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T140000
+LOCATION:521 Richmond Road\, Bangor\, PA
+DESCRIPTION:Catalog – Bid Now !!\nFestive Finds:  Two-Day Quality Antiq
+ ues and Holiday Auction\nat Hartzell’s Auction Gallery\, Inc.\, Bangor\
+ , PA\nNovember 19\nth\n& 20\nth\n@ 10M\nIn-Person & Live Auctioneers\nDay
+  Two Includes:  Art Glass and Art Pottery (Fulper / Weller)\, Tiffany & 
+ Co. “San Lorenzo” Sterling Silver Flatware Set (201-Pieces\, Service 
+ for 12)\, Victorian Lamps and Kerosene Lights\, Bride’s Baskets and Epe
+ rgnes\, Paintings and Rugs\, Tiffany & Co. Sterling Silver Flatware Set\,
+  Blown Glass Rolling Pins and Darners\,  Bronzes and Daguerreotypes\, Or
+ ientalia and Cloisonne\, Canes and Walking Sticks\, Music Boxes and Victo
+ rian Furniture\, Blue Decorated Stoneware and Spongeware\, Advertising an
+ d Woodenware\,  Stereoviewers and Magic Lanterns\, Doorstops and Banks\,
+  and MORE.\nAuctioneer:\nHartzell’s Auction Gallery Inc.\n521 Richmond 
+ Road\, Bangor\, PA  18013\nPhone:\n610.588.5831\nToll Free:\n1.800.724.6
+ 808\nFax:\n610.588.6206\nPA # AU – 000395-L  |  AH – 1919  |  EST
+ . 1943\n[caldera_form id="CF5c7434bbb1a01"]
+URL:https://www.hartzellsauction.com/event/two-day-quality-antiques-and-ho
+ liday-auction-day-2/
+END:VEVENT
+END:VCALENDAR

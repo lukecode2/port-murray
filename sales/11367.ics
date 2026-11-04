@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11367-20261106@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Lucky Day Country Farmhouse\,Meets Mid-century Meets Tool Barn
+DTSTART;TZID=America/New_York:20261106T090000
+DTEND;TZID=America/New_York:20261106T150000
+LOCATION:Flemington\, NJ\, 08822
+DESCRIPTION:Very cool sale across the street from a civil war cemetery dat
+ ing back to 1799.The house and barn are packed with a great variety of it
+ ems.lots of hunting trophies including a Antelope and a really nice deer 
+ head\,hand carved duck decoys geese decoys and soo much more.Antique Coun
+ try throughout the house\,crocks\,bottles\,butter churns\, Antique tools 
+ etc.Then we some great mid-century items \,pyrex\,fire king \,some beauti
+ ful depression glass\,costume jewelry\, ceramic mushroom 🍄\, vintage g
+ lass and wall art.The barn is packed with very cool finds \,petal cars\,t
+ ools galore \,cool car hubcaps\,beer trays\,signs \,gravely \,craftsman \
+ ,a Wilton bullet vise and more. Dont forget all the vintage toys\,Buddy L
+ \,Tonka\,First Hess truck\,Matchbox cars (lots of them)\,Christmas from t
+ he 60s and 70s Easter\,and Thanksgiving too.So much to this house its wor
+ th the ride.
+URL:https://www.estatesales.net/NJ/Flemington/08822/5144811
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11367-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Lucky Day Country Farmhouse\,Meets Mid-century Meets Tool Barn
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T150000
+LOCATION:Flemington\, NJ\, 08822
+DESCRIPTION:Very cool sale across the street from a civil war cemetery dat
+ ing back to 1799.The house and barn are packed with a great variety of it
+ ems.lots of hunting trophies including a Antelope and a really nice deer 
+ head\,hand carved duck decoys geese decoys and soo much more.Antique Coun
+ try throughout the house\,crocks\,bottles\,butter churns\, Antique tools 
+ etc.Then we some great mid-century items \,pyrex\,fire king \,some beauti
+ ful depression glass\,costume jewelry\, ceramic mushroom 🍄\, vintage g
+ lass and wall art.The barn is packed with very cool finds \,petal cars\,t
+ ools galore \,cool car hubcaps\,beer trays\,signs \,gravely \,craftsman \
+ ,a Wilton bullet vise and more. Dont forget all the vintage toys\,Buddy L
+ \,Tonka\,First Hess truck\,Matchbox cars (lots of them)\,Christmas from t
+ he 60s and 70s Easter\,and Thanksgiving too.So much to this house its wor
+ th the ride.
+URL:https://www.estatesales.net/NJ/Flemington/08822/5144811
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11748-20261112@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
+  11/12-11/14
+DTSTART;TZID=America/New_York:20261112T093000
+DTEND;TZID=America/New_York:20261112T140000
+LOCATION:Bridgewater\, NJ\, 08807
+DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
+ pm: https://form.jotform.com/262996317924168\nWe are excited to invite yo
+ u to our upcoming sale in Bridgewater! We have an incredible selection of
+  fine art\, high-end lighting\, quality furniture\, collectibles\, and ho
+ usehold items.\nHere is a preview of what you'll find:\nFeatured Lighting
+  & Sculptures:\nFlush Mount Murano Chandelier (Sputnik Lily)\, "Sea Whisp
+ ers" Sculpture by Alice Heath (Austin Productions)\, large cast brass hor
+ se with plinth base (~5')\, large Jade galloping horses (21" H)\, "Reward
+  of the Hunt" bronze sculpture by Jensen (25" H)\, and Pierre Roche "Dian
+ e" bronze sculpture.\nFeatured Fine Art:\nBill Mack pieces ("Charisma Stu
+ dy" lithograph 3/150\, "Mystery" in bonded sand\, "Fantasy" in bonded san
+ d)\, Ermes Ottaviani Silver & 24K Gold plaque artwork\, Post Modern 3D pa
+ per sculpture in a clear acrylic shadow box\, and African batik textile a
+ rt.\nJewelry\, Watches & Perfumes:\nTiffany & Co.\, George men's watches\
+ , plus classic fragrances including Shalimar\,Chantilly\, and Elizabeth T
+ aylor (Black Pearls\, White Diamonds\, Passion).\nFine Furniture & Home D
+ ecor:\nBernhardt dining room suite\, Henredon upholstered sofa\, full bed
+ room suites\,counter stools\, bookshelves\, desks\, filing cabinets\, and
+  office chairs.\nMusical Instruments:\nOttm Altenburg Baby Grand Piano (S
+ erial No. 868216) and a WM Knabe Upright Piano.\nKitchenware & Entertaini
+ ng:\nFine china\, porcelain\, and crystal (Mikasa "Cambridge"\, Waterford
+ \, Lenox\, Lefton\,Oleg Cassini\, Grainware)\, International Silver Compa
+ ny flatware\, Thomson Pottery\, Mikasa stoneware\, Pfaltzgraff\,T-Fal pot
+ s & pans\, roasting pans\, juice press\, Black & Decker toaster oven\, pu
+ nch bowls\, carafes\, and general barware.\nElectronics\, Office & Genera
+ l Household:\nHP printers\, computer monitors\, office supplies\, books\,
+  Cabbage Patch dolls\, bicycles\, ladders\, lawn equipment\, and large-si
+ ze men's & ladies' clothing\, shoes\, and handbags.\nPlease view all phot
+ os as there are far too many items to list!\nWe look forward to seeing yo
+ u there!
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11748-20261113@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
+  11/12-11/14
+DTSTART;TZID=America/New_York:20261113T090000
+DTEND;TZID=America/New_York:20261113T150000
+LOCATION:Bridgewater\, NJ\, 08807
+DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
+ pm: https://form.jotform.com/262996317924168\nWe are excited to invite yo
+ u to our upcoming sale in Bridgewater! We have an incredible selection of
+  fine art\, high-end lighting\, quality furniture\, collectibles\, and ho
+ usehold items.\nHere is a preview of what you'll find:\nFeatured Lighting
+  & Sculptures:\nFlush Mount Murano Chandelier (Sputnik Lily)\, "Sea Whisp
+ ers" Sculpture by Alice Heath (Austin Productions)\, large cast brass hor
+ se with plinth base (~5')\, large Jade galloping horses (21" H)\, "Reward
+  of the Hunt" bronze sculpture by Jensen (25" H)\, and Pierre Roche "Dian
+ e" bronze sculpture.\nFeatured Fine Art:\nBill Mack pieces ("Charisma Stu
+ dy" lithograph 3/150\, "Mystery" in bonded sand\, "Fantasy" in bonded san
+ d)\, Ermes Ottaviani Silver & 24K Gold plaque artwork\, Post Modern 3D pa
+ per sculpture in a clear acrylic shadow box\, and African batik textile a
+ rt.\nJewelry\, Watches & Perfumes:\nTiffany & Co.\, George men's watches\
+ , plus classic fragrances including Shalimar\,Chantilly\, and Elizabeth T
+ aylor (Black Pearls\, White Diamonds\, Passion).\nFine Furniture & Home D
+ ecor:\nBernhardt dining room suite\, Henredon upholstered sofa\, full bed
+ room suites\,counter stools\, bookshelves\, desks\, filing cabinets\, and
+  office chairs.\nMusical Instruments:\nOttm Altenburg Baby Grand Piano (S
+ erial No. 868216) and a WM Knabe Upright Piano.\nKitchenware & Entertaini
+ ng:\nFine china\, porcelain\, and crystal (Mikasa "Cambridge"\, Waterford
+ \, Lenox\, Lefton\,Oleg Cassini\, Grainware)\, International Silver Compa
+ ny flatware\, Thomson Pottery\, Mikasa stoneware\, Pfaltzgraff\,T-Fal pot
+ s & pans\, roasting pans\, juice press\, Black & Decker toaster oven\, pu
+ nch bowls\, carafes\, and general barware.\nElectronics\, Office & Genera
+ l Household:\nHP printers\, computer monitors\, office supplies\, books\,
+  Cabbage Patch dolls\, bicycles\, ladders\, lawn equipment\, and large-si
+ ze men's & ladies' clothing\, shoes\, and handbags.\nPlease view all phot
+ os as there are far too many items to list!\nWe look forward to seeing yo
+ u there!
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11748-20261114@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
+  11/12-11/14
+DTSTART;TZID=America/New_York:20261114T090000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Bridgewater\, NJ\, 08807
+DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
+ pm: https://form.jotform.com/262996317924168\nWe are excited to invite yo
+ u to our upcoming sale in Bridgewater! We have an incredible selection of
+  fine art\, high-end lighting\, quality furniture\, collectibles\, and ho
+ usehold items.\nHere is a preview of what you'll find:\nFeatured Lighting
+  & Sculptures:\nFlush Mount Murano Chandelier (Sputnik Lily)\, "Sea Whisp
+ ers" Sculpture by Alice Heath (Austin Productions)\, large cast brass hor
+ se with plinth base (~5')\, large Jade galloping horses (21" H)\, "Reward
+  of the Hunt" bronze sculpture by Jensen (25" H)\, and Pierre Roche "Dian
+ e" bronze sculpture.\nFeatured Fine Art:\nBill Mack pieces ("Charisma Stu
+ dy" lithograph 3/150\, "Mystery" in bonded sand\, "Fantasy" in bonded san
+ d)\, Ermes Ottaviani Silver & 24K Gold plaque artwork\, Post Modern 3D pa
+ per sculpture in a clear acrylic shadow box\, and African batik textile a
+ rt.\nJewelry\, Watches & Perfumes:\nTiffany & Co.\, George men's watches\
+ , plus classic fragrances including Shalimar\,Chantilly\, and Elizabeth T
+ aylor (Black Pearls\, White Diamonds\, Passion).\nFine Furniture & Home D
+ ecor:\nBernhardt dining room suite\, Henredon upholstered sofa\, full bed
+ room suites\,counter stools\, bookshelves\, desks\, filing cabinets\, and
+  office chairs.\nMusical Instruments:\nOttm Altenburg Baby Grand Piano (S
+ erial No. 868216) and a WM Knabe Upright Piano.\nKitchenware & Entertaini
+ ng:\nFine china\, porcelain\, and crystal (Mikasa "Cambridge"\, Waterford
+ \, Lenox\, Lefton\,Oleg Cassini\, Grainware)\, International Silver Compa
+ ny flatware\, Thomson Pottery\, Mikasa stoneware\, Pfaltzgraff\,T-Fal pot
+ s & pans\, roasting pans\, juice press\, Black & Decker toaster oven\, pu
+ nch bowls\, carafes\, and general barware.\nElectronics\, Office & Genera
+ l Household:\nHP printers\, computer monitors\, office supplies\, books\,
+  Cabbage Patch dolls\, bicycles\, ladders\, lawn equipment\, and large-si
+ ze men's & ladies' clothing\, shoes\, and handbags.\nPlease view all phot
+ os as there are far too many items to list!\nWe look forward to seeing yo
+ u there!
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11321-20261104@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Before and AFTER estate sale furniture household more
+DTSTART;TZID=America/New_York:20261104T100000
+DTEND;TZID=America/New_York:20261104T160000
+LOCATION:30 Oak Ln\, Mountain Lakes\, NJ\, 07046
+DESCRIPTION:Before & AFTER\noutside sale | 4 day sale | 2 days away\nAddre
+ ss\nThe address for this sale is 30 Oak Lane Mountain Lakes\, NJ 07046\nD
+ ates\nWed\nNov 4\n10am to 4pm\nThu\nNov 5\n10am to 4pm\nFri\nNov 6\n10am 
+ to 4pm\nSat\nNov 7\n10am to 3pm\nPLEASE PARK IN THE SIDE STREETS!\nBEAUTI
+ FUL HOME!\nHIGH END ITEMS!!!\n•SEVERAL AREA RUGS ALL SIZES\n•LAMPS\n
+ •MIRRORS\n•SIDE TABLES\n•COFFEE TABLE\n•ARMOIRE\n•DESK\n•ROUN
+ D ACCENT TABLE\n•ACCENT CHAIR\n•LOTS OF KIDS CLOTHES\n•ELECTRIC BIK
+ ES\n•BIKES\n•TOYS\n•COUCHONS\n•CURTAINS\n•HARD COVER BOOKS\n•
+ HOUSEHOLD\n•DECORATIVE ITEMS\nAND MUCH MORE
+URL:https://estatesales.org/estate-sales/nj/mountain-lakes/07046/before-an
+ d-after-estate-sale-2471611
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11321-20261105@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Before and AFTER estate sale furniture household more
+DTSTART;TZID=America/New_York:20261105T100000
+DTEND;TZID=America/New_York:20261105T160000
+LOCATION:30 Oak Ln\, Mountain Lakes\, NJ\, 07046
+DESCRIPTION:Before & AFTER\noutside sale | 4 day sale | 2 days away\nAddre
+ ss\nThe address for this sale is 30 Oak Lane Mountain Lakes\, NJ 07046\nD
+ ates\nWed\nNov 4\n10am to 4pm\nThu\nNov 5\n10am to 4pm\nFri\nNov 6\n10am 
+ to 4pm\nSat\nNov 7\n10am to 3pm\nPLEASE PARK IN THE SIDE STREETS!\nBEAUTI
+ FUL HOME!\nHIGH END ITEMS!!!\n•SEVERAL AREA RUGS ALL SIZES\n•LAMPS\n
+ •MIRRORS\n•SIDE TABLES\n•COFFEE TABLE\n•ARMOIRE\n•DESK\n•ROUN
+ D ACCENT TABLE\n•ACCENT CHAIR\n•LOTS OF KIDS CLOTHES\n•ELECTRIC BIK
+ ES\n•BIKES\n•TOYS\n•COUCHONS\n•CURTAINS\n•HARD COVER BOOKS\n•
+ HOUSEHOLD\n•DECORATIVE ITEMS\nAND MUCH MORE
+URL:https://estatesales.org/estate-sales/nj/mountain-lakes/07046/before-an
+ d-after-estate-sale-2471611
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11321-20261106@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Before and AFTER estate sale furniture household more
+DTSTART;TZID=America/New_York:20261106T100000
+DTEND;TZID=America/New_York:20261106T160000
+LOCATION:30 Oak Ln\, Mountain Lakes\, NJ\, 07046
+DESCRIPTION:Before & AFTER\noutside sale | 4 day sale | 2 days away\nAddre
+ ss\nThe address for this sale is 30 Oak Lane Mountain Lakes\, NJ 07046\nD
+ ates\nWed\nNov 4\n10am to 4pm\nThu\nNov 5\n10am to 4pm\nFri\nNov 6\n10am 
+ to 4pm\nSat\nNov 7\n10am to 3pm\nPLEASE PARK IN THE SIDE STREETS!\nBEAUTI
+ FUL HOME!\nHIGH END ITEMS!!!\n•SEVERAL AREA RUGS ALL SIZES\n•LAMPS\n
+ •MIRRORS\n•SIDE TABLES\n•COFFEE TABLE\n•ARMOIRE\n•DESK\n•ROUN
+ D ACCENT TABLE\n•ACCENT CHAIR\n•LOTS OF KIDS CLOTHES\n•ELECTRIC BIK
+ ES\n•BIKES\n•TOYS\n•COUCHONS\n•CURTAINS\n•HARD COVER BOOKS\n•
+ HOUSEHOLD\n•DECORATIVE ITEMS\nAND MUCH MORE
+URL:https://estatesales.org/estate-sales/nj/mountain-lakes/07046/before-an
+ d-after-estate-sale-2471611
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11321-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Before and AFTER estate sale furniture household more
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T150000
+LOCATION:30 Oak Ln\, Mountain Lakes\, NJ\, 07046
+DESCRIPTION:Before & AFTER\noutside sale | 4 day sale | 2 days away\nAddre
+ ss\nThe address for this sale is 30 Oak Lane Mountain Lakes\, NJ 07046\nD
+ ates\nWed\nNov 4\n10am to 4pm\nThu\nNov 5\n10am to 4pm\nFri\nNov 6\n10am 
+ to 4pm\nSat\nNov 7\n10am to 3pm\nPLEASE PARK IN THE SIDE STREETS!\nBEAUTI
+ FUL HOME!\nHIGH END ITEMS!!!\n•SEVERAL AREA RUGS ALL SIZES\n•LAMPS\n
+ •MIRRORS\n•SIDE TABLES\n•COFFEE TABLE\n•ARMOIRE\n•DESK\n•ROUN
+ D ACCENT TABLE\n•ACCENT CHAIR\n•LOTS OF KIDS CLOTHES\n•ELECTRIC BIK
+ ES\n•BIKES\n•TOYS\n•COUCHONS\n•CURTAINS\n•HARD COVER BOOKS\n•
+ HOUSEHOLD\n•DECORATIVE ITEMS\nAND MUCH MORE
+URL:https://estatesales.org/estate-sales/nj/mountain-lakes/07046/before-an
+ d-after-estate-sale-2471611
+END:VEVENT
+END:VCALENDAR

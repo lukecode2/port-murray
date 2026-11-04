@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11373-20261106@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:ESTATE SALE - Pittstown -
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+LOCATION:Pittstown\, NJ
+DESCRIPTION:We are moving so we're selling the things that don’t fit in 
+ our luggage.. Come through this Friday & Saturday (11/06 & 11/07) 10am-3p
+ m (please don’t come early to get any worms) 79 Perryville Rd\, Pittsto
+ wn *I will try to add more photos but listen\, theres a bunch of stuff in
+  the garage and barn that you might want to take a look at (chainsaw (sti
+ hl - obviously)\, whipper-snipper\, tools\, work benches\, screws\, etc.)
+ . In the house\, there is all the kitchen stuff (Kitchen Aid mixer\, rice
+  cooker\, air fryer\, plates\, blah blah blah)\; other house stuff like\,
+  tables\, chairs\, beds\, sofas\, pool table etc. Lamps\, artwork\, sleep
+ ing bags. I mean\, there is sports gear\, a trampoline (its a legit one)\
+ , vacuum cleaner\, etc. etc. etc. Come through and check it out... More i
+ n-depth descriptions for some pieces below: Salvage Wood Dresser x 2 - $3
+ 00 each + West Elm dressers. Originally purchased from John Rogan (Joes l
+ ittle brother) when his investment in Blockbuster came to naught in Septe
+ mber of 2010. I was able to acquire the matching set by trading some magi
+ c beans that I had won from an interesting lady at an underground Uno mat
+ ch. Black/Silver Dresser - $250 + This piece has safely stored our famili
+ es most precious items over a number of years. Including make-up\, hair a
+ ccessories\, and an innumerable amount of Homegoods receipts. While not m
+ ade of bamboo\, it looks like it a little bit. Each drawer is able to be 
+ opened. Wooden Dresser (tall) - $50 + A beautifully made chest of drawers
+  that has been lovingly used by my great aunt Pete (her parents didnt rea
+ lly like her\, hence her name. Needless to say\, she had a difficult time
+  during school and made the decision to leave before she graduated ______
+ ____________________________ Two white beds - $250 each (both $400) + We 
+ got these beds a few years ago for our daughters and they have slept thro
+ ugh the night since then.! Not a single nightmare AND they stopped arguin
+ g with each other.! I have the "feet" - removed them to stop trash accumu
+ lation and monster living Raymour & Flanigan. Two Brown Beds - $250 each 
+ (both $400) + Once our daughters had new beds we figured the boys should 
+ as well. These beds come with a bed-making guarantee.* After school activ
+ ities became a challenge with these beds because all they wanted to do wa
+ s have a good night sleep and for some reason they would brush their teet
+ h TWICE every night before bed. Raymour & Flanigan White Day Bed - $200 +
+  Perfect for sleeping during the day when you want to pretend that you ar
+ ent. Designed by the late great magician\, Mr. Houdini\, this piece magic
+ ally converts from a sofa to a bed (and back again). I will throw in the 
+ three drawers for free. King Bed - $300 + This king size work bench has s
+ erved its purpose well. Since sleeping in this bed\, I have never woken u
+ p tired. My wife now complains that I am TOO respectful and is often frus
+ trated by how much I want to listen to her thoughts as she processes her 
+ day as we drift off to sleep together. Raymour & Flanigan *offer closes 1
+ 0/25/2026 __________________________________ If you like sitting\, this i
+ s the listing for you..!!! Horse and Buggy seat - $250 + Made with love a
+ nd affection by an Amish gentleman. I know that you want this\, you know 
+ that I know you want this. Be true to your inner self and own this functi
+ onal piece of art. Front Porch Set - $500 + Be advised this set can not\,
+  under any circumstances be on a "back porch" or a "verandah" so if you d
+ o not have a front porch\, please don’t even make an offer. They are lo
+ w\, comfy\, and are perfect for having a glass of wine and serious conver
+ sations with your spouse as you yell* at your kids to "do anything\, anyw
+ here other than right here" Pew (or "bench" for the heathens) - $50 + Thi
+ s Pew/Bench does it all. Do you want to sit down to put shoes on? Do you 
+ prefer to stand on one leg while you rest your foot higher as you tie you
+  laces.? Do you want your children to throw their schoolbags somewhere th
+ at is not the floor but still in the way.
+URL:https://www.facebook.com/marketplace/item/1627893185730737/
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11373-20261107@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:ESTATE SALE - Pittstown -
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:Pittstown\, NJ
+DESCRIPTION:We are moving so we're selling the things that don’t fit in 
+ our luggage.. Come through this Friday & Saturday (11/06 & 11/07) 10am-3p
+ m (please don’t come early to get any worms) 79 Perryville Rd\, Pittsto
+ wn *I will try to add more photos but listen\, theres a bunch of stuff in
+  the garage and barn that you might want to take a look at (chainsaw (sti
+ hl - obviously)\, whipper-snipper\, tools\, work benches\, screws\, etc.)
+ . In the house\, there is all the kitchen stuff (Kitchen Aid mixer\, rice
+  cooker\, air fryer\, plates\, blah blah blah)\; other house stuff like\,
+  tables\, chairs\, beds\, sofas\, pool table etc. Lamps\, artwork\, sleep
+ ing bags. I mean\, there is sports gear\, a trampoline (its a legit one)\
+ , vacuum cleaner\, etc. etc. etc. Come through and check it out... More i
+ n-depth descriptions for some pieces below: Salvage Wood Dresser x 2 - $3
+ 00 each + West Elm dressers. Originally purchased from John Rogan (Joes l
+ ittle brother) when his investment in Blockbuster came to naught in Septe
+ mber of 2010. I was able to acquire the matching set by trading some magi
+ c beans that I had won from an interesting lady at an underground Uno mat
+ ch. Black/Silver Dresser - $250 + This piece has safely stored our famili
+ es most precious items over a number of years. Including make-up\, hair a
+ ccessories\, and an innumerable amount of Homegoods receipts. While not m
+ ade of bamboo\, it looks like it a little bit. Each drawer is able to be 
+ opened. Wooden Dresser (tall) - $50 + A beautifully made chest of drawers
+  that has been lovingly used by my great aunt Pete (her parents didnt rea
+ lly like her\, hence her name. Needless to say\, she had a difficult time
+  during school and made the decision to leave before she graduated ______
+ ____________________________ Two white beds - $250 each (both $400) + We 
+ got these beds a few years ago for our daughters and they have slept thro
+ ugh the night since then.! Not a single nightmare AND they stopped arguin
+ g with each other.! I have the "feet" - removed them to stop trash accumu
+ lation and monster living Raymour & Flanigan. Two Brown Beds - $250 each 
+ (both $400) + Once our daughters had new beds we figured the boys should 
+ as well. These beds come with a bed-making guarantee.* After school activ
+ ities became a challenge with these beds because all they wanted to do wa
+ s have a good night sleep and for some reason they would brush their teet
+ h TWICE every night before bed. Raymour & Flanigan White Day Bed - $200 +
+  Perfect for sleeping during the day when you want to pretend that you ar
+ ent. Designed by the late great magician\, Mr. Houdini\, this piece magic
+ ally converts from a sofa to a bed (and back again). I will throw in the 
+ three drawers for free. King Bed - $300 + This king size work bench has s
+ erved its purpose well. Since sleeping in this bed\, I have never woken u
+ p tired. My wife now complains that I am TOO respectful and is often frus
+ trated by how much I want to listen to her thoughts as she processes her 
+ day as we drift off to sleep together. Raymour & Flanigan *offer closes 1
+ 0/25/2026 __________________________________ If you like sitting\, this i
+ s the listing for you..!!! Horse and Buggy seat - $250 + Made with love a
+ nd affection by an Amish gentleman. I know that you want this\, you know 
+ that I know you want this. Be true to your inner self and own this functi
+ onal piece of art. Front Porch Set - $500 + Be advised this set can not\,
+  under any circumstances be on a "back porch" or a "verandah" so if you d
+ o not have a front porch\, please don’t even make an offer. They are lo
+ w\, comfy\, and are perfect for having a glass of wine and serious conver
+ sations with your spouse as you yell* at your kids to "do anything\, anyw
+ here other than right here" Pew (or "bench" for the heathens) - $50 + Thi
+ s Pew/Bench does it all. Do you want to sit down to put shoes on? Do you 
+ prefer to stand on one leg while you rest your foot higher as you tie you
+  laces.? Do you want your children to throw their schoolbags somewhere th
+ at is not the floor but still in the way.
+URL:https://www.facebook.com/marketplace/item/1627893185730737/
+END:VEVENT
+END:VCALENDAR

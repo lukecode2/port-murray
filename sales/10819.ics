@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-10819-20261105@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Fine Jewelry & Fashion (Day 1 of 2)
+DTSTART;TZID=America/New_York:20261105T235900
+LOCATION:Boonton\, NJ\, 07005
+DESCRIPTION:A spectacular two-day auction of fine jewelry\, designer fashi
+ on\, and luxury accessories\, featuring an eclectic single-owner jewelry 
+ collection and an exceptional assortment of vintage and contemporary fash
+ ion from prominent estates.  •  Day one features a remarkable single-ow
+ ner jewelry collection assembled over decades by a Scarsdale\, NY fashion
+  maven\, reflecting an eclectic style as unique as its former owner. With
+  something for every taste and price point\, the collection ranges from g
+ littering diamonds and colorful gemstones to lustrous pearls and statemen
+ t pieces. Featured sets include a gold and multicolored gemstone necklace
+  with matching earrings\, a striking ruby and turquoise pendant with coor
+ dinating earrings\, an emerald and diamond brooch with matching clip earr
+ ings in 18k gold\, and a 14k gold jewelry lot in the manner of Cartier’
+ s iconic Panthère collection. Standout individual pieces include a gold\
+ , ruby\, and mother-of-pearl bangle bracelet\, a diamond and pearl drop n
+ ecklace\, and a gold and diamond cuff bracelet. Proceeds from the sale wi
+ ll benefit charities personally selected by the collector.
+URL:https://www.estatesales.net/NJ/Boonton/07005/5122548
+END:VEVENT
+END:VCALENDAR

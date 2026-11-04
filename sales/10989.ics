@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-10989-20261108@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:The Merry Little Market: Gifts\, Vintage Finds & Holiday Treasures
+  (PU 11/10\, 3-5PM in Boonton\, NJ)
+DTSTART;TZID=America/New_York:20261108T190000
+LOCATION:Boonton\, NJ\, 07005
+DESCRIPTION:Welcome to The Merry Little Market\, a festive online shopping
+  event featuring treasures from several local families! At the heart of t
+ his sale is the collection of a passionate jewelry maker\, including her 
+ handcrafted creations\, an extensive assortment of beads and jewelry-maki
+ ng supplies\, and artisan pieces discovered at markets over the years. We
+ 've added charming vintage Christmas ornaments\, quality wooden puzzles\,
+  toys\, dolls\, and nostalgic collectibles from other family collections.
+  Whether you're shopping for a thoughtful gift\, a creative project\, or 
+ a little holiday magic for yourself\, we hope you'll enjoy discovering so
+ mething special in our Merry Little Market!
+URL:https://estatesales.org/estate-sales/nj/boonton/07005/the-merry-little
+ -market-gifts-2471388
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11745-20261113@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
+DTSTART;TZID=America/New_York:20261113T100000
+DTEND;TZID=America/New_York:20261113T150000
+LOCATION:Randolph\, NJ\, 07869
+DESCRIPTION:Sale is Friday and Saturday - don't wait for the lower prices 
+ on Saturday. It is all priced to sell!\nOn Sunday\, it will be $40 to ent
+ er and take what ever you want.\nDo your Holiday shopping here! These own
+ ers (both doctors) were here for over 30 years\, and there are some vinta
+ ge things in the basement\, but it's mostly brand new items that interior
+  designers bought to decorate the home. The main floor was re-decorated e
+ very couple of years all of the previous decorations were stored. We're t
+ alking about over 5000 sq ft of gorgeous items and EVERYTHING is being so
+ ld. I am pricing it to move on day 1.\nAs the owner took me around\, she 
+ showed me everything from her :"shabby chic" era and her "asian" era and 
+ her "MCM" era etc etc.\nThere will be lots of mens suits\, he is fit\, so
+  prob med/large with his clothing and quite a bit of women's clothing als
+ o on the small-med size. TONS of designer bags and shoes. They have 2 (ad
+ ult) daughters so clothes for younger women as well. M-XL\nThey are going
+  to FL so come and get your winter clothes. Mens shoes all sizes NIKES et
+ c.\nGreat record collection\, there will be costume jewelry and watches.\
+ nThe master bedroom is a unique MCM teak furniture set.\nTONS Of signed s
+ ports memorabilia\n+++Please note\, I will do pre-sales for any of the la
+ rge furniture items\, if you see something you want contact me. if someth
+ ing sells I will take the picture down. The dining room set is incredible
+ . and there are some very expensive (selling for much less) unique furnit
+ ure items.+++\nI have SO SO SO many more pictures that will be posted in 
+ the next few days and because set up will take a week or more\, I will po
+ st as I put items out. Please email or text me with questions or call me 
+ if you want to purchase something.\nThis is my last estate sale of the ye
+ ar and I'm going to make it incredible. check back every day or too to se
+ e the new things that are being added!
+URL:https://www.estatesales.net/NJ/Randolph/07869/5142168
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11745-20261114@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T160000
+LOCATION:Randolph\, NJ\, 07869
+DESCRIPTION:Sale is Friday and Saturday - don't wait for the lower prices 
+ on Saturday. It is all priced to sell!\nOn Sunday\, it will be $40 to ent
+ er and take what ever you want.\nDo your Holiday shopping here! These own
+ ers (both doctors) were here for over 30 years\, and there are some vinta
+ ge things in the basement\, but it's mostly brand new items that interior
+  designers bought to decorate the home. The main floor was re-decorated e
+ very couple of years all of the previous decorations were stored. We're t
+ alking about over 5000 sq ft of gorgeous items and EVERYTHING is being so
+ ld. I am pricing it to move on day 1.\nAs the owner took me around\, she 
+ showed me everything from her :"shabby chic" era and her "asian" era and 
+ her "MCM" era etc etc.\nThere will be lots of mens suits\, he is fit\, so
+  prob med/large with his clothing and quite a bit of women's clothing als
+ o on the small-med size. TONS of designer bags and shoes. They have 2 (ad
+ ult) daughters so clothes for younger women as well. M-XL\nThey are going
+  to FL so come and get your winter clothes. Mens shoes all sizes NIKES et
+ c.\nGreat record collection\, there will be costume jewelry and watches.\
+ nThe master bedroom is a unique MCM teak furniture set.\nTONS Of signed s
+ ports memorabilia\n+++Please note\, I will do pre-sales for any of the la
+ rge furniture items\, if you see something you want contact me. if someth
+ ing sells I will take the picture down. The dining room set is incredible
+ . and there are some very expensive (selling for much less) unique furnit
+ ure items.+++\nI have SO SO SO many more pictures that will be posted in 
+ the next few days and because set up will take a week or more\, I will po
+ st as I put items out. Please email or text me with questions or call me 
+ if you want to purchase something.\nThis is my last estate sale of the ye
+ ar and I'm going to make it incredible. check back every day or too to se
+ e the new things that are being added!
+URL:https://www.estatesales.net/NJ/Randolph/07869/5142168
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11745-20261115@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
+DTSTART;TZID=America/New_York:20261115T090000
+DTEND;TZID=America/New_York:20261115T120000
+LOCATION:Randolph\, NJ\, 07869
+DESCRIPTION:Sale is Friday and Saturday - don't wait for the lower prices 
+ on Saturday. It is all priced to sell!\nOn Sunday\, it will be $40 to ent
+ er and take what ever you want.\nDo your Holiday shopping here! These own
+ ers (both doctors) were here for over 30 years\, and there are some vinta
+ ge things in the basement\, but it's mostly brand new items that interior
+  designers bought to decorate the home. The main floor was re-decorated e
+ very couple of years all of the previous decorations were stored. We're t
+ alking about over 5000 sq ft of gorgeous items and EVERYTHING is being so
+ ld. I am pricing it to move on day 1.\nAs the owner took me around\, she 
+ showed me everything from her :"shabby chic" era and her "asian" era and 
+ her "MCM" era etc etc.\nThere will be lots of mens suits\, he is fit\, so
+  prob med/large with his clothing and quite a bit of women's clothing als
+ o on the small-med size. TONS of designer bags and shoes. They have 2 (ad
+ ult) daughters so clothes for younger women as well. M-XL\nThey are going
+  to FL so come and get your winter clothes. Mens shoes all sizes NIKES et
+ c.\nGreat record collection\, there will be costume jewelry and watches.\
+ nThe master bedroom is a unique MCM teak furniture set.\nTONS Of signed s
+ ports memorabilia\n+++Please note\, I will do pre-sales for any of the la
+ rge furniture items\, if you see something you want contact me. if someth
+ ing sells I will take the picture down. The dining room set is incredible
+ . and there are some very expensive (selling for much less) unique furnit
+ ure items.+++\nI have SO SO SO many more pictures that will be posted in 
+ the next few days and because set up will take a week or more\, I will po
+ st as I put items out. Please email or text me with questions or call me 
+ if you want to purchase something.\nThis is my last estate sale of the ye
+ ar and I'm going to make it incredible. check back every day or too to se
+ e the new things that are being added!
+URL:https://www.estatesales.net/NJ/Randolph/07869/5142168
+END:VEVENT
+END:VCALENDAR

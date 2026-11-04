@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11740-20261114@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Designer Clothes & Shoes\, Antiques\, Christmas\, Fine Dining & Mo
+ re
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Annandale\, NJ\, 08801
+DESCRIPTION:..\nButterfly Estate Sales\n..\ninvites you to an impressive h
+ ome in Annandale for a sale filled with an unbelievable amount of Christm
+ as and holiday decor\, impeccably maintained antique furniture\, large co
+ llection of vintage decorative objects\, tons of clothing and shoes inclu
+ ding designer\, mink fur coats\, jewelry\, multiple full sets of fine por
+ celain and crystal\, sterling silver serving ware\, art\, cast iron outdo
+ or furniture and planters and more.\nCheck back soon as we continue to up
+ date the listing description and pictures!\n..\nWhat's For Sale\n..\n.\n.
+ .\nKITCHEN & DINING\n...\nLIVING & HOME DECOR\n...\n.\n...\nCLOTHING\, SH
+ OES & ACCESSORIES\n...\n.\n...\nOFFICE & HOME\n...\n...\nELECTRONICS & HO
+ ME ENTERTAINMENT\n...\n...\nHOLIDAY\, BASEMENT & HOME\n...\n...\nOUTDOOR\
+ n..\n.
+URL:https://www.estatesales.net/NJ/Annandale/08801/5119422
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11740-20261115@port-murray
+DTSTAMP:20261104T211333Z
+SUMMARY:Designer Clothes & Shoes\, Antiques\, Christmas\, Fine Dining & Mo
+ re
+DTSTART;TZID=America/New_York:20261115T100000
+DTEND;TZID=America/New_York:20261115T150000
+LOCATION:Annandale\, NJ\, 08801
+DESCRIPTION:..\nButterfly Estate Sales\n..\ninvites you to an impressive h
+ ome in Annandale for a sale filled with an unbelievable amount of Christm
+ as and holiday decor\, impeccably maintained antique furniture\, large co
+ llection of vintage decorative objects\, tons of clothing and shoes inclu
+ ding designer\, mink fur coats\, jewelry\, multiple full sets of fine por
+ celain and crystal\, sterling silver serving ware\, art\, cast iron outdo
+ or furniture and planters and more.\nCheck back soon as we continue to up
+ date the listing description and pictures!\n..\nWhat's For Sale\n..\n.\n.
+ .\nKITCHEN & DINING\n...\nLIVING & HOME DECOR\n...\n.\n...\nCLOTHING\, SH
+ OES & ACCESSORIES\n...\n.\n...\nOFFICE & HOME\n...\n...\nELECTRONICS & HO
+ ME ENTERTAINMENT\n...\n...\nHOLIDAY\, BASEMENT & HOME\n...\n...\nOUTDOOR\
+ n..\n.
+URL:https://www.estatesales.net/NJ/Annandale/08801/5119422
+END:VEVENT
+END:VCALENDAR
