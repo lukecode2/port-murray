@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11896-20261107@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale Blow Out
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:Newton\, NJ
+DESCRIPTION:THIS ROUND….FILL A BAG FOR $10 (we supply the bag) Items tha
+ t do not fit in the bag …no reasonable offer declined! WOW!! Amazing de
+ als!! CASH ONLY SALE!! STEP INSIDE this home… AND TRAVEL BACK IN TIME! 
+ Get ready for a one-of-a-kind estate sale that feels more like stepping i
+ nto a Time Machine than walking into a house! This home also includes a g
+ arage and 3 SHEDS!!! Every room holds a little piece of the past\, with f
+ lashbacks around every corner and treasures waiting to tell their story. 
+ Whether you’re a serious collector\, an antique lover\, a picker\, a de
+ corator\, or someone who simply loves the nostalgia of days gone by\, you
+ ’re going to want to take your time exploring this one! This is the kin
+ d of sale where you may walk in looking for one thing and walk out with s
+ omething that brings back a memory you forgot you had. Saturday Nov 7 9am
+ -3pm Sunday Nov 8 9am-3pm CASH ONLY SALE!! https://www.estatesales.net/NJ
+ /Newton/07860/5145837
+URL:https://www.facebook.com/marketplace/item/1864185231604610/
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11896-20261108@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale Blow Out
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+LOCATION:Newton\, NJ
+DESCRIPTION:THIS ROUND….FILL A BAG FOR $10 (we supply the bag) Items tha
+ t do not fit in the bag …no reasonable offer declined! WOW!! Amazing de
+ als!! CASH ONLY SALE!! STEP INSIDE this home… AND TRAVEL BACK IN TIME! 
+ Get ready for a one-of-a-kind estate sale that feels more like stepping i
+ nto a Time Machine than walking into a house! This home also includes a g
+ arage and 3 SHEDS!!! Every room holds a little piece of the past\, with f
+ lashbacks around every corner and treasures waiting to tell their story. 
+ Whether you’re a serious collector\, an antique lover\, a picker\, a de
+ corator\, or someone who simply loves the nostalgia of days gone by\, you
+ ’re going to want to take your time exploring this one! This is the kin
+ d of sale where you may walk in looking for one thing and walk out with s
+ omething that brings back a memory you forgot you had. Saturday Nov 7 9am
+ -3pm Sunday Nov 8 9am-3pm CASH ONLY SALE!! https://www.estatesales.net/NJ
+ /Newton/07860/5145837
+URL:https://www.facebook.com/marketplace/item/1864185231604610/
+END:VEVENT
+END:VCALENDAR

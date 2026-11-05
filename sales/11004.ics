@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11004-20261106@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Lucky Day Estate Sales- Toys-slot Cars- Wrestling-bmx Bike-harley-
  vintage Video Games-military-
 DTSTART;TZID=America/New_York:20261106T090000
 DTEND;TZID=America/New_York:20261106T150000
-LOCATION:Somerset\, NJ\, 08873
+LOCATION:34 Hughes Rd\, Somerset\, NJ\, 08873
 DESCRIPTION:HUGE NORTH BRUNSWICK ESTATE SALE: Vintage Gaming\, Collectible
  s\, Slot Cars & More!\nDates: Friday & Saturday\, November 6th and 7th\nT
  ime: 9:00 AM – 3:00 PM\nEntry Protocol: First person to arrive starts t
@@ -72,12 +72,12 @@ URL:https://www.estatesales.net/NJ/Somerset/08873/5141526
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11004-20261107@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Lucky Day Estate Sales- Toys-slot Cars- Wrestling-bmx Bike-harley-
  vintage Video Games-military-
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T150000
-LOCATION:Somerset\, NJ\, 08873
+LOCATION:34 Hughes Rd\, Somerset\, NJ\, 08873
 DESCRIPTION:HUGE NORTH BRUNSWICK ESTATE SALE: Vintage Gaming\, Collectible
  s\, Slot Cars & More!\nDates: Friday & Saturday\, November 6th and 7th\nT
  ime: 9:00 AM – 3:00 PM\nEntry Protocol: First person to arrive starts t

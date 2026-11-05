@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11859-20261106@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+LOCATION:20 Edgemere Ave\, Mount Arlington\, NJ\, 07856
+DESCRIPTION:Furniture - vintage drop leaf desk\, unusual tall dresser\, wo
+ oden shelving unit\, beautiful round wooden table\, oak sofa table\, Bedr
+ oom night stand\, vintage tea cart\, 2 glass top long tables\, glass top 
+ patio table and chairs with matching sofa\, large desk\, long bar\, file 
+ cabinet.  Lovely housewares\, kitchenware\, Christmas items\, framed art\
+ , electronics\, books\, many CD's\, bedding\, wheel chairs\, cat boxes.  
+ Plus much more!
+URL:https://gsalr.com/estate-sale-mount-arlington-nj-38989319.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11859-20261107@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:20 Edgemere Ave\, Mount Arlington\, NJ\, 07856
+DESCRIPTION:Furniture - vintage drop leaf desk\, unusual tall dresser\, wo
+ oden shelving unit\, beautiful round wooden table\, oak sofa table\, Bedr
+ oom night stand\, vintage tea cart\, 2 glass top long tables\, glass top 
+ patio table and chairs with matching sofa\, large desk\, long bar\, file 
+ cabinet.  Lovely housewares\, kitchenware\, Christmas items\, framed art\
+ , electronics\, books\, many CD's\, bedding\, wheel chairs\, cat boxes.  
+ Plus much more!
+URL:https://gsalr.com/estate-sale-mount-arlington-nj-38989319.html
+END:VEVENT
+END:VCALENDAR

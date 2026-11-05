@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11895-20261106@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale Sparta
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+LOCATION:Sparta\, NJ
+DESCRIPTION:Friday\, November 6 Sunday\, November 8 10AM-3PM 📍 10 Van K
+ irk Place\, Sparta All must go! Last chance to come out for great finds. 
+ We are running the sale on behalf of the homeowner. Please come to the sa
+ le\, we will not have the opportunity to answer questions. Call [hidden i
+ nformation] if there is something specific you would like information on 
+ and we will do our best to respond in a timely fashion.
+URL:https://www.facebook.com/marketplace/item/1803973427422782/
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11895-20261107@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale Sparta
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:Sparta\, NJ
+DESCRIPTION:Friday\, November 6 Sunday\, November 8 10AM-3PM 📍 10 Van K
+ irk Place\, Sparta All must go! Last chance to come out for great finds. 
+ We are running the sale on behalf of the homeowner. Please come to the sa
+ le\, we will not have the opportunity to answer questions. Call [hidden i
+ nformation] if there is something specific you would like information on 
+ and we will do our best to respond in a timely fashion.
+URL:https://www.facebook.com/marketplace/item/1803973427422782/
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11895-20261108@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Estate Sale Sparta
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+LOCATION:Sparta\, NJ
+DESCRIPTION:Friday\, November 6 Sunday\, November 8 10AM-3PM 📍 10 Van K
+ irk Place\, Sparta All must go! Last chance to come out for great finds. 
+ We are running the sale on behalf of the homeowner. Please come to the sa
+ le\, we will not have the opportunity to answer questions. Call [hidden i
+ nformation] if there is something specific you would like information on 
+ and we will do our best to respond in a timely fashion.
+URL:https://www.facebook.com/marketplace/item/1803973427422782/
+END:VEVENT
+END:VCALENDAR

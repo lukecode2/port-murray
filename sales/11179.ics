@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11179-20261106@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Grandparent’s Global Treasures Antiques\, Art\, Decorator Furnis
  hings
 DTSTART;TZID=America/New_York:20261106T110000
@@ -49,7 +49,7 @@ URL:https://www.estatesales.net/NJ/Denville/07834/5143608
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11179-20261107@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Grandparent’s Global Treasures Antiques\, Art\, Decorator Furnis
  hings
 DTSTART;TZID=America/New_York:20261107T100000

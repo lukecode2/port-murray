@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11860-20261107@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Yard Sale/Estate Sale November 7 & 8 8:00 a.m.
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:99 Quail Ct\, Bath\, PA\, 18014
+DESCRIPTION:Yard Sale/Estate Sale this Saturday and Sunday\, November 7 an
+ d 8 starting at 8:00 a.m. until 1:00:p.m. Lots of items to choose from...
+  Clothing\, shoes\, books\, collectibles\, household items\, knick knacks
+ \, furniture and more... Stop on by ...something for everyone!!
+URL:https://gsalr.com/yard-saleestate-sale-november-bath-pa-38989769.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11860-20261108@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Yard Sale/Estate Sale November 7 & 8 8:00 a.m.
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+LOCATION:99 Quail Ct\, Bath\, PA\, 18014
+DESCRIPTION:Yard Sale/Estate Sale this Saturday and Sunday\, November 7 an
+ d 8 starting at 8:00 a.m. until 1:00:p.m. Lots of items to choose from...
+  Clothing\, shoes\, books\, collectibles\, household items\, knick knacks
+ \, furniture and more... Stop on by ...something for everyone!!
+URL:https://gsalr.com/yard-saleestate-sale-november-bath-pa-38989769.html
+END:VEVENT
+END:VCALENDAR

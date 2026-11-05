@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-11754-20261119@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Elegant Estates: A Selling Exhibition
+DTSTART;TZID=America/New_York:20261119T130000
+DTEND;TZID=America/New_York:20261119T180000
+LOCATION:Morristown\, NJ\, 07960
+DESCRIPTION:Discover an eclectic selection of antiques\, fine art\, furnis
+ hings\, collectibles\, and more at our Morristown gallery selling exhibit
+ ion. The offering includes mid-century modern furniture\, modern and Tiff
+ any-style lighting\, and art glass by celebrated makers including Steuben
+ \, Tiffany\, Baccarat\, and Waterford.\nExplore dozens of original artwor
+ ks by listed artists\, bronze sculptures\, Asian and English porcelain\, 
+ sterling silver\, hundreds of American and foreign coins\, sports memorab
+ ilia\, books\, and collectible Mettlach steins.\nWith an exceptional vari
+ ety of objects spanning diverse interests and collecting categories\, thi
+ s is an exhibition with something for everyone!
+URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11754-20261120@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Elegant Estates: A Selling Exhibition
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T150000
+LOCATION:Morristown\, NJ\, 07960
+DESCRIPTION:Discover an eclectic selection of antiques\, fine art\, furnis
+ hings\, collectibles\, and more at our Morristown gallery selling exhibit
+ ion. The offering includes mid-century modern furniture\, modern and Tiff
+ any-style lighting\, and art glass by celebrated makers including Steuben
+ \, Tiffany\, Baccarat\, and Waterford.\nExplore dozens of original artwor
+ ks by listed artists\, bronze sculptures\, Asian and English porcelain\, 
+ sterling silver\, hundreds of American and foreign coins\, sports memorab
+ ilia\, books\, and collectible Mettlach steins.\nWith an exceptional vari
+ ety of objects spanning diverse interests and collecting categories\, thi
+ s is an exhibition with something for everyone!
+URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-11754-20261121@port-murray
+DTSTAMP:20261105T191358Z
+SUMMARY:Elegant Estates: A Selling Exhibition
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T150000
+LOCATION:Morristown\, NJ\, 07960
+DESCRIPTION:Discover an eclectic selection of antiques\, fine art\, furnis
+ hings\, collectibles\, and more at our Morristown gallery selling exhibit
+ ion. The offering includes mid-century modern furniture\, modern and Tiff
+ any-style lighting\, and art glass by celebrated makers including Steuben
+ \, Tiffany\, Baccarat\, and Waterford.\nExplore dozens of original artwor
+ ks by listed artists\, bronze sculptures\, Asian and English porcelain\, 
+ sterling silver\, hundreds of American and foreign coins\, sports memorab
+ ilia\, books\, and collectible Mettlach steins.\nWith an exceptional vari
+ ety of objects spanning diverse interests and collecting categories\, thi
+ s is an exhibition with something for everyone!
+URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
+END:VEVENT
+END:VCALENDAR

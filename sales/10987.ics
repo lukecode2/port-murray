@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-10987-20261106@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
  es
 DTSTART;TZID=America/New_York:20261106T100000
@@ -49,7 +49,7 @@ URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-10987-20261107@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
  es
 DTSTART;TZID=America/New_York:20261107T090000
@@ -79,7 +79,7 @@ URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-10987-20261108@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
  es
 DTSTART;TZID=America/New_York:20261108T090000

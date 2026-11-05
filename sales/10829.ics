@@ -18,90 +18,25 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-10829-20261111@port-murray
-DTSTAMP:20261104T211333Z
-SUMMARY:A Gentlemen's Estate-unique Collections- Contents---all Must Go!!!
- -1 Day Only!!
-DTSTART;TZID=America/New_York:20261111T160000
-DTEND;TZID=America/New_York:20261111T190000
-LOCATION:15 KITCHELL PLACE\, Morristown\, NJ\, 07960
-DESCRIPTION:BY APPOINTMENT MUST CALL 201-370-9215 Ask For Anthony\n- A GEN
- TLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITURE - ART -WATCHES\nFire Chi
- ef Gas Pump - 2 Juke Boxes AMi & Seeburg 100 - Parking Meter - Vintage Pa
- y Phone - Vintage Aspirin Dispenser - Drive In Theater Speaker - Vintage 
- Pay Phone - Fire Extinguisher Lamp - Reclining Chair - Mens Clothing incl
- uding Cashmere Sweathers - LP's & 45's -\nGrandfather Clock - Vintage Cha
- lk Ware Statue - Franklin Mint Classic Cars Of the 60's - Miniature Diner
- s\, Miniature Gas Pumps -\nBooks - Artwork - Samsung Series 6900 TV - Com
- pact Washer Dryer - Cassette Tapes - Some Vintage Tools - Vise - Rocking 
- Chair - Globe - Office Chair - Sofa & Loveseat - Electronics - Barware - 
- Vintage Scale -
-URL:https://gsalr.com/a-gentlemens-estateunique-collections-morristown-nj-
- 38981143.html
-END:VEVENT
-BEGIN:VEVENT
-UID:sale-10829-20261112@port-murray
-DTSTAMP:20261104T211333Z
-SUMMARY:A Gentlemen's Estate-unique Collections- Contents---all Must Go!!!
- -1 Day Only!!
-DTSTART;TZID=America/New_York:20261112T100000
-DTEND;TZID=America/New_York:20261112T150000
-LOCATION:15 KITCHELL PLACE\, Morristown\, NJ\, 07960
-DESCRIPTION:BY APPOINTMENT MUST CALL 201-370-9215 Ask For Anthony\n- A GEN
- TLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITURE - ART -WATCHES\nFire Chi
- ef Gas Pump - 2 Juke Boxes AMi & Seeburg 100 - Parking Meter - Vintage Pa
- y Phone - Vintage Aspirin Dispenser - Drive In Theater Speaker - Vintage 
- Pay Phone - Fire Extinguisher Lamp - Reclining Chair - Mens Clothing incl
- uding Cashmere Sweathers - LP's & 45's -\nGrandfather Clock - Vintage Cha
- lk Ware Statue - Franklin Mint Classic Cars Of the 60's - Miniature Diner
- s\, Miniature Gas Pumps -\nBooks - Artwork - Samsung Series 6900 TV - Com
- pact Washer Dryer - Cassette Tapes - Some Vintage Tools - Vise - Rocking 
- Chair - Globe - Office Chair - Sofa & Loveseat - Electronics - Barware - 
- Vintage Scale -
-URL:https://gsalr.com/a-gentlemens-estateunique-collections-morristown-nj-
- 38981143.html
-END:VEVENT
-BEGIN:VEVENT
-UID:sale-10829-20261113@port-murray
-DTSTAMP:20261104T211333Z
-SUMMARY:A Gentlemen's Estate-unique Collections- Contents---all Must Go!!!
- -1 Day Only!!
-DTSTART;TZID=America/New_York:20261113T100000
-DTEND;TZID=America/New_York:20261113T150000
-LOCATION:15 KITCHELL PLACE\, Morristown\, NJ\, 07960
-DESCRIPTION:BY APPOINTMENT MUST CALL 201-370-9215 Ask For Anthony\n- A GEN
- TLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITURE - ART -WATCHES\nFire Chi
- ef Gas Pump - 2 Juke Boxes AMi & Seeburg 100 - Parking Meter - Vintage Pa
- y Phone - Vintage Aspirin Dispenser - Drive In Theater Speaker - Vintage 
- Pay Phone - Fire Extinguisher Lamp - Reclining Chair - Mens Clothing incl
- uding Cashmere Sweathers - LP's & 45's -\nGrandfather Clock - Vintage Cha
- lk Ware Statue - Franklin Mint Classic Cars Of the 60's - Miniature Diner
- s\, Miniature Gas Pumps -\nBooks - Artwork - Samsung Series 6900 TV - Com
- pact Washer Dryer - Cassette Tapes - Some Vintage Tools - Vise - Rocking 
- Chair - Globe - Office Chair - Sofa & Loveseat - Electronics - Barware - 
- Vintage Scale -
-URL:https://gsalr.com/a-gentlemens-estateunique-collections-morristown-nj-
- 38981143.html
-END:VEVENT
-BEGIN:VEVENT
 UID:sale-10829-20261114@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:A Gentlemen's Estate-unique Collections- Contents---all Must Go!!!
  -1 Day Only!!
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:15 KITCHELL PLACE\, Morristown\, NJ\, 07960
-DESCRIPTION:BY APPOINTMENT MUST CALL 201-370-9215 Ask For Anthony\n- A GEN
- TLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITURE - ART -WATCHES\nFire Chi
- ef Gas Pump - 2 Juke Boxes AMi & Seeburg 100 - Parking Meter - Vintage Pa
- y Phone - Vintage Aspirin Dispenser - Drive In Theater Speaker - Vintage 
- Pay Phone - Fire Extinguisher Lamp - Reclining Chair - Mens Clothing incl
- uding Cashmere Sweathers - LP's & 45's -\nGrandfather Clock - Vintage Cha
- lk Ware Statue - Franklin Mint Classic Cars Of the 60's - Miniature Diner
- s\, Miniature Gas Pumps -\nBooks - Artwork - Samsung Series 6900 TV - Com
- pact Washer Dryer - Cassette Tapes - Some Vintage Tools - Vise - Rocking 
- Chair - Globe - Office Chair - Sofa & Loveseat - Electronics - Barware - 
- Vintage Scale -
+LOCATION:15 KITCHELL PLACE\, Morristown\, NJ 07960
+DESCRIPTION:- A GENTLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITUR
+ E - ART -WATCHES- ONE DAY ONLY -ALL MUST GP!!!!\nFire Chief Gas Pum
+ p - 2 Juke Boxes AMi & Seeburg 100 - Parking Meter - Vintage
+  Pay Phone - Vintage Aspirin Dispenser - Drive In Theater Spea
+ ker - Vintage Pay Phone - Fire Extinguisher Lamp - Reclining C
+ hair - Mens Clothing including Cashmere Sweathers - LP's & 45's
+  -\nGrandfather Clock - Vintage Chalk Ware Statue - Franklin Mi
+ nt Classic Cars Of the 60's - Miniature Diners\, Miniature Gas
+  Pumps -\nBooks - Artwork - Samsung Series 6900 TV - Compact 
+ Washer Dryer - Cassette Tapes - Some Vintage Tools - Vise - R
+ ocking Chair - Globe - Office Chair - Sofa & Loveseat - Elect
+ ronics - Barware - Vintage Scale -
 URL:https://gsalr.com/a-gentlemens-estateunique-collections-morristown-nj-
  38981143.html
 END:VEVENT

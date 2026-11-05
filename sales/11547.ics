@@ -19,17 +19,18 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11547-20261107@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Diggers Delight Loaded Estate Sale
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T180000
-LOCATION:Bedminster\, NJ\, 07921
+LOCATION:5 Oakura lane
 DESCRIPTION:Estate Sale Full Contents Loaded\nJohn Deer Gator\, auctioned 
  off at 10am\nloads of tools\,\nLoaded garage\, barn of tools and equipmen
  t\, antique scales\, woodworking tools\, antiques\, plants\, greenhouse i
  tems\, collectibles\, Silver Tiffany rattle\, silver jewelry\, old toys\,
   large collection of steamer trunks\, heavy equipment\, draws full of mis
- c tools\, kitchen table.
+ c tools\, kitchen table. Loads of items throughout.\nOver 100 pics On est
+ atesales.net
 URL:https://www.estatesales.net/NJ/Bedminster/07921/5138295
 END:VEVENT
 END:VCALENDAR

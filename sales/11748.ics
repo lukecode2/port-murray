@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11748-20261112@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
   11/12-11/14
 DTSTART;TZID=America/New_York:20261112T093000
@@ -59,7 +59,7 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11748-20261113@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
   11/12-11/14
 DTSTART;TZID=America/New_York:20261113T090000
@@ -99,7 +99,7 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11748-20261114@port-murray
-DTSTAMP:20261104T211333Z
+DTSTAMP:20261105T191358Z
 SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
   11/12-11/14
 DTSTART;TZID=America/New_York:20261114T090000
