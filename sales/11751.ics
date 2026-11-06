@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11751-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Vintage Blow Out Sale! Fill a Bag!! Everything Must Go!
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T150000
-LOCATION:12 Old Stage Coach Rd\, Newton\, NJ\, 07860
+LOCATION:12 Old Stage Coach Rd\, Newton\, NJ 07860
 DESCRIPTION:THIS ROUND….FILL A BAG FOR $10 (we supply the bag) Items tha
  t do not fit in the bag …no reasonable offer declined! WOW!! Amazing de
  als!!\nCASH ONLY SALE!!\nSTEP INSIDE this home… AND TRAVEL BACK IN TIME
@@ -40,11 +40,11 @@ URL:https://www.estatesales.net/NJ/Newton/07860/5145837
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11751-20261108@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Vintage Blow Out Sale! Fill a Bag!! Everything Must Go!
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T150000
-LOCATION:12 Old Stage Coach Rd\, Newton\, NJ\, 07860
+LOCATION:12 Old Stage Coach Rd\, Newton\, NJ 07860
 DESCRIPTION:THIS ROUND….FILL A BAG FOR $10 (we supply the bag) Items tha
  t do not fit in the bag …no reasonable offer declined! WOW!! Amazing de
  als!!\nCASH ONLY SALE!!\nSTEP INSIDE this home… AND TRAVEL BACK IN TIME

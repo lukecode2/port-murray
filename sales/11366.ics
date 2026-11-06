@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11366-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Pinecone and Sons/PCS Lebenon moving on Sale
 DTSTART;TZID=America/New_York:20261106T080000
 DTEND;TZID=America/New_York:20261106T150000
-LOCATION:9 Glory Rd \, Lebanon\, NJ\, 08833
+LOCATION:9 Glory Rd \, Lebanon\, NJ 08833
 DESCRIPTION:● Bamboo Kitchen Table – Glass-top table with four chairs\
  n● Black Leather Reclining Sofa\n● Stereo Equipment and Electronics 
  – Assorted audio and electronic equipment\n● Decorative Bunny Collect
@@ -58,11 +58,11 @@ URL:https://www.estatesales.net/NJ/Lebanon/08833/5144397
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11366-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Pinecone and Sons/PCS Lebenon moving on Sale
 DTSTART;TZID=America/New_York:20261107T080000
 DTEND;TZID=America/New_York:20261107T150000
-LOCATION:9 Glory Rd \, Lebanon\, NJ\, 08833
+LOCATION:9 Glory Rd \, Lebanon\, NJ 08833
 DESCRIPTION:● Bamboo Kitchen Table – Glass-top table with four chairs\
  n● Black Leather Reclining Sofa\n● Stereo Equipment and Electronics 
  – Assorted audio and electronic equipment\n● Decorative Bunny Collect

@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11367-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Lucky Day Country Farmhouse\,Meets Mid-century Meets Tool Barn
 DTSTART;TZID=America/New_York:20261106T090000
 DTEND;TZID=America/New_York:20261106T150000
-LOCATION:305 Kingswood Locktown Road\, Flemington\, NJ\, 08822
+LOCATION:305 Kingswood Locktown Road\, Flemington\, NJ 08822
 DESCRIPTION:Very cool sale across the street from a civil war cemetery dat
  ing back to 1799.The house and barn are packed with a great variety of it
  ems.lots of hunting trophies including a Antelope and a really nice deer 
@@ -41,11 +41,11 @@ URL:https://www.estatesales.net/NJ/Flemington/08822/5144811
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11367-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Lucky Day Country Farmhouse\,Meets Mid-century Meets Tool Barn
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T150000
-LOCATION:305 Kingswood Locktown Road\, Flemington\, NJ\, 08822
+LOCATION:305 Kingswood Locktown Road\, Flemington\, NJ 08822
 DESCRIPTION:Very cool sale across the street from a civil war cemetery dat
  ing back to 1799.The house and barn are packed with a great variety of it
  ems.lots of hunting trophies including a Antelope and a really nice deer 

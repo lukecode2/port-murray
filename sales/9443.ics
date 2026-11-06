@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-9443-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Bridgewater Estate Sale
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T160000
-LOCATION:Bridgewater\, NJ\, 08807
+LOCATION:Bridgewater\, NJ 08807
 DESCRIPTION:🏡\nINCREDIBLE ESTATE SALE – A COLLECTOR’S DREAM!\n🏡\
  nCome explore a wonderful estate sale filled with treasures\, collectible
  s\, and vintage charm! There is something for everyone\, especially colle
@@ -39,11 +39,11 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5133507
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-9443-20261108@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Bridgewater Estate Sale
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
-LOCATION:Bridgewater\, NJ\, 08807
+LOCATION:Bridgewater\, NJ 08807
 DESCRIPTION:🏡\nINCREDIBLE ESTATE SALE – A COLLECTOR’S DREAM!\n🏡\
  nCome explore a wonderful estate sale filled with treasures\, collectible
  s\, and vintage charm! There is something for everyone\, especially colle

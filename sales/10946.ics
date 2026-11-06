@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-10946-20261213@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:December Consignor Sale (Wind Gap\, PA)
 DTSTART;TZID=America/New_York:20261213T180000
-LOCATION:228 S Broadway  Suite D
+LOCATION:228 S Broadway  Suite D\, Wind Gap\, PA\, 18091
 DESCRIPTION:MORE LOTS TO BE ADDED\n\n13% Buyer's Premium / 3% Cash Discoun
  t\n\n6% sales tax to Pennsylvania residents who do not have an exemption 
  sent to us prior to their charge.\n\nAuction includes:

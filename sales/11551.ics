@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11551-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Huge Estate Sale
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LOCATION:113 Ithaca Ct\, East Stroudsburg\, PA 18301
+LOCATION:113 Ithaca Ct\, East Stroudsburg\, PA\, 18301
 DESCRIPTION:Estate sale. Entire contents of a home that belonged to an ant
  ique dealer. Many items....tools\, furniture\, pictures\, books\, jewelry
  \, clothing\, dishes\, silver service\, and much more. See this website f
@@ -34,11 +34,11 @@ URL:https://www.facebook.com/marketplace/item/1474854948069789/
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11551-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Huge Estate Sale
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-LOCATION:113 Ithaca Ct\, East Stroudsburg\, PA 18301
+LOCATION:113 Ithaca Ct\, East Stroudsburg\, PA\, 18301
 DESCRIPTION:Estate sale. Entire contents of a home that belonged to an ant
  ique dealer. Many items....tools\, furniture\, pictures\, books\, jewelry
  \, clothing\, dishes\, silver service\, and much more. See this website f

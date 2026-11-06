@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11753-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Watchung Estate Furniture Sale
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T160000
-LOCATION:Watchung\, NJ\, 07069
+LOCATION:527 Ridge Rd\, Watchung\, NJ 07069
 DESCRIPTION:Exceptional Mid-Century & Solid Cherry Fine Furniture\nWelcome
   to an incredible collection of pristine\, high quality furniture. Whethe
  r you are looking for a singular item to enhance your home\, or to beauti

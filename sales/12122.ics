@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12122-20261116@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Western Art Auction
+DTSTART;TZID=America/New_York:20261116T235900
+LOCATION:Chatham\, NJ\, 07928
+DESCRIPTION:This sale of Fine Art\, Antiques & Contemporary Art presents a
+ n exceptional selection spanning centuries of artistry and craftsmanship.
+  Highlights include ancient Chinese works of art\, distinguished antique 
+ works of art\, exquisite jewellery\, fine timepieces from leading watchma
+ kers. Collectors will discover an array of works that combine historical 
+ significance with aesthetic appeal\, offering opportunities for both seas
+ oned connoisseurs and new buyers to acquire objects of enduring value.
+URL:https://www.estatesales.net/NJ/Chatham/07928/5149209
+END:VEVENT
+END:VCALENDAR

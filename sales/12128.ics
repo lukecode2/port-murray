@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12128-20261107@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Estate Sale 11/7
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:66 Hillcrest Rd\, Martinsville\, NJ\, 08836
+DESCRIPTION:Estate Sale | All-New Inventory! Retro Games\, Sports Memorabi
+ lia\, Vintage Audio & Tools\, clothes\, electronics\, etc. 📅 this Satu
+ rday\, 11/7 (8am-2pm no early birds) 📍 [66 Hillcrest Rd Martinsville N
+ J] Everything in this sale was newly acquired! Come browse the tables for
+  an original Nintendo Game Boy\, a vintage Lafayette stereo receiver\, Ne
+ w York sports memorabilia and plenty more. Video games — A PlayStation 
+ 2\, a white Xbox Elite controller with its case\, and games for Nintendo 
+ DS\, 3DS\, Wii\, Xbox and PlayStation. Highlights include Mario Party 9\,
+  Pokémon Battle Revolution\, Halo: Reach and GTA: Vice City. Sports and 
+ collectibles — Giancarlo Stanton and James Harden photo plaques with tr
+ ading cards\, New York Giants and Super Bowl footballs\, team hats and fr
+ amed Air Jordan sneaker art. Electronics — Speakers\, a Sharp AQUOS TV\
+ , a karaoke player\, laptops and cameras. Tools and outdoor gear — An e
+ lectric pressure washer\, a Black & Decker sander\, hand tools\, fishing 
+ lures and terracotta planters. Housewares and décor — Matching lamps w
+ ith beaded shades\, glassware\, a boxed flatware set\, Ball canning jars\
+ , baskets and small furniture. Clothing\, toys and media — Nike and Adi
+ das footwear\, jewelry\, remote-control trucks\, books\, DVDs\, CDs and V
+ HS tapes.
+URL:https://gsalr.com/estate-sale-117-martinsville-nj-38990733.html
+END:VEVENT
+END:VCALENDAR

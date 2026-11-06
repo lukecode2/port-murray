@@ -18,8 +18,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-11196-20261107@port-murray
-DTSTAMP:20261105T191358Z
+UID:sale-11288-20261107@port-murray
+DTSTAMP:20261106T172514Z
 SUMMARY:Multi Family Yard Sale
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
@@ -29,11 +29,11 @@ DESCRIPTION:Dates and Times:\nSaturday\, November  7\, 2026\n8:00 am - 3:0
  Ln\, Glen Gardner\, NJ 08826\nDescription:\nFurniture\, Outdoor Decor\, A
  rtwork many generations of collecting.\nComments\nSign in\nto add a comme
  nt or ask a question about this post.\nAdd Comment\nSocial Share:
-URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196450975
+URL:https://garagesalefinder.com/s/N9Tqv/11-dewey-ln-glen-gardner-nj-08826
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11196-20261108@port-murray
-DTSTAMP:20261105T191358Z
+UID:sale-11288-20261108@port-murray
+DTSTAMP:20261106T172514Z
 SUMMARY:Multi Family Yard Sale
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
@@ -43,6 +43,6 @@ DESCRIPTION:Dates and Times:\nSaturday\, November  7\, 2026\n8:00 am - 3:0
  Ln\, Glen Gardner\, NJ 08826\nDescription:\nFurniture\, Outdoor Decor\, A
  rtwork many generations of collecting.\nComments\nSign in\nto add a comme
  nt or ask a question about this post.\nAdd Comment\nSocial Share:
-URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196450975
+URL:https://garagesalefinder.com/s/N9Tqv/11-dewey-ln-glen-gardner-nj-08826
 END:VEVENT
 END:VCALENDAR

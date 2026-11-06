@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11179-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Grandparent’s Global Treasures Antiques\, Art\, Decorator Furnis
  hings
 DTSTART;TZID=America/New_York:20261106T110000
 DTEND;TZID=America/New_York:20261106T160000
-LOCATION:Denville\, NJ\, 07834
+LOCATION:16 Jade Circle \, Denville\, NJ 07834
 DESCRIPTION:Beloved Grandparents home filled with treasures from their tra
  vels. Lots of collections decorate the home.\nFurniture: Chenille Sofa\, 
  Pair Iron and Glass End Tables w/ Matching Coffee Table \, Decorative Met
@@ -49,12 +49,12 @@ URL:https://www.estatesales.net/NJ/Denville/07834/5143608
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11179-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Grandparent’s Global Treasures Antiques\, Art\, Decorator Furnis
  hings
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T160000
-LOCATION:Denville\, NJ\, 07834
+LOCATION:16 Jade Circle \, Denville\, NJ 07834
 DESCRIPTION:Beloved Grandparents home filled with treasures from their tra
  vels. Lots of collections decorate the home.\nFurniture: Chenille Sofa\, 
  Pair Iron and Glass End Tables w/ Matching Coffee Table \, Decorative Met

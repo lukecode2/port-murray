@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11750-20261115@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Milford NJ Online Estate Auction
 DTSTART;TZID=America/New_York:20261115T235900
-LOCATION:Milford\, NJ\, 08848
+LOCATION:Milford\, NJ 08848
 DESCRIPTION:READ ALL OF THIS BEFORE BIDDING !!  There is only one pickup d
  ay for this sale.  Friday Nov.20th from 9:30am to 4:30pm.  All items will
   need to be picked up in Milford NJ.  Pick up address will be sent out da

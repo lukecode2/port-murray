@@ -18,13 +18,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-10987-20261106@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
- es
+UID:sale-11135-20261106@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:One Of A Kind Finds in Somerset- MCM\, Vintage & Collectibles
 DTSTART;TZID=America/New_York:20261106T100000
 DTEND;TZID=America/New_York:20261106T150000
-LOCATION:Franklin Township\, NJ\, 08873
+LOCATION:14 Leupp Ln\, Franklin Township\, NJ\, 08873
 DESCRIPTION:White Pine Estate Sales is teaming up with Inside Out Estate S
  ales to present THREE DAYS OF UNUSUAL FINDS & ONE-OF-A-KIND TREASURES. Fr
  om the home of a 45+ year collector of top quality items\, you’ll find 
@@ -48,13 +47,12 @@ URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
  inds-2470579
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-10987-20261107@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
- es
+UID:sale-11135-20261107@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:One Of A Kind Finds in Somerset- MCM\, Vintage & Collectibles
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T150000
-LOCATION:Franklin Township\, NJ\, 08873
+LOCATION:14 Leupp Ln\, Franklin Township\, NJ\, 08873
 DESCRIPTION:White Pine Estate Sales is teaming up with Inside Out Estate S
  ales to present THREE DAYS OF UNUSUAL FINDS & ONE-OF-A-KIND TREASURES. Fr
  om the home of a 45+ year collector of top quality items\, you’ll find 
@@ -78,13 +76,12 @@ URL:https://estatesales.org/estate-sales/nj/somerset/08873/one-of-a-kind-f
  inds-2470579
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-10987-20261108@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:One Of A Kind Finds in Somerset- Spectacular Antiques & Collectibl
- es
+UID:sale-11135-20261108@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:One Of A Kind Finds in Somerset- MCM\, Vintage & Collectibles
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T150000
-LOCATION:Franklin Township\, NJ\, 08873
+LOCATION:14 Leupp Ln\, Franklin Township\, NJ\, 08873
 DESCRIPTION:White Pine Estate Sales is teaming up with Inside Out Estate S
  ales to present THREE DAYS OF UNUSUAL FINDS & ONE-OF-A-KIND TREASURES. Fr
  om the home of a 45+ year collector of top quality items\, you’ll find 

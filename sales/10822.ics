@@ -18,12 +18,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-11547-20261107@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:Diggers Delight Loaded Estate Sale
+UID:sale-10822-20261107@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Estate Sale Full Contents
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T180000
-LOCATION:5 Oakura lane
+LOCATION:5 OaKura Lane \, Bedminster\, NJ 07921
 DESCRIPTION:Estate Sale Full Contents Loaded\nJohn Deer Gator\, auctioned 
  off at 10am\nloads of tools\,\nLoaded garage\, barn of tools and equipmen
  t\, antique scales\, woodworking tools\, antiques\, plants\, greenhouse i

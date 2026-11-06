@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-10817-20261105@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Winterview Farm Moving Sale
 DTSTART;TZID=America/New_York:20261105T100000
 DTEND;TZID=America/New_York:20261105T150000
-LOCATION:911 Ravine Road\, Califon\, NJ\, 07830
+LOCATION:911 Ravine Road\, Califon\, NJ 07830
 DESCRIPTION:Winterview Farm contents sale after 30 years of occupancy. Ple
  ase note: Most furniture and all oriental rugs have been purchased by the
   Buyer of our home. Some furniture\, lamps\, antiques\, kitchenware\, hol
@@ -36,11 +36,11 @@ URL:https://www.estatesales.net/NJ/Califon/07830/5131944
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-10817-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Winterview Farm Moving Sale
 DTSTART;TZID=America/New_York:20261106T100000
 DTEND;TZID=America/New_York:20261106T150000
-LOCATION:911 Ravine Road\, Califon\, NJ\, 07830
+LOCATION:911 Ravine Road\, Califon\, NJ 07830
 DESCRIPTION:Winterview Farm contents sale after 30 years of occupancy. Ple
  ase note: Most furniture and all oriental rugs have been purchased by the
   Buyer of our home. Some furniture\, lamps\, antiques\, kitchenware\, hol
@@ -53,11 +53,11 @@ URL:https://www.estatesales.net/NJ/Califon/07830/5131944
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-10817-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Winterview Farm Moving Sale
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T150000
-LOCATION:911 Ravine Road\, Califon\, NJ\, 07830
+LOCATION:911 Ravine Road\, Califon\, NJ 07830
 DESCRIPTION:Winterview Farm contents sale after 30 years of occupancy. Ple
  ase note: Most furniture and all oriental rugs have been purchased by the
   Buyer of our home. Some furniture\, lamps\, antiques\, kitchenware\, hol
@@ -70,11 +70,11 @@ URL:https://www.estatesales.net/NJ/Califon/07830/5131944
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-10817-20261108@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Winterview Farm Moving Sale
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T150000
-LOCATION:911 Ravine Road\, Califon\, NJ\, 07830
+LOCATION:911 Ravine Road\, Califon\, NJ 07830
 DESCRIPTION:Winterview Farm contents sale after 30 years of occupancy. Ple
  ase note: Most furniture and all oriental rugs have been purchased by the
   Buyer of our home. Some furniture\, lamps\, antiques\, kitchenware\, hol

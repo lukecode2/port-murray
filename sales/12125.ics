@@ -18,48 +18,48 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-11895-20261106@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:Estate Sale Sparta
+UID:sale-12125-20261106@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Last Call Moving Sale
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-LOCATION:Sparta\, NJ
+LOCATION:10 Van Kirk Pl\, Sparta\, NJ\, 07871
 DESCRIPTION:Friday\, November 6 Sunday\, November 8 10AM-3PM 📍 10 Van K
  irk Place\, Sparta All must go! Last chance to come out for great finds. 
  We are running the sale on behalf of the homeowner. Please come to the sa
  le\, we will not have the opportunity to answer questions. Call [hidden i
  nformation] if there is something specific you would like information on 
  and we will do our best to respond in a timely fashion.
-URL:https://www.facebook.com/marketplace/item/1803973427422782/
+URL:https://gsalr.com/last-call-moving-sale-sparta-nj-38990529.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11895-20261107@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:Estate Sale Sparta
+UID:sale-12125-20261107@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Last Call Moving Sale
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-LOCATION:Sparta\, NJ
+LOCATION:10 Van Kirk Pl\, Sparta\, NJ\, 07871
 DESCRIPTION:Friday\, November 6 Sunday\, November 8 10AM-3PM 📍 10 Van K
  irk Place\, Sparta All must go! Last chance to come out for great finds. 
  We are running the sale on behalf of the homeowner. Please come to the sa
  le\, we will not have the opportunity to answer questions. Call [hidden i
  nformation] if there is something specific you would like information on 
  and we will do our best to respond in a timely fashion.
-URL:https://www.facebook.com/marketplace/item/1803973427422782/
+URL:https://gsalr.com/last-call-moving-sale-sparta-nj-38990529.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11895-20261108@port-murray
-DTSTAMP:20261105T191358Z
-SUMMARY:Estate Sale Sparta
+UID:sale-12125-20261108@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Last Call Moving Sale
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
-LOCATION:Sparta\, NJ
+LOCATION:10 Van Kirk Pl\, Sparta\, NJ\, 07871
 DESCRIPTION:Friday\, November 6 Sunday\, November 8 10AM-3PM 📍 10 Van K
  irk Place\, Sparta All must go! Last chance to come out for great finds. 
  We are running the sale on behalf of the homeowner. Please come to the sa
  le\, we will not have the opportunity to answer questions. Call [hidden i
  nformation] if there is something specific you would like information on 
  and we will do our best to respond in a timely fashion.
-URL:https://www.facebook.com/marketplace/item/1803973427422782/
+URL:https://gsalr.com/last-call-moving-sale-sparta-nj-38990529.html
 END:VEVENT
 END:VCALENDAR

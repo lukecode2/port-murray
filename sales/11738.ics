@@ -18,25 +18,25 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-11182-20261107@port-murray
-DTSTAMP:20261105T191358Z
+UID:sale-11738-20261107@port-murray
+DTSTAMP:20261106T172514Z
 SUMMARY:Estate Sale - Morris Plains
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T140000
-LOCATION:Cedar Knolls\, NJ\, 07927
+LOCATION:1404 White Pine Court\, Cedar Knolls\, NJ 07927
 DESCRIPTION:EVERYTHING MUST GO!!!\nEthan Allen Furniture\, All Clad\, Uggs
   and more!
-URL:https://www.estatesales.net/NJ/Cedar%20Knolls/07927/5132931
+URL:https://www.estatesales.net/NJ/Cedar-Knolls/07927/5132931
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11182-20261108@port-murray
-DTSTAMP:20261105T191358Z
+UID:sale-11738-20261108@port-murray
+DTSTAMP:20261106T172514Z
 SUMMARY:Estate Sale - Morris Plains
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T140000
-LOCATION:Cedar Knolls\, NJ\, 07927
+LOCATION:1404 White Pine Court\, Cedar Knolls\, NJ 07927
 DESCRIPTION:EVERYTHING MUST GO!!!\nEthan Allen Furniture\, All Clad\, Uggs
   and more!
-URL:https://www.estatesales.net/NJ/Cedar%20Knolls/07927/5132931
+URL:https://www.estatesales.net/NJ/Cedar-Knolls/07927/5132931
 END:VEVENT
 END:VCALENDAR

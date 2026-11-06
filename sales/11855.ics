@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11855-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Long Valley Beaver Brook Treasures\, One Day this Saturday\, 11/7 
  !!!
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T160000
-LOCATION:Long Valley\, NJ\, 07853
+LOCATION:14 Beaver Brook Drive\, Long Valley\, NJ 07853
 DESCRIPTION:Estate Sale featuring… Collectibles\, Housewares\, Clothing\
  , Furniture\, Objects of Art\, Seasonal Gift Items and more!! Please join
   us for a fun day of Shopping. The refreshments are always free and you w

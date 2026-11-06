@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11740-20261114@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Designer Clothes & Shoes\, Antiques\, Christmas\, Fine Dining & Mo
  re
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:Annandale\, NJ\, 08801
+LOCATION:Annandale\, NJ 08801
 DESCRIPTION:..\nButterfly Estate Sales\n..\ninvites you to an impressive h
  ome in Annandale for a sale filled with an unbelievable amount of Christm
  as and holiday decor\, impeccably maintained antique furniture\, large co
@@ -41,12 +41,12 @@ URL:https://www.estatesales.net/NJ/Annandale/08801/5119422
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11740-20261115@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Designer Clothes & Shoes\, Antiques\, Christmas\, Fine Dining & Mo
  re
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T150000
-LOCATION:Annandale\, NJ\, 08801
+LOCATION:Annandale\, NJ 08801
 DESCRIPTION:..\nButterfly Estate Sales\n..\ninvites you to an impressive h
  ome in Annandale for a sale filled with an unbelievable amount of Christm
  as and holiday decor\, impeccably maintained antique furniture\, large co

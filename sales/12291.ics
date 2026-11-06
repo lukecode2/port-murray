@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12291-20261107@port-murray
+DTSTAMP:20261106T172514Z
+SUMMARY:Moving Sale
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+LOCATION:91 Butler Pkwy\, Summit\, NJ\, 07901
+DESCRIPTION:Date and Time:\nSaturday\, November  7\, 2026\n9:00 am - 2:00 
+ pm\nAddress:\n91 Butler Pkwy\, Summit\, NJ 07901\nDescription:\nMemory fo
+ am mattress 12 inch queen sz  50.00\,  good condition\nLeather sofa with 
+ 2 recliners  75.00\nBicycles 10.00\nMore furnitures\, shelving\, garden t
+ ools\,  garden hose\,\nMany more items.\nPay by cash or Zelle\nComments\n
+ Sign in\nto add a comment or ask a question about this post.\nAdd Comment
+ \nSale Photos:\n(5 photos) View photo gallery »\nSocial Share:
+URL:https://garagesalefinder.com/s/N9Dlz/91-butler-pkwy-summit-nj-07901
+END:VEVENT
+END:VCALENDAR

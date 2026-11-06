@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11745-20261113@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
 DTSTART;TZID=America/New_York:20261113T100000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:Randolph\, NJ\, 07869
+LOCATION:Randolph\, NJ 07869
 DESCRIPTION:Sale is Friday and Saturday - don't wait for the lower prices 
  on Saturday. It is all priced to sell!\nOn Sunday\, it will be $40 to ent
  er and take what ever you want.\nDo your Holiday shopping here! These own
@@ -55,11 +55,11 @@ URL:https://www.estatesales.net/NJ/Randolph/07869/5142168
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11745-20261114@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T160000
-LOCATION:Randolph\, NJ\, 07869
+LOCATION:Randolph\, NJ 07869
 DESCRIPTION:Sale is Friday and Saturday - don't wait for the lower prices 
  on Saturday. It is all priced to sell!\nOn Sunday\, it will be $40 to ent
  er and take what ever you want.\nDo your Holiday shopping here! These own
@@ -91,11 +91,11 @@ URL:https://www.estatesales.net/NJ/Randolph/07869/5142168
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11745-20261115@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T120000
-LOCATION:Randolph\, NJ\, 07869
+LOCATION:Randolph\, NJ 07869
 DESCRIPTION:Sale is Friday and Saturday - don't wait for the lower prices 
  on Saturday. It is all priced to sell!\nOn Sunday\, it will be $40 to ent
  er and take what ever you want.\nDo your Holiday shopping here! These own

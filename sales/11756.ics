@@ -19,12 +19,64 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11756-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Phabulus in Phillipsburg!
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-LOCATION:802 Charles Rd\, Phillipsburg\, NJ 08865
-DESCRIPTION:802 Charles Rd. Phillipsburg
+DTSTART;TZID=America/New_York:20261107T093000
+DTEND;TZID=America/New_York:20261107T153000
+LOCATION:802 Charles Rd\, Phillipsburg\, NJ\, 08865
+DESCRIPTION:Join us in Phillipsburg\, NJ for an extraordinary\, high-quali
+ ty one-day estate sale!\nThis home is in phenomenal condition\, spotlessl
+ y clean\, and packed with an eclectic mix of fine antique furniture\, pow
+ er tools\, woodshop machinery\, musical instruments\, fine crystal and ch
+ ina\, cookware\, fashion accessories\, and outdoor gear.\nJUST ADDED: 200
+ 0 TOYOTA TUNDRA SR5 ACCESS CAB 2WD only 158k miles!\nEverything is priced
+  to sell fast\, and because this is a strict one-day event\, no reasonabl
+ e offer will be turned down!\nFeatured Sale Highlights\nFine Furniture & 
+ Lighting:\nPolished Cherry Buffet / Server:\nTraditional wood buffet cabi
+ net with two top drawers and panel doors.\nMatching Table Lamps:\nPair of
+  wooden-stem table lamps with dark green tapered shades.\nGrand China Cab
+ inet & Dining Set:\nSolid wood lighted china cabinet with matching oval d
+ ining table and carved chairs.\nAntique & Accent Furniture:\nBlack Windso
+ r chairs\, antique carved caned armchairs\, traditional wooden rocker\, t
+ wo-tone country hutch\, slatted garden bench with planter boxes\, cabriol
+ e side table\, wrought-iron baker’s rack\, entryway storage bench\, and
+  upholstered armchair.\nMusical Instruments\, Fine Crystal & Collectibles
+ :\nFull-Size Acoustic Violin:\nWooden violin with bow\, resting in a fitt
+ ed hard case.\nCut Crystal & Glassware Collection:\nElegant cut-crystal s
+ temmed wine/water goblets\, etched floral crystal bowl with feet\, and fr
+ osted glass vase.\nPfaltzgraff "Winterberry" 12 Days of Christmas Dessert
+  Plate Set:\nIn original box.\nApparel & Accessories:\nVera Bradley quilt
+ ed paisley crossbody purse\, scarves\, and shearling slippers\, plus vint
+ age Beaver Brand top hat.\nKitchenware\, Cookware & Small Appliances:\nNo
+ n-Stick & Cast-Iron Cookware:\nCopper-tone non-stick frying pan set\, hea
+ vy-duty cast-iron skillet\, L.L. Bean insulated green tumbler\, and ceram
+ ic spoon rest.\nDual Beverage Dispensers with Stand:\nGlass drink dispens
+ er set with spigots and wire stand.\nChef’sChoice Diamond Hone Electric
+  Knife Sharpener:\nCountertop precision sharpener.\nGlassware & Pyrex:\nC
+ overed Pyrex casserole dishes and measuring cups.\nSmall Appliances:\nKit
+ chenAid Artisan Stand Mixer (Empire Red)\, Breadman Bread Maker\, Emerson
+  Microwave\, and Mr. Coffee Coffeemaker.\nPorcelain & Ceramic Sets:\nVict
+ orian-style wash basin and pitcher set and fine floral tea set.\nTools\, 
+ Machinery & Woodshop:\nCraftsman Radial Arm Saw:\nMounted heavy-duty radi
+ al arm saw.\nCraftsman 16-Gallon Shop Vac:\n5.0 Peak H.P. wet/dry vacuum.
+ \nBlack & Decker Router Table:\nModel No. 76-400 benchtop router table.\n
+ Skil Router Bit Sets:\nStraight and roundover bit sets.\nDelta Sidekick B
+ uilder’s Saw:\nPortable builder's table saw.\nWoodworking Workbench & C
+ lamps:\nSolid workbench with vise\, vintage wooden hand-screw clamps\, an
+ d cast-iron bar clamps.\nSchauer Battery Charger:\n10 Amp 6/12 Volt batte
+ ry charger.\nHardware Storage & Utility:\nLabeled hardware cabinets\, Flo
+ tec Tempest utility pump\, Werner aluminum ladder\, Truper wheelbarrow\, 
+ shovels/brooms\, and pegboard setup.\nBicycles\, Outdoor Recreation & Tra
+ vel:\nVintage Cruiser Bicycle:\nWomen's black step-through cruiser bike w
+ ith front wicker basket.\nChar-Broil Commercial Series Grill:\nStainless 
+ steel outdoor gas grill.\nStorage & Water Supplies:\nHeavy-duty blue stor
+ age totes and pair of 7-gallon Reliance Aqua-Tainer water jugs.\nIgloo Pl
+ aymate coolers\, solar pool covers\, green pet carrier\, Sentry 3100 safe
+ \, and luggage collection.\nFine Art & Media:\nFramed Art:\nRing-necked p
+ heasants print\, Monet\nWater Lilies\nprint\, Delobbe\nRest in Harvest\np
+ rint\, country farmhouse print\, and large silver wall mirror.\nMedia:\nM
+ assive collection of\nDVDs\n(\nHeartland\nseasons\, movies) and\nCDs\n(Ja
+ zz\, Pop\, Big Band).
 URL:https://gsalr.com/phabulus-in-phillipsburg-phillipsburg-nj-38988849.ht
  ml
 END:VEVENT

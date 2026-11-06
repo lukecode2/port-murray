@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11181-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Warren Estate Moving Sale\, All MUST GO!
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T160000
-LOCATION:Warren\, NJ\, 07059
+LOCATION:22 Cambridge Drive \, Warren\, NJ 07059
 DESCRIPTION:MOVING ESTATE SALE\nIN WARREN NJ\nfurniture\nclothing\ncrystal
  \ntoys\nlegos\nStar Wars\nbicycles\ndecorative accessories\nart\nmirrors\
  noutdoor cement garden figures\npair lions\nBuddha’s\npagoda\npair larg
@@ -33,11 +33,11 @@ URL:https://www.estatesales.net/NJ/Warren/07059/5140881
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11181-20261108@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Warren Estate Moving Sale\, All MUST GO!
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T160000
-LOCATION:Warren\, NJ\, 07059
+LOCATION:22 Cambridge Drive \, Warren\, NJ 07059
 DESCRIPTION:MOVING ESTATE SALE\nIN WARREN NJ\nfurniture\nclothing\ncrystal
  \ntoys\nlegos\nStar Wars\nbicycles\ndecorative accessories\nart\nmirrors\
  noutdoor cement garden figures\npair lions\nBuddha’s\npagoda\npair larg

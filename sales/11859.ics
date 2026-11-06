@@ -19,34 +19,40 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11859-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Estate Sale
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-LOCATION:20 Edgemere Ave\, Mount Arlington\, NJ\, 07856
-DESCRIPTION:Furniture - vintage drop leaf desk\, unusual tall dresser\, wo
- oden shelving unit\, beautiful round wooden table\, oak sofa table\, Bedr
- oom night stand\, vintage tea cart\, 2 glass top long tables\, glass top 
- patio table and chairs with matching sofa\, large desk\, long bar\, file 
- cabinet.  Lovely housewares\, kitchenware\, Christmas items\, framed art\
- , electronics\, books\, many CD's\, bedding\, wheel chairs\, cat boxes.  
- Plus much more!
+DTSTART;TZID=America/New_York:20261106T090000
+DTEND;TZID=America/New_York:20261106T040000
+LOCATION:20 Edgemere Ave\, Mount Arlington\, NJ 07856
+DESCRIPTION:ESTATE SALE - 20 Edgemere Ave\, Mt Arlington (Fri. 11/6 and Sa
+ t. 11/7 7 9AM - 4PM. ) Vintage desk\, wooden shelving unit\, oak sofa tab
+ le\, 2 glass top long tables\, patio table with chairs and matching sofa\
+ , large desk\, long bar. Housewares\, kitchenware\, Christmas items\, fra
+ med art\, electronics\, books and CD’s. Plus much more! Please note: Th
+ is is a CASH ONLY SALE. Unfortunately\, we can not hold items\, accept of
+ fers or field any questions via instant message prior to the sale. So…w
+ e look forward to seeing you all this Friday\; please bring your trucks\,
+  tape measures\, bungee cords\, spouses and whatever else u need to bring
+  your treasures home with you. 🤗
 URL:https://gsalr.com/estate-sale-mount-arlington-nj-38989319.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11859-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Estate Sale
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-LOCATION:20 Edgemere Ave\, Mount Arlington\, NJ\, 07856
-DESCRIPTION:Furniture - vintage drop leaf desk\, unusual tall dresser\, wo
- oden shelving unit\, beautiful round wooden table\, oak sofa table\, Bedr
- oom night stand\, vintage tea cart\, 2 glass top long tables\, glass top 
- patio table and chairs with matching sofa\, large desk\, long bar\, file 
- cabinet.  Lovely housewares\, kitchenware\, Christmas items\, framed art\
- , electronics\, books\, many CD's\, bedding\, wheel chairs\, cat boxes.  
- Plus much more!
+LOCATION:20 Edgemere Ave\, Mount Arlington\, NJ 07856
+DESCRIPTION:ESTATE SALE - 20 Edgemere Ave\, Mt Arlington (Fri. 11/6 and Sa
+ t. 11/7 7 9AM - 4PM. ) Vintage desk\, wooden shelving unit\, oak sofa tab
+ le\, 2 glass top long tables\, patio table with chairs and matching sofa\
+ , large desk\, long bar. Housewares\, kitchenware\, Christmas items\, fra
+ med art\, electronics\, books and CD’s. Plus much more! Please note: Th
+ is is a CASH ONLY SALE. Unfortunately\, we can not hold items\, accept of
+ fers or field any questions via instant message prior to the sale. So…w
+ e look forward to seeing you all this Friday\; please bring your trucks\,
+  tape measures\, bungee cords\, spouses and whatever else u need to bring
+  your treasures home with you. 🤗
 URL:https://gsalr.com/estate-sale-mount-arlington-nj-38989319.html
 END:VEVENT
 END:VCALENDAR

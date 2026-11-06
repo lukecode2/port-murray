@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11854-20261106@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:This is a No Joke Estate Sale! 3 days only Massive event
 DTSTART;TZID=America/New_York:20261106T100000
 DTEND;TZID=America/New_York:20261106T170000
-LOCATION:125 Main Street \, Andover\, NJ\, 07821
+LOCATION:125 Main Street \, Andover\, NJ 07821
 DESCRIPTION:THIS IS A NO-JOKE SALE.\nthis is all weekend – MASSIVE EVENT
   in the town of Andover. Made in the Shade is hosting a HUGE\, 3-DAY\, MU
  ST-SEE estate sale in Andover\, New Jersey. Everything has been brought b
@@ -45,11 +45,11 @@ URL:https://www.estatesales.net/NJ/Andover/07821/5147739
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11854-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:This is a No Joke Estate Sale! 3 days only Massive event
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T170000
-LOCATION:125 Main Street \, Andover\, NJ\, 07821
+LOCATION:125 Main Street \, Andover\, NJ 07821
 DESCRIPTION:THIS IS A NO-JOKE SALE.\nthis is all weekend – MASSIVE EVENT
   in the town of Andover. Made in the Shade is hosting a HUGE\, 3-DAY\, MU
  ST-SEE estate sale in Andover\, New Jersey. Everything has been brought b
@@ -71,11 +71,11 @@ URL:https://www.estatesales.net/NJ/Andover/07821/5147739
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11854-20261108@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:This is a No Joke Estate Sale! 3 days only Massive event
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T170000
-LOCATION:125 Main Street \, Andover\, NJ\, 07821
+LOCATION:125 Main Street \, Andover\, NJ 07821
 DESCRIPTION:THIS IS A NO-JOKE SALE.\nthis is all weekend – MASSIVE EVENT
   in the town of Andover. Made in the Shade is hosting a HUGE\, 3-DAY\, MU
  ST-SEE estate sale in Andover\, New Jersey. Everything has been brought b

@@ -19,26 +19,31 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-5344-20261120@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Two-Day Quality Antiques and Holiday Auction (Day #2)
-DTSTART;TZID=America/New_York:20261120T100000
+DTSTART;TZID=America/New_York:20261120T235900
 DTEND;TZID=America/New_York:20261120T140000
 LOCATION:521 Richmond Road\, Bangor\, PA
-DESCRIPTION:Catalog – Bid Now !!\nFestive Finds:  Two-Day Quality Antiq
- ues and Holiday Auction\nat Hartzell’s Auction Gallery\, Inc.\, Bangor\
- , PA\nNovember 19\nth\n& 20\nth\n@ 10M\nIn-Person & Live Auctioneers\nDay
-  Two Includes:  Art Glass and Art Pottery (Fulper / Weller)\, Tiffany & 
- Co. “San Lorenzo” Sterling Silver Flatware Set (201-Pieces\, Service 
- for 12)\, Victorian Lamps and Kerosene Lights\, Bride’s Baskets and Epe
- rgnes\, Paintings and Rugs\, Tiffany & Co. Sterling Silver Flatware Set\,
-  Blown Glass Rolling Pins and Darners\,  Bronzes and Daguerreotypes\, Or
- ientalia and Cloisonne\, Canes and Walking Sticks\, Music Boxes and Victo
- rian Furniture\, Blue Decorated Stoneware and Spongeware\, Advertising an
- d Woodenware\,  Stereoviewers and Magic Lanterns\, Doorstops and Banks\,
-  and MORE.\nAuctioneer:\nHartzell’s Auction Gallery Inc.\n521 Richmond 
- Road\, Bangor\, PA  18013\nPhone:\n610.588.5831\nToll Free:\n1.800.724.6
- 808\nFax:\n610.588.6206\nPA # AU – 000395-L  |  AH – 1919  |  EST
- . 1943\n[caldera_form id="CF5c7434bbb1a01"]
+DESCRIPTION:650+FEATURING A 2005 FORD GT\,V-8\, SUPERCHARGED 5.4L. ENGINE\
+ , 330CID\, DOHC MANUAL TRANSMISSION. 41\,310 MILES\, VIN #1FAFP90SX5Y4015
+ 34 - FOUR FACTORY OPTIONS\; LEMANS RACING STRIPES\, BB FORGED ALUMINUM WH
+ EELS\, GLOW RED PAINTED BRAKE CALIPERS\, AND MCINTOSH PREMIUM SOUND SYSTE
+ M -   Lots of Country\, Primitives\, Victorian\, Native American\, Textil
+ es and Furniture.  Including:  Fine Watches and Jewelry\, Tiffany & Co. S
+ terling Flatware Set\, Humpty Dumpty Circus by Schoenhut\, White?s Utica 
+ Stoneware\, Blue Decorated Crocks and Jugs\, Stoneware Advertising Jugs\,
+  Spongeware\, Pottery Banks\, Lunch Pails\,Wooden Bowls and Gameboards\, 
+ Quilts and Textiles\, Navajo Rugs and Effigy Ladle\, Baskets\, Tramp Art 
+ and Duck Decoys\, Cast Iron Mechanical and Still Banks\, Cast Iron Toys a
+ nd Doorstops\, Miniatures and Patent Models\, Nutmeg Grater Collection\, 
+ Ice Cream Dippers and Molds\, Coffee Grinders\, Toy Cast Iron Stoves and 
+ Accessories\, Victorian Lighting and Miniature Kerosene Lamps\, Epergnes 
+ and Bride?s Baskets\, Uranium Glass\, Chinese / Japanese Cloisonne and Po
+ rcelain\, Gadget Canes and Walking Sticks\, Daguerreotypes and Tintypes\,
+  Nautical Items\, Glass and Stoneware Advertising Rolling Pins\, Games an
+ d Marbles\, Art Glass and  Pottery\, Artwork (Sterling Strauser\, Jack Sa
+ vitsky\, Justin McCarthy)\, 19th C. Landscapes and Portraits\, Corner Cup
+ board\, Drysink\, Jelly Cupboard\, Stack Bookcase and More.
 URL:https://www.hartzellsauction.com/event/two-day-quality-antiques-and-ho
  liday-auction-day-2/
 END:VEVENT

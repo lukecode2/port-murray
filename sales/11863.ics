@@ -19,14 +19,17 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11863-20261107@port-murray
-DTSTAMP:20261105T191358Z
+DTSTAMP:20261106T172514Z
 SUMMARY:Lego Indoor Garage Sale!
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 LOCATION:137 Mountain Ave\, Hackettstown\, NJ\, 07840
-DESCRIPTION:Hundreds of used sets\, parts\, minifigures\, from 20+ years o
- f science camps. We are clearing out and making room for new.\n9:00-1:00 
- this Saturday.
+DESCRIPTION:Date and Time:\nSaturday\, November  7\, 2026\n9:00 am - 2:00 
+ pm\nAddress:\n137 Mountain Ave\, Hackettstown\, NJ 07840\nDescription:\nH
+ undreds of used sets\, parts\, minifigures\, from 20+ years of science ca
+ mps. We are clearing out and making room for new.\n9:00-1:00 this Saturda
+ y.\nComments\nSign in\nto add a comment or ask a question about this post
+ .\nAdd Comment\nSocial Share:
 URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196454135
 END:VEVENT
 END:VCALENDAR
