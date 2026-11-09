@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12335-20261120@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:Bridgewater Estate Sale -Tools\, Decor\, Clothing\, Instruments\, 
  Albums and MORE!
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T140000
 LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:This sale features skis\, tools including professional chains
  aw & power washer\, sports ephemera\, MCM\, lamps\, Hummels\, Dolls inc
@@ -36,11 +36,11 @@ URL:https://estatesales.org/estate-sales/nj/bridgewater/08807/bridgewater-
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12335-20261121@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:Bridgewater Estate Sale -Tools\, Decor\, Clothing\, Instruments\, 
  Albums and MORE!
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T140000
 LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:This sale features skis\, tools including professional chains
  aw & power washer\, sports ephemera\, MCM\, lamps\, Hummels\, Dolls inc

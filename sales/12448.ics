@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12448-20261114@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:Once & Again in Boonton Twp
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:Boonton Township\, NJ\, 07005
+LOCATION:Boonton Township\, NJ 07005
 DESCRIPTION:Once & Again\nin\nBOONTON TOWNSHIP\nPre Sale Appointments are 
  available but limited prior to start of our public sale\nSimply text 973-
  713-4780\nFeatured in this home\;\n*Jewelry\n*Home decor\n*Lamps\n*Music 
@@ -36,11 +36,11 @@ URL:https://www.estatesales.net/NJ/Boonton%20Township/07005/5114508
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12448-20261115@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:Once & Again in Boonton Twp
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T150000
-LOCATION:Boonton Township\, NJ\, 07005
+LOCATION:Boonton Township\, NJ 07005
 DESCRIPTION:Once & Again\nin\nBOONTON TOWNSHIP\nPre Sale Appointments are 
  available but limited prior to start of our public sale\nSimply text 973-
  713-4780\nFeatured in this home\;\n*Jewelry\n*Home decor\n*Lamps\n*Music 

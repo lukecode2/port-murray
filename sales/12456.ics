@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12456-20261109@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:Free Stuff Monday Only 11/09 9:30 - 11 Am Only
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-LOCATION:802 Charles Rd\, Phillipsburg\, NJ\, 08865
+LOCATION:802 Charles Rd\, Phillipsburg\, NJ 08865
 DESCRIPTION:Date and Time:\nMonday\, November  9\, 2026\n9:30 am - 11:00 a
  m\nAddress:\n802 Charles Rd\, Phillipsburg\, NJ 08865\nDescription:\nLast
   chance to get incredible Estate Sale leftovers. Due to the bacon fest th

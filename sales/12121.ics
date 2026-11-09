@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12121-20261120@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:WMS in a Contemporary house!
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T160000
-LOCATION:Berkeley Heights\, NJ\, 07922
+LOCATION:Berkeley Heights\, NJ 07922
 DESCRIPTION:We will be in Berkeley Heights for 3 days in a gorgeous contem
  porary house. A lovely home with lots for every need and desire.\nBeautif
  ul rugs\, dining set\, huge sofa\, office furniture\, beds\, and small fu
@@ -35,11 +35,11 @@ URL:https://www.estatesales.net/NJ/Berkeley-Heights/07922/5144751
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12121-20261121@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:WMS in a Contemporary house!
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Berkeley Heights\, NJ\, 07922
+LOCATION:Berkeley Heights\, NJ 07922
 DESCRIPTION:We will be in Berkeley Heights for 3 days in a gorgeous contem
  porary house. A lovely home with lots for every need and desire.\nBeautif
  ul rugs\, dining set\, huge sofa\, office furniture\, beds\, and small fu
@@ -51,11 +51,11 @@ URL:https://www.estatesales.net/NJ/Berkeley-Heights/07922/5144751
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12121-20261122@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:WMS in a Contemporary house!
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T150000
-LOCATION:Berkeley Heights\, NJ\, 07922
+LOCATION:Berkeley Heights\, NJ 07922
 DESCRIPTION:We will be in Berkeley Heights for 3 days in a gorgeous contem
  porary house. A lovely home with lots for every need and desire.\nBeautif
  ul rugs\, dining set\, huge sofa\, office furniture\, beds\, and small fu

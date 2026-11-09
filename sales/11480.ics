@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11480-20261110@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:582- Nazareth Estate Auction (Nazareth\, PA)
 DTSTART;TZID=America/New_York:20261110T180000
-LOCATION:Off Site\, Nazareth\, PA\, 18064
+LOCATION:Off Site
 DESCRIPTION:Explore an elegant collection of fine china\, collectibles\, d
  esigner handbags\, and fashionable footwear at this exciting auction! Fea
  turing Mikasa\, Lenox\, Royal Doulton\, Minton\, Bavarian china\, and bea

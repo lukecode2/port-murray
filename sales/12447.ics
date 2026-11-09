@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12447-20261114@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:The One You Have Been Waiting For - Part 2!
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T160000
-LOCATION:Hillsborough\, NJ\, 08844
+LOCATION:Hillsborough\, NJ 08844
 DESCRIPTION:**WE ARE BACK...BY POPULAR REQUEST!**\nThere was A LOT to take
   in the first time around in October but have heard your call and are wil
  ling to open the doors (and Lorraine’s closet!) for a few more days to 
@@ -69,11 +69,11 @@ URL:https://www.estatesales.net/NJ/Hillsborough/08844/5150253
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12447-20261115@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:The One You Have Been Waiting For - Part 2!
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T150000
-LOCATION:Hillsborough\, NJ\, 08844
+LOCATION:Hillsborough\, NJ 08844
 DESCRIPTION:**WE ARE BACK...BY POPULAR REQUEST!**\nThere was A LOT to take
   in the first time around in October but have heard your call and are wil
  ling to open the doors (and Lorraine’s closet!) for a few more days to 

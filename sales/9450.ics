@@ -19,15 +19,15 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-9450-20261110@port-murray
-DTSTAMP:20261109T153835Z
+DTSTAMP:20261109T170541Z
 SUMMARY:Estate Sale
 DTSTART;TZID=America/New_York:20261110T110000
 DTEND;TZID=America/New_York:20261110T040000
-LOCATION:607 Center St\, Bethlehem\, PA\, 18018
-DESCRIPTION:Come as you are!\nEstate Sale in Bethlehem PA\, come out on No
- vember 10th from 11-4pm.\nEverything goes ! Priced to sell.\n75” Samsun
- g Tv with tv mount\nCouch\nLove Seats\nBarstool\nDryer\nQueen Bed Frame\n
- Long Table\nEnd Table\nCabinet\nChristmas Tree\nPainting
+LOCATION:607 Center St\, Bethlehem\, PA 18018
+DESCRIPTION:Come as you are! \nEstate Sale in Bethlehem PA\, come out on N
+ ovember 10th from 11-4pm. \n\nEverything goes ! Priced to sell. \n75” S
+ amsung Tv with tv mount \nCouch\nLove Seats\nBarstool\nDryer\nQueen Bed F
+ rame\nLong Table \nEnd Table\nCabinet \nChristmas Tree\nPainting
 URL:https://gsalr.com/estate-sale-bethlehem-pa-38981063.html
 END:VEVENT
 END:VCALENDAR
