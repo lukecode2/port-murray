@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11748-20261112@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
   11/12-11/14
 DTSTART;TZID=America/New_York:20261112T093000
 DTEND;TZID=America/New_York:20261112T140000
-LOCATION:Bridgewater\, NJ 08807
+LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
  pm: https://form.jotform.com/262996317924168\nWe are excited to invite yo
  u to our upcoming sale in Bridgewater! We have an incredible selection of
@@ -59,12 +59,12 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11748-20261113@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
   11/12-11/14
 DTSTART;TZID=America/New_York:20261113T090000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:Bridgewater\, NJ 08807
+LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
  pm: https://form.jotform.com/262996317924168\nWe are excited to invite yo
  u to our upcoming sale in Bridgewater! We have an incredible selection of
@@ -99,12 +99,12 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11748-20261114@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
   11/12-11/14
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:Bridgewater\, NJ 08807
+LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
  pm: https://form.jotform.com/262996317924168\nWe are excited to invite yo
  u to our upcoming sale in Bridgewater! We have an incredible selection of

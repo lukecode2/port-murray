@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12445-20261113@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Sparta Estate Sale
+DTSTART;TZID=America/New_York:20261113T090000
+DTEND;TZID=America/New_York:20261113T150000
+LOCATION:Sparta\, NJ\, 07871
+DESCRIPTION:✨\nSAVE THE DATE | SPARTA\, NJ\n✨\nMark your calendars! Re
+ claim Estate & Home is bringing you another exciting estate sale in Spart
+ a!\nJoin us for a wonderful collection of home furnishings\, décor\, hou
+ sehold treasures\, garage tools\, clothing\, bags\, shoes and more. Wheth
+ er you're searching for a special find\, furnishing your home\, or simply
+  love the thrill of discovering something unexpected\, you'll want to kee
+ p this weekend open!\n📍\n29 Douglas Drive | Sparta\, NJ\n📅\nNovembe
+ r 21 & 22 from 9AM - 3PM\nMore photos and featured items coming soon!\n
+ 🚗\nIMPORTANT PARKING NOTICE:\nDue to the property's unique driveway an
+ d parking limitations\, specific parking and arrival instructions will be
+  provided prior to the sale. Please watch for our updates before heading 
+ over.\nFollow Reclaim Estate & Home at www.reclaimorganizing.com for prev
+ iews and additional details!
+URL:https://www.estatesales.net/NJ/Sparta/07871/5151141
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12445-20261114@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Sparta Estate Sale
+DTSTART;TZID=America/New_York:20261114T090000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Sparta\, NJ\, 07871
+DESCRIPTION:✨\nSAVE THE DATE | SPARTA\, NJ\n✨\nMark your calendars! Re
+ claim Estate & Home is bringing you another exciting estate sale in Spart
+ a!\nJoin us for a wonderful collection of home furnishings\, décor\, hou
+ sehold treasures\, garage tools\, clothing\, bags\, shoes and more. Wheth
+ er you're searching for a special find\, furnishing your home\, or simply
+  love the thrill of discovering something unexpected\, you'll want to kee
+ p this weekend open!\n📍\n29 Douglas Drive | Sparta\, NJ\n📅\nNovembe
+ r 21 & 22 from 9AM - 3PM\nMore photos and featured items coming soon!\n
+ 🚗\nIMPORTANT PARKING NOTICE:\nDue to the property's unique driveway an
+ d parking limitations\, specific parking and arrival instructions will be
+  provided prior to the sale. Please watch for our updates before heading 
+ over.\nFollow Reclaim Estate & Home at www.reclaimorganizing.com for prev
+ iews and additional details!
+URL:https://www.estatesales.net/NJ/Sparta/07871/5151141
+END:VEVENT
+END:VCALENDAR

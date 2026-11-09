@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12340-20261109@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Estate Full Of Vintage Jewelry\, Art\, Christmas Ornaments\, And M
+ CM! Still Adding! PICKUP AND FLAT RATE SHIPPING STILL $12
+DTSTART;TZID=America/New_York:20261109T184500
+LOCATION:3618 Hecktown Rd \, Bethlehem\, Pennsylvania\, 18020
+DESCRIPTION:Estate Full of Vintage Jewelry\, Art\, Christmas Ornaments\, a
+ nd MCM! Still Adding! PICKUP AND FLAT RATE SHIPPING STILL $12 \, Mon\, No
+ v 9\, 2026 at 6:45 PM EDT\, Bethlehem\, PA\, Buyer's Premium: 21%\, 92 It
+ ems | AuctionNinja
+URL:https://www.auctionninja.com/pandp-vintage/sales/details/estate-full-o
+ f-vintage-jewelry-art-christmas-ornaments-and-mcm-still-adding-pickup-and
+ -flat-rate-shipping-still-12-142.html
+END:VEVENT
+END:VCALENDAR

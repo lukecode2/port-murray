@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12452-20261121@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Dolls & Autumn Dreams
+DTSTART;TZID=America/New_York:20261121T235900
+LOCATION:Nazareth\, PA\, 18064
+DESCRIPTION:Antique Doll Auction\n\nLive and Online\n\nSaturday\, November
+  21st 2026\n\nDoors open at 8:30 AM\, auction begins at 10 AM\n\nSpecial 
+ preview dates for Antique Doll Auction:\n\nSun.\, November. 15th\, Noon -
+  4PM and Fri.\, November. 20th\, Noon - 6 PM\nHighlights of this auction 
+ include antique German & French bisque\, rare Edison doll\, Heubach ?Eliz
+ abeth? googly\, Jumeau\, Simon & Halbig\, Asian dolls\, early cloth folk 
+ art dolls\, Steiff\, China head dolls\, German hand-crank carousels\, com
+ position characters in original boxes\, hard plastic including Nancy Ann 
+ Style Show\, Red Box Nancy Ann Storybook\, Kenner Blythe\, Ginny\, Mary H
+ oyer\, Toni\, Terri Lee\, Lenci Girl series 300 Pouty\, Ideal ?Pebbles? w
+ ith box\, Barbie\, American Girl\, many NRFB dolls\, plus a wide variety 
+ of BJD & artist dolls such as R. John Wright\, Maggie Iacono\, Ellowyne\,
+  Helen Kish\, antique to modern doll clothes & much more!\n\nIf you wish 
+ to use our regular shipper\, The Packaging Place\, please select "arrange
+  your own shipping"\, we do not ship out of house.  Call them at 570.421.
+ 8048 with any shipping inquiries.
+URL:https://www.estatesales.net/PA/Nazareth/18064/5134908
+END:VEVENT
+END:VCALENDAR

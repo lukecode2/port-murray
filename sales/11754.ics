@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11754-20261119@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Elegant Estates: A Selling Exhibition
 DTSTART;TZID=America/New_York:20261119T130000
 DTEND;TZID=America/New_York:20261119T180000
-LOCATION:Morristown\, NJ 07960
+LOCATION:Morristown\, NJ\, 07960
 DESCRIPTION:Discover an eclectic selection of antiques\, fine art\, furnis
  hings\, collectibles\, and more at our Morristown gallery selling exhibit
  ion. The offering includes mid-century modern furniture\, modern and Tiff
@@ -38,11 +38,11 @@ URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11754-20261120@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Elegant Estates: A Selling Exhibition
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T150000
-LOCATION:Morristown\, NJ 07960
+LOCATION:Morristown\, NJ\, 07960
 DESCRIPTION:Discover an eclectic selection of antiques\, fine art\, furnis
  hings\, collectibles\, and more at our Morristown gallery selling exhibit
  ion. The offering includes mid-century modern furniture\, modern and Tiff
@@ -57,11 +57,11 @@ URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11754-20261121@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Elegant Estates: A Selling Exhibition
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T150000
-LOCATION:Morristown\, NJ 07960
+LOCATION:Morristown\, NJ\, 07960
 DESCRIPTION:Discover an eclectic selection of antiques\, fine art\, furnis
  hings\, collectibles\, and more at our Morristown gallery selling exhibit
  ion. The offering includes mid-century modern furniture\, modern and Tiff

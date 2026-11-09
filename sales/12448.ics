@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12448-20261114@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Once & Again in Boonton Twp
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Boonton Township\, NJ\, 07005
+DESCRIPTION:Once & Again\nin\nBOONTON TOWNSHIP\nPre Sale Appointments are 
+ available but limited prior to start of our public sale\nSimply text 973-
+ 713-4780\nFeatured in this home\;\n*Jewelry\n*Home decor\n*Lamps\n*Music 
+ stand\n*Instruments\n*Mason & Hamlin Grand Piano\n*MCM sectional\n*swivel
+  chairs\n*Sterling silver pieces\n*BOOKS\,BOOKS and more BOOKS\n*Brass be
+ d\n*Dressers\n*Clothing\n*Steins\n*Waterford\n*Holiday items\n*Outdoor fu
+ rniture\n*Wicker furniture\n*Fur coat\n*Art\nand so much more\nsee you at
+  our sale\,\nGina
+URL:https://www.estatesales.net/NJ/Boonton%20Township/07005/5114508
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12448-20261115@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Once & Again in Boonton Twp
+DTSTART;TZID=America/New_York:20261115T110000
+DTEND;TZID=America/New_York:20261115T150000
+LOCATION:Boonton Township\, NJ\, 07005
+DESCRIPTION:Once & Again\nin\nBOONTON TOWNSHIP\nPre Sale Appointments are 
+ available but limited prior to start of our public sale\nSimply text 973-
+ 713-4780\nFeatured in this home\;\n*Jewelry\n*Home decor\n*Lamps\n*Music 
+ stand\n*Instruments\n*Mason & Hamlin Grand Piano\n*MCM sectional\n*swivel
+  chairs\n*Sterling silver pieces\n*BOOKS\,BOOKS and more BOOKS\n*Brass be
+ d\n*Dressers\n*Clothing\n*Steins\n*Waterford\n*Holiday items\n*Outdoor fu
+ rniture\n*Wicker furniture\n*Fur coat\n*Art\nand so much more\nsee you at
+  our sale\,\nGina
+URL:https://www.estatesales.net/NJ/Boonton%20Township/07005/5114508
+END:VEVENT
+END:VCALENDAR

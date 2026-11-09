@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12446-20261114@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Next Nest is in Califon for two days!
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Califon\, NJ\, 07830
+DESCRIPTION:Eclectic sale filled with lovely things like original art\, mi
+ d century modern\, vintage and antique furniture. outdoor and indoor dini
+ ng sets\, couches\, . books\, decor\, kitchen\, costume jewelry\, clothes
+ \,and more. More pictures to come!
+URL:https://www.estatesales.net/NJ/Califon/07830/5149962
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12446-20261115@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Next Nest is in Califon for two days!
+DTSTART;TZID=America/New_York:20261115T100000
+DTEND;TZID=America/New_York:20261115T150000
+LOCATION:Califon\, NJ\, 07830
+DESCRIPTION:Eclectic sale filled with lovely things like original art\, mi
+ d century modern\, vintage and antique furniture. outdoor and indoor dini
+ ng sets\, couches\, . books\, decor\, kitchen\, costume jewelry\, clothes
+ \,and more. More pictures to come!
+URL:https://www.estatesales.net/NJ/Califon/07830/5149962
+END:VEVENT
+END:VCALENDAR

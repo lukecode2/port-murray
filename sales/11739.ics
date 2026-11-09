@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11739-20261118@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday Decor
 DTSTART;TZID=America/New_York:20261118T090000
 DTEND;TZID=America/New_York:20261118T160000
-LOCATION:Chester\, NJ 07930
+LOCATION:Chester\, NJ\, 07930
 DESCRIPTION:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday D
  ecor and MORE....\nWed. 11/18/2026 - Sun. 11/22/2026\nHours:\nWEDNESDAY -
   SUNDAY - 9AM-4PM\nSale Items Include:\nVintage Home Decor\, Modern Home 
@@ -34,11 +34,11 @@ URL:https://www.estatesales.net/NJ/Chester/07930/5143875
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11739-20261119@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday Decor
 DTSTART;TZID=America/New_York:20261119T090000
 DTEND;TZID=America/New_York:20261119T160000
-LOCATION:Chester\, NJ 07930
+LOCATION:Chester\, NJ\, 07930
 DESCRIPTION:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday D
  ecor and MORE....\nWed. 11/18/2026 - Sun. 11/22/2026\nHours:\nWEDNESDAY -
   SUNDAY - 9AM-4PM\nSale Items Include:\nVintage Home Decor\, Modern Home 
@@ -49,11 +49,11 @@ URL:https://www.estatesales.net/NJ/Chester/07930/5143875
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11739-20261120@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday Decor
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T160000
-LOCATION:Chester\, NJ 07930
+LOCATION:Chester\, NJ\, 07930
 DESCRIPTION:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday D
  ecor and MORE....\nWed. 11/18/2026 - Sun. 11/22/2026\nHours:\nWEDNESDAY -
   SUNDAY - 9AM-4PM\nSale Items Include:\nVintage Home Decor\, Modern Home 
@@ -64,11 +64,11 @@ URL:https://www.estatesales.net/NJ/Chester/07930/5143875
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11739-20261121@port-murray
-DTSTAMP:20261106T172514Z
+DTSTAMP:20261109T153835Z
 SUMMARY:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday Decor
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Chester\, NJ 07930
+LOCATION:Chester\, NJ\, 07930
 DESCRIPTION:Trash Masters LLC Warehouse Sale - Featuring Tons of Holiday D
  ecor and MORE....\nWed. 11/18/2026 - Sun. 11/22/2026\nHours:\nWEDNESDAY -
   SUNDAY - 9AM-4PM\nSale Items Include:\nVintage Home Decor\, Modern Home 

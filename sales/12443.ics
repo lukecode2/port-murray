@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12443-20261112@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:3 Day Estate Sale in New Providence
+DTSTART;TZID=America/New_York:20261112T100000
+DTEND;TZID=America/New_York:20261112T160000
+LOCATION:New Providence\, NJ\, 07974
+DESCRIPTION:Prior to in person sale dates we will accept presale appointme
+ nts. Text Nicole at 2014003569 for a presale appointment. No appointment 
+ necessary for November 12-14.
+URL:https://www.estatesales.net/NJ/New%20Providence/07974/5150895
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12443-20261113@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:3 Day Estate Sale in New Providence
+DTSTART;TZID=America/New_York:20261113T100000
+DTEND;TZID=America/New_York:20261113T160000
+LOCATION:New Providence\, NJ\, 07974
+DESCRIPTION:Prior to in person sale dates we will accept presale appointme
+ nts. Text Nicole at 2014003569 for a presale appointment. No appointment 
+ necessary for November 12-14.
+URL:https://www.estatesales.net/NJ/New%20Providence/07974/5150895
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12443-20261114@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:3 Day Estate Sale in New Providence
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T140000
+LOCATION:New Providence\, NJ\, 07974
+DESCRIPTION:Prior to in person sale dates we will accept presale appointme
+ nts. Text Nicole at 2014003569 for a presale appointment. No appointment 
+ necessary for November 12-14.
+URL:https://www.estatesales.net/NJ/New%20Providence/07974/5150895
+END:VEVENT
+END:VCALENDAR

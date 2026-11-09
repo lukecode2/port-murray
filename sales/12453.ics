@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12453-20261120@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Machinery\, Tools & House Contents
+DTSTART;TZID=America/New_York:20261120T080000
+DTEND;TZID=America/New_York:20261120T130000
+LOCATION:Pittstown\, NJ\, 08867
+DESCRIPTION:Machinery and tools\nBolen's H1700 with 1517 frontend loader a
+ nd backhoe\, Kawasaki Mule\, 8'x10' trailer\, riding lawnmower\, mower li
+ ft\, Somo diesel generator\, Honda em5000s generator\, 1/2 ton capacity L
+ angley lift\, leaf vacuum\,  Reddy Heater (kerosene)\, steel trailer (x' 
+ x  x') Cement mixer (needs new dollie w/wheels)\, Toro Snow Blower\, job 
+ site box\, Land Pride brush hog\, Melcher ramps\, Jackson wheel barrow\, 
+ Craftsman toolboxes\, shovels\, posthole diggers\, snowshovels\, levels\,
+  tree branch saw\, chemical tanks\, extension ladders (sizes)\, step ladd
+ ers\, saw horses\, axe\, sledge hammer\, tamper\, backpack blower\, metal
+ /alum. dollies\, hand truck\, seed casters\, propane tank\, shop vacs\, l
+ eaf vacum\, fastners\, tool and equipment metal upright shelved storage b
+ oxes\, wire rack shelving units\, lunricants\, gas\, diesel and kerosene 
+ plastic containers\, under car creeper\, Acetlyne tanks\, Expand it branc
+ h saw\, lots of fastners\, jumper cables\, divided sorting boxes\, cement
+  mixing trays\, cement laying tools\, powered cement\, under vehicle drip
+  trays\, painting tarps and trays\, plastic fencing\, contractor lights\,
+  garden watering cans\, hand tools\, grease guns\, come-along winches.\nR
+ igid table saw on wheels\, planer on stand\, xxx\, Dewalt Chopsaw\, Ryobi
+  tool holder\, Craftsmen 9" radial arm saw\, husky 100 PSI 2 Gal. compres
+ sor\, large compressor on wheels\, US-General tool box\, lightswith tripo
+ d\, rolling cart\, Craftsman  18" Scroll Saw\, pressure washer\, Backpack
+  leaf blower\, Greenwood Spot Sprayer\, auto jacks\, Craftsman Laser Trac
+  4-in-1 Level\, Socket and wrench sets\, Paslode nail guns\, Skilcraft sa
+ ws all (in blue metal box?) 8 1/4" saw 825\, Grizzly GO555P 14" bandsaw\,
+  Sears Craftsman Table Saw 3hp\, Weed Eater 21" push mower - Briggs-Strat
+ ton engine\,
+URL:https://www.estatesales.net/NJ/Pittstown/08867/5145258
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12453-20261121@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Machinery\, Tools & House Contents
+DTSTART;TZID=America/New_York:20261121T080000
+DTEND;TZID=America/New_York:20261121T130000
+LOCATION:Pittstown\, NJ\, 08867
+DESCRIPTION:Machinery and tools\nBolen's H1700 with 1517 frontend loader a
+ nd backhoe\, Kawasaki Mule\, 8'x10' trailer\, riding lawnmower\, mower li
+ ft\, Somo diesel generator\, Honda em5000s generator\, 1/2 ton capacity L
+ angley lift\, leaf vacuum\,  Reddy Heater (kerosene)\, steel trailer (x' 
+ x  x') Cement mixer (needs new dollie w/wheels)\, Toro Snow Blower\, job 
+ site box\, Land Pride brush hog\, Melcher ramps\, Jackson wheel barrow\, 
+ Craftsman toolboxes\, shovels\, posthole diggers\, snowshovels\, levels\,
+  tree branch saw\, chemical tanks\, extension ladders (sizes)\, step ladd
+ ers\, saw horses\, axe\, sledge hammer\, tamper\, backpack blower\, metal
+ /alum. dollies\, hand truck\, seed casters\, propane tank\, shop vacs\, l
+ eaf vacum\, fastners\, tool and equipment metal upright shelved storage b
+ oxes\, wire rack shelving units\, lunricants\, gas\, diesel and kerosene 
+ plastic containers\, under car creeper\, Acetlyne tanks\, Expand it branc
+ h saw\, lots of fastners\, jumper cables\, divided sorting boxes\, cement
+  mixing trays\, cement laying tools\, powered cement\, under vehicle drip
+  trays\, painting tarps and trays\, plastic fencing\, contractor lights\,
+  garden watering cans\, hand tools\, grease guns\, come-along winches.\nR
+ igid table saw on wheels\, planer on stand\, xxx\, Dewalt Chopsaw\, Ryobi
+  tool holder\, Craftsmen 9" radial arm saw\, husky 100 PSI 2 Gal. compres
+ sor\, large compressor on wheels\, US-General tool box\, lightswith tripo
+ d\, rolling cart\, Craftsman  18" Scroll Saw\, pressure washer\, Backpack
+  leaf blower\, Greenwood Spot Sprayer\, auto jacks\, Craftsman Laser Trac
+  4-in-1 Level\, Socket and wrench sets\, Paslode nail guns\, Skilcraft sa
+ ws all (in blue metal box?) 8 1/4" saw 825\, Grizzly GO555P 14" bandsaw\,
+  Sears Craftsman Table Saw 3hp\, Weed Eater 21" push mower - Briggs-Strat
+ ton engine\,
+URL:https://www.estatesales.net/NJ/Pittstown/08867/5145258
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12453-20261122@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:Machinery\, Tools & House Contents
+DTSTART;TZID=America/New_York:20261122T080000
+DTEND;TZID=America/New_York:20261122T130000
+LOCATION:Pittstown\, NJ\, 08867
+DESCRIPTION:Machinery and tools\nBolen's H1700 with 1517 frontend loader a
+ nd backhoe\, Kawasaki Mule\, 8'x10' trailer\, riding lawnmower\, mower li
+ ft\, Somo diesel generator\, Honda em5000s generator\, 1/2 ton capacity L
+ angley lift\, leaf vacuum\,  Reddy Heater (kerosene)\, steel trailer (x' 
+ x  x') Cement mixer (needs new dollie w/wheels)\, Toro Snow Blower\, job 
+ site box\, Land Pride brush hog\, Melcher ramps\, Jackson wheel barrow\, 
+ Craftsman toolboxes\, shovels\, posthole diggers\, snowshovels\, levels\,
+  tree branch saw\, chemical tanks\, extension ladders (sizes)\, step ladd
+ ers\, saw horses\, axe\, sledge hammer\, tamper\, backpack blower\, metal
+ /alum. dollies\, hand truck\, seed casters\, propane tank\, shop vacs\, l
+ eaf vacum\, fastners\, tool and equipment metal upright shelved storage b
+ oxes\, wire rack shelving units\, lunricants\, gas\, diesel and kerosene 
+ plastic containers\, under car creeper\, Acetlyne tanks\, Expand it branc
+ h saw\, lots of fastners\, jumper cables\, divided sorting boxes\, cement
+  mixing trays\, cement laying tools\, powered cement\, under vehicle drip
+  trays\, painting tarps and trays\, plastic fencing\, contractor lights\,
+  garden watering cans\, hand tools\, grease guns\, come-along winches.\nR
+ igid table saw on wheels\, planer on stand\, xxx\, Dewalt Chopsaw\, Ryobi
+  tool holder\, Craftsmen 9" radial arm saw\, husky 100 PSI 2 Gal. compres
+ sor\, large compressor on wheels\, US-General tool box\, lightswith tripo
+ d\, rolling cart\, Craftsman  18" Scroll Saw\, pressure washer\, Backpack
+  leaf blower\, Greenwood Spot Sprayer\, auto jacks\, Craftsman Laser Trac
+  4-in-1 Level\, Socket and wrench sets\, Paslode nail guns\, Skilcraft sa
+ ws all (in blue metal box?) 8 1/4" saw 825\, Grizzly GO555P 14" bandsaw\,
+  Sears Craftsman Table Saw 3hp\, Weed Eater 21" push mower - Briggs-Strat
+ ton engine\,
+URL:https://www.estatesales.net/NJ/Pittstown/08867/5145258
+END:VEVENT
+END:VCALENDAR

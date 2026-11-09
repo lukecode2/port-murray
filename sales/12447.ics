@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12447-20261114@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:The One You Have Been Waiting For - Part 2!
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T160000
+LOCATION:Hillsborough\, NJ\, 08844
+DESCRIPTION:**WE ARE BACK...BY POPULAR REQUEST!**\nThere was A LOT to take
+  in the first time around in October but have heard your call and are wil
+ ling to open the doors (and Lorraine’s closet!) for a few more days to 
+ keep the party going!\nWe have reset the inventory\,\nADDED\nsome antique
+  treasures\, brought in the\nOTHER HALF\nof the jewelry collection\, on t
+ op of the massive inventory we already had\, and most importantly\,\nDROP
+ PED OUR PRICES\non the vast majority of items.\nCome on over to get a dis
+ counted start on your holiday shopping!\n--SALE DESCRIPTION--\nContents a
+ nd furnishings of home crosses multiple time periods from mid-century to 
+ 90's to current. Owners were very neat and protective of their belongings
+  so the vast majority of items are in excellent shape minimal wear. They 
+ were also savers so many items are like new or new. The home offers a lit
+ tle bit of everything.\nHOME\nMid-century and current furniture highlight
+ ed by a conversation starter French Provincial Lighted Hutch\, gorgeous l
+ arge Silk Rug\, and comfortable man cave recliner\nVintage beer/bar signs
+  and gear\nVintage barware and glassware (owner’s families owned bars i
+ n NE PA and have a large amount of older bar gear)\nHome decor\, lamps\, 
+ clocks\, topiaries\, faux plants\, baskets\, candlesticks\, decorative pi
+ llows\nChristmas and Easter decor\, vintage and current\nWall art\, mirro
+ rs\, and vintage prints\nKitchenware\, glasses\, stemware\, china\, bowls
+ \, pitchers\, serving dishes\, pots and pans\, and various other\nSome ne
+ w bedding\, comforters\, blankets\, sheets\, bed covers\, dishtowels and 
+ tablecloths\nVintage records\, radios\, toys\, with a small grandchildren
+  section with newer youth clothes\, toys\, and puzzles\nOffice supplies\,
+  office chair\, and other related desk ware\nAntiques from 30's to 70's f
+ orward including a Columbia gramophone\, accordian/piano\, and typewriter
+ \, among others\nCollection of antique religious lithographs\, crosses\, 
+ statues\, and an amazing antique manger\nCLOTHING/JEWELRY\nFor those not 
+ there the first time\, the lady of the house was also a fashionista and p
+ ossesses a\nMASSIVE collection of clothing and costume jewelry\n.\n1000's
+  of articles of clothing\n\, vintage and modern with\nthe majority mainta
+ ining its original tag and never\, ever worn\n.\nStores she shopped in in
+ cluded Macy's\, Chico's\, and Lord & Taylor but was also a big boutique s
+ hopper. A wide assortment of brands such as Ralph Lauren\, Calvin Klein\,
+  Ann Taylor\, Donna Karan\, Michael Kors\, International Concepts\, Liz C
+ laiborne\, Easy Spirit\, and Comfortiva.\nSizes M\, L\, and XL only. Shoe
+ s 10 and 11/11W. Again\, all with tags on.\nDespite this being the second
+  weekend there is absolutely no shortage of nice clothing left. This is a
+  collection you still need to see to believe and plan to spend time shopp
+ ing if this interests you.\nMORE PHOTOS WILL BE ADDED IN THE NEXT SEVERAL
+  DAYS LEADING TO SALE.
+URL:https://www.estatesales.net/NJ/Hillsborough/08844/5150253
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12447-20261115@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:The One You Have Been Waiting For - Part 2!
+DTSTART;TZID=America/New_York:20261115T100000
+DTEND;TZID=America/New_York:20261115T150000
+LOCATION:Hillsborough\, NJ\, 08844
+DESCRIPTION:**WE ARE BACK...BY POPULAR REQUEST!**\nThere was A LOT to take
+  in the first time around in October but have heard your call and are wil
+ ling to open the doors (and Lorraine’s closet!) for a few more days to 
+ keep the party going!\nWe have reset the inventory\,\nADDED\nsome antique
+  treasures\, brought in the\nOTHER HALF\nof the jewelry collection\, on t
+ op of the massive inventory we already had\, and most importantly\,\nDROP
+ PED OUR PRICES\non the vast majority of items.\nCome on over to get a dis
+ counted start on your holiday shopping!\n--SALE DESCRIPTION--\nContents a
+ nd furnishings of home crosses multiple time periods from mid-century to 
+ 90's to current. Owners were very neat and protective of their belongings
+  so the vast majority of items are in excellent shape minimal wear. They 
+ were also savers so many items are like new or new. The home offers a lit
+ tle bit of everything.\nHOME\nMid-century and current furniture highlight
+ ed by a conversation starter French Provincial Lighted Hutch\, gorgeous l
+ arge Silk Rug\, and comfortable man cave recliner\nVintage beer/bar signs
+  and gear\nVintage barware and glassware (owner’s families owned bars i
+ n NE PA and have a large amount of older bar gear)\nHome decor\, lamps\, 
+ clocks\, topiaries\, faux plants\, baskets\, candlesticks\, decorative pi
+ llows\nChristmas and Easter decor\, vintage and current\nWall art\, mirro
+ rs\, and vintage prints\nKitchenware\, glasses\, stemware\, china\, bowls
+ \, pitchers\, serving dishes\, pots and pans\, and various other\nSome ne
+ w bedding\, comforters\, blankets\, sheets\, bed covers\, dishtowels and 
+ tablecloths\nVintage records\, radios\, toys\, with a small grandchildren
+  section with newer youth clothes\, toys\, and puzzles\nOffice supplies\,
+  office chair\, and other related desk ware\nAntiques from 30's to 70's f
+ orward including a Columbia gramophone\, accordian/piano\, and typewriter
+ \, among others\nCollection of antique religious lithographs\, crosses\, 
+ statues\, and an amazing antique manger\nCLOTHING/JEWELRY\nFor those not 
+ there the first time\, the lady of the house was also a fashionista and p
+ ossesses a\nMASSIVE collection of clothing and costume jewelry\n.\n1000's
+  of articles of clothing\n\, vintage and modern with\nthe majority mainta
+ ining its original tag and never\, ever worn\n.\nStores she shopped in in
+ cluded Macy's\, Chico's\, and Lord & Taylor but was also a big boutique s
+ hopper. A wide assortment of brands such as Ralph Lauren\, Calvin Klein\,
+  Ann Taylor\, Donna Karan\, Michael Kors\, International Concepts\, Liz C
+ laiborne\, Easy Spirit\, and Comfortiva.\nSizes M\, L\, and XL only. Shoe
+ s 10 and 11/11W. Again\, all with tags on.\nDespite this being the second
+  weekend there is absolutely no shortage of nice clothing left. This is a
+  collection you still need to see to believe and plan to spend time shopp
+ ing if this interests you.\nMORE PHOTOS WILL BE ADDED IN THE NEXT SEVERAL
+  DAYS LEADING TO SALE.
+URL:https://www.estatesales.net/NJ/Hillsborough/08844/5150253
+END:VEVENT
+END:VCALENDAR

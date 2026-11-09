@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12451-20261121@port-murray
+DTSTAMP:20261109T153835Z
+SUMMARY:The Thanksgiving Sale
+DTSTART;TZID=America/New_York:20261121T235900
+LOCATION:Whitehouse Station\, NJ\, 08889
+DESCRIPTION:November 21\, 2026\nThis exciting sale includes approximately:
+ \n- 30 lots of H&D candy containers (most from the Bob & Shirley Peirce C
+ ollection)\n- 30 lots of tin windups or battery-operated toys\n- 50 mecha
+ nical bank lots\n- 200 still bank lots\n- 60 horse-drawn toy lots\n- 40 l
+ ots of tin mechanical or vending banks\n- 30 cast-iron doorstop lots\n- 1
+ 5 American tin or clockwork toy lots\nBidding can be done through our onl
+ ine platforms\, BidSpirit or LiveAuctioneers.
+URL:https://www.estatesales.net/NJ/Whitehouse-Station/08889/5139813
+END:VEVENT
+END:VCALENDAR
