@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11747-20261113@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;TZID=America/New_York:20261113T093000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:Bridgewater\, NJ 08807
+LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:Online sign up opens at 8pm on Wednesday November 11\, 2026: h
  ttps://form.jotform.com/263055640960154\nFurniture & Home Accents\nDining
   & Kitchen:\nGate Leg Dining Table with Captains Chairs\, China Cabinet\,
@@ -54,11 +54,11 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11747-20261114@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:Bridgewater\, NJ 08807
+LOCATION:Bridgewater\, NJ\, 08807
 DESCRIPTION:Online sign up opens at 8pm on Wednesday November 11\, 2026: h
  ttps://form.jotform.com/263055640960154\nFurniture & Home Accents\nDining
   & Kitchen:\nGate Leg Dining Table with Captains Chairs\, China Cabinet\,

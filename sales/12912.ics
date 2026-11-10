@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12912-20261118@port-murray
+DTSTAMP:20261110T200131Z
+SUMMARY:583 - Orchard Estate Auction (Mt. Bethel\, PA)
+DTSTART;TZID=America/New_York:20261118T190000
+LOCATION:Off Site\, Mt. Bethel\, PA\, 18343
+DESCRIPTION:Discover a delightful mix of vintage treasures\, timeless furn
+ ishings\, and charming collectibles in this exciting estate auction! From
+  beautifully crafted Pennsylvania House furniture\, marble-top accent tab
+ les\, and a classic Lane cedar chest to elegant Fenton art glass\, Wedgwo
+ od china\, and a hand-painted Japanese porcelain tea service\, this sale 
+ offers something for every taste. Collectors will appreciate vintage comi
+ c books\, nostalgic Better Little Books\, Franklin Mint die-cast automobi
+ les\, and an assortment of unique decorative pieces\, while home enthusia
+ sts can explore beautiful glassware\, antique-style furnishings\, and han
+ dcrafted textiles. Additional highlights include a Goebel West Germany na
+ tivity scene\, vintage fashion accessories\, artwork\, and an inviting se
+ lection of holiday décor. Whether you're searching for a statement piece
+ \, adding to a cherished collection\, or simply enjoying the thrill of di
+ scovering something unexpected\, this auction is filled with hidden gems 
+ just waiting to be found. Don't miss your chance to bid on a little bit o
+ f everything!
+URL:https://hibid.com/catalog/793483
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12705-20261113@port-murray
+DTSTAMP:20261110T200131Z
+SUMMARY:Fixed 2 Move is in New Hope
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+LOCATION:5 Glen Eagles Dr\, New Hope\, PA\, 18938
+DESCRIPTION:Fixed 2 Move invites you to an outstanding estate sale in New 
+ Hope\, PA\, featuring a sophisticated selection of fine furniture\, uniqu
+ e seating\, and curated home decor. Highlights include statement accent s
+ eating such as French country style balloon canopy chairs upholstered in 
+ striking cowhide-pattern fabric and premium leather\, a vintage Chesterfi
+ eld-style sofa in gold damask with deep button tufting\, and elegant acce
+ nt tables featuring hand-painted details and marble tops on ornate wrough
+ t iron bases.\nArt and decor enthusiasts will find a diverse collection o
+ f framed wall art\, ranging from vintage movie prints and antique framed 
+ artworks to contemporary abstract portraits featuring gold leaf accents. 
+ The sale also includes high-end decorative textiles\, featuring intricate
+  beaded and metallic throw pillows\, alongside a large muted sage green t
+ raditional area rug with detailed floral scrolling.\nWe accept major cred
+ it cards as well as cash\, Venmo and Cashapp. Join us in New Hope for thi
+ s exceptional shopping event.
+URL:https://estatesales.org/estate-sales/pa/new-hope/18938/fixed-2-move-is
+ -in-2472911
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12705-20261114@port-murray
+DTSTAMP:20261110T200131Z
+SUMMARY:Fixed 2 Move is in New Hope
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:5 Glen Eagles Dr\, New Hope\, PA\, 18938
+DESCRIPTION:Fixed 2 Move invites you to an outstanding estate sale in New 
+ Hope\, PA\, featuring a sophisticated selection of fine furniture\, uniqu
+ e seating\, and curated home decor. Highlights include statement accent s
+ eating such as French country style balloon canopy chairs upholstered in 
+ striking cowhide-pattern fabric and premium leather\, a vintage Chesterfi
+ eld-style sofa in gold damask with deep button tufting\, and elegant acce
+ nt tables featuring hand-painted details and marble tops on ornate wrough
+ t iron bases.\nArt and decor enthusiasts will find a diverse collection o
+ f framed wall art\, ranging from vintage movie prints and antique framed 
+ artworks to contemporary abstract portraits featuring gold leaf accents. 
+ The sale also includes high-end decorative textiles\, featuring intricate
+  beaded and metallic throw pillows\, alongside a large muted sage green t
+ raditional area rug with detailed floral scrolling.\nWe accept major cred
+ it cards as well as cash\, Venmo and Cashapp. Join us in New Hope for thi
+ s exceptional shopping event.
+URL:https://estatesales.org/estate-sales/pa/new-hope/18938/fixed-2-move-is
+ -in-2472911
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-12705-20261115@port-murray
+DTSTAMP:20261110T200131Z
+SUMMARY:Fixed 2 Move is in New Hope
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+LOCATION:5 Glen Eagles Dr\, New Hope\, PA\, 18938
+DESCRIPTION:Fixed 2 Move invites you to an outstanding estate sale in New 
+ Hope\, PA\, featuring a sophisticated selection of fine furniture\, uniqu
+ e seating\, and curated home decor. Highlights include statement accent s
+ eating such as French country style balloon canopy chairs upholstered in 
+ striking cowhide-pattern fabric and premium leather\, a vintage Chesterfi
+ eld-style sofa in gold damask with deep button tufting\, and elegant acce
+ nt tables featuring hand-painted details and marble tops on ornate wrough
+ t iron bases.\nArt and decor enthusiasts will find a diverse collection o
+ f framed wall art\, ranging from vintage movie prints and antique framed 
+ artworks to contemporary abstract portraits featuring gold leaf accents. 
+ The sale also includes high-end decorative textiles\, featuring intricate
+  beaded and metallic throw pillows\, alongside a large muted sage green t
+ raditional area rug with detailed floral scrolling.\nWe accept major cred
+ it cards as well as cash\, Venmo and Cashapp. Join us in New Hope for thi
+ s exceptional shopping event.
+URL:https://estatesales.org/estate-sales/pa/new-hope/18938/fixed-2-move-is
+ -in-2472911
+END:VEVENT
+END:VCALENDAR

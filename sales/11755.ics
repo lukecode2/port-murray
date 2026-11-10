@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11755-20261114@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Warren Estate Sale / Antiques / Wood Carvings / Hand Made Rugs
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T153000
-LOCATION:Warren\, NJ 07059
+LOCATION:Warren\, NJ\, 07059
 DESCRIPTION:SMALL HOME JAM PACKED!!!\nAntiques\nWood Carvings\nSemi Antiqu
  e Hand Made  Rugs\nAsian Decorative Items\nPaintings\nFurniture\nHousehol
  d Items\nClothing\nMuch More!!\nSTAY TUNED FOR MORE INFO WHEN WE START SE
@@ -32,11 +32,11 @@ URL:https://www.estatesales.net/NJ/Warren/07059/5147079
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11755-20261115@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Warren Estate Sale / Antiques / Wood Carvings / Hand Made Rugs
 DTSTART;TZID=America/New_York:20261115T093000
 DTEND;TZID=America/New_York:20261115T153000
-LOCATION:Warren\, NJ 07059
+LOCATION:Warren\, NJ\, 07059
 DESCRIPTION:SMALL HOME JAM PACKED!!!\nAntiques\nWood Carvings\nSemi Antiqu
  e Hand Made  Rugs\nAsian Decorative Items\nPaintings\nFurniture\nHousehol
  d Items\nClothing\nMuch More!!\nSTAY TUNED FOR MORE INFO WHEN WE START SE

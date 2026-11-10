@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-12911-20261119@port-murray
+DTSTAMP:20261110T200131Z
+SUMMARY:Backhoes\, Trucks & Contractor Surplus - Washington\, NJ (Washingt
+ on\, NJ)
+DTSTART;TZID=America/New_York:20261119T190000
+LOCATION:125 Taylor St \, Washington\, NJ\, 07882
+DESCRIPTION:Online-only contractor surplus auction: 472 lots for local pic
+ kup in Washington\, NJ.\n\nHEADLINE EQUIPMENT & VEHICLES\n- John Deere 31
+ 0G\, Komatsu WB146-5 and WB140-series\, and John Deere 510D backhoe loade
+ rs\n- Massey Ferguson 4WD cab tractor with loader and forks\n- Gradall 53
+ 4C telehandler and Yale GLP080 8\,000 lb pneumatic forklift\n- Ford F-550
+  diesel utility and flatbed trucks\, Ford F-350 4x4\, Ford E-450 box truc
+ k with liftgate\,\n  Ford F-750 flatbed\, International 4300 box truck\n\
+ nBUILDING MATERIALS & TOOLS\n- GROHE\, Delta and Hansgrohe valve trims\, 
+ tub/shower sets and shower heads (many sold one per lot)\n- Factory-recon
+ ditioned Makita framing and roofing nailers\, Makita and Bosch power tool
+ s\n- Electrical: Eaton Crouse-Hinds\, RACO\, Kraloy\, Rittal\, Siemens an
+ d Square D fittings\, boxes and enclosures\n- Lighting fixtures\, natural
+  stone pavers\, tires and wheels\, HVAC venting\, hardware and more\n\nDA
+ TES (Eastern Time)\n- Bidding opens: Thursday\, November 12\, 2026\, 10:0
+ 0 AM\n- Bidding closes: Thursday\, November 19\, 2026\, starting at 7:00 
+ PM. Lots close in sequence\; a bid in the\n  final minutes extends that l
+ ot.\n- Preview / inspection: Tuesday\, November 17\, 2026\, 10:00 AM - 3:
+ 00 PM\, by appointment\n- Pickup: Friday\, November 20 (9 AM - 4 PM)\, Sa
+ turday\, November 21 (9 AM - 1 PM)\, Monday\, November 23 and\n  Tuesday\
+ , November 24 (9 AM - 4 PM)\, by appointment\n- Payment due: Tuesday\, No
+ vember 24\, 2026\n\nLOCATION\n125 Taylor St\, Washington\, NJ 07882. Prev
+ iew and pickup by appointment only: [CONFIRM contact phone / email].\n\nK
+ EY TERMS\n- 10% buyer's premium. New Jersey sales tax (6.625%) applies un
+ less a valid ST-3 resale or exemption\n  certificate is on file before pa
+ yment.\n- Everything is sold AS-IS\, WHERE-IS. Descriptions and photos ar
+ e a convenience\; inspect before you bid.\n- Local pickup only. No shippi
+ ng. Buyers load and remove their own lots with their own labor and equipm
+ ent.\n- Vehicle and equipment titles are handed over at pickup once payme
+ nt has cleared.\n- Please read the full Terms & Conditions before bidding
+ .
+URL:https://hibid.com/catalog/793801
+END:VEVENT
+END:VCALENDAR

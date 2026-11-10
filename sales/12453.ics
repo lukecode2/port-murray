@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12453-20261120@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Machinery\, Tools & House Contents
 DTSTART;TZID=America/New_York:20261120T080000
 DTEND;TZID=America/New_York:20261120T130000
-LOCATION:Pittstown\, NJ 08867
+LOCATION:Pittstown\, NJ\, 08867
 DESCRIPTION:Machinery and tools\nBolen's H1700 with 1517 frontend loader a
  nd backhoe\, Kawasaki Mule\, 8'x10' trailer\, riding lawnmower\, mower li
  ft\, Somo diesel generator\, Honda em5000s generator\, 1/2 ton capacity L
@@ -54,11 +54,11 @@ URL:https://www.estatesales.net/NJ/Pittstown/08867/5145258
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12453-20261121@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Machinery\, Tools & House Contents
 DTSTART;TZID=America/New_York:20261121T080000
 DTEND;TZID=America/New_York:20261121T130000
-LOCATION:Pittstown\, NJ 08867
+LOCATION:Pittstown\, NJ\, 08867
 DESCRIPTION:Machinery and tools\nBolen's H1700 with 1517 frontend loader a
  nd backhoe\, Kawasaki Mule\, 8'x10' trailer\, riding lawnmower\, mower li
  ft\, Somo diesel generator\, Honda em5000s generator\, 1/2 ton capacity L
@@ -89,11 +89,11 @@ URL:https://www.estatesales.net/NJ/Pittstown/08867/5145258
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12453-20261122@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Machinery\, Tools & House Contents
 DTSTART;TZID=America/New_York:20261122T080000
 DTEND;TZID=America/New_York:20261122T130000
-LOCATION:Pittstown\, NJ 08867
+LOCATION:Pittstown\, NJ\, 08867
 DESCRIPTION:Machinery and tools\nBolen's H1700 with 1517 frontend loader a
  nd backhoe\, Kawasaki Mule\, 8'x10' trailer\, riding lawnmower\, mower li
  ft\, Somo diesel generator\, Honda em5000s generator\, 1/2 ton capacity L

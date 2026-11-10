@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12445-20261113@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Sparta Estate Sale
 DTSTART;TZID=America/New_York:20261113T090000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:Sparta\, NJ 07871
+LOCATION:Sparta\, NJ\, 07871
 DESCRIPTION:✨\nSAVE THE DATE | SPARTA\, NJ\n✨\nMark your calendars! Re
  claim Estate & Home is bringing you another exciting estate sale in Spart
  a!\nJoin us for a wonderful collection of home furnishings\, décor\, hou
@@ -41,11 +41,11 @@ URL:https://www.estatesales.net/NJ/Sparta/07871/5151141
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12445-20261114@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:Sparta Estate Sale
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:Sparta\, NJ 07871
+LOCATION:Sparta\, NJ\, 07871
 DESCRIPTION:✨\nSAVE THE DATE | SPARTA\, NJ\n✨\nMark your calendars! Re
  claim Estate & Home is bringing you another exciting estate sale in Spart
  a!\nJoin us for a wonderful collection of home furnishings\, décor\, hou

@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12605-20261128@port-murray
-DTSTAMP:20261109T170541Z
+DTSTAMP:20261110T200131Z
 SUMMARY:11/28/2026 COINS & JEWELRY (Nazareth\, PA)
 DTSTART;TZID=America/New_York:20261128T120100
-LOCATION:330 W. Moorestown Road
+LOCATION:330 W. Moorestown Road\, Nazareth\, PA\, 18064
 DESCRIPTION:Onlilne Coin & Jewelry Auction!\n\nPick up begins Sunday\, Nov
  ember 29 from 10-2 & 9-4 M-F the following week.\nPlease call to arrange 
  pickup if a later date is needed.\n\n**Credit cards that you register wit
