@@ -18,15 +18,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-12748-20261110@port-murray
-DTSTAMP:20261110T200131Z
-SUMMARY:115-acre preserved estate along Musconetcong River in Warren Count
- y to be sold at auction
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-LOCATION:Franklin Township
-DESCRIPTION:
-URL:https://wrnjradio.com/115-acre-preserved-estate-along-musconetcong-riv
- er-in-warren-county-to-be-sold-at-auction/
+UID:sale-13010-20261114@port-murray
+DTSTAMP:20261111T184744Z
+SUMMARY:Silvester Estate
+DTSTART;TZID=America/New_York:20261114T083000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:Hillsborough\, NJ 08844
+DESCRIPTION:Estate Sale
+URL:https://www.estatesales.net/NJ/Hillsborough/08844/5156637
 END:VEVENT
 END:VCALENDAR

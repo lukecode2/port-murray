@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12444-20261113@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:One day Estate Sale everything must go! Hosted by the Vintage Mark
  et Estates
 DTSTART;TZID=America/New_York:20261113T100000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:6 lookout road\, Randolph\, NJ\, 07869
+LOCATION:6 lookout road\, Randolph\, NJ 07869
 DESCRIPTION:This is a great one day Estate Sale full of beautiful modern f
  urniture. Everything must go hundred terra-cotta individualwine holders. 
  custom jewelry\, living room set bedroom\, set kitchen items some tools.b

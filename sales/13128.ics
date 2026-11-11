@@ -18,15 +18,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-12239-20261110@port-murray
-DTSTAMP:20261110T200131Z
-SUMMARY:Restaurantware Food Service Auction All Brand New Items (East Stro
- udsburg\, PA)
-DTSTART;TZID=America/New_York:20261110T200000
+UID:sale-13128-20261117@port-murray
+DTSTAMP:20261111T184744Z
+SUMMARY:November Variety Collectibles Auction (East Stroudsburg\, PA)
+DTSTART;TZID=America/New_York:20261117T200000
 LOCATION:.\, East Stroudsburg\, PA\, 18302
 DESCRIPTION:All items are sold as-is\, as pictured\, with no guarantees ex
  pressed or implied. Any questions must be emailed to mandacompany@aol.com
   prior to bidding.
-URL:https://hibid.com/catalog/792613
+URL:https://hibid.com/catalog/793983
 END:VEVENT
 END:VCALENDAR

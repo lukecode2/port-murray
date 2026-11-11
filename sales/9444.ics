@@ -19,21 +19,21 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-9444-20261121@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Sports Memorabilia in Whippany
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Whippany\, NJ\, 07981
+LOCATION:Whippany\, NJ 07981
 DESCRIPTION:Please check back as we are just starting to set up.
 URL:https://www.estatesales.net/NJ/Whippany/07981/5126244
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-9444-20261122@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Sports Memorabilia in Whippany
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T160000
-LOCATION:Whippany\, NJ\, 07981
+LOCATION:Whippany\, NJ 07981
 DESCRIPTION:Please check back as we are just starting to set up.
 URL:https://www.estatesales.net/NJ/Whippany/07981/5126244
 END:VEVENT

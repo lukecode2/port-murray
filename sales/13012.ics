@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13012-20261115@port-murray
+DTSTAMP:20261111T184744Z
+SUMMARY:Vintage in Bridgewater Estate Sale
+DTSTART;TZID=America/New_York:20261115T100000
+DTEND;TZID=America/New_York:20261115T160000
+LOCATION:Bridgewater\, NJ\, 08807
+DESCRIPTION:🏡\nINCREDIBLE VINTAGE ESTATE SALE – A COLLECTOR’S DREAM
+ !\n🏡\nCome explore a wonderful estate sale filled with treasures\, col
+ lectibles\, and vintage charm! There is something for everyone\, especial
+ ly collectors and lovers of unique finds.\n✨\nJUST A FEW OF THE MANY TR
+ EASURES YOU’LL FIND:\nBeautiful collections of trinket and jewelry boxe
+ s\nChina - Lenox & Wedgwood\nAnimal figurines and statues\nVintage furnit
+ ure with timeless character\nVintage women’s clothing\nVintage kitchenw
+ are and nostalgic kitchen treasures\nUnique collectibles and decorative p
+ ieces\nHoliday decor\nSo many wonderful one-of-a-kind finds!\nWhether you
+ ’re a serious collector\, a vintage enthusiast\, or simply love discove
+ ring hidden treasures\, you won’t want to miss this sale!
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5156667
+END:VEVENT
+END:VCALENDAR

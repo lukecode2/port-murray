@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13129-20261120@port-murray
+DTSTAMP:20261111T184744Z
+SUMMARY:246: Sports Cards\, Vintage and Modern. Pokemon\, Collectibles (Ph
+ illipsburg\, NJ)
+DTSTART;TZID=America/New_York:20261120T180000
+LOCATION:271 Windmill Court\, Phillipsburg\, NJ\, 08865
+DESCRIPTION:Please Note: We use a scanner for a lot of the cards in the au
+ ction. The lines on the card are from the plastic sleeves. You will find 
+ a huge selection of the Hottest RC's and Stars from today and yesterday. 
+  Our inventory is very large and covers a wide variety from Vintage to Mo
+ dern to Non-Sport in a variety of price ranges.  From High-End to $1 and 
+ Bulk deals\, we have something for everyone.  You will usually find somet
+ hing you have never seen before\, as we try to keep the inventory fresh a
+ nd unique.\nWe add new items daily\, so check back for additional items u
+ p to the start of the auction.\nFor single card orders under $10\, we off
+ er $2.99 PWE shipping.  For orders over $10\, minimum shipping cost per o
+ rder $7.49.   Orders Over $100.00 will require insurance at a small addit
+ ional charge based on amount over $100.   Heavy orders will be charged by
+  weight\, and we extend our shipping discounts to our customers.  We stri
+ ve to have the most affordable shipping rates for our customers.\nAll inv
+ oices will be sent 24-48 hours after the close of the auction and will ha
+ ve shipping charges included. Invoices will be charged to the credit card
+ s on file upon time of invoicing.  All orders will be shipped out within 
+ 3-5 Business Days.  PLEASE ENSURE YOUR SHIPPING ADDRESS AND EMAIL ADDRESS
+  ON FILE ARE UP TO DATE.  If your account has multiple addresses on file\
+ , we will make 2 attempts (1 by email\, 1 by phone) to verify your accura
+ te shipping address.  It is the buyer's responsibility to respond to addr
+ ess verifications within 5 business days of contact.  We will hold orders
+  for 7 days. If Payment is not made you will not be allowed to bid in fut
+ ure auctions. \nHibid has doubled their fees to sellers. Our goal is to h
+ ave one of the lowest buyers premiums and do our best to keep fees low fo
+ r our customers.  To help offset this major increase in expenses on our e
+ nd\, we have decided to add a $1.00 per order handling fee rather than in
+ crease the buyers premium.  We appreciate our customers and hope to conti
+ nue to provide large scale auctions at great prices.
+URL:https://hibid.com/catalog/793875
+END:VEVENT
+END:VCALENDAR

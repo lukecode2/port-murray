@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13015-20261113@port-murray
+DTSTAMP:20261111T184744Z
+SUMMARY:Estate Sale in Sparta
+DTSTART;TZID=America/New_York:20261113T090000
+DTEND;TZID=America/New_York:20261113T030000
+LOCATION:29 Douglas Dr\, Sparta\, NJ\, 07871
+DESCRIPTION:Join Reclaim Estate & Home for a great weekend of estate sale 
+ finds. Furniture\, home décor\, tools\, household items and more.\n📍 
+ 29 Douglas Drive\, Sparta\, NJ\n📅 November 13 & 14\n⏰ 9am - 3pm\n
+ 🚗 PARKING: Please park along the street. Golf cart transportation will
+  be available up the driveway. Sign-in sheet will be located at the mailb
+ ox. Vehicle access for loading purchases will be provided.\nShare with a 
+ friend and mark your calendars! 🛍️
+URL:https://gsalr.com/estate-sale-in-sparta-sparta-nj-38996355.html
+END:VEVENT
+END:VCALENDAR

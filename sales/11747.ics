@@ -18,73 +18,120 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:sale-11747-20261112@port-murray
+DTSTAMP:20261111T184744Z
+SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+LOCATION:16 Cushing Dr\, Bridgewater\, NJ\, 08807
+DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
+ pm:\nhttps://form.jotform.com/26299...\nWe are excited to invite you to o
+ ur upcoming sale in Bridgewater! We have an incredible selection of fine 
+ art\, high-end lighting\, quality furniture\, collectibles\, and househol
+ d items.\nHere is a preview of what you'll find:\nFeatured Lighting & Scu
+ lptures:\nFlush Mount Murano Chandelier (Sputnik Lily)\, "Sea Whispers" S
+ culpture by Alice Heath (Austin Productions)\, large cast brass horse wit
+ h plinth base (~5')\, large Jade galloping horses (21" H)\, "Reward of th
+ e Hunt" bronze sculpture by Jensen (25" H)\, and Pierre Roche "Diane" bro
+ nze sculpture.\nFeatured Fine Art:\nBill Mack pieces ("Charisma Study" li
+ thograph 3/150\, "Mystery" in bonded sand\, "Fantasy" in bonded sand)\, E
+ rmes Ottaviani Silver & 24K Gold plaque artwork\, Post Modern 3D paper sc
+ ulpture in a clear acrylic shadow box\, and African batik textile art.\nJ
+ ewelry\, Watches & Perfumes:\nTiffany & Co.\, George men's watches\, plus
+  classic fragrances including Shalimar\,Chantilly\, and Elizabeth Taylor 
+ (Black Pearls\, White Diamonds\, Passion).\nFine Furniture & Home Decor:\
+ nBernhardt dining room suite\, Henredon upholstered sofa\, full bedroom s
+ uites\,counter stools\, bookshelves\, desks\, filing cabinets\, and offic
+ e chairs.\nMusical Instruments:\nOttm Altenburg Baby Grand Piano (Serial 
+ No. 868216) and a WM Knabe Upright Piano.\nKitchenware & Entertaining:\nF
+ ine china\, porcelain\, and crystal (Mikasa "Cambridge"\, Waterford\, Len
+ ox\, Lefton\,Oleg Cassini\, Grainware)\, International Silver Company fla
+ tware\, Thomson Pottery\, Mikasa stoneware\, Pfaltzgraff\,T-Fal pots & pa
+ ns\, roasting pans\, juice press\, Black & Decker toaster oven\, punch bo
+ wls\, carafes\, and general barware.\nElectronics\, Office & General Hous
+ ehold:\nHP printers\, computer monitors\, office supplies\, books\, Cabba
+ ge Patch dolls\, bicycles\, ladders\, lawn equipment\, and large-size men
+ 's & ladies' clothing\, shoes\, and handbags.\nPlease view all photos as 
+ there are far too many items to list!\nWe look forward to seeing you ther
+ e!
+URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
+END:VEVENT
+BEGIN:VEVENT
 UID:sale-11747-20261113@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;TZID=America/New_York:20261113T093000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:Bridgewater\, NJ\, 08807
-DESCRIPTION:Online sign up opens at 8pm on Wednesday November 11\, 2026: h
- ttps://form.jotform.com/263055640960154\nFurniture & Home Accents\nDining
-  & Kitchen:\nGate Leg Dining Table with Captains Chairs\, China Cabinet\,
-  Kitchen Table with 4 Chairs\, Pie Safe\nLiving & Seating:\nVintage Coast
- al Rattan Sofa & Chair\, Upholstered Furniture\, Directors Chairs\, Room 
- Divider\nBedroom:\nBedroom Suite\, Beds\, Blanket Chest\nOffice Furniture
- :\nOffice Chair\nCrafting\, Sewing & Hobbies\nCrafting Room Equipment:\nL
- arge Cutting Table\nSupplies:\nFabric\, Yarn\, Thread\, Fasteners\, Sewin
- g Supplies & Notions\nMedia & Games:\nBooks\, Cookbooks\, Puzzles\nKitche
- nware\, Dinnerware & Glassware\nFine Dinnerware & Collectibles:\nTheodore
-  Haviland New York\nApple Blossom\nChina Set\, Additional China Set\,Leno
- x\, Corelle\nGlassware & Serveware:\nCut Glass & Crystal\, Silver-Plated 
- Serving & Decor Items\, Steins\, Flatware\, Vases\nSmall Appliances & Ute
- nsils:\nKeurig Coffee Maker\, Mixmaster\, Pots & Pans\, Kitchen Items & U
- tensils\nHome Decor\, Collectibles & Antiques\nVintage & Antiques:\nHowdy
-  Doody Marionette Doll\, Primitive Woodworking Tools\, Copper & Brass Min
- iatures\nCollectibles & Pottery:\nAsian Blue & White Pottery / Tea Set\, 
- Hummel Figurines\, Brass Umbrella Holder with Windmill Motif\nLighting & 
- Wall Decor:\nLamps\, Brass Candlestick Wall Sconces\, Wall Art\, Picture 
- Frames\nSeasonal & Textiles:\nChristmas Ornaments\, Linens\, Decorative B
- askets\nElectronics\, Instruments & Office\nMusical Instruments:\nWurlitz
- er Upright Organ Piano\nElectronics:\nTelevisions\, Stereo Equipment\nOff
- ice:\nOffice Supplies & Electronics\nClothing & Accessories\nHandbags\nAs
- sorted Clothing\nGarage\, Attic & Tools\nGarage:\nMiscellaneous Tools & G
- arage Items\nAttic:\nAttic Contents – Partial Digger\n(Mask & Gloves Re
- commended)\nView All Photos - Not everything is listed
+LOCATION:16 Cushing Dr\, Bridgewater\, NJ\, 08807
+DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
+ pm:\nhttps://form.jotform.com/26299...\nWe are excited to invite you to o
+ ur upcoming sale in Bridgewater! We have an incredible selection of fine 
+ art\, high-end lighting\, quality furniture\, collectibles\, and househol
+ d items.\nHere is a preview of what you'll find:\nFeatured Lighting & Scu
+ lptures:\nFlush Mount Murano Chandelier (Sputnik Lily)\, "Sea Whispers" S
+ culpture by Alice Heath (Austin Productions)\, large cast brass horse wit
+ h plinth base (~5')\, large Jade galloping horses (21" H)\, "Reward of th
+ e Hunt" bronze sculpture by Jensen (25" H)\, and Pierre Roche "Diane" bro
+ nze sculpture.\nFeatured Fine Art:\nBill Mack pieces ("Charisma Study" li
+ thograph 3/150\, "Mystery" in bonded sand\, "Fantasy" in bonded sand)\, E
+ rmes Ottaviani Silver & 24K Gold plaque artwork\, Post Modern 3D paper sc
+ ulpture in a clear acrylic shadow box\, and African batik textile art.\nJ
+ ewelry\, Watches & Perfumes:\nTiffany & Co.\, George men's watches\, plus
+  classic fragrances including Shalimar\,Chantilly\, and Elizabeth Taylor 
+ (Black Pearls\, White Diamonds\, Passion).\nFine Furniture & Home Decor:\
+ nBernhardt dining room suite\, Henredon upholstered sofa\, full bedroom s
+ uites\,counter stools\, bookshelves\, desks\, filing cabinets\, and offic
+ e chairs.\nMusical Instruments:\nOttm Altenburg Baby Grand Piano (Serial 
+ No. 868216) and a WM Knabe Upright Piano.\nKitchenware & Entertaining:\nF
+ ine china\, porcelain\, and crystal (Mikasa "Cambridge"\, Waterford\, Len
+ ox\, Lefton\,Oleg Cassini\, Grainware)\, International Silver Company fla
+ tware\, Thomson Pottery\, Mikasa stoneware\, Pfaltzgraff\,T-Fal pots & pa
+ ns\, roasting pans\, juice press\, Black & Decker toaster oven\, punch bo
+ wls\, carafes\, and general barware.\nElectronics\, Office & General Hous
+ ehold:\nHP printers\, computer monitors\, office supplies\, books\, Cabba
+ ge Patch dolls\, bicycles\, ladders\, lawn equipment\, and large-size men
+ 's & ladies' clothing\, shoes\, and handbags.\nPlease view all photos as 
+ there are far too many items to list!\nWe look forward to seeing you ther
+ e!
 URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11747-20261114@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:Bridgewater\, NJ\, 08807
-DESCRIPTION:Online sign up opens at 8pm on Wednesday November 11\, 2026: h
- ttps://form.jotform.com/263055640960154\nFurniture & Home Accents\nDining
-  & Kitchen:\nGate Leg Dining Table with Captains Chairs\, China Cabinet\,
-  Kitchen Table with 4 Chairs\, Pie Safe\nLiving & Seating:\nVintage Coast
- al Rattan Sofa & Chair\, Upholstered Furniture\, Directors Chairs\, Room 
- Divider\nBedroom:\nBedroom Suite\, Beds\, Blanket Chest\nOffice Furniture
- :\nOffice Chair\nCrafting\, Sewing & Hobbies\nCrafting Room Equipment:\nL
- arge Cutting Table\nSupplies:\nFabric\, Yarn\, Thread\, Fasteners\, Sewin
- g Supplies & Notions\nMedia & Games:\nBooks\, Cookbooks\, Puzzles\nKitche
- nware\, Dinnerware & Glassware\nFine Dinnerware & Collectibles:\nTheodore
-  Haviland New York\nApple Blossom\nChina Set\, Additional China Set\,Leno
- x\, Corelle\nGlassware & Serveware:\nCut Glass & Crystal\, Silver-Plated 
- Serving & Decor Items\, Steins\, Flatware\, Vases\nSmall Appliances & Ute
- nsils:\nKeurig Coffee Maker\, Mixmaster\, Pots & Pans\, Kitchen Items & U
- tensils\nHome Decor\, Collectibles & Antiques\nVintage & Antiques:\nHowdy
-  Doody Marionette Doll\, Primitive Woodworking Tools\, Copper & Brass Min
- iatures\nCollectibles & Pottery:\nAsian Blue & White Pottery / Tea Set\, 
- Hummel Figurines\, Brass Umbrella Holder with Windmill Motif\nLighting & 
- Wall Decor:\nLamps\, Brass Candlestick Wall Sconces\, Wall Art\, Picture 
- Frames\nSeasonal & Textiles:\nChristmas Ornaments\, Linens\, Decorative B
- askets\nElectronics\, Instruments & Office\nMusical Instruments:\nWurlitz
- er Upright Organ Piano\nElectronics:\nTelevisions\, Stereo Equipment\nOff
- ice:\nOffice Supplies & Electronics\nClothing & Accessories\nHandbags\nAs
- sorted Clothing\nGarage\, Attic & Tools\nGarage:\nMiscellaneous Tools & G
- arage Items\nAttic:\nAttic Contents – Partial Digger\n(Mask & Gloves Re
- commended)\nView All Photos - Not everything is listed
+LOCATION:16 Cushing Dr\, Bridgewater\, NJ\, 08807
+DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
+ pm:\nhttps://form.jotform.com/26299...\nWe are excited to invite you to o
+ ur upcoming sale in Bridgewater! We have an incredible selection of fine 
+ art\, high-end lighting\, quality furniture\, collectibles\, and househol
+ d items.\nHere is a preview of what you'll find:\nFeatured Lighting & Scu
+ lptures:\nFlush Mount Murano Chandelier (Sputnik Lily)\, "Sea Whispers" S
+ culpture by Alice Heath (Austin Productions)\, large cast brass horse wit
+ h plinth base (~5')\, large Jade galloping horses (21" H)\, "Reward of th
+ e Hunt" bronze sculpture by Jensen (25" H)\, and Pierre Roche "Diane" bro
+ nze sculpture.\nFeatured Fine Art:\nBill Mack pieces ("Charisma Study" li
+ thograph 3/150\, "Mystery" in bonded sand\, "Fantasy" in bonded sand)\, E
+ rmes Ottaviani Silver & 24K Gold plaque artwork\, Post Modern 3D paper sc
+ ulpture in a clear acrylic shadow box\, and African batik textile art.\nJ
+ ewelry\, Watches & Perfumes:\nTiffany & Co.\, George men's watches\, plus
+  classic fragrances including Shalimar\,Chantilly\, and Elizabeth Taylor 
+ (Black Pearls\, White Diamonds\, Passion).\nFine Furniture & Home Decor:\
+ nBernhardt dining room suite\, Henredon upholstered sofa\, full bedroom s
+ uites\,counter stools\, bookshelves\, desks\, filing cabinets\, and offic
+ e chairs.\nMusical Instruments:\nOttm Altenburg Baby Grand Piano (Serial 
+ No. 868216) and a WM Knabe Upright Piano.\nKitchenware & Entertaining:\nF
+ ine china\, porcelain\, and crystal (Mikasa "Cambridge"\, Waterford\, Len
+ ox\, Lefton\,Oleg Cassini\, Grainware)\, International Silver Company fla
+ tware\, Thomson Pottery\, Mikasa stoneware\, Pfaltzgraff\,T-Fal pots & pa
+ ns\, roasting pans\, juice press\, Black & Decker toaster oven\, punch bo
+ wls\, carafes\, and general barware.\nElectronics\, Office & General Hous
+ ehold:\nHP printers\, computer monitors\, office supplies\, books\, Cabba
+ ge Patch dolls\, bicycles\, ladders\, lawn equipment\, and large-size men
+ 's & ladies' clothing\, shoes\, and handbags.\nPlease view all photos as 
+ there are far too many items to list!\nWe look forward to seeing you ther
+ e!
 URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
 END:VEVENT
 END:VCALENDAR

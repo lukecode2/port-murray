@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11754-20261119@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Elegant Estates: A Selling Exhibition
 DTSTART;TZID=America/New_York:20261119T130000
 DTEND;TZID=America/New_York:20261119T180000
-LOCATION:Morristown\, NJ\, 07960
+LOCATION:Morristown\, NJ 07960
 DESCRIPTION:Elegant Estates: A Selling Exhibition\nbrings together an exce
  ptional and eclectic selection of property from multiple estates\, though
  tfully assembled under one roof at our Morristown\, New Jersey gallery. S
@@ -48,11 +48,11 @@ URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11754-20261120@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Elegant Estates: A Selling Exhibition
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T150000
-LOCATION:Morristown\, NJ\, 07960
+LOCATION:Morristown\, NJ 07960
 DESCRIPTION:Elegant Estates: A Selling Exhibition\nbrings together an exce
  ptional and eclectic selection of property from multiple estates\, though
  tfully assembled under one roof at our Morristown\, New Jersey gallery. S
@@ -77,11 +77,11 @@ URL:https://www.estatesales.net/NJ/Morristown/07960/5138073
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11754-20261121@port-murray
-DTSTAMP:20261110T200131Z
+DTSTAMP:20261111T184744Z
 SUMMARY:Elegant Estates: A Selling Exhibition
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T150000
-LOCATION:Morristown\, NJ\, 07960
+LOCATION:Morristown\, NJ 07960
 DESCRIPTION:Elegant Estates: A Selling Exhibition\nbrings together an exce
  ptional and eclectic selection of property from multiple estates\, though
  tfully assembled under one roof at our Morristown\, New Jersey gallery. S
