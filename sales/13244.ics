@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13244-20261121@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:Cedar Knolls Estate Sale
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T180000
+LOCATION:Cedar Knolls\, NJ\, 07927
+DESCRIPTION:Join us for a wonderful estate sale in Cedar Knolls\, NJ\, fea
+ turing a beautiful selection of well-maintained furniture\, home furnishi
+ ngs\, and household treasures. Highlights include a quality leather sofa 
+ with a built-in sleeper bed\, a 65-inch flat-screen television\, an enter
+ tainment center\, a dining room table and chairs\, a classic vintage chin
+ a hutch\, a buffet\, bedroom furniture\, coffee and end tables\, lamps\, 
+ decorative accessories\, kitchenware\, and much more. Whether you’re fu
+ rnishing a new home\, searching for a unique vintage piece\, or simply lo
+ oking for great bargains\, there’s something for everyone. Come browse 
+ this lovely collection of furnishings and household items\, many of which
+  have been lovingly cared for over the years. Don’t miss this opportuni
+ ty to find quality pieces at attractive prices!
+URL:https://www.estatesales.net/NJ/Cedar-Knolls/07927/5157963
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13244-20261122@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:Cedar Knolls Estate Sale
+DTSTART;TZID=America/New_York:20261122T090000
+DTEND;TZID=America/New_York:20261122T180000
+LOCATION:Cedar Knolls\, NJ\, 07927
+DESCRIPTION:Join us for a wonderful estate sale in Cedar Knolls\, NJ\, fea
+ turing a beautiful selection of well-maintained furniture\, home furnishi
+ ngs\, and household treasures. Highlights include a quality leather sofa 
+ with a built-in sleeper bed\, a 65-inch flat-screen television\, an enter
+ tainment center\, a dining room table and chairs\, a classic vintage chin
+ a hutch\, a buffet\, bedroom furniture\, coffee and end tables\, lamps\, 
+ decorative accessories\, kitchenware\, and much more. Whether you’re fu
+ rnishing a new home\, searching for a unique vintage piece\, or simply lo
+ oking for great bargains\, there’s something for everyone. Come browse 
+ this lovely collection of furnishings and household items\, many of which
+  have been lovingly cared for over the years. Don’t miss this opportuni
+ ty to find quality pieces at attractive prices!
+URL:https://www.estatesales.net/NJ/Cedar-Knolls/07927/5157963
+END:VEVENT
+END:VCALENDAR

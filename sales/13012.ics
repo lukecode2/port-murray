@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13012-20261115@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Vintage in Bridgewater Estate Sale
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T160000
-LOCATION:Bridgewater\, NJ\, 08807
+LOCATION:Bridgewater\, NJ 08807
 DESCRIPTION:🏡\nINCREDIBLE VINTAGE ESTATE SALE – A COLLECTOR’S DREAM
  !\n🏡\nCome explore a wonderful estate sale filled with treasures\, col
  lectibles\, and vintage charm! There is something for everyone\, especial

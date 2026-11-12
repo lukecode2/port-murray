@@ -19,11 +19,34 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11098-20261116@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:November 16th Online Auction (Pen Argyl\, PA)
 DTSTART;TZID=America/New_York:20261116T190200
-LOCATION:245 E. Main St. unit C.
-DESCRIPTION:MORE TO COME
+LOCATION:245 E. Main St. unit C.\, Pen Argyl\, PA\, 18072
+DESCRIPTION:Online Auction November 16th \n\nSoft Close 7pm ET\n\nVintage 
+ Steiff Bears\, Late 19th Century\,Late 19th-Century American Primitive Mi
+ niature Stepback Cupboard\, Antique Buggy Seat Chest\, 19th C Antique Pin
+ e Hump Top Tool Chest Chest\, Antique Miniature Dome Top Steamer Trunk Vi
+ ct\, Vintage 80s Felco New York Mets Blue Satin\,  Over 350 1973 Topps Ba
+ seball Cards\, Vintage Lady Head Planters\, Vtg 1956 Napco Candy Cane Ang
+ el Bells Trio\, Vtg 1970s Dorrane of California Cheshire Cat Cookie Jar\,
+  67 Rings: Genuine Stone\, New Old Stock Austrian Rings\,  Vintage: Austr
+ ian Souvenir Bracelet\, Pink CZ\, Otis Art Deco Sterling Bracelet\,\,  Do
+ lce By Mojo Moxy High Heel Shoes 9M Red\, 5pc MCM Dorthy Thorpe Silver Fa
+ de Smaoke Glass\,  Listed Artist Marked Bradford\, Antique North Bros Cas
+ t Iron Christmas Tree\, Vintage 1973 The Beatles & Rolling Stones Live re
+ cord\, Percy Perkins Hand Carved Wood Shorebird Decoy\, Vintage Mack Truc
+ k Bulldog Lapel Pins Charms Lot\, Vintage Mack Truck Bulldog Lapel Pins C
+ harms Lot\, 1960s Bobble Head Nodder Miami Dolphins Round\, Many Cookie J
+ ars\, Vtg Fire-King Vitrock Milk Glass Kitchen Grease Jar\, Vintage 1991 
+ WWF Hasbro Figure Lot \, Vintage Ertl Allis Chalmers One Ninety 190 Toy\,
+  Primitive American Style Two-Door Wooden Jelly Cupboard\, Stanley Furnit
+ ure Dresser\, Antique Country Primitive Wooden Storage Bench\, Antique Vi
+ ctorian Eastlake Carved Walnut Wall Mirror\, Antique Primitive Pine Corne
+ r Cabinet Hutch Open\,  Antique Blank Chest\, Modern White Makeup Vanity 
+ Set with Lighted LED\,  Pulaski Furniture French Country Provincial Dress
+ er Night Stands (2) \,Lighted Curio Display Cabinet Four Glass\, Vintage 
+ Barbies Toys & more
 URL:https://hibid.com/catalog/791209
 END:VEVENT
 END:VCALENDAR

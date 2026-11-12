@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13246-20261204@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:Single Owner Antique\, Classic Cars and Related Automotive!!
+DTSTART;TZID=America/New_York:20261204T140000
+LOCATION:723 NJ-57\, Stewartsville\, NJ\, 08886
+DESCRIPTION:Dennis Auction Presents Another ONLINE ONLY AUCTION Single Own
+ er Antique\, Classic Cars and Related Automotive!!\nFriday December 4\, 2
+ 026 - 12 PM Est\nThese antique and classic automobiles were taken from th
+ e carriage house of a single owner estate! They are as we found them and 
+ are untested as to their running condition. Including 4 Ford various Mode
+ l A vehicles\, Ford Custom Deluxe Coupe\, Mercedes and Pontiac. We have a
+ ntique license plates and Auto Brochures and Ephemera. We have An Interna
+ tional Harvester Cub Cadet Garden Tractor with front end loader!\nThis is
+  a unique opportunity to purchase a nice vehicle from a single owner’s 
+ estate.\nYou need to check our website for all the photos\, then come vie
+ w them in person. They are an impressive collection!\nCall or email with 
+ any questions.\nVisit our website at www.dennisauction.com\nContact us at
+  908-859-3424 to arrange your private preview.\nTo Bid on Live Auctioneer
+ s:\nhttps://www.liveauctioneers.com/catalog/438163_antique-and-classic-ca
+ rs-w-related-automotive/?page=1&sort=lotNumber\nTo Bid on Invaluable:\nht
+ tps://connect.invaluable.com/dennis/\nLike & follow us on Facebook!\nCont
+ act us about your Consignments – Call 908-859-3424
+URL:https://gsalr.com/single-owner-antique-classic-stewartsville-nj-389967
+ 65.html
+END:VEVENT
+END:VCALENDAR

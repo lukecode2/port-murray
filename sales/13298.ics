@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13298-20261114@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:Gaithersburg Garage Sale Everything Must Go!!! Nov 14th & 15th
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Easton\, PA
+DESCRIPTION:🚨 GARAGE SALE – EVERYTHING MUST GO! 🚨 MESSAGE FOR ADDR
+ ESS if interested in anything in the picture before sale message me and w
+ e can arrange pick up Having a garage sale with LOTS of items for sale! S
+ omething for everyone\, and great deals on everything. Items available in
+ clude: * Lots of Men’s and women’s clothing * Coach purses * MANY pai
+ rs of Coach shoes * Kitchen/dining table * Hangers * Posters and miscella
+ neous items * And more! Everything is priced to sell! Come browse\, shop\
+ , and find some great deals. 📍 Location: Gaithersburg MD 📅 Date: No
+ v 14th & 15th ⏰ Time: 9am to 2pm ACCEPTING CASH\, ZELLE\, OR CASHAPP
+URL:https://www.facebook.com/marketplace/item/1132983422448931/
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13298-20261115@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:Gaithersburg Garage Sale Everything Must Go!!! Nov 14th & 15th
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+LOCATION:Easton\, PA
+DESCRIPTION:🚨 GARAGE SALE – EVERYTHING MUST GO! 🚨 MESSAGE FOR ADDR
+ ESS if interested in anything in the picture before sale message me and w
+ e can arrange pick up Having a garage sale with LOTS of items for sale! S
+ omething for everyone\, and great deals on everything. Items available in
+ clude: * Lots of Men’s and women’s clothing * Coach purses * MANY pai
+ rs of Coach shoes * Kitchen/dining table * Hangers * Posters and miscella
+ neous items * And more! Everything is priced to sell! Come browse\, shop\
+ , and find some great deals. 📍 Location: Gaithersburg MD 📅 Date: No
+ v 14th & 15th ⏰ Time: 9am to 2pm ACCEPTING CASH\, ZELLE\, OR CASHAPP
+URL:https://www.facebook.com/marketplace/item/1132983422448931/
+END:VEVENT
+END:VCALENDAR

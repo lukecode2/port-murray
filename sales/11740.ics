@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11740-20261114@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Designer Clothes & Shoes\, Antiques\, Christmas\, Fine Dining & Mo
  re
 DTSTART;TZID=America/New_York:20261114T100000
@@ -61,7 +61,7 @@ URL:https://www.estatesales.net/NJ/Annandale/08801/5119422
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11740-20261115@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Designer Clothes & Shoes\, Antiques\, Christmas\, Fine Dining & Mo
  re
 DTSTART;TZID=America/New_York:20261115T100000

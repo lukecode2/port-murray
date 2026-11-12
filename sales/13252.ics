@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13252-20261114@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:Yard Sale\, Estate Sale
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:11 Dewey Ln\, Glen Gardner\, NJ\, 08826
+DESCRIPTION:Date and Time:\nSaturday\, November 14\, 2026\n8:00 am - 3:00 
+ pm\nAddress:\n11 Dewey Ln\, Glen Gardner\, NJ 08826\nDescription:\nFurnit
+ ure\, Art work(paintings and sculptures)\, outdoor decor\, household good
+ s\, treadmill\, elliptical and much much more. Come see what the collecto
+ r left to share.\nComments\nSign in\nto add a comment or ask a question a
+ bout this post.\nAdd Comment\nSale Photos:\n(5 photos) View photo gallery
+  »\nSocial Share:
+URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196461893
+END:VEVENT
+END:VCALENDAR

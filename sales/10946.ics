@@ -18,14 +18,19 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-10946-20261213@port-murray
-DTSTAMP:20261111T184744Z
-SUMMARY:December Consignor Sale (Wind Gap\, PA)
-DTSTART;TZID=America/New_York:20261213T180000
-LOCATION:228 S Broadway  Suite D
+UID:sale-10946-20261206@port-murray
+DTSTAMP:20261112T234547Z
+SUMMARY:December 6TH Consignor Sale (Wind Gap\, PA)
+DTSTART;TZID=America/New_York:20261206T180000
+LOCATION:228 S Broadway  Suite D\, Wind Gap\, PA\, 18091
 DESCRIPTION:MORE LOTS TO BE ADDED\n\n13% Buyer's Premium / 3% Cash Discoun
  t\n\n6% sales tax to Pennsylvania residents who do not have an exemption 
- sent to us prior to their charge.\n\nAuction includes:
+ sent to us prior to their charge.\n\nAuction includes:\n\n-Sports Cards a
+ nd Memorabilia\n-Vinyl Records\n   Beatles\n   Rock & Pop\n-Vintage New i
+ n Box & Loose Toys\n   Star Wars\n   Star Trek\n   Marvel\n   NASCAR\n-Mi
+ nerals & Rocks\n-Militaria\n-Antique & Vintage Radios\n-Coins\n-Comic Boo
+ ks & Magazines\n   MAD\n   Marvel\n   DC\n-Musical Instruments & Equipmen
+ t\n-Unique Finds\n& Much More!
 URL:https://hibid.com/catalog/790931
 END:VEVENT
 END:VCALENDAR

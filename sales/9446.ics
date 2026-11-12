@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-9446-20261127@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Black Friday Finds in Lebanon - Vintage\, Barn Finds and MORE!
-DTSTART;TZID=America/New_York:20261127T100000
-DTEND;TZID=America/New_York:20261127T140000
-LOCATION:Lebanon\, NJ 08833 Address will be available on Fri 11/27
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+LOCATION:Lebanon\, NJ\, 08833
 DESCRIPTION:Spend Black Friday visiting us in Lebanon. Pictures and detail
  s coming soon.\nThis sale features a filled barn with vintage finds\, mil
  k bottles\, tools\, games\, storage trunks\, Snap-On Tool Chests\, glass
@@ -33,11 +33,11 @@ URL:https://gsalr.com/black-friday-finds-in-lebanon-nj-38981159.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-9446-20261128@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Black Friday Finds in Lebanon - Vintage\, Barn Finds and MORE!
-DTSTART;TZID=America/New_York:20261128T100000
-DTEND;TZID=America/New_York:20261128T150000
-LOCATION:Lebanon\, NJ 08833 Address will be available on Fri 11/27
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+LOCATION:Lebanon\, NJ\, 08833
 DESCRIPTION:Spend Black Friday visiting us in Lebanon. Pictures and detail
  s coming soon.\nThis sale features a filled barn with vintage finds\, mil
  k bottles\, tools\, games\, storage trunks\, Snap-On Tool Chests\, glass

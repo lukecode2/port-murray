@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11747-20261112@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-LOCATION:16 Cushing Dr\, Bridgewater\, NJ\, 08807
+LOCATION:961 Sunset Ridge\, Bridgewater\, NJ 08807
 DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
  pm:\nhttps://form.jotform.com/26299...\nWe are excited to invite you to o
  ur upcoming sale in Bridgewater! We have an incredible selection of fine 
@@ -58,11 +58,11 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11747-20261113@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;TZID=America/New_York:20261113T093000
 DTEND;TZID=America/New_York:20261113T150000
-LOCATION:16 Cushing Dr\, Bridgewater\, NJ\, 08807
+LOCATION:961 Sunset Ridge\, Bridgewater\, NJ 08807
 DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
  pm:\nhttps://form.jotform.com/26299...\nWe are excited to invite you to o
  ur upcoming sale in Bridgewater! We have an incredible selection of fine 
@@ -97,11 +97,11 @@ URL:https://www.estatesales.net/NJ/Bridgewater/08807/5108298
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11747-20261114@port-murray
-DTSTAMP:20261111T184744Z
+DTSTAMP:20261112T234547Z
 SUMMARY:Bridgewater\, NJ (Sunset Ridge) 11/13 & 11/14
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:16 Cushing Dr\, Bridgewater\, NJ\, 08807
+LOCATION:961 Sunset Ridge\, Bridgewater\, NJ 08807
 DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
  pm:\nhttps://form.jotform.com/26299...\nWe are excited to invite you to o
  ur upcoming sale in Bridgewater! We have an incredible selection of fine 
