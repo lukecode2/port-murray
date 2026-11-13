@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12331-20261113@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
 DTSTART;TZID=America/New_York:20261113T100000
 DTEND;TZID=America/New_York:20261113T150000
@@ -56,7 +56,7 @@ URL:https://estatesales.org/estate-sales/nj/randolph/07869/dont-miss-this-
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12331-20261114@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T160000
@@ -93,7 +93,7 @@ URL:https://estatesales.org/estate-sales/nj/randolph/07869/dont-miss-this-
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12331-20261115@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Don't miss this one!!! Memory movers year end estate banger sale!
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T120000

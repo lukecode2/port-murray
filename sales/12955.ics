@@ -19,40 +19,41 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12955-20261113@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Hopewell Estate Sale: JAM PACKED HOUSE!
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-LOCATION:Hopewell\, NJ\, 08525
+DTSTART;TZID=America/New_York:20261113T090000
+DTEND;TZID=America/New_York:20261113T140000
+LOCATION:51 Moore's Mill-Mount Rose Rd\, Hopewell\, NJ\, 08525
 DESCRIPTION:Sunday hours have been added – we are still discovering grea
- t items!\nNEW PICTURES ADDED MONDAY!\nWhite Pine Estate Sales & Auctions 
- will be in Hopewell\, NJ\, offering an outstanding selection of antiques 
- and vintage items\, tools\, clothing\, decor\, and holiday collectibles.
- \nFeatured equipment includes a Cub Cadet GT 2550 lawn tractor\, a John D
- eere 317 riding lawn mower\, large snowblower - good condition!\, a John
-  Deere 15 utility cart\, a gas-powered woodchipper shredder\, and a Manti
- s gas tiller.\nWorkshop enthusiasts will find a vintage floor-standing dr
- ill press\, plastic storage racks\, stationary table saw\, belt and disc
-  sander\, air compressor\, red tool chest\, Werner aluminum extension lad
- der\, and various hand tools and hardware accessories.\nMCM hand crank ic
- e crusher\, MCM NOS Libby's glasses\, Wedgwood\, blankets & quilts\, Staf
- fordshire\, Johnson Bros. china\, Cambridge nude stem glasses\, vintage A
- M/FM radios\, Hitchcock style dining set\, Westmoreland glass\, books\, w
- agon wheel\, concrete garden decor\, Fitz & Floyd figurines\, Marigold ca
- rnival glass\, uranium glass\, large lot of jewelry\, copper pots/pans\, 
- perfumes\, Limoges trinket boxes\, bongo drums\, violin\, guitar\, vintag
- e typewriters\, vintage/antique sewing machines\, Dazey butter churns\, l
- arge lot of miniatures\, barware\, wrought iron bakers rack\, old Bibles\
- , vintage makeup compacts\, Lenox Princess collection.\nShoes\, doilies\,
-  vintage glass suncatchers\, CDs/cassettes\, TONS of all kinds of picture
- s frames\, nativity set\, vintage Christmas ornaments\, hand-crocheted it
- ems\, enameled nesting bowls\, butterfly stained glass lamp\, local Trent
- on pottery - Stangl\, Boehm\, Buyers Choice dolls\, tapestry rugs\, missi
- on style armchair/recliner\, Hallmark ornaments\, TVs\, Fenton\, Rosevill
- e\, crystal\, wooden ships\, telescope.\nTons of vintage collectibles an
- d home accents\, depression glass\, cast iron school desks\, Hummels\, t
- in party noisemakers\, TONS of boxed Department 56\, Snowbabies\, Boyd's
-  teddy bears\, dolls\, Christmas & holiday pieces and vintage wooden Ch
+ t items!\nNEW PICTURES ADDED — again!\nWhite Pine Estate Sales & Auctio
+ ns will be in Hopewell\, NJ\, offering an outstanding selection of antiqu
+ es and vintage items\, tools\, clothing\, decor\, and holiday collectibl
+ es.\nFeatured equipment includes a Cub Cadet GT 2550 lawn tractor\, a Joh
+ n Deere 317 riding lawn mower\, large snowblower - good condition!\, a J
+ ohn Deere 15 utility cart\, a gas-powered woodchipper shredder\, and a Ma
+ ntis gas tiller.\nWorkshop enthusiasts will find a vintage floor-standing
+  drill press\, plastic storage racks\, stationary table saw\, belt and d
+ isc sander\, air compressor\, red tool chest\, Werner aluminum extension 
+ ladder\, and various hand tools and hardware accessories.\nMCM hand crank
+  ice crusher\, MCM NOS Libby's glasses\, Wedgwood\, blankets & quilts\, S
+ taffordshire\, Johnson Bros. china\, Cambridge nude stem glasses\, vintag
+ e AM/FM radios\, Hitchcock style dining set\, Westmoreland glass\, books\
+ , wagon wheel\, concrete garden decor\, Fitz & Floyd figurines\, Marigold
+  carnival glass\, uranium glass\, large lot of jewelry\, copper pots/pans
+ \, perfumes\, Limoges trinket boxes\, bongo drums\, violin\, guitar\, vin
+ tage typewriters\, vintage/antique sewing machines\, Dazey butter churns\
+ , old car stereos\, large lot of miniatures\, barware\, wrought iron bak
+ ers rack\, old Bibles\, vintage makeup compacts\, Lenox Princess collecti
+ on.\nShoes\, doilies\, vintage glass suncatchers\, CDs/cassettes\, TONS o
+ f all kinds of pictures frames\, nativity set\, vintage Christmas ornamen
+ ts\, hand-crocheted items\, enameled nesting bowls\, butterfly stained gl
+ ass lamp\, local Trenton pottery - Stangl\, Boehm\, Buyers Choice dolls\,
+  tapestry rugs\, mission style armchair/recliner\, Hallmark ornaments\, T
+ Vs\, Fenton\, Roseville\, crystal\, wooden ships\, telescope.\nTons of v
+ intage collectibles and home accents\, depression glass\, cast iron scho
+ ol desks\, Hummels\, tin party noisemakers\, vintage cameras\, Muffy Bear
+ s\, TONS of boxed Department 56\, Snowbabies\, Boyd's teddy bears\, do
+ lls\, Charming Tails\, Christmas & holiday pieces and vintage wooden Ch
  ristmas cutouts.\nPorcelain china dinnerware\, great wood & upholstered f
  urniture\, lots of garage items\, headboards\, bedroom furniture\, tables
  \, couches\, nightstands\, chests\, glass front display cabinets\, yard 
@@ -64,40 +65,41 @@ URL:https://estatesales.org/estate-sales/nj/hopewell/08525/hopewell-estate
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12955-20261114@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Hopewell Estate Sale: JAM PACKED HOUSE!
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-LOCATION:Hopewell\, NJ\, 08525
+DTSTART;TZID=America/New_York:20261114T090000
+DTEND;TZID=America/New_York:20261114T150000
+LOCATION:51 Moore's Mill-Mount Rose Rd\, Hopewell\, NJ\, 08525
 DESCRIPTION:Sunday hours have been added – we are still discovering grea
- t items!\nNEW PICTURES ADDED MONDAY!\nWhite Pine Estate Sales & Auctions 
- will be in Hopewell\, NJ\, offering an outstanding selection of antiques 
- and vintage items\, tools\, clothing\, decor\, and holiday collectibles.
- \nFeatured equipment includes a Cub Cadet GT 2550 lawn tractor\, a John D
- eere 317 riding lawn mower\, large snowblower - good condition!\, a John
-  Deere 15 utility cart\, a gas-powered woodchipper shredder\, and a Manti
- s gas tiller.\nWorkshop enthusiasts will find a vintage floor-standing dr
- ill press\, plastic storage racks\, stationary table saw\, belt and disc
-  sander\, air compressor\, red tool chest\, Werner aluminum extension lad
- der\, and various hand tools and hardware accessories.\nMCM hand crank ic
- e crusher\, MCM NOS Libby's glasses\, Wedgwood\, blankets & quilts\, Staf
- fordshire\, Johnson Bros. china\, Cambridge nude stem glasses\, vintage A
- M/FM radios\, Hitchcock style dining set\, Westmoreland glass\, books\, w
- agon wheel\, concrete garden decor\, Fitz & Floyd figurines\, Marigold ca
- rnival glass\, uranium glass\, large lot of jewelry\, copper pots/pans\, 
- perfumes\, Limoges trinket boxes\, bongo drums\, violin\, guitar\, vintag
- e typewriters\, vintage/antique sewing machines\, Dazey butter churns\, l
- arge lot of miniatures\, barware\, wrought iron bakers rack\, old Bibles\
- , vintage makeup compacts\, Lenox Princess collection.\nShoes\, doilies\,
-  vintage glass suncatchers\, CDs/cassettes\, TONS of all kinds of picture
- s frames\, nativity set\, vintage Christmas ornaments\, hand-crocheted it
- ems\, enameled nesting bowls\, butterfly stained glass lamp\, local Trent
- on pottery - Stangl\, Boehm\, Buyers Choice dolls\, tapestry rugs\, missi
- on style armchair/recliner\, Hallmark ornaments\, TVs\, Fenton\, Rosevill
- e\, crystal\, wooden ships\, telescope.\nTons of vintage collectibles an
- d home accents\, depression glass\, cast iron school desks\, Hummels\, t
- in party noisemakers\, TONS of boxed Department 56\, Snowbabies\, Boyd's
-  teddy bears\, dolls\, Christmas & holiday pieces and vintage wooden Ch
+ t items!\nNEW PICTURES ADDED — again!\nWhite Pine Estate Sales & Auctio
+ ns will be in Hopewell\, NJ\, offering an outstanding selection of antiqu
+ es and vintage items\, tools\, clothing\, decor\, and holiday collectibl
+ es.\nFeatured equipment includes a Cub Cadet GT 2550 lawn tractor\, a Joh
+ n Deere 317 riding lawn mower\, large snowblower - good condition!\, a J
+ ohn Deere 15 utility cart\, a gas-powered woodchipper shredder\, and a Ma
+ ntis gas tiller.\nWorkshop enthusiasts will find a vintage floor-standing
+  drill press\, plastic storage racks\, stationary table saw\, belt and d
+ isc sander\, air compressor\, red tool chest\, Werner aluminum extension 
+ ladder\, and various hand tools and hardware accessories.\nMCM hand crank
+  ice crusher\, MCM NOS Libby's glasses\, Wedgwood\, blankets & quilts\, S
+ taffordshire\, Johnson Bros. china\, Cambridge nude stem glasses\, vintag
+ e AM/FM radios\, Hitchcock style dining set\, Westmoreland glass\, books\
+ , wagon wheel\, concrete garden decor\, Fitz & Floyd figurines\, Marigold
+  carnival glass\, uranium glass\, large lot of jewelry\, copper pots/pans
+ \, perfumes\, Limoges trinket boxes\, bongo drums\, violin\, guitar\, vin
+ tage typewriters\, vintage/antique sewing machines\, Dazey butter churns\
+ , old car stereos\, large lot of miniatures\, barware\, wrought iron bak
+ ers rack\, old Bibles\, vintage makeup compacts\, Lenox Princess collecti
+ on.\nShoes\, doilies\, vintage glass suncatchers\, CDs/cassettes\, TONS o
+ f all kinds of pictures frames\, nativity set\, vintage Christmas ornamen
+ ts\, hand-crocheted items\, enameled nesting bowls\, butterfly stained gl
+ ass lamp\, local Trenton pottery - Stangl\, Boehm\, Buyers Choice dolls\,
+  tapestry rugs\, mission style armchair/recliner\, Hallmark ornaments\, T
+ Vs\, Fenton\, Roseville\, crystal\, wooden ships\, telescope.\nTons of v
+ intage collectibles and home accents\, depression glass\, cast iron scho
+ ol desks\, Hummels\, tin party noisemakers\, vintage cameras\, Muffy Bear
+ s\, TONS of boxed Department 56\, Snowbabies\, Boyd's teddy bears\, do
+ lls\, Charming Tails\, Christmas & holiday pieces and vintage wooden Ch
  ristmas cutouts.\nPorcelain china dinnerware\, great wood & upholstered f
  urniture\, lots of garage items\, headboards\, bedroom furniture\, tables
  \, couches\, nightstands\, chests\, glass front display cabinets\, yard 
@@ -109,40 +111,41 @@ URL:https://estatesales.org/estate-sales/nj/hopewell/08525/hopewell-estate
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12955-20261115@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Hopewell Estate Sale: JAM PACKED HOUSE!
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-LOCATION:Hopewell\, NJ\, 08525
+DTSTART;TZID=America/New_York:20261115T100000
+DTEND;TZID=America/New_York:20261115T140000
+LOCATION:51 Moore's Mill-Mount Rose Rd\, Hopewell\, NJ\, 08525
 DESCRIPTION:Sunday hours have been added – we are still discovering grea
- t items!\nNEW PICTURES ADDED MONDAY!\nWhite Pine Estate Sales & Auctions 
- will be in Hopewell\, NJ\, offering an outstanding selection of antiques 
- and vintage items\, tools\, clothing\, decor\, and holiday collectibles.
- \nFeatured equipment includes a Cub Cadet GT 2550 lawn tractor\, a John D
- eere 317 riding lawn mower\, large snowblower - good condition!\, a John
-  Deere 15 utility cart\, a gas-powered woodchipper shredder\, and a Manti
- s gas tiller.\nWorkshop enthusiasts will find a vintage floor-standing dr
- ill press\, plastic storage racks\, stationary table saw\, belt and disc
-  sander\, air compressor\, red tool chest\, Werner aluminum extension lad
- der\, and various hand tools and hardware accessories.\nMCM hand crank ic
- e crusher\, MCM NOS Libby's glasses\, Wedgwood\, blankets & quilts\, Staf
- fordshire\, Johnson Bros. china\, Cambridge nude stem glasses\, vintage A
- M/FM radios\, Hitchcock style dining set\, Westmoreland glass\, books\, w
- agon wheel\, concrete garden decor\, Fitz & Floyd figurines\, Marigold ca
- rnival glass\, uranium glass\, large lot of jewelry\, copper pots/pans\, 
- perfumes\, Limoges trinket boxes\, bongo drums\, violin\, guitar\, vintag
- e typewriters\, vintage/antique sewing machines\, Dazey butter churns\, l
- arge lot of miniatures\, barware\, wrought iron bakers rack\, old Bibles\
- , vintage makeup compacts\, Lenox Princess collection.\nShoes\, doilies\,
-  vintage glass suncatchers\, CDs/cassettes\, TONS of all kinds of picture
- s frames\, nativity set\, vintage Christmas ornaments\, hand-crocheted it
- ems\, enameled nesting bowls\, butterfly stained glass lamp\, local Trent
- on pottery - Stangl\, Boehm\, Buyers Choice dolls\, tapestry rugs\, missi
- on style armchair/recliner\, Hallmark ornaments\, TVs\, Fenton\, Rosevill
- e\, crystal\, wooden ships\, telescope.\nTons of vintage collectibles an
- d home accents\, depression glass\, cast iron school desks\, Hummels\, t
- in party noisemakers\, TONS of boxed Department 56\, Snowbabies\, Boyd's
-  teddy bears\, dolls\, Christmas & holiday pieces and vintage wooden Ch
+ t items!\nNEW PICTURES ADDED — again!\nWhite Pine Estate Sales & Auctio
+ ns will be in Hopewell\, NJ\, offering an outstanding selection of antiqu
+ es and vintage items\, tools\, clothing\, decor\, and holiday collectibl
+ es.\nFeatured equipment includes a Cub Cadet GT 2550 lawn tractor\, a Joh
+ n Deere 317 riding lawn mower\, large snowblower - good condition!\, a J
+ ohn Deere 15 utility cart\, a gas-powered woodchipper shredder\, and a Ma
+ ntis gas tiller.\nWorkshop enthusiasts will find a vintage floor-standing
+  drill press\, plastic storage racks\, stationary table saw\, belt and d
+ isc sander\, air compressor\, red tool chest\, Werner aluminum extension 
+ ladder\, and various hand tools and hardware accessories.\nMCM hand crank
+  ice crusher\, MCM NOS Libby's glasses\, Wedgwood\, blankets & quilts\, S
+ taffordshire\, Johnson Bros. china\, Cambridge nude stem glasses\, vintag
+ e AM/FM radios\, Hitchcock style dining set\, Westmoreland glass\, books\
+ , wagon wheel\, concrete garden decor\, Fitz & Floyd figurines\, Marigold
+  carnival glass\, uranium glass\, large lot of jewelry\, copper pots/pans
+ \, perfumes\, Limoges trinket boxes\, bongo drums\, violin\, guitar\, vin
+ tage typewriters\, vintage/antique sewing machines\, Dazey butter churns\
+ , old car stereos\, large lot of miniatures\, barware\, wrought iron bak
+ ers rack\, old Bibles\, vintage makeup compacts\, Lenox Princess collecti
+ on.\nShoes\, doilies\, vintage glass suncatchers\, CDs/cassettes\, TONS o
+ f all kinds of pictures frames\, nativity set\, vintage Christmas ornamen
+ ts\, hand-crocheted items\, enameled nesting bowls\, butterfly stained gl
+ ass lamp\, local Trenton pottery - Stangl\, Boehm\, Buyers Choice dolls\,
+  tapestry rugs\, mission style armchair/recliner\, Hallmark ornaments\, T
+ Vs\, Fenton\, Roseville\, crystal\, wooden ships\, telescope.\nTons of v
+ intage collectibles and home accents\, depression glass\, cast iron scho
+ ol desks\, Hummels\, tin party noisemakers\, vintage cameras\, Muffy Bear
+ s\, TONS of boxed Department 56\, Snowbabies\, Boyd's teddy bears\, do
+ lls\, Charming Tails\, Christmas & holiday pieces and vintage wooden Ch
  ristmas cutouts.\nPorcelain china dinnerware\, great wood & upholstered f
  urniture\, lots of garage items\, headboards\, bedroom furniture\, tables
  \, couches\, nightstands\, chests\, glass front display cabinets\, yard 

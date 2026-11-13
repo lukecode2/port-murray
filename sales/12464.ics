@@ -19,36 +19,15 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12464-20261114@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Condo Estate Sale
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTART;TZID=America/New_York:20261114T090000
+DTEND;TZID=America/New_York:20261114T023000
 LOCATION:11188 Dell Pl\, Stanhope\, NJ\, 07874
-DESCRIPTION:Dates and Times:\nSaturday\, November 14\, 2026\n9:00 am - 3:0
- 0 pm\nSunday\, November 15\, 2026\n9:00 am - 2:30 pm\nAddress:\n11188 Del
- l Pl\, Stanhope\, NJ 07874\nDescription:\nAll Vintage items. lots of grea
- t furniture.\nall furniture in like new condition and solid wood\ncouches
-  covered with plastic for protection\nanalog TV for vintage gamers\nwater
- man\, and other fountain pens\nCash and carry\nHalf price sundays\nCommen
- ts\nSign in\nto add a comment or ask a question about this post.\nAdd Com
- ment\nSocial Share:
-URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458499
-END:VEVENT
-BEGIN:VEVENT
-UID:sale-12464-20261115@port-murray
-DTSTAMP:20261112T234547Z
-SUMMARY:Condo Estate Sale
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-LOCATION:11188 Dell Pl\, Stanhope\, NJ\, 07874
-DESCRIPTION:Dates and Times:\nSaturday\, November 14\, 2026\n9:00 am - 3:0
- 0 pm\nSunday\, November 15\, 2026\n9:00 am - 2:30 pm\nAddress:\n11188 Del
- l Pl\, Stanhope\, NJ 07874\nDescription:\nAll Vintage items. lots of grea
- t furniture.\nall furniture in like new condition and solid wood\ncouches
-  covered with plastic for protection\nanalog TV for vintage gamers\nwater
- man\, and other fountain pens\nCash and carry\nHalf price sundays\nCommen
- ts\nSign in\nto add a comment or ask a question about this post.\nAdd Com
- ment\nSocial Share:
+DESCRIPTION:All Vintage items. lots of great furniture. \nall furniture in
+  like new condition and solid wood\ncouches covered with plastic for prot
+ ection\nanalog TV for vintage gamers\nwaterman\, and other fountain pens\
+ n\nCash and carry\nHalf price sundays
 URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458499
 END:VEVENT
 END:VCALENDAR

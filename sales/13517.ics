@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13517-20261121@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:Once & Again in SUMMIT
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T150000
+LOCATION:Summit\, NJ\, 07901
+DESCRIPTION:Once & Again\nin\nSUMMIT\nTO PURCHASE ITEMS BEFORE START DATE 
+ OF SALE\,TEXT ONLY 973-713-4780\nFeatured in this sale\;\n*Charles Fazzin
+ o\,"In a Yankee State of Mind"\n*"Party Love"\,Josep Costa Villa fine art
+ \n*Simon Bull "Heart Tree"\, fine art\n*Cobble Hill Hudson swivel chairs\
+ n*West Elm\, chargeable night stands and mirror\n*Pottery Barn leather ot
+ toman\n*PB\, William-Sonoma X bench seats\n*PB outdoor seating\n*LUXE MCM
+ \, fabric dresser and two nightstands\n*Farmhouse tv wall unit\n*Gray Cra
+ te & Barrel lounge sofa\n*Venetian mirror\n*Iatesta Studio\, Rotunda glas
+ s cocktail table\n*NEW BILLY BALDWIN SLIPPER CHAIRS\n*swivel\, rocker in 
+ cream cord fabric\n*Hickory Chair Pearson ottoman 36" round\n*Televisions
+ \n*Kitchen essentials\n*Linens\n*Carpet runner\n*Blue velvet chaise with 
+ acrylic feet\n*Queen storage bed\n*King headboard and footboard\n*Mattres
+ ses\n*high boy dressers\n*night tables\nand so much more
+URL:https://www.estatesales.net/NJ/Summit/07901/5159157
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13517-20261122@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:Once & Again in SUMMIT
+DTSTART;TZID=America/New_York:20261122T110000
+DTEND;TZID=America/New_York:20261122T150000
+LOCATION:Summit\, NJ\, 07901
+DESCRIPTION:Once & Again\nin\nSUMMIT\nTO PURCHASE ITEMS BEFORE START DATE 
+ OF SALE\,TEXT ONLY 973-713-4780\nFeatured in this sale\;\n*Charles Fazzin
+ o\,"In a Yankee State of Mind"\n*"Party Love"\,Josep Costa Villa fine art
+ \n*Simon Bull "Heart Tree"\, fine art\n*Cobble Hill Hudson swivel chairs\
+ n*West Elm\, chargeable night stands and mirror\n*Pottery Barn leather ot
+ toman\n*PB\, William-Sonoma X bench seats\n*PB outdoor seating\n*LUXE MCM
+ \, fabric dresser and two nightstands\n*Farmhouse tv wall unit\n*Gray Cra
+ te & Barrel lounge sofa\n*Venetian mirror\n*Iatesta Studio\, Rotunda glas
+ s cocktail table\n*NEW BILLY BALDWIN SLIPPER CHAIRS\n*swivel\, rocker in 
+ cream cord fabric\n*Hickory Chair Pearson ottoman 36" round\n*Televisions
+ \n*Kitchen essentials\n*Linens\n*Carpet runner\n*Blue velvet chaise with 
+ acrylic feet\n*Queen storage bed\n*King headboard and footboard\n*Mattres
+ ses\n*high boy dressers\n*night tables\nand so much more
+URL:https://www.estatesales.net/NJ/Summit/07901/5159157
+END:VEVENT
+END:VCALENDAR

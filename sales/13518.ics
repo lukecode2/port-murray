@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13518-20261120@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:DISCOVERY presents Fabulous Pristine Warren Estate Sale Contents
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T160000
+LOCATION:Warren\, NJ\, 07059
+DESCRIPTION:Warren Estate Contents\nFurniture\nDecorative accessories\nCar
+ pets\nArt\nMirrors\nArcade video games\nOutdoor furniture\nSectional sofa
+ s\nUpholstered chairs\nCounter /Bar height chairs\nExecutive desk & other
+ s\nFoosball table\nPool table\nAir hockey table\nMarvel Avengers pinball 
+ game\nTables & chairs\nOutdoor chaise lounges\nOutdoor sitting furniture\
+ nCantilever umbrellas\nOutdoor Christmas decor\nBeautiful burled wood sid
+ eboard/ server & other\nOval shaped ottoman\nPretty inlaid center hall ta
+ ble\nMobile solid wood bar & two chairs\nKitchenware\n& more to be listed
+URL:https://www.estatesales.net/NJ/Warren/07059/5158722
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13518-20261121@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:DISCOVERY presents Fabulous Pristine Warren Estate Sale Contents
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T160000
+LOCATION:Warren\, NJ\, 07059
+DESCRIPTION:Warren Estate Contents\nFurniture\nDecorative accessories\nCar
+ pets\nArt\nMirrors\nArcade video games\nOutdoor furniture\nSectional sofa
+ s\nUpholstered chairs\nCounter /Bar height chairs\nExecutive desk & other
+ s\nFoosball table\nPool table\nAir hockey table\nMarvel Avengers pinball 
+ game\nTables & chairs\nOutdoor chaise lounges\nOutdoor sitting furniture\
+ nCantilever umbrellas\nOutdoor Christmas decor\nBeautiful burled wood sid
+ eboard/ server & other\nOval shaped ottoman\nPretty inlaid center hall ta
+ ble\nMobile solid wood bar & two chairs\nKitchenware\n& more to be listed
+URL:https://www.estatesales.net/NJ/Warren/07059/5158722
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13518-20261122@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:DISCOVERY presents Fabulous Pristine Warren Estate Sale Contents
+DTSTART;TZID=America/New_York:20261122T100000
+DTEND;TZID=America/New_York:20261122T160000
+LOCATION:Warren\, NJ\, 07059
+DESCRIPTION:Warren Estate Contents\nFurniture\nDecorative accessories\nCar
+ pets\nArt\nMirrors\nArcade video games\nOutdoor furniture\nSectional sofa
+ s\nUpholstered chairs\nCounter /Bar height chairs\nExecutive desk & other
+ s\nFoosball table\nPool table\nAir hockey table\nMarvel Avengers pinball 
+ game\nTables & chairs\nOutdoor chaise lounges\nOutdoor sitting furniture\
+ nCantilever umbrellas\nOutdoor Christmas decor\nBeautiful burled wood sid
+ eboard/ server & other\nOval shaped ottoman\nPretty inlaid center hall ta
+ ble\nMobile solid wood bar & two chairs\nKitchenware\n& more to be listed
+URL:https://www.estatesales.net/NJ/Warren/07059/5158722
+END:VEVENT
+END:VCALENDAR

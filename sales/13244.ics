@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13244-20261121@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Cedar Knolls Estate Sale
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T180000
-LOCATION:Cedar Knolls\, NJ\, 07927
+LOCATION:Cedar Knolls\, NJ 07927
 DESCRIPTION:Join us for a wonderful estate sale in Cedar Knolls\, NJ\, fea
  turing a beautiful selection of well-maintained furniture\, home furnishi
  ngs\, and household treasures. Highlights include a quality leather sofa 
@@ -40,11 +40,11 @@ URL:https://www.estatesales.net/NJ/Cedar-Knolls/07927/5157963
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13244-20261122@port-murray
-DTSTAMP:20261112T234547Z
+DTSTAMP:20261113T170917Z
 SUMMARY:Cedar Knolls Estate Sale
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T180000
-LOCATION:Cedar Knolls\, NJ\, 07927
+LOCATION:Cedar Knolls\, NJ 07927
 DESCRIPTION:Join us for a wonderful estate sale in Cedar Knolls\, NJ\, fea
  turing a beautiful selection of well-maintained furniture\, home furnishi
  ngs\, and household treasures. Highlights include a quality leather sofa 

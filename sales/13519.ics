@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13519-20261120@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:A Home Filled with Grace and Treasures - Henkel Harris\, Ethan All
+ en\, CR Laine\, Lenox & More in Lebanon\, NJ.
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Lebanon\, NJ\, 08833
+DESCRIPTION:A Lifetime of Faith\, Caring & Timeless Treasures! ✨\nStep i
+ nside a beautiful estate filled with quality\, elegance\, and beautiful i
+ tems collected over a lifetime!\nThis lovely home belonged to a dedicated
+  operating room healthcare professional whose life was rooted in faith\, 
+ compassion\, and caring for others. Her home reflects her appreciation fo
+ r fine craftsmanship\, timeless furnishings\, and meaningful collections.
+ \nSome of the wonderful treasures you’ll discover include:\n✨ High-En
+ d Furniture — Beautiful Henkel Harris\, CR Laine\, Kincaid &  Ethan A
+ llen furnishings\, known for exceptional craftsmanship and timeless style
+ .\n✨ Fine China & Crystal — Gorgeous Lenox pieces\, sparkling crystal
+ \, and elegant decorative treasures.\n✨ Designer & Quality Clothing —
+  Lands’ End vests\, coats\, Ralph Lauren\, Chico’s\, Cashmere Sweater
+ s and beautiful wardrobe selections.\n✨ Jewelry & Accessories — A lo
+ vely assortment of jewelry and personal treasures.\n✨ Lighting & Home D
+ écor — Beautiful Stiffel lamps\, decorative accents\, and quality acce
+ ssories throughout the home. The lamps in this home are seriously impress
+ ive!\n✨ Religious & Spiritual Treasures — A meaningful collection of 
+ faith-inspired pieces\, religious décor\, and cherished keepsakes.\n✨C
+ hristmas decor\, Tools\, Kitchen Essentials And So Much More!\nFrom exqu
+ isite furniture to everyday treasures\, this is a sale where quality\, tr
+ adition\, and a lifetime of memories come together.\nWhether you’re fur
+ nishing your home\, searching for that special collectible\, or simply lo
+ ve discovering beautiful things\, this is an estate sale you won’t want
+  to miss!\nThis is a three day sale and we are offering delivery service 
+ for furniture or larger items Saturday and Sunday after the sale ends.\nT
+ his gorgeous home is also for sale!\nAny questions feel free to call\nWin
+ nie 267-229-4860\nMake sure to keep checking in daily for more pictures!\
+ n❤️ Proudly Presented by The Wynn Team\nHonest • Positive • Kind 
+ — Always
+URL:https://gsalr.com/a-home-filled-with-lebanon-nj-38998451.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13519-20261121@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:A Home Filled with Grace and Treasures - Henkel Harris\, Ethan All
+ en\, CR Laine\, Lenox & More in Lebanon\, NJ.
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Lebanon\, NJ\, 08833
+DESCRIPTION:A Lifetime of Faith\, Caring & Timeless Treasures! ✨\nStep i
+ nside a beautiful estate filled with quality\, elegance\, and beautiful i
+ tems collected over a lifetime!\nThis lovely home belonged to a dedicated
+  operating room healthcare professional whose life was rooted in faith\, 
+ compassion\, and caring for others. Her home reflects her appreciation fo
+ r fine craftsmanship\, timeless furnishings\, and meaningful collections.
+ \nSome of the wonderful treasures you’ll discover include:\n✨ High-En
+ d Furniture — Beautiful Henkel Harris\, CR Laine\, Kincaid &  Ethan A
+ llen furnishings\, known for exceptional craftsmanship and timeless style
+ .\n✨ Fine China & Crystal — Gorgeous Lenox pieces\, sparkling crystal
+ \, and elegant decorative treasures.\n✨ Designer & Quality Clothing —
+  Lands’ End vests\, coats\, Ralph Lauren\, Chico’s\, Cashmere Sweater
+ s and beautiful wardrobe selections.\n✨ Jewelry & Accessories — A lo
+ vely assortment of jewelry and personal treasures.\n✨ Lighting & Home D
+ écor — Beautiful Stiffel lamps\, decorative accents\, and quality acce
+ ssories throughout the home. The lamps in this home are seriously impress
+ ive!\n✨ Religious & Spiritual Treasures — A meaningful collection of 
+ faith-inspired pieces\, religious décor\, and cherished keepsakes.\n✨C
+ hristmas decor\, Tools\, Kitchen Essentials And So Much More!\nFrom exqu
+ isite furniture to everyday treasures\, this is a sale where quality\, tr
+ adition\, and a lifetime of memories come together.\nWhether you’re fur
+ nishing your home\, searching for that special collectible\, or simply lo
+ ve discovering beautiful things\, this is an estate sale you won’t want
+  to miss!\nThis is a three day sale and we are offering delivery service 
+ for furniture or larger items Saturday and Sunday after the sale ends.\nT
+ his gorgeous home is also for sale!\nAny questions feel free to call\nWin
+ nie 267-229-4860\nMake sure to keep checking in daily for more pictures!\
+ n❤️ Proudly Presented by The Wynn Team\nHonest • Positive • Kind 
+ — Always
+URL:https://gsalr.com/a-home-filled-with-lebanon-nj-38998451.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13519-20261122@port-murray
+DTSTAMP:20261113T170917Z
+SUMMARY:A Home Filled with Grace and Treasures - Henkel Harris\, Ethan All
+ en\, CR Laine\, Lenox & More in Lebanon\, NJ.
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+LOCATION:Lebanon\, NJ\, 08833
+DESCRIPTION:A Lifetime of Faith\, Caring & Timeless Treasures! ✨\nStep i
+ nside a beautiful estate filled with quality\, elegance\, and beautiful i
+ tems collected over a lifetime!\nThis lovely home belonged to a dedicated
+  operating room healthcare professional whose life was rooted in faith\, 
+ compassion\, and caring for others. Her home reflects her appreciation fo
+ r fine craftsmanship\, timeless furnishings\, and meaningful collections.
+ \nSome of the wonderful treasures you’ll discover include:\n✨ High-En
+ d Furniture — Beautiful Henkel Harris\, CR Laine\, Kincaid &  Ethan A
+ llen furnishings\, known for exceptional craftsmanship and timeless style
+ .\n✨ Fine China & Crystal — Gorgeous Lenox pieces\, sparkling crystal
+ \, and elegant decorative treasures.\n✨ Designer & Quality Clothing —
+  Lands’ End vests\, coats\, Ralph Lauren\, Chico’s\, Cashmere Sweater
+ s and beautiful wardrobe selections.\n✨ Jewelry & Accessories — A lo
+ vely assortment of jewelry and personal treasures.\n✨ Lighting & Home D
+ écor — Beautiful Stiffel lamps\, decorative accents\, and quality acce
+ ssories throughout the home. The lamps in this home are seriously impress
+ ive!\n✨ Religious & Spiritual Treasures — A meaningful collection of 
+ faith-inspired pieces\, religious décor\, and cherished keepsakes.\n✨C
+ hristmas decor\, Tools\, Kitchen Essentials And So Much More!\nFrom exqu
+ isite furniture to everyday treasures\, this is a sale where quality\, tr
+ adition\, and a lifetime of memories come together.\nWhether you’re fur
+ nishing your home\, searching for that special collectible\, or simply lo
+ ve discovering beautiful things\, this is an estate sale you won’t want
+  to miss!\nThis is a three day sale and we are offering delivery service 
+ for furniture or larger items Saturday and Sunday after the sale ends.\nT
+ his gorgeous home is also for sale!\nAny questions feel free to call\nWin
+ nie 267-229-4860\nMake sure to keep checking in daily for more pictures!\
+ n❤️ Proudly Presented by The Wynn Team\nHonest • Positive • Kind 
+ — Always
+URL:https://gsalr.com/a-home-filled-with-lebanon-nj-38998451.html
+END:VEVENT
+END:VCALENDAR
