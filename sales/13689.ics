@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13689-20261114@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:Indor Garage Sale Today
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Asbury\, NJ
+DESCRIPTION:🏡✨ INDOOR GARAGE SALE – TODAY ! ✨🏡 Stop by tomorro
+ w\, Saturday\, November 14th\, from 10:00 AM to 3:00 PM sharp (closing st
+ rictly at 3:00 PM) for an indoor garage sale filled with beautiful finds 
+ at amazing prices! What you'll find: 👗 Lovely women's clothing (Sizes 
+ M & L) 👠 Women's shoes (Sizes 7.5 & 8) 👜 Stylish handbags 🖼️ E
+ legant home decor & household goods Come early for the best selection! Ev
+ erything is indoors\, so you can browse comfortably. Feel free to message
+  me with any questions! 📍 Address: 2 Halls Mill Road\, Asbury\, NJ 088
+ 02 #GarageSale #AsburyNJ #IndoorGarageSale #HomeDecor #WomensFashion #Yar
+ dSale #NewJersey
+URL:https://www.facebook.com/marketplace/item/1669127721667481/
+END:VEVENT
+END:VCALENDAR

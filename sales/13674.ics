@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13674-20261128@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:Once & Again in Florham Park
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T150000
+LOCATION:Florham Park\, NJ\, 07932
+DESCRIPTION:Once & Again\nin\nFLORHAM PARK\nFeatured in this sale\;\n*Towl
+ e sterling silver flatware set\n*Kent Coffey "Tableau Collection" MCM\n*M
+ CM dining chairs\n*Sewing supplies\n*Microscopes\n*Jewelry\n*MCM sectiona
+ l\n*Lenox china\n*Outdoor furniture\n*Books\n*Tools\n*Albums\nand so much
+  more\nSee you at our sale\,\nGina
+URL:https://www.estatesales.net/NJ/Florham-Park/07932/5155698
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13674-20261129@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:Once & Again in Florham Park
+DTSTART;TZID=America/New_York:20261129T110000
+DTEND;TZID=America/New_York:20261129T150000
+LOCATION:Florham Park\, NJ\, 07932
+DESCRIPTION:Once & Again\nin\nFLORHAM PARK\nFeatured in this sale\;\n*Towl
+ e sterling silver flatware set\n*Kent Coffey "Tableau Collection" MCM\n*M
+ CM dining chairs\n*Sewing supplies\n*Microscopes\n*Jewelry\n*MCM sectiona
+ l\n*Lenox china\n*Outdoor furniture\n*Books\n*Tools\n*Albums\nand so much
+  more\nSee you at our sale\,\nGina
+URL:https://www.estatesales.net/NJ/Florham-Park/07932/5155698
+END:VEVENT
+END:VCALENDAR

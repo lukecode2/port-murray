@@ -19,12 +19,14 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13512-20261114@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:Estate Sale
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T160000
-LOCATION:208 Riverside Drive West\, Denville\, NJ 07834
-DESCRIPTION:Estate Sale
+LOCATION:208 Riverside Drive West\, Denville\, NJ\, 07834
+DESCRIPTION:Join us for a wonderful estate sale featuring furniture and de
+ cor items from across the globe.\nYou'll be sure to find a unique piece!\
+ nAddress will be shared morning of\, please check back for details.
 URL:https://www.estatesales.net/NJ/Denville/07834/5158695
 END:VEVENT
 END:VCALENDAR

@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11098-20261116@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:November 16th Online Auction (Pen Argyl\, PA)
 DTSTART;TZID=America/New_York:20261116T190200
-LOCATION:245 E. Main St. unit C.
+LOCATION:245 E. Main St. unit C.\, Pen Argyl\, PA\, 18072
 DESCRIPTION:Online Auction November 16th \n\nSoft Close 7pm ET\n\nVintage 
  Steiff Bears\, Late 19th Century\,Late 19th-Century American Primitive Mi
  niature Stepback Cupboard\, Antique Buggy Seat Chest\, 19th C Antique Pin

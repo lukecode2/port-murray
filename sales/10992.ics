@@ -18,13 +18,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-10829-20261114@port-murray
-DTSTAMP:20261113T170917Z
+UID:sale-10992-20261114@port-murray
+DTSTAMP:20261114T210237Z
 SUMMARY:A Gentlemen's Estate-unique Collections- Contents---all Must Go!!!
  -1 Day Only!!
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:15 KITCHELL PLACE\, Morristown\, NJ 07960
+LOCATION:15 KITCHELL PLACE\, Morristown\, NJ\, 07960
 DESCRIPTION:- A GENTLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITUR
  E - ART -WATCHES- ONE DAY ONLY -ALL MUST GP!!!!\nFire Chief Gas Pum
  p - 2 Juke Boxes AMi & Seeburg 100 - Parking Meter - Vintage
@@ -37,7 +37,7 @@ DESCRIPTION:- A GENTLEMEN'S ESTATE - UNIQUE COLLECTIONS - FURNITUR
  Washer Dryer - Cassette Tapes - Some Vintage Tools - Vise - R
  ocking Chair - Globe - Office Chair - Sofa & Loveseat - Elect
  ronics - Barware - Vintage Scale -
-URL:https://gsalr.com/a-gentlemens-estateunique-collections-morristown-nj-
- 38981143.html
+URL:https://estatesales.org/estate-sales/nj/morristown/07960/a-gentlemens-
+ estateunique-collections-contentsall-2470195
 END:VEVENT
 END:VCALENDAR

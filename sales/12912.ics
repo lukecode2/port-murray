@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12912-20261118@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:583 - Orchard Estate Auction (Mt. Bethel\, PA)
 DTSTART;TZID=America/New_York:20261118T190000
-LOCATION:Off Site
+LOCATION:Off Site\, Mt. Bethel\, PA\, 18343
 DESCRIPTION:Discover a delightful mix of vintage treasures\, timeless furn
  ishings\, and charming collectibles in this exciting estate auction! From
   beautifully crafted Pennsylvania House furniture\, marble-top accent tab

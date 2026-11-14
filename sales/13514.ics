@@ -19,22 +19,24 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13514-20261127@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:Collectibles Great for Christmas Gifting ~ Estate Sale
 DTSTART;TZID=America/New_York:20261127T100000
 DTEND;TZID=America/New_York:20261127T170000
-LOCATION:Parsippany\, NJ 07054
-DESCRIPTION:
+LOCATION:Parsippany\, NJ\, 07054
+DESCRIPTION:Join us for our\n'\nCollectibles Great for Christmas Gifting'\
+ nestate sale!\n~ STILL ASSEMBLING THIS SALE...CHECK BACK SOON ~
 URL:https://www.estatesales.net/NJ/Parsippany/07054/5150478
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13514-20261128@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:Collectibles Great for Christmas Gifting ~ Estate Sale
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T170000
-LOCATION:Parsippany\, NJ 07054
-DESCRIPTION:
+LOCATION:Parsippany\, NJ\, 07054
+DESCRIPTION:Join us for our\n'\nCollectibles Great for Christmas Gifting'\
+ nestate sale!\n~ STILL ASSEMBLING THIS SALE...CHECK BACK SOON ~
 URL:https://www.estatesales.net/NJ/Parsippany/07054/5150478
 END:VEVENT
 END:VCALENDAR

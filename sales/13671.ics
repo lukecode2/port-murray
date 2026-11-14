@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13671-20261114@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:ESTATE SALE
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+LOCATION:Manhattan Mini Storage\, 353 NJ 10 East Randolph NJ 07969
+DESCRIPTION:ESTATE SALE\n353 NJ 10 RANDOLPH\, NJ 07969 Manhattan Mini Stor
+ age\nDATES & HOURS\nNov. 14 & 15 10 AM-2 PM\nNov. 20\, 21 & 22 10 AM-2 PM
+ \nTOOLS . HOUSEWARES . CLOTHING\nCraftsman\, Sears & Crescent tools 1/2" 
+ impact sockets Housewares & cooking items Camera roller bags & camera bag
+ s Sanitizers & clothing\nTOO MANY ITEMS TO LIST! VIDEO WILL BE PROVIDED.\
+ nTEXT ONLY FOR ACCESS\nshow contact info\nCALLS WILL NOT BE ANSWERED\nThe
+  storage unit office is not affiliated with this sale.
+URL:https://www.craigslist.org/view/d/randolph-estate-sale/u6DQhigQUjJz3pN
+ PhZdaDn
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13671-20261115@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:ESTATE SALE
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+LOCATION:Manhattan Mini Storage\, 353 NJ 10 East Randolph NJ 07969
+DESCRIPTION:ESTATE SALE\n353 NJ 10 RANDOLPH\, NJ 07969 Manhattan Mini Stor
+ age\nDATES & HOURS\nNov. 14 & 15 10 AM-2 PM\nNov. 20\, 21 & 22 10 AM-2 PM
+ \nTOOLS . HOUSEWARES . CLOTHING\nCraftsman\, Sears & Crescent tools 1/2" 
+ impact sockets Housewares & cooking items Camera roller bags & camera bag
+ s Sanitizers & clothing\nTOO MANY ITEMS TO LIST! VIDEO WILL BE PROVIDED.\
+ nTEXT ONLY FOR ACCESS\nshow contact info\nCALLS WILL NOT BE ANSWERED\nThe
+  storage unit office is not affiliated with this sale.
+URL:https://www.craigslist.org/view/d/randolph-estate-sale/u6DQhigQUjJz3pN
+ PhZdaDn
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13671-20261120@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:ESTATE SALE
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Manhattan Mini Storage\, 353 NJ 10 East Randolph NJ 07969
+DESCRIPTION:ESTATE SALE\n353 NJ 10 RANDOLPH\, NJ 07969 Manhattan Mini Stor
+ age\nDATES & HOURS\nNov. 14 & 15 10 AM-2 PM\nNov. 20\, 21 & 22 10 AM-2 PM
+ \nTOOLS . HOUSEWARES . CLOTHING\nCraftsman\, Sears & Crescent tools 1/2" 
+ impact sockets Housewares & cooking items Camera roller bags & camera bag
+ s Sanitizers & clothing\nTOO MANY ITEMS TO LIST! VIDEO WILL BE PROVIDED.\
+ nTEXT ONLY FOR ACCESS\nshow contact info\nCALLS WILL NOT BE ANSWERED\nThe
+  storage unit office is not affiliated with this sale.
+URL:https://www.craigslist.org/view/d/randolph-estate-sale/u6DQhigQUjJz3pN
+ PhZdaDn
+END:VEVENT
+END:VCALENDAR

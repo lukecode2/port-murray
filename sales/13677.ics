@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13677-20261121@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:Madison Beautiful vintage Asian items\, still unboxing house is fu
+ ll !!!
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T160000
+LOCATION:Madison\, NJ\, 07940
+DESCRIPTION:Everything must go huge moving sale house is full. Beautiful A
+ sian rugs\, mid century furniture\, men’s vintage suits jackets lots of
+  women’s clothing\, newer TVs\, stereo equipment. Treadmill. Wurlitzer 
+ upright piano. Lovely linens\, vintage new towels. Antique chests. We are
+  still sorting and setting up. More photos will be added please check bac
+ k.\nPlease call Ann with any questions 201 927 8237
+URL:https://www.estatesales.net/NJ/Madison/07940/5159937
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13677-20261122@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:Madison Beautiful vintage Asian items\, still unboxing house is fu
+ ll !!!
+DTSTART;TZID=America/New_York:20261122T100000
+DTEND;TZID=America/New_York:20261122T160000
+LOCATION:Madison\, NJ\, 07940
+DESCRIPTION:Everything must go huge moving sale house is full. Beautiful A
+ sian rugs\, mid century furniture\, men’s vintage suits jackets lots of
+  women’s clothing\, newer TVs\, stereo equipment. Treadmill. Wurlitzer 
+ upright piano. Lovely linens\, vintage new towels. Antique chests. We are
+  still sorting and setting up. More photos will be added please check bac
+ k.\nPlease call Ann with any questions 201 927 8237
+URL:https://www.estatesales.net/NJ/Madison/07940/5159937
+END:VEVENT
+END:VCALENDAR

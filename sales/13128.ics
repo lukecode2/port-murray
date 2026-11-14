@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13128-20261117@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:November Variety Collectibles Auction (East Stroudsburg\, PA)
 DTSTART;TZID=America/New_York:20261117T200000
-LOCATION:.
+LOCATION:.\, East Stroudsburg\, PA\, 18302
 DESCRIPTION:All items are sold as-is\, as pictured\, with no guarantees ex
  pressed or implied. Any questions must be emailed to mandacompany@aol.com
   prior to bidding.

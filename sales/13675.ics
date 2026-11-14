@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13675-20261128@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:What a Collection in Wharton! ~ Estate Sale
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T170000
+LOCATION:Wharton\, NJ\, 07885
+DESCRIPTION:Join us for\n'What a Collection in Wharton\, NJ'!\nThis home i
+ s filled with collectibles of all kinds! Commemorative plates fill the wa
+ lls of just about every room. Come see the eclectic mix at every corner..
+ .\nItems include:\n*Vintage beer signs & related barware\n*Decanters\n*St
+ eins\n*Hummels\n*Wedgewood pieces\n*Polar bear & penguin figurines\n*Wild
+ life statuettes and artwork\n*Snow globes\n*Camera equipment\n*Cowboy boo
+ ts\n*Christmas collectibles galore\n*Spoon sets\n*Elvis memorabilia\n*Mid
+ -century modern furniture\n*Glassware\n*Retro Pyrex\n*Vintage electronics
+ \n*Lawnmowers\n*Gardening tools\n*Hardware\n*Shop vacs\n*Geriatric aids\n
+ and much more...\nStart new collections or add to your own existing curat
+ ion with the articles offered at this Morris County abode!\nFIRST PERSON 
+ TO ARRIVE CAN START A LIST. THE LIST CAN BE CREATED AS SOON AS ADDRESS IS
+  POSTED! NAMES WILL BE CALLED IN THE ORDER IN WHICH THEY APPEAR. ONCE THE
+  LIST IS COLLECTED AT 10 AM\, PEOPLE CAN SIMPLY JOIN THE END OF THE LINE 
+ AND BE ALLOWED IN AS THEY ARE LINED UP.
+URL:https://www.estatesales.net/NJ/Wharton/07885/5147355
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13675-20261129@port-murray
+DTSTAMP:20261114T210237Z
+SUMMARY:What a Collection in Wharton! ~ Estate Sale
+DTSTART;TZID=America/New_York:20261129T100000
+DTEND;TZID=America/New_York:20261129T170000
+LOCATION:Wharton\, NJ\, 07885
+DESCRIPTION:Join us for\n'What a Collection in Wharton\, NJ'!\nThis home i
+ s filled with collectibles of all kinds! Commemorative plates fill the wa
+ lls of just about every room. Come see the eclectic mix at every corner..
+ .\nItems include:\n*Vintage beer signs & related barware\n*Decanters\n*St
+ eins\n*Hummels\n*Wedgewood pieces\n*Polar bear & penguin figurines\n*Wild
+ life statuettes and artwork\n*Snow globes\n*Camera equipment\n*Cowboy boo
+ ts\n*Christmas collectibles galore\n*Spoon sets\n*Elvis memorabilia\n*Mid
+ -century modern furniture\n*Glassware\n*Retro Pyrex\n*Vintage electronics
+ \n*Lawnmowers\n*Gardening tools\n*Hardware\n*Shop vacs\n*Geriatric aids\n
+ and much more...\nStart new collections or add to your own existing curat
+ ion with the articles offered at this Morris County abode!\nFIRST PERSON 
+ TO ARRIVE CAN START A LIST. THE LIST CAN BE CREATED AS SOON AS ADDRESS IS
+  POSTED! NAMES WILL BE CALLED IN THE ORDER IN WHICH THEY APPEAR. ONCE THE
+  LIST IS COLLECTED AT 10 AM\, PEOPLE CAN SIMPLY JOIN THE END OF THE LINE 
+ AND BE ALLOWED IN AS THEY ARE LINED UP.
+URL:https://www.estatesales.net/NJ/Wharton/07885/5147355
+END:VEVENT
+END:VCALENDAR

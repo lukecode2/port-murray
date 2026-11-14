@@ -19,15 +19,15 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12464-20261114@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:Condo Estate Sale
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T023000
 LOCATION:11188 Dell Pl\, Stanhope\, NJ\, 07874
-DESCRIPTION:All Vintage items. lots of great furniture. \nall furniture in
-  like new condition and solid wood\ncouches covered with plastic for prot
- ection\nanalog TV for vintage gamers\nwaterman\, and other fountain pens\
- n\nCash and carry\nHalf price sundays
+DESCRIPTION:All Vintage items. lots of great furniture.\nall furniture in 
+ like new condition and solid wood\ncouches covered with plastic for prote
+ ction\nanalog TV for vintage gamers\nwaterman\, and other fountain pens\n
+ Cash and carry\nHalf price sundays
 URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196458499
 END:VEVENT
 END:VCALENDAR

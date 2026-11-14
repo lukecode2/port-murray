@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13518-20261120@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:DISCOVERY presents Fabulous Pristine Warren Estate Sale Contents
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T160000
-LOCATION:Warren\, NJ\, 07059
+LOCATION:Warren\, NJ 07059
 DESCRIPTION:Warren Estate Contents\nFurniture\nDecorative accessories\nCar
  pets\nArt\nMirrors\nArcade video games\nOutdoor furniture\nSectional sofa
  s\nUpholstered chairs\nCounter /Bar height chairs\nExecutive desk & other
@@ -36,11 +36,11 @@ URL:https://www.estatesales.net/NJ/Warren/07059/5158722
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13518-20261121@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:DISCOVERY presents Fabulous Pristine Warren Estate Sale Contents
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Warren\, NJ\, 07059
+LOCATION:Warren\, NJ 07059
 DESCRIPTION:Warren Estate Contents\nFurniture\nDecorative accessories\nCar
  pets\nArt\nMirrors\nArcade video games\nOutdoor furniture\nSectional sofa
  s\nUpholstered chairs\nCounter /Bar height chairs\nExecutive desk & other
@@ -53,11 +53,11 @@ URL:https://www.estatesales.net/NJ/Warren/07059/5158722
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13518-20261122@port-murray
-DTSTAMP:20261113T170917Z
+DTSTAMP:20261114T210237Z
 SUMMARY:DISCOVERY presents Fabulous Pristine Warren Estate Sale Contents
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T160000
-LOCATION:Warren\, NJ\, 07059
+LOCATION:Warren\, NJ 07059
 DESCRIPTION:Warren Estate Contents\nFurniture\nDecorative accessories\nCar
  pets\nArt\nMirrors\nArcade video games\nOutdoor furniture\nSectional sofa
  s\nUpholstered chairs\nCounter /Bar height chairs\nExecutive desk & other
