@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13924-20261121@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Olga’s Estate Sale
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T150000
+LOCATION:6 Olde Forge Oxford NJ 07863\, Oxford\, NJ\, 07863
+DESCRIPTION:This estate sale is very special with vintage hand made items 
+ imported from Greece from my mother who recently passed.\nHelp us honor h
+ er and take a piece of her collection home with you\nLots of vintage embr
+ oidered & crocheted doilies\, runners\, tablecloths and accessories\nImpo
+ rted vintage Greek wool & knitted blankets\nLots of vintages sheets & pil
+ lowcases for sewing and collectors\nLots of women’s clothing\nMen’s w
+ ork clothes\, tools\, painting supplies\nSolid wood furniture & mid centu
+ ry furniture\nSwarovski jewelry\nLenox\nChina\nTea sets\nServing platters
+ \nHousehold goods\, kitchen appliances & accessories\nCustom framed print
+ s & frames\nBikes\nLawn mower\, lawn equipment\nGardening tools\nOutdoor 
+ tables and chairs\nTires\, tools and car parts\nEveryday dishes and so mu
+ ch more\nAll items well kept in clean\, pet free\, smoke free pristine ho
+ me !\ncome see for yourself & fund your treasures
+URL:https://www.estatesales.net/NJ/Oxford/07863/5161152
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13924-20261122@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Olga’s Estate Sale
+DTSTART;TZID=America/New_York:20261122T090000
+DTEND;TZID=America/New_York:20261122T150000
+LOCATION:6 Olde Forge Oxford NJ 07863\, Oxford\, NJ\, 07863
+DESCRIPTION:This estate sale is very special with vintage hand made items 
+ imported from Greece from my mother who recently passed.\nHelp us honor h
+ er and take a piece of her collection home with you\nLots of vintage embr
+ oidered & crocheted doilies\, runners\, tablecloths and accessories\nImpo
+ rted vintage Greek wool & knitted blankets\nLots of vintages sheets & pil
+ lowcases for sewing and collectors\nLots of women’s clothing\nMen’s w
+ ork clothes\, tools\, painting supplies\nSolid wood furniture & mid centu
+ ry furniture\nSwarovski jewelry\nLenox\nChina\nTea sets\nServing platters
+ \nHousehold goods\, kitchen appliances & accessories\nCustom framed print
+ s & frames\nBikes\nLawn mower\, lawn equipment\nGardening tools\nOutdoor 
+ tables and chairs\nTires\, tools and car parts\nEveryday dishes and so mu
+ ch more\nAll items well kept in clean\, pet free\, smoke free pristine ho
+ me !\ncome see for yourself & fund your treasures
+URL:https://www.estatesales.net/NJ/Oxford/07863/5161152
+END:VEVENT
+END:VCALENDAR

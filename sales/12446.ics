@@ -19,30 +19,32 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12446-20261114@port-murray
-DTSTAMP:20261114T210237Z
+DTSTAMP:20261115T180328Z
 SUMMARY:Next Nest is in Califon for two days!
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:15 Palatine Rd\, Califon\, NJ 07830
+LOCATION:15 Palatine Rd\, Califon\, NJ\, 07830
 DESCRIPTION:Eclectic sale filled with lovely things like original art\, an
  tique maps\, mid century modern\, vintage and antique furniture. outdoor 
  and indoor dining sets including a beautiful Kingsley Bate teak set\,\, c
- ouches\, books\, decor\, kitchen\, costume jewelry\, clothes\,and more. M
- ore pictures to come!
+ ouches\, Mirage stereo speakers\, books\, decor\, kitchen\, costume jewel
+ ry\, clothes bags and shoes (Burberry Judith Leiber Botega Venetta\, Stua
+ rt Weitzman and more) . More pictures to come!
 URL:https://www.estatesales.net/NJ/Califon/07830/5149962
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12446-20261115@port-murray
-DTSTAMP:20261114T210237Z
+DTSTAMP:20261115T180328Z
 SUMMARY:Next Nest is in Califon for two days!
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T150000
-LOCATION:15 Palatine Rd\, Califon\, NJ 07830
+LOCATION:15 Palatine Rd\, Califon\, NJ\, 07830
 DESCRIPTION:Eclectic sale filled with lovely things like original art\, an
  tique maps\, mid century modern\, vintage and antique furniture. outdoor 
  and indoor dining sets including a beautiful Kingsley Bate teak set\,\, c
- ouches\, books\, decor\, kitchen\, costume jewelry\, clothes\,and more. M
- ore pictures to come!
+ ouches\, Mirage stereo speakers\, books\, decor\, kitchen\, costume jewel
+ ry\, clothes bags and shoes (Burberry Judith Leiber Botega Venetta\, Stua
+ rt Weitzman and more) . More pictures to come!
 URL:https://www.estatesales.net/NJ/Califon/07830/5149962
 END:VEVENT
 END:VCALENDAR

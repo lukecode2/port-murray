@@ -18,15 +18,13 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-13296-20261114@port-murray
-DTSTAMP:20261114T210237Z
-SUMMARY:High End Estate Sale
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-LOCATION:Far Hills\, NJ
-DESCRIPTION:High-end estate sale 7 Chukka Way\, Far Hills (the Polo Club) 
- Saturday and Sunday\, November 14 and 15th 10-3 Cash\, Zelle or Venmo onl
- y
-URL:https://www.facebook.com/marketplace/item/1950798255894986/
+UID:sale-13936-20261121@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Estate sale
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Oxford\, NJ
+DESCRIPTION:Come shop our estate sale next weekend Nov 21 & 22 9am-3pm
+URL:https://www.facebook.com/marketplace/item/1878111713609275/
 END:VEVENT
 END:VCALENDAR

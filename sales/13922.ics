@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13922-20261121@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:LD Estate sale
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T180000
+LOCATION:Bethlehem\, PA\, 18018
+DESCRIPTION:West Bethlehem Estate Sale (10 AM–6 PM!): Stained Glass & Su
+ pplies\, Singer 500A\, Fenton\, Oak/Maple/Pine & Pineapple Bedroom Furnit
+ ure\nWhen:\nSaturday\, Nov. 21:\n10:00 AM – 6:00 PM\n(No early-bird rus
+ h\, hit the 8 AM sales first then stop by\, plus open late for Saturday w
+ orkers!)\nSunday\, Nov. 22:\n10:00 AM – 4:00 PM\n(reduced prices for ev
+ erything not sold on Saturday)\nMessage me for more complete details\nHIG
+ HLIGHTS & FEATURED ITEMS:\nStained Glass & Supplies:\nOver 50 lbs of stai
+ ned glass in various colors\, glass grinder\, hand tools\, patterns\, rep
+ air glass\, plus unfinished projects and pieces for repair\nSewing & Quil
+ ting:\nWorking Singer 500A "Rocketeer" sewing machine w/ attachments & ca
+ ms\, handmade quilts\, hand-crocheted bedspread\, fabrics\, patterns\, sc
+ issors (even pinking & left-handed)\, and massive stashes of thread & but
+ tons (mix-and-match containers available!)\nFenton\, Local Art & Collecti
+ bles:\nFenton "Chessie Cat" footed jar with lid\, signed Mae Erdman lilie
+ s-of-the-valley gilded vase (Kemerer Museum artist)\, signed Laurel Burch
+  cat\, Murano glass cat\, Polish pottery\, vintage metal mesh purses\, He
+ ss trucks\, Ansonia key-wind clock\, and plenty of cat-themed knicknacks\
+ nOak\, Maple & Pine Furniture (Priced to Move!):\nAntique pineapple-top p
+ oster bed\, dresser w/ mirror & makeup desk\; antique corner cupboard w/ 
+ 6 original blown-glass panes\; oak drop-leaf dining table that extends fr
+ om 29 inches (seats 2) all the way to 9.5 feet (seats 12)\, 6 solid oak c
+ hairs\; solid maple & pine chests of drawers\; large cedar chest w/ key\;
+  antique oak washstands\; solid wood secretary desk\; La-Z-Boy sofa bed\n
+ Home Mobility:\nHandicare 1100 stair lift w/ 162" rail (suitable for 150"
+  landing-to-landing)\, powered leather recliner with lift function\nKitch
+ en\, Garage & Holiday:\nCorelle "Cherish" 66-pc set (service for 12 plus 
+ serving pieces and more)\, fancy stainless silverware service for 12 plus
+  6 extra settings\, Tupperware\, Pyrex (some old borosilicate\, some new)
+ \, Corningware casseroles\, Longaberger baskets\, Electrolux and Oreck va
+ cuums\, pressure washer\, Rigid shop vac\, Makita 9.6v drill\, hand truck
+ s\, powered treadmill\, Blu-rays and CDs\, and bins of Christmas ornament
+ s & decor!
+URL:https://www.estatesales.net/PA/Bethlehem/18018/5160675
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-13922-20261122@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:LD Estate sale
+DTSTART;TZID=America/New_York:20261122T100000
+DTEND;TZID=America/New_York:20261122T180000
+LOCATION:Bethlehem\, PA\, 18018
+DESCRIPTION:West Bethlehem Estate Sale (10 AM–6 PM!): Stained Glass & Su
+ pplies\, Singer 500A\, Fenton\, Oak/Maple/Pine & Pineapple Bedroom Furnit
+ ure\nWhen:\nSaturday\, Nov. 21:\n10:00 AM – 6:00 PM\n(No early-bird rus
+ h\, hit the 8 AM sales first then stop by\, plus open late for Saturday w
+ orkers!)\nSunday\, Nov. 22:\n10:00 AM – 4:00 PM\n(reduced prices for ev
+ erything not sold on Saturday)\nMessage me for more complete details\nHIG
+ HLIGHTS & FEATURED ITEMS:\nStained Glass & Supplies:\nOver 50 lbs of stai
+ ned glass in various colors\, glass grinder\, hand tools\, patterns\, rep
+ air glass\, plus unfinished projects and pieces for repair\nSewing & Quil
+ ting:\nWorking Singer 500A "Rocketeer" sewing machine w/ attachments & ca
+ ms\, handmade quilts\, hand-crocheted bedspread\, fabrics\, patterns\, sc
+ issors (even pinking & left-handed)\, and massive stashes of thread & but
+ tons (mix-and-match containers available!)\nFenton\, Local Art & Collecti
+ bles:\nFenton "Chessie Cat" footed jar with lid\, signed Mae Erdman lilie
+ s-of-the-valley gilded vase (Kemerer Museum artist)\, signed Laurel Burch
+  cat\, Murano glass cat\, Polish pottery\, vintage metal mesh purses\, He
+ ss trucks\, Ansonia key-wind clock\, and plenty of cat-themed knicknacks\
+ nOak\, Maple & Pine Furniture (Priced to Move!):\nAntique pineapple-top p
+ oster bed\, dresser w/ mirror & makeup desk\; antique corner cupboard w/ 
+ 6 original blown-glass panes\; oak drop-leaf dining table that extends fr
+ om 29 inches (seats 2) all the way to 9.5 feet (seats 12)\, 6 solid oak c
+ hairs\; solid maple & pine chests of drawers\; large cedar chest w/ key\;
+  antique oak washstands\; solid wood secretary desk\; La-Z-Boy sofa bed\n
+ Home Mobility:\nHandicare 1100 stair lift w/ 162" rail (suitable for 150"
+  landing-to-landing)\, powered leather recliner with lift function\nKitch
+ en\, Garage & Holiday:\nCorelle "Cherish" 66-pc set (service for 12 plus 
+ serving pieces and more)\, fancy stainless silverware service for 12 plus
+  6 extra settings\, Tupperware\, Pyrex (some old borosilicate\, some new)
+ \, Corningware casseroles\, Longaberger baskets\, Electrolux and Oreck va
+ cuums\, pressure washer\, Rigid shop vac\, Makita 9.6v drill\, hand truck
+ s\, powered treadmill\, Blu-rays and CDs\, and bins of Christmas ornament
+ s & decor!
+URL:https://www.estatesales.net/PA/Bethlehem/18018/5160675
+END:VEVENT
+END:VCALENDAR

@@ -18,10 +18,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-11748-20261112@port-murray
-DTSTAMP:20261114T210237Z
-SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
-  11/12-11/14
+UID:sale-13673-20261112@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Additional Day Added Sunday! 11/15 9AM-1PM
 DTSTART;TZID=America/New_York:20261112T093000
 DTEND;TZID=America/New_York:20261112T140000
 LOCATION:16 Cushing Drive \, Bridgewater\, NJ 08807
@@ -58,10 +57,9 @@ DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
 URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11748-20261113@port-murray
-DTSTAMP:20261114T210237Z
-SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
-  11/12-11/14
+UID:sale-13673-20261113@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Additional Day Added Sunday! 11/15 9AM-1PM
 DTSTART;TZID=America/New_York:20261113T090000
 DTEND;TZID=America/New_York:20261113T150000
 LOCATION:16 Cushing Drive \, Bridgewater\, NJ 08807
@@ -98,10 +96,9 @@ DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
 URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11748-20261114@port-murray
-DTSTAMP:20261114T210237Z
-SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
-  11/12-11/14
+UID:sale-13673-20261114@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Additional Day Added Sunday! 11/15 9AM-1PM
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
 LOCATION:16 Cushing Drive \, Bridgewater\, NJ 08807
@@ -138,10 +135,9 @@ DESCRIPTION:Beat the Line - Sign Up Online: Link Opens Tuesday Nov. 10 @ 8
 URL:https://www.estatesales.net/NJ/Bridgewater/08807/5058360
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-11748-20261115@port-murray
-DTSTAMP:20261114T210237Z
-SUMMARY:Grand Estate in Bridgewater\, NJ (Martinsville) - Exceptional Art!
-  11/12-11/14
+UID:sale-13673-20261115@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Additional Day Added Sunday! 11/15 9AM-1PM
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T130000
 LOCATION:16 Cushing Drive \, Bridgewater\, NJ 08807

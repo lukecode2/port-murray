@@ -19,28 +19,34 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-11755-20261114@port-murray
-DTSTAMP:20261114T210237Z
+DTSTAMP:20261115T180328Z
 SUMMARY:Warren Estate Sale / Antiques / Wood Carvings / Hand Made Rugs
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T153000
 LOCATION:816 Mountain Blvd\, Warren\, NJ 07059
-DESCRIPTION:SMALL HOME JAM PACKED!!!\nAntiques\nWood Carvings\nSemi Antiqu
- e Hand Made  Rugs\nAsian Decorative Items\nPaintings\nFurniture\nHousehol
- d Items\nClothing\nMuch More!!\nSTAY TUNED FOR MORE INFO WHEN WE START SE
- T UP - SURE TO FIND SOME TREASURES AT THIS SALE!
+DESCRIPTION:PULL UP DRIVEWAY TO LAST HOUSE ON THE RIGHT. PARK ON LAWN CARE
+ FULLY!! WHEN DRIVING IN AND EXITING BE CAUTIONS OF ONCOMING CARS!!\nSMALL
+  HOME JAM PACKED!!!\nWE WILL BE HALF PRICE ON SUNDAY!!!!\nHouse is challe
+ nging to navigate. Many step ups and tripping hazards. Use Caution!!!\nAn
+ tiques\nWood Carvings\nSemi Antique Hand Made Rugs\nAsian Decorative Item
+ s\nPaintings\nFurniture\nHousehold Items\nCloisonné’\nLighters\nHerand
+ \nClothing\nLPs\nTools\nParts / Nuts / Bolts\nMuch More!!
 URL:https://www.estatesales.net/NJ/Warren/07059/5147079
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-11755-20261115@port-murray
-DTSTAMP:20261114T210237Z
+DTSTAMP:20261115T180328Z
 SUMMARY:Warren Estate Sale / Antiques / Wood Carvings / Hand Made Rugs
 DTSTART;TZID=America/New_York:20261115T093000
 DTEND;TZID=America/New_York:20261115T153000
 LOCATION:816 Mountain Blvd\, Warren\, NJ 07059
-DESCRIPTION:SMALL HOME JAM PACKED!!!\nAntiques\nWood Carvings\nSemi Antiqu
- e Hand Made  Rugs\nAsian Decorative Items\nPaintings\nFurniture\nHousehol
- d Items\nClothing\nMuch More!!\nSTAY TUNED FOR MORE INFO WHEN WE START SE
- T UP - SURE TO FIND SOME TREASURES AT THIS SALE!
+DESCRIPTION:PULL UP DRIVEWAY TO LAST HOUSE ON THE RIGHT. PARK ON LAWN CARE
+ FULLY!! WHEN DRIVING IN AND EXITING BE CAUTIONS OF ONCOMING CARS!!\nSMALL
+  HOME JAM PACKED!!!\nWE WILL BE HALF PRICE ON SUNDAY!!!!\nHouse is challe
+ nging to navigate. Many step ups and tripping hazards. Use Caution!!!\nAn
+ tiques\nWood Carvings\nSemi Antique Hand Made Rugs\nAsian Decorative Item
+ s\nPaintings\nFurniture\nHousehold Items\nCloisonné’\nLighters\nHerand
+ \nClothing\nLPs\nTools\nParts / Nuts / Bolts\nMuch More!!
 URL:https://www.estatesales.net/NJ/Warren/07059/5147079
 END:VEVENT
 END:VCALENDAR

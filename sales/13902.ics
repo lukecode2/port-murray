@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-13902-20261125@port-murray
+DTSTAMP:20261115T180328Z
+SUMMARY:Autumn Elegance in Princeton NJ
+DTSTART;TZID=America/New_York:20261125T180000
+LOCATION:11 Old Orchard Ln\, Princeton\, NJ\, 08540
+DESCRIPTION:Property of Andrew S. Grossman a highly influential figure in 
+ the performing arts world. Known for his leadership at Columbia Artists M
+ anagement.\nThis sale offers\; British collectible soldiers\, Original ph
+ otographs autographed by the renowned artists\, Murano artglass\, Silverw
+ are\, Furniture\, Carpets\, Books\, Fur coats\, etc
+URL:https://estatesales.org/estate-sales/nj/princeton/08540/autumn-eleganc
+ e-in-princeton-nj-2473893
+END:VEVENT
+END:VCALENDAR

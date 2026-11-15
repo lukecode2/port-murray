@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13511-20261114@port-murray
-DTSTAMP:20261114T210237Z
+DTSTAMP:20261115T180328Z
 SUMMARY:Estate Sale Stanhope NJ
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T150000
-LOCATION:11 188 Dell Place\, Stanhope\, NJ\, 07874
+LOCATION:11 188 Dell Place\, Stanhope\, NJ 07874
 DESCRIPTION:this is the estate of an English family. lots of vintage items
   in the house.\nCollectables\nRecords\n8Track\nVHS\nBar items\nkitchen it
  ems\nfountain pens\nFurniture is all in great condition\nCouches have alw
@@ -33,11 +33,11 @@ URL:https://www.estatesales.net/NJ/Stanhope/07874/5152143
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13511-20261115@port-murray
-DTSTAMP:20261114T210237Z
+DTSTAMP:20261115T180328Z
 SUMMARY:Estate Sale Stanhope NJ
 DTSTART;TZID=America/New_York:20261115T090000
 DTEND;TZID=America/New_York:20261115T143000
-LOCATION:11 188 Dell Place\, Stanhope\, NJ\, 07874
+LOCATION:11 188 Dell Place\, Stanhope\, NJ 07874
 DESCRIPTION:this is the estate of an English family. lots of vintage items
   in the house.\nCollectables\nRecords\n8Track\nVHS\nBar items\nkitchen it
  ems\nfountain pens\nFurniture is all in great condition\nCouches have alw
