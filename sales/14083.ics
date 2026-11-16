@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14083-20261119@port-murray
-DTSTAMP:20261116T154704Z
+DTSTAMP:20261116T170835Z
 SUMMARY:Amazing 3-Day Summit Sale—Beautiful High End Items—Mixture of 
  Old and New!
 DTSTART;TZID=America/New_York:20261119T100000
 DTEND;TZID=America/New_York:20261119T160000
-LOCATION:Summit\, NJ\, 07901
+LOCATION:Summit\, NJ 07901
 DESCRIPTION:Please text Nicole and 201-400-3569 for a presale appointment 
  or to make a purchase prior to the sale. Many lovely items. New items wil
  l be added each day.\nNo appointment necessary for the 3 sale days.
@@ -32,12 +32,12 @@ URL:https://www.estatesales.net/NJ/Summit/07901/5161656
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14083-20261120@port-murray
-DTSTAMP:20261116T154704Z
+DTSTAMP:20261116T170835Z
 SUMMARY:Amazing 3-Day Summit Sale—Beautiful High End Items—Mixture of 
  Old and New!
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T160000
-LOCATION:Summit\, NJ\, 07901
+LOCATION:Summit\, NJ 07901
 DESCRIPTION:Please text Nicole and 201-400-3569 for a presale appointment 
  or to make a purchase prior to the sale. Many lovely items. New items wil
  l be added each day.\nNo appointment necessary for the 3 sale days.
@@ -45,12 +45,12 @@ URL:https://www.estatesales.net/NJ/Summit/07901/5161656
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14083-20261121@port-murray
-DTSTAMP:20261116T154704Z
+DTSTAMP:20261116T170835Z
 SUMMARY:Amazing 3-Day Summit Sale—Beautiful High End Items—Mixture of 
  Old and New!
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Summit\, NJ\, 07901
+LOCATION:Summit\, NJ 07901
 DESCRIPTION:Please text Nicole and 201-400-3569 for a presale appointment 
  or to make a purchase prior to the sale. Many lovely items. New items wil
  l be added each day.\nNo appointment necessary for the 3 sale days.
