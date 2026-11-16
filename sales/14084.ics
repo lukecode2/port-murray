@@ -18,8 +18,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-12121-20261120@port-murray
-DTSTAMP:20261115T180328Z
+UID:sale-14084-20261120@port-murray
+DTSTAMP:20261116T154704Z
 SUMMARY:WMS in a Contemporary house!
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T160000
@@ -31,11 +31,11 @@ DESCRIPTION:We will be in Berkeley Heights for 3 days in a gorgeous contem
  doors and indoors.\nAmazing Beatles and Baseball memorabilia.\nClothing\,
   custom jewelry\, kitchen appliances\, dinnerware.\nOutdoor furniture lik
  e new. Snowblower.
-URL:https://www.estatesales.net/NJ/Berkeley-Heights/07922/5144751
+URL:https://www.estatesales.net/NJ/Berkeley%20Heights/07922/5144751
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-12121-20261121@port-murray
-DTSTAMP:20261115T180328Z
+UID:sale-14084-20261121@port-murray
+DTSTAMP:20261116T154704Z
 SUMMARY:WMS in a Contemporary house!
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T160000
@@ -47,11 +47,11 @@ DESCRIPTION:We will be in Berkeley Heights for 3 days in a gorgeous contem
  doors and indoors.\nAmazing Beatles and Baseball memorabilia.\nClothing\,
   custom jewelry\, kitchen appliances\, dinnerware.\nOutdoor furniture lik
  e new. Snowblower.
-URL:https://www.estatesales.net/NJ/Berkeley-Heights/07922/5144751
+URL:https://www.estatesales.net/NJ/Berkeley%20Heights/07922/5144751
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-12121-20261122@port-murray
-DTSTAMP:20261115T180328Z
+UID:sale-14084-20261122@port-murray
+DTSTAMP:20261116T154704Z
 SUMMARY:WMS in a Contemporary house!
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T150000
@@ -63,6 +63,6 @@ DESCRIPTION:We will be in Berkeley Heights for 3 days in a gorgeous contem
  doors and indoors.\nAmazing Beatles and Baseball memorabilia.\nClothing\,
   custom jewelry\, kitchen appliances\, dinnerware.\nOutdoor furniture lik
  e new. Snowblower.
-URL:https://www.estatesales.net/NJ/Berkeley-Heights/07922/5144751
+URL:https://www.estatesales.net/NJ/Berkeley%20Heights/07922/5144751
 END:VEVENT
 END:VCALENDAR

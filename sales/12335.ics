@@ -19,35 +19,35 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12335-20261120@port-murray
-DTSTAMP:20261115T180328Z
+DTSTAMP:20261116T154704Z
 SUMMARY:Bridgewater Estate Sale -Tools\, Decor\, Clothing\, Instruments\, 
  Albums and MORE!
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T140000
 LOCATION:Bridgewater\, NJ\, 08807
-DESCRIPTION:This sale features skis\, tools including professional chains
- aw & power washer\, sports ephemera\, MCM\, lamps\, Hummels\, Dolls inc
- luding American Girl\, china\, drums\, violin\, power tools\, albums\, to
- ns of decor and knick knacks\, glassware and porcelain\, weights\, glass
- ware\, smoker\, kitchen items\, grill\, antique books\, furniture\, linen
- s\, art\, sewing machines and MUCH more!\nMore pictures coming soon!
+DESCRIPTION:This sale features skis\, albums\, glassware\, tons of decor a
+ nd knick knacks\, tools including professional\nchainsaw & power washer\,
+  sports ephemera\, MCM\, lamps\, decor\, Hummels\, Dolls including Americ
+ an Girl\,\nchina\, drums\, violin\, power tools\, weights\, glassware\, s
+ moker\, kitchen items\, grill\, antique books\, furniture\,\nlinens\, art
+ \, sewing machines and MUCH more!\nMore pictures coming soon!
 URL:https://estatesales.org/estate-sales/nj/bridgewater/08807/bridgewater-
  estate-sale-tools-decor-2470196
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12335-20261121@port-murray
-DTSTAMP:20261115T180328Z
+DTSTAMP:20261116T154704Z
 SUMMARY:Bridgewater Estate Sale -Tools\, Decor\, Clothing\, Instruments\, 
  Albums and MORE!
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T140000
 LOCATION:Bridgewater\, NJ\, 08807
-DESCRIPTION:This sale features skis\, tools including professional chains
- aw & power washer\, sports ephemera\, MCM\, lamps\, Hummels\, Dolls inc
- luding American Girl\, china\, drums\, violin\, power tools\, albums\, to
- ns of decor and knick knacks\, glassware and porcelain\, weights\, glass
- ware\, smoker\, kitchen items\, grill\, antique books\, furniture\, linen
- s\, art\, sewing machines and MUCH more!\nMore pictures coming soon!
+DESCRIPTION:This sale features skis\, albums\, glassware\, tons of decor a
+ nd knick knacks\, tools including professional\nchainsaw & power washer\,
+  sports ephemera\, MCM\, lamps\, decor\, Hummels\, Dolls including Americ
+ an Girl\,\nchina\, drums\, violin\, power tools\, weights\, glassware\, s
+ moker\, kitchen items\, grill\, antique books\, furniture\,\nlinens\, art
+ \, sewing machines and MUCH more!\nMore pictures coming soon!
 URL:https://estatesales.org/estate-sales/nj/bridgewater/08807/bridgewater-
  estate-sale-tools-decor-2470196
 END:VEVENT

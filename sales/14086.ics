@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14086-20261121@port-murray
+DTSTAMP:20261116T154704Z
+SUMMARY:Hopatcong Estate Sale - Packed with Unique Finds from Lamps to Fis
+ hing Poles!!
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T160000
+LOCATION:Hopatcong\, NJ\, 07843
+DESCRIPTION:A wide variety of unique items including:\nLOTS\nof lamps (flo
+ or\, tiffany-style\, glass\, table)\,\nLOTS\nof clocks (mantle\, wall)\, 
+ fishing poles\, typewriters\, accordions\, lanterns\, cast iron banks and
+  figures\, wooden ducks\, cast-iron fireplace cover\, furniture (chairs\,
+  small tables\, curio cabinet)\, chests\, dishware\, glassware (including
+  Avon Cape Cod Ruby Red)\, brass figurines\, vintage Halloween plastic ja
+ ck-o-lanterns\, Mickey Mouse large stuffed animals\, dolls\, Miller Lite 
+ sign (in working condition)\, records and CD's\, Christmas porcelain ligh
+ ted houses\, men's clothing (size L - XXL) and shoes\, and so much more!\
+ nWe are\nNOT\nselling: costume jewelry\, watches\, coins\, baseball cards
+ \, tools\, video games\, or cameras.
+URL:https://www.estatesales.net/NJ/Hopatcong/07843/5161608
+END:VEVENT
+END:VCALENDAR

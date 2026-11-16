@@ -18,10 +18,10 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-5344-20261120@port-murray
-DTSTAMP:20261115T180328Z
-SUMMARY:Two-Day Quality Antiques and Holiday Auction (Day #2)
-DTSTART;TZID=America/New_York:20261120T235900
+UID:sale-12118-20261120@port-murray
+DTSTAMP:20261116T154704Z
+SUMMARY:Festive Finds: Antiques & Primitives Day# 2
+DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T140000
 LOCATION:521 Richmond Road\, Bangor\, PA
 DESCRIPTION:650+FEATURING A 2005 FORD GT\,V-8\, SUPERCHARGED 5.4L. ENGINE\
@@ -44,7 +44,6 @@ DESCRIPTION:650+FEATURING A 2005 FORD GT\,V-8\, SUPERCHARGED 5.4L. ENGINE\
  d Marbles\, Art Glass and  Pottery\, Artwork (Sterling Strauser\, Jack Sa
  vitsky\, Justin McCarthy)\, 19th C. Landscapes and Portraits\, Corner Cup
  board\, Drysink\, Jelly Cupboard\, Stack Bookcase and More.
-URL:https://www.hartzellsauction.com/event/two-day-quality-antiques-and-ho
- liday-auction-day-2/
+URL:https://www.estatesales.net/PA/Bangor/18013/5147766
 END:VEVENT
 END:VCALENDAR
