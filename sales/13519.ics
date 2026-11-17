@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13519-20261120@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:A Home Filled with Grace and Treasures - Henkel Harris\, Ethan All
  en\, CR Laine\, Lenox & More in Lebanon\, NJ.
-DTSTART;TZID=America/New_York:20261120T090000
-DTEND;TZID=America/New_York:20261120T140000
-LOCATION:Lebanon\, NJ 08833 Address will be available on Thu 11/19
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Lebanon\, NJ\, 08833
 DESCRIPTION:A Lifetime of Faith\, Caring & Timeless Treasures! ✨\nStep i
  nside a beautiful estate filled with quality\, elegance\, and beautiful i
  tems collected over a lifetime!\nThis lovely home belonged to a dedicated
@@ -58,12 +58,12 @@ URL:https://gsalr.com/a-home-filled-with-lebanon-nj-38998451.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13519-20261121@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:A Home Filled with Grace and Treasures - Henkel Harris\, Ethan All
  en\, CR Laine\, Lenox & More in Lebanon\, NJ.
-DTSTART;TZID=America/New_York:20261121T090000
-DTEND;TZID=America/New_York:20261121T140000
-LOCATION:Lebanon\, NJ 08833 Address will be available on Thu 11/19
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Lebanon\, NJ\, 08833
 DESCRIPTION:A Lifetime of Faith\, Caring & Timeless Treasures! ✨\nStep i
  nside a beautiful estate filled with quality\, elegance\, and beautiful i
  tems collected over a lifetime!\nThis lovely home belonged to a dedicated
@@ -97,12 +97,12 @@ URL:https://gsalr.com/a-home-filled-with-lebanon-nj-38998451.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13519-20261122@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:A Home Filled with Grace and Treasures - Henkel Harris\, Ethan All
  en\, CR Laine\, Lenox & More in Lebanon\, NJ.
-DTSTART;TZID=America/New_York:20261122T090000
-DTEND;TZID=America/New_York:20261122T140000
-LOCATION:Lebanon\, NJ 08833 Address will be available on Thu 11/19
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+LOCATION:Lebanon\, NJ\, 08833
 DESCRIPTION:A Lifetime of Faith\, Caring & Timeless Treasures! ✨\nStep i
  nside a beautiful estate filled with quality\, elegance\, and beautiful i
  tems collected over a lifetime!\nThis lovely home belonged to a dedicated

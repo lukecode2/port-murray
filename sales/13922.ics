@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13922-20261121@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:LD Estate sale
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T180000
-LOCATION:Bethlehem\, PA 18018
+LOCATION:Bethlehem\, PA\, 18018
 DESCRIPTION:West Bethlehem Estate Sale (10 AM–6 PM!): Stained Glass & Su
  pplies\, Singer 500A\, Fenton\, Oak/Maple/Pine & Pineapple Bedroom Furnit
  ure\nWhen:\nSaturday\, Nov. 21:\n10:00 AM – 6:00 PM\n(No early-bird rus
@@ -60,11 +60,11 @@ URL:https://www.estatesales.net/PA/Bethlehem/18018/5160675
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13922-20261122@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:LD Estate sale
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T180000
-LOCATION:Bethlehem\, PA 18018
+LOCATION:Bethlehem\, PA\, 18018
 DESCRIPTION:West Bethlehem Estate Sale (10 AM–6 PM!): Stained Glass & Su
  pplies\, Singer 500A\, Fenton\, Oak/Maple/Pine & Pineapple Bedroom Furnit
  ure\nWhen:\nSaturday\, Nov. 21:\n10:00 AM – 6:00 PM\n(No early-bird rus

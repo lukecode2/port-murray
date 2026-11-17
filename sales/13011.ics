@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13011-20261119@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:Large Amazing Stroudsburg Estate Sale
 DTSTART;TZID=America/New_York:20261119T090000
 DTEND;TZID=America/New_York:20261119T140000
-LOCATION:Stroudsburg\, PA 18360
+LOCATION:Stroudsburg\, PA\, 18360
 DESCRIPTION:LARGE AMAZING\nSTROUDSBURG ESTATE SALE\nSTROUDSBURG\, PA 18360
  \nTHURSDAY\, NOVEMBER 19TH\nFRIDAY\, NOVEMBER 20TH\nSATURDAY\, NOVEMBER 2
  1ST\n9:00 AM - 2:00 PM\n3 Days only!\nFirst come\, first serve. Everythin
@@ -40,63 +40,76 @@ DESCRIPTION:LARGE AMAZING\nSTROUDSBURG ESTATE SALE\nSTROUDSBURG\, PA 18360
  costume jewelry\, Large collection of vintage marbles\, Tiffany style sta
  ined glass lamp\, Over 200 paintings & prints\, Native American art\, Egy
  ptian art\, Clown art\, Erte print\, Rheinmetall antique typewriter\, Por
- celain\, Large vintage stamp collection\, Pottery\, art glass\, Carnival 
- glass\, China\, Wall art\, Mineral & rock specimens\, W. Horn & son Wilke
- s barre PA crock\, Geisha girl figures\, Stoneware crocks\, Panoramic Nav
- y photo\, Framed Silhouette\, Hummels\, Hummel plates\, Christmas decor\,
-  Hundreds of vintage Playboy magazines\, many from early 1970's\, Over 20
- 0 Hallmark ornaments (MIB)\, Lamps\, Precious Moments\, Jewelry boxes\, K
- nick knacks\, Planters\, Depression glass\, Steins\, Beer mugs\, Dress fo
- rm\, Duck decoys\, Wedgewood\, Belleek\, Fishing poles & tackle\, Beer si
- gns\, Nice ship models\, 1952 Dwight D. Eisenhower photo by Nickolas Hura
- y\, Cast iron frying pans\, Elephant figurine\, Sampler\, Asian pottery\,
-  Lenox\, Kenwood speakers\, 1972 Munich Olympic plate\, Statues\, Metal p
- encil sharpener collection\, Wheaton bottles\, Coca Cola collectibles\, L
- ife on The Mississippi Mark Twain book\, Adventures of Tom Sawyer early b
- ook\, AkaiAP-B20 turntable\, Technics Belt driven SL-23 turntable\, Antiq
- ue books\, Books\, Kitchenware\, Household goods\, Collectible plates inc
- . Princess Diana\, John Wayne\, Norman Rockwell\, etc\,  Army & Navy mili
- tary clothing\, VHS & DVDs\, Hundreds of vintage cassettes\,\nAND MUCH MO
- RE!\nSPORTS CARDS & MEMORABILIA: Over 100\,000\nsports cards inc. Mickey 
- Mantle\, Derek Jeter\, Michael Jordan\, Alex Rodriguez\, Mike Schmidt\, M
- agic Johnson\, Larry Bird\, Barry Bonds\, Cal Ripken\, Nolan Ryan\, Wayne
-  Gretzsky\, Roger Clemens\, Mark McGwire\, Ken Griffey\, Cal Ripken\, Dan
-  Marino\, Tony Gwynn\, Wade Boggs\, John Elway\, Emmitt Smith\, Joe Monta
- na\, etc\;\nBobbleheads inc. Pete Rose\, Dan Marino\, John Elway\, Derek 
- Jeter\, Cal Ripken\, Joe Montana\, Albert Pujols\, Mike Piazza\, Roger Cl
- emens\, Ken Griffey Jr. etc.\; Ali vs. Frazier starting lineup\, Bobby Or
- r starting lineup\, Collectible plates of Babe Ruth\, Mickey Mantle\, Wil
- lie Mays\, Ted Williams\, Joe DiMaggio\,  Joe Montana\, etc\; WCW Head Ri
- ngers\, Huge amount of wrestling figures\, Roberto Clemente Wheaties boxe
- s\, Reggie Jackson Starting Lineup\, Mickey Mantle Cooperstown Collection
-  starting lineup\, 8 X 10 photos of Mickey Mantle\, Joe DiMaggio\, Ted Wi
- lliams\, Pete Rose\, Willie Mays\, Nolan Ryan\, Tom Seaver\, Yaz\; Baseba
- ll bats & gloves\, Larry Bird & Charles Barkley photos\,\nAND MUCH MORE!\
- nTOYS:\nET Animaltronic toy (MIB) Interactive toy\, Ghostbuster figures (
- MIB\, Hasbro Star wars toys\, Star trek toys\, Star Trek The Next Generat
- ion figure (MOC)\, GI Joe figure & vehicle\, Matchbox & Hot Wheels cars\,
-  Harry Potter Hermone Granger's Wand (MIB)\, Bobble heads\, Video games\,
-  Teenage Mutant Turtles toys\, Spiderman figure\, The Incredible Hulk fig
- ure\, Thor\, Batman Figure (MIB)\, DC Comics Bendable Wonder Woman\, Fant
- astic Four figure\, Avengers figure\, Hess trucks\, Walt Disney figure Tr
- ansformers\, Barbie dolls\, Barbie speed boat\,\nAND MUCH MORE!\nFURNITUR
- E:\nLarge curio cabinets\, Large display cabinet\, Bookshelves\, End tabl
- e\, Oak press back chairs\, rocking chairs\,\n& More!\nMISC.:\nJohn Deere
-  Riding S220 riding lawn mower w/ 42' cutting deck\, utility cart & sprea
- der (50 original hours)\, Aluminum ladders\, Yard tools\, Tools\,\nAND MU
- CH MUCH MORE!\nHOUSE & GARAGE ARE LOADED.  PICKERS WELCOME!\nPLEASE NOTE:
-   PRICES NOT DISCLOSED TILL DAY OF SALE.  ADDRESS WILL BE DISCLOSED DAY B
- EFORE SALE.  THANK YOU!\nKeep checking back as more photos and info updat
- ed daily.
+ celain\, Large vintage stamp collection inc. 1800s to present (some cance
+ led\, some unused in blocks inc. Marilyn Monroe\, Elvis\, Legends of Base
+ ball Dinosaurs etc.\; 1883 Geological Survey book US Interior\, Atlantic 
+ can\, Belt buckles\, Wooden horse\, Fishing reels\, Pottery\, Beer steins
+ \, Art glass\, Carnival glass\, Toleware trays\, Pepsi cola trays\, Coca 
+ Cola trays\, Sad irons\, Wood planes\, China\, Lanterns\, Racecar liquor 
+ decanters\, Cookie jars\, Wall art\, Zither\, Samplers\,  Mineral & rock 
+ specimens\, W. Horn & son Wilkes barre PA crock\, Early ephemera\, Geisha
+  girl figures\, Stoneware crocks\, The Complete Sherlock Holmes books\, P
+ anoramic Navy photo\, Framed Silhouette\, Hummels\, Hummel plates\, Chris
+ tmas decor\, Hundreds of vintage Playboy magazines\, many from early 1970
+ 's\, Over 200 Hallmark ornaments (MIB)\, Lamps\, Precious Moments\, Jewel
+ ry boxes\, Knick knacks\, Planters\, Depression glass\, Steins\, Beer mug
+ s\, Dress form\, Duck decoys\, Wedgewood\, Belleek\, Fishing poles & tack
+ le\, Beer signs\, Nice ship models\, Budweiser neon sign\, Michelob Dry n
+ eon sign\, 1952 Dwight D. Eisenhower photo by Nickolas Huray\, Vintage bo
+ ttles\, Cast iron frying pans\, Elephant figurine\, Sampler\, Asian potte
+ ry\, Lenox\, Kenwood speakers\, Oak display box\, Ceramic Christmas tree\
+ , Heineken beer mirror\, 1972 Munich Olympic plate\, Statues\, Metal penc
+ il sharpener collection\, Wheaton bottles\, Coca Cola collectibles\, Life
+  on The Mississippi Mark Twain book\, Adventures of Tom Sawyer early book
+ \, AkaiAP-B20 turntable\, Technics Belt driven SL-23 turntable\, Antique 
+ books\, Books\, Kitchenware\, Household goods\, Collectible plates inc. P
+ rincess Diana\, John Wayne\, Norman Rockwell\, etc\,  Army & Navy militar
+ y clothing\, Archive Editions Boatman by Bob Kane book\, Rock & Roll LP v
+ inyl records\, VHS & DVDs\, Hundreds of vintage cassettes\,\nAND MUCH MOR
+ E!\nSPORTS CARDS & MEMORABILIA: Over 100\,000\nsports cards inc. Mickey M
+ antle\, Derek Jeter\, Michael Jordan\, Alex Rodriguez\, Mike Schmidt\, Ma
+ gic Johnson\, Larry Bird\, Barry Bonds\, Cal Ripken\, Nolan Ryan\, Wayne 
+ Gretzsky\, Roger Clemens\, Mark McGwire\, Ken Griffey\, Cal Ripken\, Dan 
+ Marino\, Tony Gwynn\, Wade Boggs\, John Elway\, Emmitt Smith\, Joe Montan
+ a\, etc\;\nLarge amount of rookie cards of Mark McGwire\, Barry Bonds\, K
+ en Griffey Jr.\, Derek Jeter\, Don Mattingly\, Roger Clemems\, Bo Jackson
+  etc.\;\n1985 Topps Baseball set\, 1990 Fleer Basketball sets\, Skybox ba
+ sketball sets\, Bobbleheads inc. Pete Rose\, Dan Marino\, John Elway\, De
+ rek Jeter\, Cal Ripken\, Joe Montana\, Albert Pujols\, Mike Piazza\, Roge
+ r Clemens\, Ken Griffey Jr. etc.\; Ali vs. Frazier starting lineup\, Bobb
+ y Orr starting lineup\, Collectible plates of Babe Ruth\, Mickey Mantle\,
+  Willie Mays\, Ted Williams\, Joe DiMaggio\,  Joe Montana\, etc\; WCW Hea
+ d Ringers\, Huge amount of wrestling figures\, Roberto Clemente Wheaties 
+ boxes\, Reggie Jackson Starting Lineup\, Mickey Mantle Cooperstown Collec
+ tion starting lineup\, 8 X 10 photos of Mickey Mantle\, Joe DiMaggio\, Te
+ d Williams\, Pete Rose\, Willie Mays\, Nolan Ryan\, Tom Seaver\, Yaz\; Ba
+ seball bats & gloves\, Larry Bird & Charles Barkley photos\,\nAND MUCH MO
+ RE!\nTOYS:\nET Animaltronic toy (MIB) Interactive toy\, Ghostbuster figur
+ es (MIB\, Hasbro Star wars toys\, Star trek toys\, Star Trek The Next Gen
+ eration figure (MOC)\, GI Joe figure & vehicle\, Matchbox & Hot Wheels ca
+ rs\, Harry Potter Hermone Granger's Wand (MIB)\, Bobble heads\, Video gam
+ es\, Teenage Mutant Turtles toys\, Spiderman figure\, The Incredible Hulk
+  figure\, Thor\, Batman Figure (MIB)\, DC Comics Bendable Wonder Woman\, 
+ Fantastic Four figure\, Avengers figure\, Trains\, Tonka trucks\, Hess tr
+ ucks\, Walt Disney figure Transformers\, Barbie dolls\, Barbie speed boat
+ \,\nAND MUCH MORE!\nFURNITURE:\nLarge curio cabinets\, Large display cabi
+ net\, Victorian loveseat\, Victorian rocker\, Bookshelves\, End table\, O
+ ak press back chairs\, Rocking chairs\, 2 tier end table\,\n& More!\nMISC
+ .:\nJohn Deere Riding S220 riding lawn mower w/ 42' cutting deck\, utilit
+ y cart & spreader (50 original hours)\, Aluminum ladders\, Shelving\, Har
+ dware cabinets\, Yard tools\, Tools\,\nAND MUCH MUCH MORE!\nPLEASE NOTE: 
+  PRICES NOT DISCLOSED TILL DAY OF SALE.  ADDRESS WILL BE DISCLOSED DAY BE
+ FORE SALE.  THANK YOU!\nKeep checking back as more photos and info update
+ d daily.
 URL:https://www.estatesales.net/PA/Stroudsburg/18360/5156322
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13011-20261120@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:Large Amazing Stroudsburg Estate Sale
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T140000
-LOCATION:Stroudsburg\, PA 18360
+LOCATION:Stroudsburg\, PA\, 18360
 DESCRIPTION:LARGE AMAZING\nSTROUDSBURG ESTATE SALE\nSTROUDSBURG\, PA 18360
  \nTHURSDAY\, NOVEMBER 19TH\nFRIDAY\, NOVEMBER 20TH\nSATURDAY\, NOVEMBER 2
  1ST\n9:00 AM - 2:00 PM\n3 Days only!\nFirst come\, first serve. Everythin
@@ -113,63 +126,76 @@ DESCRIPTION:LARGE AMAZING\nSTROUDSBURG ESTATE SALE\nSTROUDSBURG\, PA 18360
  costume jewelry\, Large collection of vintage marbles\, Tiffany style sta
  ined glass lamp\, Over 200 paintings & prints\, Native American art\, Egy
  ptian art\, Clown art\, Erte print\, Rheinmetall antique typewriter\, Por
- celain\, Large vintage stamp collection\, Pottery\, art glass\, Carnival 
- glass\, China\, Wall art\, Mineral & rock specimens\, W. Horn & son Wilke
- s barre PA crock\, Geisha girl figures\, Stoneware crocks\, Panoramic Nav
- y photo\, Framed Silhouette\, Hummels\, Hummel plates\, Christmas decor\,
-  Hundreds of vintage Playboy magazines\, many from early 1970's\, Over 20
- 0 Hallmark ornaments (MIB)\, Lamps\, Precious Moments\, Jewelry boxes\, K
- nick knacks\, Planters\, Depression glass\, Steins\, Beer mugs\, Dress fo
- rm\, Duck decoys\, Wedgewood\, Belleek\, Fishing poles & tackle\, Beer si
- gns\, Nice ship models\, 1952 Dwight D. Eisenhower photo by Nickolas Hura
- y\, Cast iron frying pans\, Elephant figurine\, Sampler\, Asian pottery\,
-  Lenox\, Kenwood speakers\, 1972 Munich Olympic plate\, Statues\, Metal p
- encil sharpener collection\, Wheaton bottles\, Coca Cola collectibles\, L
- ife on The Mississippi Mark Twain book\, Adventures of Tom Sawyer early b
- ook\, AkaiAP-B20 turntable\, Technics Belt driven SL-23 turntable\, Antiq
- ue books\, Books\, Kitchenware\, Household goods\, Collectible plates inc
- . Princess Diana\, John Wayne\, Norman Rockwell\, etc\,  Army & Navy mili
- tary clothing\, VHS & DVDs\, Hundreds of vintage cassettes\,\nAND MUCH MO
- RE!\nSPORTS CARDS & MEMORABILIA: Over 100\,000\nsports cards inc. Mickey 
- Mantle\, Derek Jeter\, Michael Jordan\, Alex Rodriguez\, Mike Schmidt\, M
- agic Johnson\, Larry Bird\, Barry Bonds\, Cal Ripken\, Nolan Ryan\, Wayne
-  Gretzsky\, Roger Clemens\, Mark McGwire\, Ken Griffey\, Cal Ripken\, Dan
-  Marino\, Tony Gwynn\, Wade Boggs\, John Elway\, Emmitt Smith\, Joe Monta
- na\, etc\;\nBobbleheads inc. Pete Rose\, Dan Marino\, John Elway\, Derek 
- Jeter\, Cal Ripken\, Joe Montana\, Albert Pujols\, Mike Piazza\, Roger Cl
- emens\, Ken Griffey Jr. etc.\; Ali vs. Frazier starting lineup\, Bobby Or
- r starting lineup\, Collectible plates of Babe Ruth\, Mickey Mantle\, Wil
- lie Mays\, Ted Williams\, Joe DiMaggio\,  Joe Montana\, etc\; WCW Head Ri
- ngers\, Huge amount of wrestling figures\, Roberto Clemente Wheaties boxe
- s\, Reggie Jackson Starting Lineup\, Mickey Mantle Cooperstown Collection
-  starting lineup\, 8 X 10 photos of Mickey Mantle\, Joe DiMaggio\, Ted Wi
- lliams\, Pete Rose\, Willie Mays\, Nolan Ryan\, Tom Seaver\, Yaz\; Baseba
- ll bats & gloves\, Larry Bird & Charles Barkley photos\,\nAND MUCH MORE!\
- nTOYS:\nET Animaltronic toy (MIB) Interactive toy\, Ghostbuster figures (
- MIB\, Hasbro Star wars toys\, Star trek toys\, Star Trek The Next Generat
- ion figure (MOC)\, GI Joe figure & vehicle\, Matchbox & Hot Wheels cars\,
-  Harry Potter Hermone Granger's Wand (MIB)\, Bobble heads\, Video games\,
-  Teenage Mutant Turtles toys\, Spiderman figure\, The Incredible Hulk fig
- ure\, Thor\, Batman Figure (MIB)\, DC Comics Bendable Wonder Woman\, Fant
- astic Four figure\, Avengers figure\, Hess trucks\, Walt Disney figure Tr
- ansformers\, Barbie dolls\, Barbie speed boat\,\nAND MUCH MORE!\nFURNITUR
- E:\nLarge curio cabinets\, Large display cabinet\, Bookshelves\, End tabl
- e\, Oak press back chairs\, rocking chairs\,\n& More!\nMISC.:\nJohn Deere
-  Riding S220 riding lawn mower w/ 42' cutting deck\, utility cart & sprea
- der (50 original hours)\, Aluminum ladders\, Yard tools\, Tools\,\nAND MU
- CH MUCH MORE!\nHOUSE & GARAGE ARE LOADED.  PICKERS WELCOME!\nPLEASE NOTE:
-   PRICES NOT DISCLOSED TILL DAY OF SALE.  ADDRESS WILL BE DISCLOSED DAY B
- EFORE SALE.  THANK YOU!\nKeep checking back as more photos and info updat
- ed daily.
+ celain\, Large vintage stamp collection inc. 1800s to present (some cance
+ led\, some unused in blocks inc. Marilyn Monroe\, Elvis\, Legends of Base
+ ball Dinosaurs etc.\; 1883 Geological Survey book US Interior\, Atlantic 
+ can\, Belt buckles\, Wooden horse\, Fishing reels\, Pottery\, Beer steins
+ \, Art glass\, Carnival glass\, Toleware trays\, Pepsi cola trays\, Coca 
+ Cola trays\, Sad irons\, Wood planes\, China\, Lanterns\, Racecar liquor 
+ decanters\, Cookie jars\, Wall art\, Zither\, Samplers\,  Mineral & rock 
+ specimens\, W. Horn & son Wilkes barre PA crock\, Early ephemera\, Geisha
+  girl figures\, Stoneware crocks\, The Complete Sherlock Holmes books\, P
+ anoramic Navy photo\, Framed Silhouette\, Hummels\, Hummel plates\, Chris
+ tmas decor\, Hundreds of vintage Playboy magazines\, many from early 1970
+ 's\, Over 200 Hallmark ornaments (MIB)\, Lamps\, Precious Moments\, Jewel
+ ry boxes\, Knick knacks\, Planters\, Depression glass\, Steins\, Beer mug
+ s\, Dress form\, Duck decoys\, Wedgewood\, Belleek\, Fishing poles & tack
+ le\, Beer signs\, Nice ship models\, Budweiser neon sign\, Michelob Dry n
+ eon sign\, 1952 Dwight D. Eisenhower photo by Nickolas Huray\, Vintage bo
+ ttles\, Cast iron frying pans\, Elephant figurine\, Sampler\, Asian potte
+ ry\, Lenox\, Kenwood speakers\, Oak display box\, Ceramic Christmas tree\
+ , Heineken beer mirror\, 1972 Munich Olympic plate\, Statues\, Metal penc
+ il sharpener collection\, Wheaton bottles\, Coca Cola collectibles\, Life
+  on The Mississippi Mark Twain book\, Adventures of Tom Sawyer early book
+ \, AkaiAP-B20 turntable\, Technics Belt driven SL-23 turntable\, Antique 
+ books\, Books\, Kitchenware\, Household goods\, Collectible plates inc. P
+ rincess Diana\, John Wayne\, Norman Rockwell\, etc\,  Army & Navy militar
+ y clothing\, Archive Editions Boatman by Bob Kane book\, Rock & Roll LP v
+ inyl records\, VHS & DVDs\, Hundreds of vintage cassettes\,\nAND MUCH MOR
+ E!\nSPORTS CARDS & MEMORABILIA: Over 100\,000\nsports cards inc. Mickey M
+ antle\, Derek Jeter\, Michael Jordan\, Alex Rodriguez\, Mike Schmidt\, Ma
+ gic Johnson\, Larry Bird\, Barry Bonds\, Cal Ripken\, Nolan Ryan\, Wayne 
+ Gretzsky\, Roger Clemens\, Mark McGwire\, Ken Griffey\, Cal Ripken\, Dan 
+ Marino\, Tony Gwynn\, Wade Boggs\, John Elway\, Emmitt Smith\, Joe Montan
+ a\, etc\;\nLarge amount of rookie cards of Mark McGwire\, Barry Bonds\, K
+ en Griffey Jr.\, Derek Jeter\, Don Mattingly\, Roger Clemems\, Bo Jackson
+  etc.\;\n1985 Topps Baseball set\, 1990 Fleer Basketball sets\, Skybox ba
+ sketball sets\, Bobbleheads inc. Pete Rose\, Dan Marino\, John Elway\, De
+ rek Jeter\, Cal Ripken\, Joe Montana\, Albert Pujols\, Mike Piazza\, Roge
+ r Clemens\, Ken Griffey Jr. etc.\; Ali vs. Frazier starting lineup\, Bobb
+ y Orr starting lineup\, Collectible plates of Babe Ruth\, Mickey Mantle\,
+  Willie Mays\, Ted Williams\, Joe DiMaggio\,  Joe Montana\, etc\; WCW Hea
+ d Ringers\, Huge amount of wrestling figures\, Roberto Clemente Wheaties 
+ boxes\, Reggie Jackson Starting Lineup\, Mickey Mantle Cooperstown Collec
+ tion starting lineup\, 8 X 10 photos of Mickey Mantle\, Joe DiMaggio\, Te
+ d Williams\, Pete Rose\, Willie Mays\, Nolan Ryan\, Tom Seaver\, Yaz\; Ba
+ seball bats & gloves\, Larry Bird & Charles Barkley photos\,\nAND MUCH MO
+ RE!\nTOYS:\nET Animaltronic toy (MIB) Interactive toy\, Ghostbuster figur
+ es (MIB\, Hasbro Star wars toys\, Star trek toys\, Star Trek The Next Gen
+ eration figure (MOC)\, GI Joe figure & vehicle\, Matchbox & Hot Wheels ca
+ rs\, Harry Potter Hermone Granger's Wand (MIB)\, Bobble heads\, Video gam
+ es\, Teenage Mutant Turtles toys\, Spiderman figure\, The Incredible Hulk
+  figure\, Thor\, Batman Figure (MIB)\, DC Comics Bendable Wonder Woman\, 
+ Fantastic Four figure\, Avengers figure\, Trains\, Tonka trucks\, Hess tr
+ ucks\, Walt Disney figure Transformers\, Barbie dolls\, Barbie speed boat
+ \,\nAND MUCH MORE!\nFURNITURE:\nLarge curio cabinets\, Large display cabi
+ net\, Victorian loveseat\, Victorian rocker\, Bookshelves\, End table\, O
+ ak press back chairs\, Rocking chairs\, 2 tier end table\,\n& More!\nMISC
+ .:\nJohn Deere Riding S220 riding lawn mower w/ 42' cutting deck\, utilit
+ y cart & spreader (50 original hours)\, Aluminum ladders\, Shelving\, Har
+ dware cabinets\, Yard tools\, Tools\,\nAND MUCH MUCH MORE!\nPLEASE NOTE: 
+  PRICES NOT DISCLOSED TILL DAY OF SALE.  ADDRESS WILL BE DISCLOSED DAY BE
+ FORE SALE.  THANK YOU!\nKeep checking back as more photos and info update
+ d daily.
 URL:https://www.estatesales.net/PA/Stroudsburg/18360/5156322
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13011-20261121@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:Large Amazing Stroudsburg Estate Sale
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T140000
-LOCATION:Stroudsburg\, PA 18360
+LOCATION:Stroudsburg\, PA\, 18360
 DESCRIPTION:LARGE AMAZING\nSTROUDSBURG ESTATE SALE\nSTROUDSBURG\, PA 18360
  \nTHURSDAY\, NOVEMBER 19TH\nFRIDAY\, NOVEMBER 20TH\nSATURDAY\, NOVEMBER 2
  1ST\n9:00 AM - 2:00 PM\n3 Days only!\nFirst come\, first serve. Everythin
@@ -186,54 +212,67 @@ DESCRIPTION:LARGE AMAZING\nSTROUDSBURG ESTATE SALE\nSTROUDSBURG\, PA 18360
  costume jewelry\, Large collection of vintage marbles\, Tiffany style sta
  ined glass lamp\, Over 200 paintings & prints\, Native American art\, Egy
  ptian art\, Clown art\, Erte print\, Rheinmetall antique typewriter\, Por
- celain\, Large vintage stamp collection\, Pottery\, art glass\, Carnival 
- glass\, China\, Wall art\, Mineral & rock specimens\, W. Horn & son Wilke
- s barre PA crock\, Geisha girl figures\, Stoneware crocks\, Panoramic Nav
- y photo\, Framed Silhouette\, Hummels\, Hummel plates\, Christmas decor\,
-  Hundreds of vintage Playboy magazines\, many from early 1970's\, Over 20
- 0 Hallmark ornaments (MIB)\, Lamps\, Precious Moments\, Jewelry boxes\, K
- nick knacks\, Planters\, Depression glass\, Steins\, Beer mugs\, Dress fo
- rm\, Duck decoys\, Wedgewood\, Belleek\, Fishing poles & tackle\, Beer si
- gns\, Nice ship models\, 1952 Dwight D. Eisenhower photo by Nickolas Hura
- y\, Cast iron frying pans\, Elephant figurine\, Sampler\, Asian pottery\,
-  Lenox\, Kenwood speakers\, 1972 Munich Olympic plate\, Statues\, Metal p
- encil sharpener collection\, Wheaton bottles\, Coca Cola collectibles\, L
- ife on The Mississippi Mark Twain book\, Adventures of Tom Sawyer early b
- ook\, AkaiAP-B20 turntable\, Technics Belt driven SL-23 turntable\, Antiq
- ue books\, Books\, Kitchenware\, Household goods\, Collectible plates inc
- . Princess Diana\, John Wayne\, Norman Rockwell\, etc\,  Army & Navy mili
- tary clothing\, VHS & DVDs\, Hundreds of vintage cassettes\,\nAND MUCH MO
- RE!\nSPORTS CARDS & MEMORABILIA: Over 100\,000\nsports cards inc. Mickey 
- Mantle\, Derek Jeter\, Michael Jordan\, Alex Rodriguez\, Mike Schmidt\, M
- agic Johnson\, Larry Bird\, Barry Bonds\, Cal Ripken\, Nolan Ryan\, Wayne
-  Gretzsky\, Roger Clemens\, Mark McGwire\, Ken Griffey\, Cal Ripken\, Dan
-  Marino\, Tony Gwynn\, Wade Boggs\, John Elway\, Emmitt Smith\, Joe Monta
- na\, etc\;\nBobbleheads inc. Pete Rose\, Dan Marino\, John Elway\, Derek 
- Jeter\, Cal Ripken\, Joe Montana\, Albert Pujols\, Mike Piazza\, Roger Cl
- emens\, Ken Griffey Jr. etc.\; Ali vs. Frazier starting lineup\, Bobby Or
- r starting lineup\, Collectible plates of Babe Ruth\, Mickey Mantle\, Wil
- lie Mays\, Ted Williams\, Joe DiMaggio\,  Joe Montana\, etc\; WCW Head Ri
- ngers\, Huge amount of wrestling figures\, Roberto Clemente Wheaties boxe
- s\, Reggie Jackson Starting Lineup\, Mickey Mantle Cooperstown Collection
-  starting lineup\, 8 X 10 photos of Mickey Mantle\, Joe DiMaggio\, Ted Wi
- lliams\, Pete Rose\, Willie Mays\, Nolan Ryan\, Tom Seaver\, Yaz\; Baseba
- ll bats & gloves\, Larry Bird & Charles Barkley photos\,\nAND MUCH MORE!\
- nTOYS:\nET Animaltronic toy (MIB) Interactive toy\, Ghostbuster figures (
- MIB\, Hasbro Star wars toys\, Star trek toys\, Star Trek The Next Generat
- ion figure (MOC)\, GI Joe figure & vehicle\, Matchbox & Hot Wheels cars\,
-  Harry Potter Hermone Granger's Wand (MIB)\, Bobble heads\, Video games\,
-  Teenage Mutant Turtles toys\, Spiderman figure\, The Incredible Hulk fig
- ure\, Thor\, Batman Figure (MIB)\, DC Comics Bendable Wonder Woman\, Fant
- astic Four figure\, Avengers figure\, Hess trucks\, Walt Disney figure Tr
- ansformers\, Barbie dolls\, Barbie speed boat\,\nAND MUCH MORE!\nFURNITUR
- E:\nLarge curio cabinets\, Large display cabinet\, Bookshelves\, End tabl
- e\, Oak press back chairs\, rocking chairs\,\n& More!\nMISC.:\nJohn Deere
-  Riding S220 riding lawn mower w/ 42' cutting deck\, utility cart & sprea
- der (50 original hours)\, Aluminum ladders\, Yard tools\, Tools\,\nAND MU
- CH MUCH MORE!\nHOUSE & GARAGE ARE LOADED.  PICKERS WELCOME!\nPLEASE NOTE:
-   PRICES NOT DISCLOSED TILL DAY OF SALE.  ADDRESS WILL BE DISCLOSED DAY B
- EFORE SALE.  THANK YOU!\nKeep checking back as more photos and info updat
- ed daily.
+ celain\, Large vintage stamp collection inc. 1800s to present (some cance
+ led\, some unused in blocks inc. Marilyn Monroe\, Elvis\, Legends of Base
+ ball Dinosaurs etc.\; 1883 Geological Survey book US Interior\, Atlantic 
+ can\, Belt buckles\, Wooden horse\, Fishing reels\, Pottery\, Beer steins
+ \, Art glass\, Carnival glass\, Toleware trays\, Pepsi cola trays\, Coca 
+ Cola trays\, Sad irons\, Wood planes\, China\, Lanterns\, Racecar liquor 
+ decanters\, Cookie jars\, Wall art\, Zither\, Samplers\,  Mineral & rock 
+ specimens\, W. Horn & son Wilkes barre PA crock\, Early ephemera\, Geisha
+  girl figures\, Stoneware crocks\, The Complete Sherlock Holmes books\, P
+ anoramic Navy photo\, Framed Silhouette\, Hummels\, Hummel plates\, Chris
+ tmas decor\, Hundreds of vintage Playboy magazines\, many from early 1970
+ 's\, Over 200 Hallmark ornaments (MIB)\, Lamps\, Precious Moments\, Jewel
+ ry boxes\, Knick knacks\, Planters\, Depression glass\, Steins\, Beer mug
+ s\, Dress form\, Duck decoys\, Wedgewood\, Belleek\, Fishing poles & tack
+ le\, Beer signs\, Nice ship models\, Budweiser neon sign\, Michelob Dry n
+ eon sign\, 1952 Dwight D. Eisenhower photo by Nickolas Huray\, Vintage bo
+ ttles\, Cast iron frying pans\, Elephant figurine\, Sampler\, Asian potte
+ ry\, Lenox\, Kenwood speakers\, Oak display box\, Ceramic Christmas tree\
+ , Heineken beer mirror\, 1972 Munich Olympic plate\, Statues\, Metal penc
+ il sharpener collection\, Wheaton bottles\, Coca Cola collectibles\, Life
+  on The Mississippi Mark Twain book\, Adventures of Tom Sawyer early book
+ \, AkaiAP-B20 turntable\, Technics Belt driven SL-23 turntable\, Antique 
+ books\, Books\, Kitchenware\, Household goods\, Collectible plates inc. P
+ rincess Diana\, John Wayne\, Norman Rockwell\, etc\,  Army & Navy militar
+ y clothing\, Archive Editions Boatman by Bob Kane book\, Rock & Roll LP v
+ inyl records\, VHS & DVDs\, Hundreds of vintage cassettes\,\nAND MUCH MOR
+ E!\nSPORTS CARDS & MEMORABILIA: Over 100\,000\nsports cards inc. Mickey M
+ antle\, Derek Jeter\, Michael Jordan\, Alex Rodriguez\, Mike Schmidt\, Ma
+ gic Johnson\, Larry Bird\, Barry Bonds\, Cal Ripken\, Nolan Ryan\, Wayne 
+ Gretzsky\, Roger Clemens\, Mark McGwire\, Ken Griffey\, Cal Ripken\, Dan 
+ Marino\, Tony Gwynn\, Wade Boggs\, John Elway\, Emmitt Smith\, Joe Montan
+ a\, etc\;\nLarge amount of rookie cards of Mark McGwire\, Barry Bonds\, K
+ en Griffey Jr.\, Derek Jeter\, Don Mattingly\, Roger Clemems\, Bo Jackson
+  etc.\;\n1985 Topps Baseball set\, 1990 Fleer Basketball sets\, Skybox ba
+ sketball sets\, Bobbleheads inc. Pete Rose\, Dan Marino\, John Elway\, De
+ rek Jeter\, Cal Ripken\, Joe Montana\, Albert Pujols\, Mike Piazza\, Roge
+ r Clemens\, Ken Griffey Jr. etc.\; Ali vs. Frazier starting lineup\, Bobb
+ y Orr starting lineup\, Collectible plates of Babe Ruth\, Mickey Mantle\,
+  Willie Mays\, Ted Williams\, Joe DiMaggio\,  Joe Montana\, etc\; WCW Hea
+ d Ringers\, Huge amount of wrestling figures\, Roberto Clemente Wheaties 
+ boxes\, Reggie Jackson Starting Lineup\, Mickey Mantle Cooperstown Collec
+ tion starting lineup\, 8 X 10 photos of Mickey Mantle\, Joe DiMaggio\, Te
+ d Williams\, Pete Rose\, Willie Mays\, Nolan Ryan\, Tom Seaver\, Yaz\; Ba
+ seball bats & gloves\, Larry Bird & Charles Barkley photos\,\nAND MUCH MO
+ RE!\nTOYS:\nET Animaltronic toy (MIB) Interactive toy\, Ghostbuster figur
+ es (MIB\, Hasbro Star wars toys\, Star trek toys\, Star Trek The Next Gen
+ eration figure (MOC)\, GI Joe figure & vehicle\, Matchbox & Hot Wheels ca
+ rs\, Harry Potter Hermone Granger's Wand (MIB)\, Bobble heads\, Video gam
+ es\, Teenage Mutant Turtles toys\, Spiderman figure\, The Incredible Hulk
+  figure\, Thor\, Batman Figure (MIB)\, DC Comics Bendable Wonder Woman\, 
+ Fantastic Four figure\, Avengers figure\, Trains\, Tonka trucks\, Hess tr
+ ucks\, Walt Disney figure Transformers\, Barbie dolls\, Barbie speed boat
+ \,\nAND MUCH MORE!\nFURNITURE:\nLarge curio cabinets\, Large display cabi
+ net\, Victorian loveseat\, Victorian rocker\, Bookshelves\, End table\, O
+ ak press back chairs\, Rocking chairs\, 2 tier end table\,\n& More!\nMISC
+ .:\nJohn Deere Riding S220 riding lawn mower w/ 42' cutting deck\, utilit
+ y cart & spreader (50 original hours)\, Aluminum ladders\, Shelving\, Har
+ dware cabinets\, Yard tools\, Tools\,\nAND MUCH MUCH MORE!\nPLEASE NOTE: 
+  PRICES NOT DISCLOSED TILL DAY OF SALE.  ADDRESS WILL BE DISCLOSED DAY BE
+ FORE SALE.  THANK YOU!\nKeep checking back as more photos and info update
+ d daily.
 URL:https://www.estatesales.net/PA/Stroudsburg/18360/5156322
 END:VEVENT
 END:VCALENDAR

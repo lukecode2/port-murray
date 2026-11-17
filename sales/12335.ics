@@ -19,35 +19,45 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-12335-20261120@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:Bridgewater Estate Sale -Tools\, Decor\, Clothing\, Instruments\, 
  Albums and MORE!
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T140000
 LOCATION:Bridgewater\, NJ\, 08807
-DESCRIPTION:This sale features skis\, albums\, glassware\, tons of decor a
- nd knick knacks\, tools including professional\nchainsaw & power washer\,
-  sports ephemera\, MCM\, lamps\, decor\, Hummels\, Dolls including Americ
- an Girl\,\nchina\, drums\, violin\, power tools\, weights\, glassware\, s
- moker\, kitchen items\, grill\, antique books\, furniture\,\nlinens\, art
- \, sewing machines and MUCH more!\nMore pictures coming soon!
+DESCRIPTION:This sale features sets of skis & ski boots\, tools includin
+ g a professional chainsaw & power washer\, sports ephemera\, MCM\, lamp
+ s\, Hummels\, Dolls including American Girl\, china\, drums\, violin\, po
+ wer tools\, albums\, tons of decor and knick knacks\, glassware and porce
+ lain\, weights\, glassware\, smoker\, kitchen items\, grill\, antique bo
+ oks\, furniture\, linens\, art\, sewing machines...\nWorking refrigerator
+ \, golf club set\, workout equipment\, ladders\, milk glass\, vintage spo
+ rts magazines\, clothing\, vintage chrome stereo receiver with cassette 
+ desk\, artwork\, ratchet sets\, vintage coffee grinder\, machinist tool c
+ hest\, Craftsman portable toolbox\, Ryobi 18V cordless drill/battery\, R
+ ogers Enchanted gold silverware set\, hand tools and MUCH more!
 URL:https://estatesales.org/estate-sales/nj/bridgewater/08807/bridgewater-
  estate-sale-tools-decor-2470196
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-12335-20261121@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:Bridgewater Estate Sale -Tools\, Decor\, Clothing\, Instruments\, 
  Albums and MORE!
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T140000
 LOCATION:Bridgewater\, NJ\, 08807
-DESCRIPTION:This sale features skis\, albums\, glassware\, tons of decor a
- nd knick knacks\, tools including professional\nchainsaw & power washer\,
-  sports ephemera\, MCM\, lamps\, decor\, Hummels\, Dolls including Americ
- an Girl\,\nchina\, drums\, violin\, power tools\, weights\, glassware\, s
- moker\, kitchen items\, grill\, antique books\, furniture\,\nlinens\, art
- \, sewing machines and MUCH more!\nMore pictures coming soon!
+DESCRIPTION:This sale features sets of skis & ski boots\, tools includin
+ g a professional chainsaw & power washer\, sports ephemera\, MCM\, lamp
+ s\, Hummels\, Dolls including American Girl\, china\, drums\, violin\, po
+ wer tools\, albums\, tons of decor and knick knacks\, glassware and porce
+ lain\, weights\, glassware\, smoker\, kitchen items\, grill\, antique bo
+ oks\, furniture\, linens\, art\, sewing machines...\nWorking refrigerator
+ \, golf club set\, workout equipment\, ladders\, milk glass\, vintage spo
+ rts magazines\, clothing\, vintage chrome stereo receiver with cassette 
+ desk\, artwork\, ratchet sets\, vintage coffee grinder\, machinist tool c
+ hest\, Craftsman portable toolbox\, Ryobi 18V cordless drill/battery\, R
+ ogers Enchanted gold silverware set\, hand tools and MUCH more!
 URL:https://estatesales.org/estate-sales/nj/bridgewater/08807/bridgewater-
  estate-sale-tools-decor-2470196
 END:VEVENT

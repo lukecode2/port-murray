@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14086-20261121@port-murray
-DTSTAMP:20261116T170835Z
+DTSTAMP:20261117T173414Z
 SUMMARY:Hopatcong Estate Sale - Packed with Unique Finds from Lamps to Fis
  hing Poles!!
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Hopatcong\, NJ 07843
+LOCATION:Hopatcong\, NJ\, 07843
 DESCRIPTION:A wide variety of unique items including:\nLOTS\nof lamps (flo
  or\, tiffany-style\, glass\, table)\,\nLOTS\nof clocks (mantle\, wall)\, 
  fishing poles\, typewriters\, accordions\, lanterns\, cast iron banks and

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14294-20261120@port-murray
+DTSTAMP:20261117T173414Z
+SUMMARY:Lucky Day Estate Sale\, COOLEST Sale ever Records\, Christmas Toys
+ \,Tools All Vintage
+DTSTART;TZID=America/New_York:20261120T090000
+DTEND;TZID=America/New_York:20261120T150000
+LOCATION:Bound Brook\, NJ\, 08805
+DESCRIPTION:Omg such a great variety of vintage items\,something for every
+ one. This man was a guitarist for the best cover band in New Jersey in th
+ e 1980s.He saved everything from the 70s till now.Best record collection 
+ ever as well as Christmas\, Matchbox toys\,Games\,tools\,pyrex\,books\,cd
+ s\,Mid-century lights\,artwork\, Barware\,trains \,toys of all kinds\,ban
+ d tee shirts and soo much more.Everyone will see something that they like
+  in this sale.
+URL:https://www.estatesales.net/NJ/Bound%20Brook/08805/5163261
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-14294-20261121@port-murray
+DTSTAMP:20261117T173414Z
+SUMMARY:Lucky Day Estate Sale\, COOLEST Sale ever Records\, Christmas Toys
+ \,Tools All Vintage
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T150000
+LOCATION:Bound Brook\, NJ\, 08805
+DESCRIPTION:Omg such a great variety of vintage items\,something for every
+ one. This man was a guitarist for the best cover band in New Jersey in th
+ e 1980s.He saved everything from the 70s till now.Best record collection 
+ ever as well as Christmas\, Matchbox toys\,Games\,tools\,pyrex\,books\,cd
+ s\,Mid-century lights\,artwork\, Barware\,trains \,toys of all kinds\,ban
+ d tee shirts and soo much more.Everyone will see something that they like
+  in this sale.
+URL:https://www.estatesales.net/NJ/Bound%20Brook/08805/5163261
+END:VEVENT
+END:VCALENDAR

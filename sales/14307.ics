@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14307-20261118@port-murray
+DTSTAMP:20261117T173414Z
+SUMMARY:Garage/Tent Sale
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+LOCATION:27 Pleasant Hill Rd\, Chester\, NJ\, 07930
+DESCRIPTION:Dates and Times:\nWednesday\, November 18\, 2026\n12:00 pm - 5
+ :00 pm\nThursday\, November 19\, 2026\n8:00 am - 5:00 pm\nAddress:\n27 Pl
+ easant Hill Rd\, Chester\, NJ 07930\nDescription:\nAntiques\; Clock\, Hay
+  Forks\, 1930 Gas Stove porcelain\, Two Man & One Man saws\, #333 Brass C
+ ash Register\, Bottles\, Kerosine Lamps & Small Wood Burning Stoves.  Too
+ ls\; Hand & Power Tools\, Drill Presses\, Levels\, Vices\, Compressor\, C
+ ords\, Generators\, Wheelbarrows\, & Shop Vacuums.  Toys\; Bikes\, Lionel
+  O’Gauge Train Set\, Hess Trucks & Wooden Doll House with Furniture.  S
+ o much more!\nComments\nSign in\nto add a comment or ask a question about
+  this post.\nAdd Comment\nSocial Share:
+URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465425
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-14307-20261119@port-murray
+DTSTAMP:20261117T173414Z
+SUMMARY:Garage/Tent Sale
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+LOCATION:27 Pleasant Hill Rd\, Chester\, NJ\, 07930
+DESCRIPTION:Dates and Times:\nWednesday\, November 18\, 2026\n12:00 pm - 5
+ :00 pm\nThursday\, November 19\, 2026\n8:00 am - 5:00 pm\nAddress:\n27 Pl
+ easant Hill Rd\, Chester\, NJ 07930\nDescription:\nAntiques\; Clock\, Hay
+  Forks\, 1930 Gas Stove porcelain\, Two Man & One Man saws\, #333 Brass C
+ ash Register\, Bottles\, Kerosine Lamps & Small Wood Burning Stoves.  Too
+ ls\; Hand & Power Tools\, Drill Presses\, Levels\, Vices\, Compressor\, C
+ ords\, Generators\, Wheelbarrows\, & Shop Vacuums.  Toys\; Bikes\, Lionel
+  O’Gauge Train Set\, Hess Trucks & Wooden Doll House with Furniture.  S
+ o much more!\nComments\nSign in\nto add a comment or ask a question about
+  this post.\nAdd Comment\nSocial Share:
+URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465425
+END:VEVENT
+END:VCALENDAR

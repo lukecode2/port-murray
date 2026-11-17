@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14295-20261121@port-murray
+DTSTAMP:20261117T173414Z
+SUMMARY:Morristown Moving Sale
+DTSTART;TZID=America/New_York:20261121T100000
+DTEND;TZID=America/New_York:20261121T160000
+LOCATION:Morristown\, NJ\, 07960
+DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
+ UCH MORE!\nCome discover the treasures in this beautifully appointed\, pr
+ ofessionally decorated home! This is an estate sale you won’t want to m
+ iss.\nFeaturing an impressive selection of quality furnishings and home d
+ écor\, including:\n✨ Living Room Furniture – Beautiful\, stylish pie
+ ces to elevate any home.\n✨ Dining Room Furniture – Elegant furnishin
+ gs perfect for entertaining.\n✨ Family Room Furniture – Comfortable a
+ nd attractive pieces for everyday living.\n✨ Bedroom Furniture – Beau
+ tiful bedroom furnishings and accessories.\n✨ Kitchen Items – A varie
+ ty of kitchenware\, serving pieces\, and household essentials.\n✨ Holid
+ ay Décor – Seasonal decorations and festive treasures for every occasi
+ on.\n✨ Home Accessories & Décor – Beautiful accents\, decorative pie
+ ces\, and so much more!\nWhether you’re furnishing a home\, refreshing 
+ a room\, searching for unique finds\, or simply love discovering beautifu
+ l treasures\, there’s something here for everyone!\nPlease check back a
+ s we are just starting to set up.
+URL:https://www.estatesales.net/NJ/Morristown/07960/5162832
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-14295-20261122@port-murray
+DTSTAMP:20261117T173414Z
+SUMMARY:Morristown Moving Sale
+DTSTART;TZID=America/New_York:20261122T100000
+DTEND;TZID=America/New_York:20261122T160000
+LOCATION:Morristown\, NJ\, 07960
+DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
+ UCH MORE!\nCome discover the treasures in this beautifully appointed\, pr
+ ofessionally decorated home! This is an estate sale you won’t want to m
+ iss.\nFeaturing an impressive selection of quality furnishings and home d
+ écor\, including:\n✨ Living Room Furniture – Beautiful\, stylish pie
+ ces to elevate any home.\n✨ Dining Room Furniture – Elegant furnishin
+ gs perfect for entertaining.\n✨ Family Room Furniture – Comfortable a
+ nd attractive pieces for everyday living.\n✨ Bedroom Furniture – Beau
+ tiful bedroom furnishings and accessories.\n✨ Kitchen Items – A varie
+ ty of kitchenware\, serving pieces\, and household essentials.\n✨ Holid
+ ay Décor – Seasonal decorations and festive treasures for every occasi
+ on.\n✨ Home Accessories & Décor – Beautiful accents\, decorative pie
+ ces\, and so much more!\nWhether you’re furnishing a home\, refreshing 
+ a room\, searching for unique finds\, or simply love discovering beautifu
+ l treasures\, there’s something here for everyone!\nPlease check back a
+ s we are just starting to set up.
+URL:https://www.estatesales.net/NJ/Morristown/07960/5162832
+END:VEVENT
+END:VCALENDAR
