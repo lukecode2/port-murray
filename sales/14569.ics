@@ -18,14 +18,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-13128-20261117@port-murray
-DTSTAMP:20261117T173414Z
-SUMMARY:November Variety Collectibles Auction (East Stroudsburg\, PA)
-DTSTART;TZID=America/New_York:20261117T200000
-LOCATION:.\, East Stroudsburg\, PA\, 18302
-DESCRIPTION:All items are sold as-is\, as pictured\, with no guarantees ex
- pressed or implied. Any questions must be emailed to mandacompany@aol.com
-  prior to bidding.
-URL:https://hibid.com/catalog/793983
+UID:sale-14569-20261120@port-murray
+DTSTAMP:20261118T192710Z
+SUMMARY:Yard sale moving sale all ready to go
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:Easton\, PA
+DESCRIPTION:November 20 21 22 8 3 everything must go hppe to see ya there 
+ 726 Belmont street glendon pa
+URL:https://www.facebook.com/marketplace/item/1873065660783423/
 END:VEVENT
 END:VCALENDAR

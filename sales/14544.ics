@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14544-20261120@port-murray
+DTSTAMP:20261118T192711Z
+SUMMARY:FRIDAY - 1 Day Only! - Designer Products
+DTSTART;TZID=America/New_York:20261120T110000
+DTEND;TZID=America/New_York:20261120T150000
+LOCATION:Summit\, NJ\, 07901
+DESCRIPTION:1 Day Only!\nFriday\n11:00AM - 3:00PM\nEVERYTHING To Be Sold!\
+ nItems Include:\n- Art\n- Designer Product\n- High End Furniture\n- Luxur
+ y Goods\n- Collectibles\n- AND MUCH MORE.......\n*Many More photos to be 
+ posted on Wednesday Evening!\nTo Enter\nFRIDAY\nmorning at 11:00am\, you 
+ will need a number to enter. you may request a number via TEXT message. p
+ lease ask for a number and\nmention your name\nso that we may add it to t
+ he list. on FRIDAY morning\, you may enter when your number is called. AF
+ TER 11:30am\, no numbers are needed....just walk in\nFor Questions: TEXT 
+ message (201) 615-9989
+URL:https://www.estatesales.net/NJ/Summit/07901/5164761
+END:VEVENT
+END:VCALENDAR

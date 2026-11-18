@@ -18,8 +18,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-14307-20261118@port-murray
-DTSTAMP:20261117T173414Z
+UID:sale-14468-20261118@port-murray
+DTSTAMP:20261118T192710Z
 SUMMARY:Garage/Tent Sale
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
@@ -34,11 +34,12 @@ DESCRIPTION:Dates and Times:\nWednesday\, November 18\, 2026\n12:00 pm - 5
   O’Gauge Train Set\, Hess Trucks & Wooden Doll House with Furniture.  S
  o much more!\nComments\nSign in\nto add a comment or ask a question about
   this post.\nAdd Comment\nSocial Share:
-URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465425
+URL:https://garagesalefinder.com/s/N9u1j/27-pleasant-hill-rd-chester-nj-07
+ 930
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-14307-20261119@port-murray
-DTSTAMP:20261117T173414Z
+UID:sale-14468-20261119@port-murray
+DTSTAMP:20261118T192710Z
 SUMMARY:Garage/Tent Sale
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
@@ -53,6 +54,7 @@ DESCRIPTION:Dates and Times:\nWednesday\, November 18\, 2026\n12:00 pm - 5
   O’Gauge Train Set\, Hess Trucks & Wooden Doll House with Furniture.  S
  o much more!\nComments\nSign in\nto add a comment or ask a question about
   this post.\nAdd Comment\nSocial Share:
-URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196465425
+URL:https://garagesalefinder.com/s/N9u1j/27-pleasant-hill-rd-chester-nj-07
+ 930
 END:VEVENT
 END:VCALENDAR

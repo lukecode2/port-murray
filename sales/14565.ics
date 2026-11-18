@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14565-20261121@port-murray
+DTSTAMP:20261118T192710Z
+SUMMARY:Estate sale 11/21
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:Hopatcong\, NJ
+DESCRIPTION:Estate sale this Saturday November 21st. 25 Mead Road Hopatcon
+ g 9 to 4 Please No Early Birds. Sale will begin at 9am. No one is permitt
+ ed on the property until 9am. We are not assigning numbers or having a si
+ gn-in sheet. The sale will be in the lower level of the home. Due to the 
+ small space and for everyone's safety\, we may limit the number of guests
+  allowed in the house from time to time. All items are sold "as is" and "
+ as found". All sales are final - please test everything before you leave.
+  Please bring your own bags and packing materials and any tools needed fo
+ r large items. Restrooms are not available. Not responsible for accidents
+ . Thank you! 😊
+URL:https://www.facebook.com/marketplace/item/1455927230016802/
+END:VEVENT
+END:VCALENDAR

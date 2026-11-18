@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14547-20261120@port-murray
+DTSTAMP:20261118T192710Z
+SUMMARY:Warren Pristine Fabulous Estate Sale
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T040000
+LOCATION:19 Raspberry Trl\, Warren\, NJ\, 07059
+DESCRIPTION:MANY MORE PICS TO BE POSTED THURSDAY NIGHT Warren Estate Conte
+ nts ALL TO BE SOLD ! ************ No early birds Fri - Sat - Sun Nov 20. 
+ 21. & 22 10-4 Raspberry Trail Warren . NJ . 07059 (Address posted Thursda
+ y night) More pics and details online Furniture Thomasville Pottery Barn 
+ Alexander Taylor Ethan Allen & more Beautiful Dining set AVAILABLE NOW De
+ corative accessories Laurent Dequick Ltd edition large photographs HAMMER
+ HEAD Go Cart Carpets Art Clothing Mirrors XBOX games/supplies(sold as a l
+ ot) Legos (sold as lot) Skylanders (over 150 figs) Arcade video games HAN
+ AMINT TUSCANY Outdoor furniture (AVAILABLE NOW)” Sectional sofas Uphols
+ tered chairs Ralph Lauren style Tufted leather chocolate brown chair/otto
+ man(Alexander Taylor) Quality Leather sofa (Bernhardt?) White day bed & o
+ ther beds Pair Pottery Barn Redford Nitestands Blue painted bedroom piece
+ s Master bedroom set Large square tufted leather ottoman Child’s craft 
+ room furniture Child’s craft supplies Beautiful mirrored console (Ethan
+  Allen) Chrome frame modern style coffee table Counter /Bar height chairs
+  Executive desk (available now) & others Foosball table BERNER BILLIARDS 
+ Air hockey table Marvel Avengers pinball game Tables & chairs Outdoor fur
+ niture (avail now) Outdoor chaise lounges Outdoor sitting furniture Canti
+ lever umbrellas Christmas decor Beautiful burled wood marble top dining s
+ ideboard/ server & others (Thomasville) Oval shaped ottoman Pretty inlaid
+  center hall table Pottery Barn Banks Mobile solid wood bar & two chairs 
+ Bookshelves Kitchenware Linens / pillows & more to be listed
+URL:https://gsalr.com/warren-pristine-fabulous-estate-warren-nj-39001999.h
+ tml
+END:VEVENT
+END:VCALENDAR

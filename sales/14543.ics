@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14543-20261119@port-murray
+DTSTAMP:20261118T192711Z
+SUMMARY:Estate Sale Full Contents Loaded
+DTSTART;TZID=America/New_York:20261119T100000
+DTEND;TZID=America/New_York:20261119T160000
+LOCATION:306 south madison ave \, Dunellen\, NJ\, 08812
+DESCRIPTION:Estate Sale Full Contents Loaded\nLots of lawn figures\, colle
+ ctibles\, jewelry\, vintage clothing\, artwork\, tools\, kitchenware\, gl
+ assware\, furniture\, lots of bric a brac.
+URL:https://www.estatesales.net/NJ/Dunellen/08812/5165457
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-14543-20261120@port-murray
+DTSTAMP:20261118T192711Z
+SUMMARY:Estate Sale Full Contents Loaded
+DTSTART;TZID=America/New_York:20261120T100000
+DTEND;TZID=America/New_York:20261120T160000
+LOCATION:306 south madison ave \, Dunellen\, NJ\, 08812
+DESCRIPTION:Estate Sale Full Contents Loaded\nLots of lawn figures\, colle
+ ctibles\, jewelry\, vintage clothing\, artwork\, tools\, kitchenware\, gl
+ assware\, furniture\, lots of bric a brac.
+URL:https://www.estatesales.net/NJ/Dunellen/08812/5165457
+END:VEVENT
+END:VCALENDAR

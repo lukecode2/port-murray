@@ -19,11 +19,13 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13626-20261119@port-murray
-DTSTAMP:20261117T173414Z
+DTSTAMP:20261118T192711Z
 SUMMARY:Estate Auction - Berkeley Heights\, NJ
 DTSTART;TZID=America/New_York:20261119T190000
 LOCATION:24 Park Edge \, Berkeley Heights\, New Jersey\, 07922
-DESCRIPTION:NICE CLEAN HOME IN BERKELEY HEIGHTS NJ
+DESCRIPTION:NICE CLEAN HOME IN BERKELEY HEIGHTS NJ  - COPY AND PASTE THIS 
+ LINK TO BID: https://www.auctionninja.com/pinkladyliquidation/sales/detai
+ ls/estate-auction-berkeley-heights-nj-6.html?an=rmj0o7
 URL:https://www.auctionninja.com/pinkladyliquidation/sales/details/estate-
  auction-berkeley-heights-nj-6.html
 END:VEVENT
