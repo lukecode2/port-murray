@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14772-20261130@port-murray
+DTSTAMP:20261119T172952Z
+SUMMARY:Home for the Holidays: Two Estates\, One Collection – Madison & 
+ Morristown\, NJ (PU 10/2 in Boonton)
+DTSTART;TZID=America/New_York:20261130T190000
+LOCATION:Boonton\, NJ\, 07005
+DESCRIPTION:Two longtime homes. Two families. Decades of memories ready fo
+ r new chapters. In Madison and Morristown\, NJ\, families are downsizing 
+ after years spent raising children\, celebrating holidays\, and collectin
+ g the things that make a house a home. As they move closer to loved ones\
+ , their finds are ready for new owners. From Madison come Lionel trains\,
+  Hess trucks\, vintage children’s books\, and nostalgic Christmas decor
+ ations. From Morristown come vintage turntables and audio equipment\, jew
+ elry\, new-with-tags clothing\, and household treasures. Together\, there
+ 's something for collectors\, music lovers\, and holiday shoppers. Perhap
+ s a favorite from their homes will become a tradition in yours. **Pickup 
+ in Boonton\, NJ.**
+URL:https://www.estatesales.net/NJ/Boonton/07005/5166822
+END:VEVENT
+END:VCALENDAR

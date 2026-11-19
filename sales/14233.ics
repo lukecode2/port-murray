@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14233-20261121@port-murray
-DTSTAMP:20261118T192711Z
+DTSTAMP:20261119T172952Z
 SUMMARY:Something for Everyone
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-LOCATION:Upper Saucon Township\, PA\, 18034
+DTSTART;TZID=America/New_York:20261121T080000
+DTEND;TZID=America/New_York:20261121T140000
+LOCATION:Center Valley\, PA\, 18034
 DESCRIPTION:Antiques\, tools\, garden equipment\, dolls\, beekeeping equip
  ment and more!
 URL:https://estatesales.org/estate-sales/pa/upper-saucon-township/18034/so

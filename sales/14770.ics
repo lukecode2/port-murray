@@ -18,12 +18,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-14565-20261121@port-murray
-DTSTAMP:20261118T192710Z
-SUMMARY:Estate sale 11/21
+UID:sale-14770-20261121@port-murray
+DTSTAMP:20261119T172952Z
+SUMMARY:Estate Sale Saturday November 21st
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-LOCATION:Hopatcong\, NJ
+LOCATION:25 Mead Road near Bell Ave
 DESCRIPTION:Estate sale this Saturday November 21st. 25 Mead Road Hopatcon
  g 9 to 4 Please No Early Birds. Sale will begin at 9am. No one is permitt
  ed on the property until 9am. We are not assigning numbers or having a si
@@ -34,6 +34,7 @@ DESCRIPTION:Estate sale this Saturday November 21st. 25 Mead Road Hopatcon
   Please bring your own bags and packing materials and any tools needed fo
  r large items. Restrooms are not available. Not responsible for accidents
  . Thank you! 😊
-URL:https://www.facebook.com/marketplace/item/1455927230016802/
+URL:https://www.craigslist.org/view/d/hopatcong-estate-sale-saturday-novem
+ ber/1xZsiL9omaW6RmFGpxCRhb
 END:VEVENT
 END:VCALENDAR

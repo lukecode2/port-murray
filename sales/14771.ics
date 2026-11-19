@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14771-20261120@port-murray
+DTSTAMP:20261119T172953Z
+SUMMARY:A Century of Treasures
+DTSTART;TZID=America/New_York:20261120T090000
+DTEND;TZID=America/New_York:20261120T140000
+LOCATION:19 S. Main St\, Manville\,  NJ 08835\, Manville\, NJ\, 08835
+DESCRIPTION:Step into a packed sale featuring an eclectic mix of vintage\,
+  collectible\, and everyday finds. Some pieces date back to the early 190
+ 0s\, alongside custom vintage clothing\, designer vintage furniture\, and
+  signed art pieces.\nBrowse artwork and framed prints\, china and vintage
+  kitchenware\, glassware\, serving pieces\, lamps\, décor\, linens\, sew
+ ing machines\, toys and games\, seasonal items\, tools\, golf gear\, smal
+ l appliances\, and more. There’s plenty to explore—and lots of one-of
+ -a-kind finds.\nManville\, NJ\nFriday: 9 AM–2 PM\nSaturday: 9 AM–2 PM
+URL:https://www.estatesales.net/NJ/Manville/08835/5166354
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-14771-20261121@port-murray
+DTSTAMP:20261119T172953Z
+SUMMARY:A Century of Treasures
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T140000
+LOCATION:19 S. Main St\, Manville\,  NJ 08835\, Manville\, NJ\, 08835
+DESCRIPTION:Step into a packed sale featuring an eclectic mix of vintage\,
+  collectible\, and everyday finds. Some pieces date back to the early 190
+ 0s\, alongside custom vintage clothing\, designer vintage furniture\, and
+  signed art pieces.\nBrowse artwork and framed prints\, china and vintage
+  kitchenware\, glassware\, serving pieces\, lamps\, décor\, linens\, sew
+ ing machines\, toys and games\, seasonal items\, tools\, golf gear\, smal
+ l appliances\, and more. There’s plenty to explore—and lots of one-of
+ -a-kind finds.\nManville\, NJ\nFriday: 9 AM–2 PM\nSaturday: 9 AM–2 PM
+URL:https://www.estatesales.net/NJ/Manville/08835/5166354
+END:VEVENT
+END:VCALENDAR

@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14295-20261121@port-murray
-DTSTAMP:20261118T192710Z
+DTSTAMP:20261119T172952Z
 SUMMARY:Morristown Moving Sale
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Morristown\, NJ\, 07960
+LOCATION:Morristown\, NJ 07960
 DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
  UCH MORE!\nCome discover the treasures in this beautifully appointed\, pr
  ofessionally decorated home! This is an estate sale you won’t want to m
@@ -45,11 +45,11 @@ URL:https://www.estatesales.net/NJ/Morristown/07960/5162832
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14295-20261122@port-murray
-DTSTAMP:20261118T192710Z
+DTSTAMP:20261119T172952Z
 SUMMARY:Morristown Moving Sale
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T160000
-LOCATION:Morristown\, NJ\, 07960
+LOCATION:Morristown\, NJ 07960
 DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
  UCH MORE!\nCome discover the treasures in this beautifully appointed\, pr
  ofessionally decorated home! This is an estate sale you won’t want to m

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-14789-20261213@port-murray
+DTSTAMP:20261119T172952Z
+SUMMARY:Twelve Bids of Christmas\, Online Auction
+DTSTART;TZID=America/New_York:20261213T180000
+LOCATION:521 Richmond Road\, Bangor\, PA
+DESCRIPTION:Catalog – Bid Now !!\nTwelve Bids of Christmas – On-Line O
+ NLY Auction\nDecember 13th @ 6pm\n300-lot Antiques Auction including: Woo
+ den Wagons\, Veterinary Cabinet\, Butter Churns\, Wooden Washing Machines
+ \, Blue Decorated Stoneware Crocks and Jugs\, Advertising Jugs\, Food Cho
+ ppers\, Advertising Rolling Pins\, Spongeware\, Antique Fruit Canning Jar
+ s\, Nutmeg Graters\, Lunch Boxes\, Baskets\, Coffee Grinders\, Wooden Bar
+ rels\, Christmas Ornaments and Decorations\, Snowshoes\, Children?s Mugs\
+ , Toy Washing Machines\, Washboards\, Ice Cream Advertising\, Pewter Ice 
+ Cream Molds and Freezers\, Antique Medical Items\, Apothecary Bottles\, P
+ ill Roller/Makers\, Mortar and Pestles\, Advertising Tins / Boxes\, Inval
+ id Feeders\, Stethoscopes\, Barber/Shaving Items\, ?Life Awakeners?\, Col
+ lection of Bloodletters and Scarificators\, Pocket and Brass Microscopes\
+ , Fossilized Animal Tusks and Fossils\, Stereoscope Viewers\, Mousetraps\
+ , Copper Pots\, Westerwald Stoneware and MORE.\nAuctioneer:\nHartzell’s
+  Auction Gallery Inc.\n521 Richmond Road\, Bangor\, PA  18013\nPhone:\n6
+ 10.588.5831\nToll Free:\n1.800.724.6808\nFax:\n610.588.6206\nPA # AU – 
+ 000395-L  |  AH – 1919  |  EST. 1943\n[caldera_form id="CF5c7434bbb
+ 1a01"]
+URL:https://www.hartzellsauction.com/event/twelve-bids-of-christmas-online
+ -auction/
+END:VEVENT
+END:VCALENDAR

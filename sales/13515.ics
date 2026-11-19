@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13515-20261120@port-murray
-DTSTAMP:20261118T192710Z
+DTSTAMP:20261119T172952Z
 SUMMARY:Downsizing Estate Sale Many Items New in Box plus Vintage
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T170000
-LOCATION:Oxford\, NJ\, 07863
+LOCATION:375 Mount Bethel Road\, Oxford\, NJ 07863
 DESCRIPTION:Many new in box items including a Bosch Vero Cafe Series 4 cof
  fee and espresso maker\, vintage Wusthof and Henckels Germany knives\, 12
  " queen size mattress plus queen size comforters\, new acrylic side table
@@ -54,11 +54,11 @@ URL:https://www.estatesales.net/NJ/Oxford/07863/5158824
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13515-20261121@port-murray
-DTSTAMP:20261118T192710Z
+DTSTAMP:20261119T172952Z
 SUMMARY:Downsizing Estate Sale Many Items New in Box plus Vintage
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T170000
-LOCATION:Oxford\, NJ\, 07863
+LOCATION:375 Mount Bethel Road\, Oxford\, NJ 07863
 DESCRIPTION:Many new in box items including a Bosch Vero Cafe Series 4 cof
  fee and espresso maker\, vintage Wusthof and Henckels Germany knives\, 12
  " queen size mattress plus queen size comforters\, new acrylic side table
@@ -89,11 +89,11 @@ URL:https://www.estatesales.net/NJ/Oxford/07863/5158824
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13515-20261122@port-murray
-DTSTAMP:20261118T192710Z
+DTSTAMP:20261119T172952Z
 SUMMARY:Downsizing Estate Sale Many Items New in Box plus Vintage
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T170000
-LOCATION:Oxford\, NJ\, 07863
+LOCATION:375 Mount Bethel Road\, Oxford\, NJ 07863
 DESCRIPTION:Many new in box items including a Bosch Vero Cafe Series 4 cof
  fee and espresso maker\, vintage Wusthof and Henckels Germany knives\, 12
  " queen size mattress plus queen size comforters\, new acrylic side table
