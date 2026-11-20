@@ -18,13 +18,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-13936-20261121@port-murray
-DTSTAMP:20261119T172952Z
+UID:sale-15012-20261121@port-murray
+DTSTAMP:20261120T172342Z
 SUMMARY:Estate sale
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-LOCATION:Oxford\, NJ
-DESCRIPTION:Come shop our estate sale next weekend Nov 21 & 22 9am-3pm
-URL:https://www.facebook.com/marketplace/item/1878111713609275/
+LOCATION:9 Kinsington Road near Mount Airy
+DESCRIPTION:One not to miss. Many Asian items\, artwork\, silver\, books\,
+  some vintage clothing\, furniture\, lots of unique pieces. Outdoor wroug
+ ht iron furniture and garden pieces. Mercury glass\, brass candlesticks\,
+  saxophone\, old records and more...  Saturday only 9:00am to 2:00pm.
+URL:https://www.craigslist.org/view/d/flemington-estate-sale/cLe4xrqawegk5
+ Fi9k7izXo
 END:VEVENT
 END:VCALENDAR

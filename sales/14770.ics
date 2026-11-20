@@ -19,21 +19,22 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14770-20261121@port-murray
-DTSTAMP:20261119T172952Z
+DTSTAMP:20261120T172342Z
 SUMMARY:Estate Sale Saturday November 21st
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T160000
 LOCATION:25 Mead Road near Bell Ave
-DESCRIPTION:Estate sale this Saturday November 21st. 25 Mead Road Hopatcon
- g 9 to 4 Please No Early Birds. Sale will begin at 9am. No one is permitt
- ed on the property until 9am. We are not assigning numbers or having a si
- gn-in sheet. The sale will be in the lower level of the home. Due to the 
- small space and for everyone's safety\, we may limit the number of guests
-  allowed in the house from time to time. All items are sold "as is" and "
- as found". All sales are final - please test everything before you leave.
-  Please bring your own bags and packing materials and any tools needed fo
- r large items. Restrooms are not available. Not responsible for accidents
- . Thank you! 😊
+DESCRIPTION:A wide variety of unique items including:\nLOTS\nof lamps (flo
+ or\, tiffany-style\, glass\, table)\,\nLOTS\nof clocks (mantle\, wall)\, 
+ fishing poles\, typewriters\, accordions\, lanterns\, cast iron banks and
+  figures\, wooden ducks\, cast-iron fireplace cover\, furniture (chairs\,
+  small tables\, curio cabinet)\, chests\, dishware\, glassware (including
+  Avon Cape Cod Ruby Red)\, brass figurines\, vintage Halloween plastic ja
+ ck-o-lanterns\, Mickey Mouse large stuffed animals\, dolls\, Miller Lite 
+ sign (in working condition)\, records and CD's\, Christmas porcelain ligh
+ ted houses\, men's clothing (size L - XXL) and shoes\, and so much more!\
+ nWe are\nNOT\nselling: costume jewelry\, watches\, coins\, baseball cards
+ \, tools\, video games\, or cameras.
 URL:https://www.craigslist.org/view/d/hopatcong-estate-sale-saturday-novem
  ber/1xZsiL9omaW6RmFGpxCRhb
 END:VEVENT

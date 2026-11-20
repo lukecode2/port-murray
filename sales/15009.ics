@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15009-20261120@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Downsizing Estate Sale Many Items New in Box plus Vintage
+DTSTART;TZID=America/New_York:20261120T090000
+DTEND;TZID=America/New_York:20261120T170000
+LOCATION:375 Mount Bethel Road
+DESCRIPTION:Vintage items including Oreck vacuum cleaner\, Memory Craft 60
+ 00 embroidery machine\, signed original oil paintings\, antique French Vi
+ ctorian wooden bird cage\, pair of tall mid-century brass swans\, vintage
+  plush including Boyd's bears\, vintage brass figurines\, vintage Enesco 
+ Jim Shore Disney figurines\, vintage porcelain boy and girl Christmas car
+ olers with stands\, and Christmas items. Many new in box items including 
+ a Bosch Vero Cafe Series 4 coffee and espresso maker\, vintage Wusthof an
+ d Henckels Germany knives\, 12" queen size mattress in box plus queen siz
+ e comforters\, new acrylic side table\, queen size mattress padding\, and
+  new queen size down pillows\, new 3 piece set of Bell and Howell luggage
+ \, new Nuwave large room air purifier\, new in box Delta wall mount hand-
+ held brushed nickel shower head\, Australian wool blanket\, new in box Py
+ le TV stand\, vintage accordion peg wall rack\, Sharp cash register\, vin
+ tage 1950s and 1960s travel slides\, women's and men's clothing\, men's t
+ ies (many Jerry Garcia)\, wooden cutting board\, books\, new ceramic cups
+ \, cake stand\, tortilla warmer and canisters\, new cosmetics and makeup 
+ organizer\, new Prizm hair dryer brush\, Limoges lidded porcelain soup tu
+ reen\, new door draft stoppers\, new HD Staple Pro\, new vacuum cleaners\
+ , new mattress vacuum\, new T-Fal Dutch oven\, new 8 piece granite and ti
+ tanium cookware set\, new 13 piece T-Fal HD stainless cookware set\, new 
+ T-Fal stainless steel with ceramic 8 1/2” & 11” fry pans\, knives and
+  knife sets (some with storage blocks)\, new carving knives\, new bread k
+ nifes\, and new leather roll bag of 5 knives\, new cast iron grill press\
+ , new tablecloth and napkin set\, new Berghoff 1.5 quart saucepan\, new b
+ lender\, new cast iron Dutch oven\, 10" cast iron frying pans\, 11" cast 
+ iron grill pan\, and 11" cast iron crepe pan\, new stainless steel 6.4 qu
+ art stockpot\, new large glass food container with lid\, new modular food
+  warming 1-2 panel tray\, new 2 burner electric countertop cooktop\, two 
+ new dog grooming vacuum kits\, new hand-held steam cleaner\, new Kitchen 
+ Aid 8 piece storage set\, new Luna AI Desk Assistant\, new Perixx wired c
+ omputer mouse\, Shark Deluxe steam mop\, yarn\, and much more! Something 
+ for everyone!\nMore items being added daily!
+URL:https://www.craigslist.org/view/d/port-murray-downsizing-estate-sale-m
+ any/h8NBcHvMFRGSAT17Z1MB5k
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15009-20261121@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Downsizing Estate Sale Many Items New in Box plus Vintage
+DTSTART;TZID=America/New_York:20261121T090000
+DTEND;TZID=America/New_York:20261121T170000
+LOCATION:375 Mount Bethel Road
+DESCRIPTION:Vintage items including Oreck vacuum cleaner\, Memory Craft 60
+ 00 embroidery machine\, signed original oil paintings\, antique French Vi
+ ctorian wooden bird cage\, pair of tall mid-century brass swans\, vintage
+  plush including Boyd's bears\, vintage brass figurines\, vintage Enesco 
+ Jim Shore Disney figurines\, vintage porcelain boy and girl Christmas car
+ olers with stands\, and Christmas items. Many new in box items including 
+ a Bosch Vero Cafe Series 4 coffee and espresso maker\, vintage Wusthof an
+ d Henckels Germany knives\, 12" queen size mattress in box plus queen siz
+ e comforters\, new acrylic side table\, queen size mattress padding\, and
+  new queen size down pillows\, new 3 piece set of Bell and Howell luggage
+ \, new Nuwave large room air purifier\, new in box Delta wall mount hand-
+ held brushed nickel shower head\, Australian wool blanket\, new in box Py
+ le TV stand\, vintage accordion peg wall rack\, Sharp cash register\, vin
+ tage 1950s and 1960s travel slides\, women's and men's clothing\, men's t
+ ies (many Jerry Garcia)\, wooden cutting board\, books\, new ceramic cups
+ \, cake stand\, tortilla warmer and canisters\, new cosmetics and makeup 
+ organizer\, new Prizm hair dryer brush\, Limoges lidded porcelain soup tu
+ reen\, new door draft stoppers\, new HD Staple Pro\, new vacuum cleaners\
+ , new mattress vacuum\, new T-Fal Dutch oven\, new 8 piece granite and ti
+ tanium cookware set\, new 13 piece T-Fal HD stainless cookware set\, new 
+ T-Fal stainless steel with ceramic 8 1/2” & 11” fry pans\, knives and
+  knife sets (some with storage blocks)\, new carving knives\, new bread k
+ nifes\, and new leather roll bag of 5 knives\, new cast iron grill press\
+ , new tablecloth and napkin set\, new Berghoff 1.5 quart saucepan\, new b
+ lender\, new cast iron Dutch oven\, 10" cast iron frying pans\, 11" cast 
+ iron grill pan\, and 11" cast iron crepe pan\, new stainless steel 6.4 qu
+ art stockpot\, new large glass food container with lid\, new modular food
+  warming 1-2 panel tray\, new 2 burner electric countertop cooktop\, two 
+ new dog grooming vacuum kits\, new hand-held steam cleaner\, new Kitchen 
+ Aid 8 piece storage set\, new Luna AI Desk Assistant\, new Perixx wired c
+ omputer mouse\, Shark Deluxe steam mop\, yarn\, and much more! Something 
+ for everyone!\nMore items being added daily!
+URL:https://www.craigslist.org/view/d/port-murray-downsizing-estate-sale-m
+ any/h8NBcHvMFRGSAT17Z1MB5k
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15009-20261122@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Downsizing Estate Sale Many Items New in Box plus Vintage
+DTSTART;TZID=America/New_York:20261122T090000
+DTEND;TZID=America/New_York:20261122T170000
+LOCATION:375 Mount Bethel Road
+DESCRIPTION:Vintage items including Oreck vacuum cleaner\, Memory Craft 60
+ 00 embroidery machine\, signed original oil paintings\, antique French Vi
+ ctorian wooden bird cage\, pair of tall mid-century brass swans\, vintage
+  plush including Boyd's bears\, vintage brass figurines\, vintage Enesco 
+ Jim Shore Disney figurines\, vintage porcelain boy and girl Christmas car
+ olers with stands\, and Christmas items. Many new in box items including 
+ a Bosch Vero Cafe Series 4 coffee and espresso maker\, vintage Wusthof an
+ d Henckels Germany knives\, 12" queen size mattress in box plus queen siz
+ e comforters\, new acrylic side table\, queen size mattress padding\, and
+  new queen size down pillows\, new 3 piece set of Bell and Howell luggage
+ \, new Nuwave large room air purifier\, new in box Delta wall mount hand-
+ held brushed nickel shower head\, Australian wool blanket\, new in box Py
+ le TV stand\, vintage accordion peg wall rack\, Sharp cash register\, vin
+ tage 1950s and 1960s travel slides\, women's and men's clothing\, men's t
+ ies (many Jerry Garcia)\, wooden cutting board\, books\, new ceramic cups
+ \, cake stand\, tortilla warmer and canisters\, new cosmetics and makeup 
+ organizer\, new Prizm hair dryer brush\, Limoges lidded porcelain soup tu
+ reen\, new door draft stoppers\, new HD Staple Pro\, new vacuum cleaners\
+ , new mattress vacuum\, new T-Fal Dutch oven\, new 8 piece granite and ti
+ tanium cookware set\, new 13 piece T-Fal HD stainless cookware set\, new 
+ T-Fal stainless steel with ceramic 8 1/2” & 11” fry pans\, knives and
+  knife sets (some with storage blocks)\, new carving knives\, new bread k
+ nifes\, and new leather roll bag of 5 knives\, new cast iron grill press\
+ , new tablecloth and napkin set\, new Berghoff 1.5 quart saucepan\, new b
+ lender\, new cast iron Dutch oven\, 10" cast iron frying pans\, 11" cast 
+ iron grill pan\, and 11" cast iron crepe pan\, new stainless steel 6.4 qu
+ art stockpot\, new large glass food container with lid\, new modular food
+  warming 1-2 panel tray\, new 2 burner electric countertop cooktop\, two 
+ new dog grooming vacuum kits\, new hand-held steam cleaner\, new Kitchen 
+ Aid 8 piece storage set\, new Luna AI Desk Assistant\, new Perixx wired c
+ omputer mouse\, Shark Deluxe steam mop\, yarn\, and much more! Something 
+ for everyone!\nMore items being added daily!
+URL:https://www.craigslist.org/view/d/port-murray-downsizing-estate-sale-m
+ any/h8NBcHvMFRGSAT17Z1MB5k
+END:VEVENT
+END:VCALENDAR

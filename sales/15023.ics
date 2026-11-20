@@ -18,27 +18,27 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-14543-20261119@port-murray
-DTSTAMP:20261119T172952Z
-SUMMARY:Estate Sale Full Contents Loaded
+UID:sale-15023-20261119@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Leave It To Linda Picker and Treasure Estate Sale
 DTSTART;TZID=America/New_York:20261119T100000
 DTEND;TZID=America/New_York:20261119T160000
-LOCATION:306 madison ave \, Dunellen\, NJ 08812
+LOCATION:306 Madison Ave\, Dunellen\, NJ\, 08812
 DESCRIPTION:Estate Sale Full Contents Loaded\nLots of lawn figures\, colle
  ctibles\, jewelry\, vintage clothing\, artwork\, tools\, kitchenware\, gl
  assware\, furniture\, lots of bric a brac.
-URL:https://www.estatesales.net/NJ/Dunellen/08812/5165457
+URL:https://gsalr.com/leave-it-to-linda-dunellen-nj-39003099.html
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-14543-20261120@port-murray
-DTSTAMP:20261119T172952Z
-SUMMARY:Estate Sale Full Contents Loaded
+UID:sale-15023-20261120@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Leave It To Linda Picker and Treasure Estate Sale
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T160000
-LOCATION:306 madison ave \, Dunellen\, NJ 08812
+LOCATION:306 Madison Ave\, Dunellen\, NJ\, 08812
 DESCRIPTION:Estate Sale Full Contents Loaded\nLots of lawn figures\, colle
  ctibles\, jewelry\, vintage clothing\, artwork\, tools\, kitchenware\, gl
  assware\, furniture\, lots of bric a brac.
-URL:https://www.estatesales.net/NJ/Dunellen/08812/5165457
+URL:https://gsalr.com/leave-it-to-linda-dunellen-nj-39003099.html
 END:VEVENT
 END:VCALENDAR

@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14771-20261120@port-murray
-DTSTAMP:20261119T172953Z
+DTSTAMP:20261120T172343Z
 SUMMARY:A Century of Treasures
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T140000
-LOCATION:19 S. Main St\, Manville\,  NJ 08835\, Manville\, NJ\, 08835
+LOCATION:19 S. Main St\, Manville\,  NJ 08835\, Manville\, NJ 08835
 DESCRIPTION:Step into a packed sale featuring an eclectic mix of vintage\,
   collectible\, and everyday finds. Some pieces date back to the early 190
  0s\, alongside custom vintage clothing\, designer vintage furniture\, and
@@ -36,11 +36,11 @@ URL:https://www.estatesales.net/NJ/Manville/08835/5166354
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14771-20261121@port-murray
-DTSTAMP:20261119T172953Z
+DTSTAMP:20261120T172343Z
 SUMMARY:A Century of Treasures
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T140000
-LOCATION:19 S. Main St\, Manville\,  NJ 08835\, Manville\, NJ\, 08835
+LOCATION:19 S. Main St\, Manville\,  NJ 08835\, Manville\, NJ 08835
 DESCRIPTION:Step into a packed sale featuring an eclectic mix of vintage\,
   collectible\, and everyday finds. Some pieces date back to the early 190
  0s\, alongside custom vintage clothing\, designer vintage furniture\, and

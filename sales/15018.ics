@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15018-20261129@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Gold\,Silver\,Antiques\,Multiple Estates Auction
+DTSTART;TZID=America/New_York:20261129T235900
+LOCATION:Bloomsbury\, NJ\, 08804
+DESCRIPTION:READ ALL OF THIS BEFORE BIDDING !!  There are only two pickup 
+ days for this sale\, Thursday December 3rd & Friday December 4th from 9:3
+ 0am-4:00pm.  All items will need to be picked up in Bloomsbury NJ.  Pick 
+ up address will be sent out day after the Auction.  BRING packing materia
+ l\, tools \, any equipment needed and HELP TO LOAD YOUR ITEMS ! THERE WIL
+ L BE NO ONE TO HELP YOU LOAD .   PAYMENT IS DUE BY December 2nd @3pm.  Al
+ l items must be paid for with a credit card thru LiveAuctioneers .  Shipp
+ ing- If we ship it in house\, there is a $15 handling fee for the first l
+ ot (unless a price is stated in description) and $5 each additional lot\,
+  plus actual postage.  If the description states No Shipping we will not 
+ ship or transport items.  ANY ITEMS NOT PICKED UP\, WILL BE CONSIDERED AB
+ ANDONED ! All items are sold as is\, as pictured\, with no guarantees. If
+  it is a lot with multiple items\, we do not visually inspect every item.
+  If you do not pay by the pick up day\, a dispute will automatically be f
+ iled thru LiveAuctioneers. Payments are only accepted thru LiveAuctioneer
+ s Invoice\, with one credit card.  If you have a Resale Tax Number\, fill
+  out the correct forms with LiveAuctioneers BEFORE bidding. There will be
+  no refunds\, once you submit payment. Pa #AU2867
+URL:https://www.estatesales.net/NJ/Bloomsbury/08804/5166930
+END:VEVENT
+END:VCALENDAR

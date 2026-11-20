@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15172-20261120@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Garage sale
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:17 River Rd\, Washington\, NJ\, 07882
+DESCRIPTION:17 River Rd\, Washington\, NJ\, 11/20-11-21-26\, 9-3\, womens-
+ mens clothes\, office supplies\, train set\, HH\, xmas\, crafts\, dog/cat
+  items\, oak flooring\, chlorine tablets\, more
+URL:https://garagesalefinder.com/s/N9uDj/17-river-rd-washington-nj-07882
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15172-20261121@port-murray
+DTSTAMP:20261120T172342Z
+SUMMARY:Garage sale
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:17 River Rd\, Washington\, NJ\, 07882
+DESCRIPTION:17 River Rd\, Washington\, NJ\, 11/20-11-21-26\, 9-3\, womens-
+ mens clothes\, office supplies\, train set\, HH\, xmas\, crafts\, dog/cat
+  items\, oak flooring\, chlorine tablets\, more
+URL:https://garagesalefinder.com/s/N9uDj/17-river-rd-washington-nj-07882
+END:VEVENT
+END:VCALENDAR

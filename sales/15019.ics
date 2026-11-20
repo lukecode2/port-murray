@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15019-20261204@port-murray
+DTSTAMP:20261120T172343Z
+SUMMARY:A Second Chance will be Succasunna for a 3 day sale
+DTSTART;TZID=America/New_York:20261204T090000
+DTEND;TZID=America/New_York:20261204T160000
+LOCATION:Succasunna\, NJ\, 07876
+DESCRIPTION:A packed house we just took a few pictures and more to come af
+ ter we get in and start setting up. Lots of glassware\, kitchenware\, fur
+ niture\, home decor \, lots of vintage\, landscaping items\, snowblower\,
+  rider lawnmower and so much more.
+URL:https://www.estatesales.net/NJ/Succasunna/07876/5137017
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15019-20261205@port-murray
+DTSTAMP:20261120T172343Z
+SUMMARY:A Second Chance will be Succasunna for a 3 day sale
+DTSTART;TZID=America/New_York:20261205T090000
+DTEND;TZID=America/New_York:20261205T160000
+LOCATION:Succasunna\, NJ\, 07876
+DESCRIPTION:A packed house we just took a few pictures and more to come af
+ ter we get in and start setting up. Lots of glassware\, kitchenware\, fur
+ niture\, home decor \, lots of vintage\, landscaping items\, snowblower\,
+  rider lawnmower and so much more.
+URL:https://www.estatesales.net/NJ/Succasunna/07876/5137017
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15019-20261206@port-murray
+DTSTAMP:20261120T172343Z
+SUMMARY:A Second Chance will be Succasunna for a 3 day sale
+DTSTART;TZID=America/New_York:20261206T090000
+DTEND;TZID=America/New_York:20261206T140000
+LOCATION:Succasunna\, NJ\, 07876
+DESCRIPTION:A packed house we just took a few pictures and more to come af
+ ter we get in and start setting up. Lots of glassware\, kitchenware\, fur
+ niture\, home decor \, lots of vintage\, landscaping items\, snowblower\,
+  rider lawnmower and so much more.
+URL:https://www.estatesales.net/NJ/Succasunna/07876/5137017
+END:VEVENT
+END:VCALENDAR

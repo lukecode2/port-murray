@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14295-20261121@port-murray
-DTSTAMP:20261119T172952Z
+DTSTAMP:20261120T172342Z
 SUMMARY:Morristown Moving Sale
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T160000
-LOCATION:Morristown\, NJ 07960
+LOCATION:Morristown\, NJ\, 07960
 DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
  UCH MORE!\nCome discover the treasures in this beautifully appointed\, pr
  ofessionally decorated home! This is an estate sale you won’t want to m
@@ -36,20 +36,22 @@ DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
  s.\nWomen’s clothing\, shoes & accessories\n✨ Kitchen Items – A var
  iety of kitchenware\, serving pieces\, and household essentials.\n✨ Hol
  iday Décor – Seasonal decorations and festive treasures for every occa
- sion.\n✨ Home Accessories & Décor – Beautiful accents\, decorative p
- ieces\, and so much more!\nWhether you’re furnishing a home\, refreshin
- g a room\, searching for unique finds\, or simply love discovering beauti
- ful treasures\, there’s something here for everyone!\nPlease check back
-  as we are just starting to set up.
+ sion including vintage Christmas.\n✨ Home Accessories & Décor – Beau
+ tiful accents\, decorative pieces\, and so much more.\nWatches including 
+ a Omega 14k Gold\, Movado and others\nJewelry including sterling\, gold &
+  costume.\nWhether you’re furnishing a home\, refreshing a room\, searc
+ hing for unique finds\, or simply love discovering beautiful treasures\, 
+ there’s something here for everyone!\nPlease check back as we are just 
+ starting to set up.
 URL:https://www.estatesales.net/NJ/Morristown/07960/5162832
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14295-20261122@port-murray
-DTSTAMP:20261119T172952Z
+DTSTAMP:20261120T172342Z
 SUMMARY:Morristown Moving Sale
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T160000
-LOCATION:Morristown\, NJ 07960
+LOCATION:Morristown\, NJ\, 07960
 DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
  UCH MORE!\nCome discover the treasures in this beautifully appointed\, pr
  ofessionally decorated home! This is an estate sale you won’t want to m
@@ -62,11 +64,13 @@ DESCRIPTION:🏡 BEAUTIFUL ESTATE SALE – ELEGANT HOME FURNISHINGS & SO M
  s.\nWomen’s clothing\, shoes & accessories\n✨ Kitchen Items – A var
  iety of kitchenware\, serving pieces\, and household essentials.\n✨ Hol
  iday Décor – Seasonal decorations and festive treasures for every occa
- sion.\n✨ Home Accessories & Décor – Beautiful accents\, decorative p
- ieces\, and so much more!\nWhether you’re furnishing a home\, refreshin
- g a room\, searching for unique finds\, or simply love discovering beauti
- ful treasures\, there’s something here for everyone!\nPlease check back
-  as we are just starting to set up.
+ sion including vintage Christmas.\n✨ Home Accessories & Décor – Beau
+ tiful accents\, decorative pieces\, and so much more.\nWatches including 
+ a Omega 14k Gold\, Movado and others\nJewelry including sterling\, gold &
+  costume.\nWhether you’re furnishing a home\, refreshing a room\, searc
+ hing for unique finds\, or simply love discovering beautiful treasures\, 
+ there’s something here for everyone!\nPlease check back as we are just 
+ starting to set up.
 URL:https://www.estatesales.net/NJ/Morristown/07960/5162832
 END:VEVENT
 END:VCALENDAR
