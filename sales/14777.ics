@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14777-20261121@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:YARD SALE
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-LOCATION:6311 Franklin Hill Rd\, Bangor\, PA 18013
+LOCATION:6311 Franklin Hill Rd\, Bangor\, PA\, 18013
 DESCRIPTION:Date and Time:\nSaturday\, November 21\, 2026\n7:00 am - 2:00 
  pm\nAddress:\n6311 Franklin Hill Rd\, Bangor\, PA 18013\nDescription:\nCa
  r tires\, heavy duty utility lights\, hunting overalls\, country decor\, 

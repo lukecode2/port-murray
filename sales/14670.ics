@@ -19,11 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14670-20261206@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:12-06-2026 Industrial Auction Stockertown\, Pa. (Stockertown\, PA)
 DTSTART;TZID=America/New_York:20261206T190100
-LOCATION:Items are located on Stockertown\, Pa. 18083\, Stockertown\, PA\,
-  18083
+LOCATION:Items are located on Stockertown\, Pa. 18083
 DESCRIPTION:ONLINE INDUSTRIAL EQUIPMENT & MACHINE SHOP AUCTION\n\nMarshall
   Industrial Technologies\, Lehigh Valley Operations\, is relocating to a 
  new facility in Bethlehem Township to support its continued growth and ha

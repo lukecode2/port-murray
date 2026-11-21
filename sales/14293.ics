@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14293-20261120@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:Townhouse Estate Sale
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T150000
-LOCATION:62 Manor Square\, Sparta\, NJ\, 07871
+LOCATION:62 Manor Square\, Sparta\, NJ 07871
 DESCRIPTION:Reclaim Estate & Home invites you to an upcoming estate sale i
  n a beautiful townhouse community.\nThis sale will feature a thoughtfully
   curated collection of household furnishings\, home décor\, accessories\
@@ -41,11 +41,11 @@ URL:https://www.estatesales.net/NJ/Sparta/07871/5162409
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14293-20261121@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:Townhouse Estate Sale
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T140000
-LOCATION:62 Manor Square\, Sparta\, NJ\, 07871
+LOCATION:62 Manor Square\, Sparta\, NJ 07871
 DESCRIPTION:Reclaim Estate & Home invites you to an upcoming estate sale i
  n a beautiful townhouse community.\nThis sale will feature a thoughtfully
   curated collection of household furnishings\, home décor\, accessories\

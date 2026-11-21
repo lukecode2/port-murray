@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13924-20261121@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:Olga’s Estate Sale
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T150000
-LOCATION:6 Olde Forge\, Oxford\, NJ\, 07863
+LOCATION:6 Olde Forge\, Oxford\, NJ 07863
 DESCRIPTION:This estate sale is very special with vintage hand made items 
  imported from Greece from my mother who recently passed.\nHelp us honor h
  er and take a piece of her collection home with you\nLots of vintage embr
@@ -41,11 +41,11 @@ URL:https://www.estatesales.net/NJ/Oxford/07863/5161152
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13924-20261122@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:Olga’s Estate Sale
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T150000
-LOCATION:6 Olde Forge\, Oxford\, NJ\, 07863
+LOCATION:6 Olde Forge\, Oxford\, NJ 07863
 DESCRIPTION:This estate sale is very special with vintage hand made items 
  imported from Greece from my mother who recently passed.\nHelp us honor h
  er and take a piece of her collection home with you\nLots of vintage embr

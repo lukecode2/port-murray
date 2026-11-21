@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15267-20261120@port-murray
+DTSTAMP:20261121T171741Z
+SUMMARY:GARAGE SALE
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+LOCATION:20 Woodsedge Ave near Foothill Ave
+DESCRIPTION:🚨 GARAGE SALE THIS WEEKEND! 🚨\nCome stop by this Friday 
+ & Saturday! 🛍️\nLots of items looking for a new home! Come browse\, 
+ shop\, and hopefully find some great deals!\n📅 Friday & Saturday\, Nov
+ ember 20 & 21\n⏰ Time: 11AM-4PM\n📍 Location: 20 WOODSEDGE AVE\, BUDD
+  LAKE 07828\nFeel free to share with friends and family. Hope to see you 
+ there! 😊
+URL:https://www.craigslist.org/view/d/budd-lake-garage-sale/psPF5wAXcBBNBu
+ Q2wZz778
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15267-20261121@port-murray
+DTSTAMP:20261121T171741Z
+SUMMARY:GARAGE SALE
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+LOCATION:20 Woodsedge Ave near Foothill Ave
+DESCRIPTION:🚨 GARAGE SALE THIS WEEKEND! 🚨\nCome stop by this Friday 
+ & Saturday! 🛍️\nLots of items looking for a new home! Come browse\, 
+ shop\, and hopefully find some great deals!\n📅 Friday & Saturday\, Nov
+ ember 20 & 21\n⏰ Time: 11AM-4PM\n📍 Location: 20 WOODSEDGE AVE\, BUDD
+  LAKE 07828\nFeel free to share with friends and family. Hope to see you 
+ there! 😊
+URL:https://www.craigslist.org/view/d/budd-lake-garage-sale/psPF5wAXcBBNBu
+ Q2wZz778
+END:VEVENT
+END:VCALENDAR

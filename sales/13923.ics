@@ -19,21 +19,21 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13923-20261121@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:New Jersey Auctions Corp
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T150000
-LOCATION:796 County rd 579 / Bloomsbury rd \, Pittstown\, NJ\, 08867
+LOCATION:796 County rd 579 / Bloomsbury rd \, Pittstown\, NJ 08867
 DESCRIPTION:Vintage\, Vintage\, and more Vintage!
 URL:https://www.estatesales.net/NJ/Pittstown/08867/5160816
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13923-20261122@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:New Jersey Auctions Corp
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T150000
-LOCATION:796 County rd 579 / Bloomsbury rd \, Pittstown\, NJ\, 08867
+LOCATION:796 County rd 579 / Bloomsbury rd \, Pittstown\, NJ 08867
 DESCRIPTION:Vintage\, Vintage\, and more Vintage!
 URL:https://www.estatesales.net/NJ/Pittstown/08867/5160816
 END:VEVENT

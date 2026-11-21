@@ -19,26 +19,46 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15172-20261120@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:Garage sale
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 LOCATION:17 River Rd\, Washington\, NJ\, 07882
-DESCRIPTION:17 River Rd\, Washington\, NJ\, 11/20-11-21-26\, 9-3\, womens-
- mens clothes\, office supplies\, train set\, HH\, xmas\, crafts\, dog/cat
-  items\, oak flooring\, chlorine tablets\, more
+DESCRIPTION:Dates and Times:\nFriday\, November 20\, 2026\n9:00 am - 3:00 
+ pm\nSaturday\, November 21\, 2026\n9:00 am - 3:00 pm\nAddress:\n17 River 
+ Rd\, Washington\, NJ 07882\nDescription:\nFriday 11-20-26 and Saturday 11
+ -21-26\, 9-3\, so many items used and new for gifts.  Dog\, cat toys and 
+ items\, womans\, misses\, men clothes\, sweaters\, jackets\, mens suit\, 
+ shoes\, hats\, office supplies- standard and legal folders\, legal hangin
+ g file folders\, bookends\, books\, chlorine tablets\, train set\, old bi
+ ngo machine\, 2 oak kitchen cabinets\, many kitchen items\, lids for pots
+ \, digital photo frames\, costume jewelry\, crafts\, sewing items\, pocke
+ tbooks\, christmas items\, bags and boxes\, ornaments\, puzzles\, honda c
+ ar cover\, elliptical exercise  machine\, and Oak flooring waiting to be 
+ installed in your home.\nComments\nSign in\nto add a comment or ask a que
+ stion about this post.\nAdd Comment\nSocial Share:
 URL:https://garagesalefinder.com/s/N9uDj/17-river-rd-washington-nj-07882
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15172-20261121@port-murray
-DTSTAMP:20261120T172342Z
+DTSTAMP:20261121T171741Z
 SUMMARY:Garage sale
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 LOCATION:17 River Rd\, Washington\, NJ\, 07882
-DESCRIPTION:17 River Rd\, Washington\, NJ\, 11/20-11-21-26\, 9-3\, womens-
- mens clothes\, office supplies\, train set\, HH\, xmas\, crafts\, dog/cat
-  items\, oak flooring\, chlorine tablets\, more
+DESCRIPTION:Dates and Times:\nFriday\, November 20\, 2026\n9:00 am - 3:00 
+ pm\nSaturday\, November 21\, 2026\n9:00 am - 3:00 pm\nAddress:\n17 River 
+ Rd\, Washington\, NJ 07882\nDescription:\nFriday 11-20-26 and Saturday 11
+ -21-26\, 9-3\, so many items used and new for gifts.  Dog\, cat toys and 
+ items\, womans\, misses\, men clothes\, sweaters\, jackets\, mens suit\, 
+ shoes\, hats\, office supplies- standard and legal folders\, legal hangin
+ g file folders\, bookends\, books\, chlorine tablets\, train set\, old bi
+ ngo machine\, 2 oak kitchen cabinets\, many kitchen items\, lids for pots
+ \, digital photo frames\, costume jewelry\, crafts\, sewing items\, pocke
+ tbooks\, christmas items\, bags and boxes\, ornaments\, puzzles\, honda c
+ ar cover\, elliptical exercise  machine\, and Oak flooring waiting to be 
+ installed in your home.\nComments\nSign in\nto add a comment or ask a que
+ stion about this post.\nAdd Comment\nSocial Share:
 URL:https://garagesalefinder.com/s/N9uDj/17-river-rd-washington-nj-07882
 END:VEVENT
 END:VCALENDAR

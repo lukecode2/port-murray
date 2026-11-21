@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-13675-20261128@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:What a Collection in Wharton! ~ Estate Sale
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T170000
-LOCATION:Wharton\, NJ\, 07885
+LOCATION:Wharton\, NJ 07885
 DESCRIPTION:Join us for\n'What a Collection in Wharton\, NJ'!\nThis home i
  s filled with collectibles of all kinds! Commemorative plates fill the wa
  lls of just about every room. Come see the eclectic mix at every corner..
@@ -43,11 +43,11 @@ URL:https://www.estatesales.net/NJ/Wharton/07885/5147355
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-13675-20261129@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:What a Collection in Wharton! ~ Estate Sale
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T170000
-LOCATION:Wharton\, NJ\, 07885
+LOCATION:Wharton\, NJ 07885
 DESCRIPTION:Join us for\n'What a Collection in Wharton\, NJ'!\nThis home i
  s filled with collectibles of all kinds! Commemorative plates fill the wa
  lls of just about every room. Come see the eclectic mix at every corner..

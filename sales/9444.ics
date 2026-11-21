@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-9444-20261205@port-murray
+DTSTAMP:20261121T171741Z
+SUMMARY:Sports Memorabilia in Whippany
+DTSTART;TZID=America/New_York:20261205T100000
+DTEND;TZID=America/New_York:20261205T160000
+LOCATION:Whippany\, NJ\, 07981
+DESCRIPTION:⚾🏈🏀 HUGE SPORTS MEMORABILIA SALE! 🏀🏈⚾\nATTENTI
+ ON ALL SPORTS FANS\, COLLECTORS & MEMORABILIA ENTHUSIASTS!\nDon’t miss 
+ this exciting opportunity to own a piece of sports history!\nWe have an i
+ ncredible selection of sports memorabilia\, including:\n● ✍️ Autogr
+ aphed and signed collectibles\n● 📸 Sports photographs and framed pic
+ tures\n● ⚾ Signed baseballs\n● 🏈 Signed footballs\n● 🏀 Sign
+ ed basketballs\n● 👕 Autographed jerseys\n● 🎎 Sports bobbleheads
+ \n● 🖼️ Posters and sports displays\n● 🏆 Collectibles featurin
+ g legendary athletes and sports stars\n● And MUCH\, MUCH MORE!\nWhether
+  you’re a serious collector\, a lifelong sports fan\, looking for that 
+ special gift\, or searching for a unique addition to your collection\, th
+ ere’s something for everyone!\nGREAT FINDS • AMAZING MEMORABILIA • 
+ DON’T MISS OUT!\nCome browse the selection\, find your favorite players
+ \, and take home a piece of sports history!\n📣 SPREAD THE WORD! Bring 
+ your friends\, fellow collectors\, and sports fans!
+URL:https://www.estatesales.net/NJ/Whippany/07981/5126244
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-9444-20261206@port-murray
+DTSTAMP:20261121T171741Z
+SUMMARY:Sports Memorabilia in Whippany
+DTSTART;TZID=America/New_York:20261206T100000
+DTEND;TZID=America/New_York:20261206T160000
+LOCATION:Whippany\, NJ\, 07981
+DESCRIPTION:⚾🏈🏀 HUGE SPORTS MEMORABILIA SALE! 🏀🏈⚾\nATTENTI
+ ON ALL SPORTS FANS\, COLLECTORS & MEMORABILIA ENTHUSIASTS!\nDon’t miss 
+ this exciting opportunity to own a piece of sports history!\nWe have an i
+ ncredible selection of sports memorabilia\, including:\n● ✍️ Autogr
+ aphed and signed collectibles\n● 📸 Sports photographs and framed pic
+ tures\n● ⚾ Signed baseballs\n● 🏈 Signed footballs\n● 🏀 Sign
+ ed basketballs\n● 👕 Autographed jerseys\n● 🎎 Sports bobbleheads
+ \n● 🖼️ Posters and sports displays\n● 🏆 Collectibles featurin
+ g legendary athletes and sports stars\n● And MUCH\, MUCH MORE!\nWhether
+  you’re a serious collector\, a lifelong sports fan\, looking for that 
+ special gift\, or searching for a unique addition to your collection\, th
+ ere’s something for everyone!\nGREAT FINDS • AMAZING MEMORABILIA • 
+ DON’T MISS OUT!\nCome browse the selection\, find your favorite players
+ \, and take home a piece of sports history!\n📣 SPREAD THE WORD! Bring 
+ your friends\, fellow collectors\, and sports fans!
+URL:https://www.estatesales.net/NJ/Whippany/07981/5126244
+END:VEVENT
+END:VCALENDAR

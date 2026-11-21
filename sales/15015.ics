@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15015-20261204@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:DISCOVERY presents Packed Pristine Basking Ridge Estate Contents
 DTSTART;TZID=America/New_York:20261204T100000
 DTEND;TZID=America/New_York:20261204T160000
-LOCATION:Basking Ridge\, NJ\, 07920
+LOCATION:Basking Ridge\, NJ 07920
 DESCRIPTION:…..preliminary listing- check back for updated pics and list
  ing\nTONS more to be unpacked !\nHOUSE FILLED\nin\nBASKING RIDGE\nNOTE:\n
  few things available\nNOW !!!\n*****\nPLANTS\nAVAILABLE NOW\n*********\nG
@@ -37,11 +37,11 @@ URL:https://www.estatesales.net/NJ/Basking-Ridge/07920/5161014
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15015-20261205@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:DISCOVERY presents Packed Pristine Basking Ridge Estate Contents
 DTSTART;TZID=America/New_York:20261205T100000
 DTEND;TZID=America/New_York:20261205T160000
-LOCATION:Basking Ridge\, NJ\, 07920
+LOCATION:Basking Ridge\, NJ 07920
 DESCRIPTION:…..preliminary listing- check back for updated pics and list
  ing\nTONS more to be unpacked !\nHOUSE FILLED\nin\nBASKING RIDGE\nNOTE:\n
  few things available\nNOW !!!\n*****\nPLANTS\nAVAILABLE NOW\n*********\nG
@@ -55,11 +55,11 @@ URL:https://www.estatesales.net/NJ/Basking-Ridge/07920/5161014
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15015-20261206@port-murray
-DTSTAMP:20261120T172343Z
+DTSTAMP:20261121T171741Z
 SUMMARY:DISCOVERY presents Packed Pristine Basking Ridge Estate Contents
 DTSTART;TZID=America/New_York:20261206T100000
 DTEND;TZID=America/New_York:20261206T160000
-LOCATION:Basking Ridge\, NJ\, 07920
+LOCATION:Basking Ridge\, NJ 07920
 DESCRIPTION:…..preliminary listing- check back for updated pics and list
  ing\nTONS more to be unpacked !\nHOUSE FILLED\nin\nBASKING RIDGE\nNOTE:\n
  few things available\nNOW !!!\n*****\nPLANTS\nAVAILABLE NOW\n*********\nG
