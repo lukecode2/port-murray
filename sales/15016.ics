@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15016-20261204@port-murray
+DTSTAMP:20261122T190859Z
+SUMMARY:Antique & Classic Cars w/ Related Automotive
+DTSTART;TZID=America/New_York:20261204T235900
+LOCATION:Stewartsville\, NJ\, 08886
+DESCRIPTION:These antique and classic automobiles were taken from the carr
+ iage house of a single owner estate! They are as we found them and are un
+ tested as to their running condition. Including 4 Ford various Model A ve
+ hicles\, Ford Custom Deluxe Coupe\, Mercedes and Pontiac. We have antique
+  license plates and Auto Brochures and Ephemera. We have An International
+  Harvester Cub Cadet Garden Tractor with front end loader!\nThis is a uni
+ que opportunity to purchase a nice vehicle from a single owner’s estate
+ .\nYou need to check our website for all the photos\, then come view them
+  in person. They are an impressive collection!\nCall or email with any qu
+ estions.\nVisit our website\nContact us at 908-859-3424 to arrange your p
+ rivate preview.
+URL:https://www.estatesales.net/NJ/Stewartsville/08886/5155641
+END:VEVENT
+END:VCALENDAR

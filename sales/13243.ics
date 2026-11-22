@@ -18,11 +18,11 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-13246-20261204@port-murray
-DTSTAMP:20261121T171741Z
+UID:sale-13243-20261204@port-murray
+DTSTAMP:20261122T190859Z
 SUMMARY:Single Owner Antique\, Classic Cars and Related Automotive!!
-DTSTART;TZID=America/New_York:20261204T235900
-LOCATION:723 NJ-57\, Stewartsville\, NJ 08886
+DTSTART;TZID=America/New_York:20261204T140000
+LOCATION:723 NJ-57\, Stewartsville\, NJ\, 08886
 DESCRIPTION:Dennis Auction Presents Another ONLINE ONLY AUCTION Single Own
  er Antique\, Classic Cars and Related Automotive!!\nFriday December 4\, 2
  026 - 12 PM Est\nThese antique and classic automobiles were taken from th
@@ -40,7 +40,6 @@ DESCRIPTION:Dennis Auction Presents Another ONLINE ONLY AUCTION Single Own
  rs-w-related-automotive/?page=1&sort=lotNumber\nTo Bid on Invaluable:\nht
  tps://connect.invaluable.com/dennis/\nLike & follow us on Facebook!\nCont
  act us about your Consignments – Call 908-859-3424
-URL:https://gsalr.com/single-owner-antique-classic-stewartsville-nj-389967
- 65.html
+URL:https://www.estatesales.net/NJ/Stewartsville/08886/5157108
 END:VEVENT
 END:VCALENDAR

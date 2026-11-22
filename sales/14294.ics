@@ -19,12 +19,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14294-20261120@port-murray
-DTSTAMP:20261121T171741Z
+DTSTAMP:20261122T190859Z
 SUMMARY:Lucky Day Estate Sale\, COOLEST Sale ever Records\, Christmas Toys
  \,Tools All Vintage
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T150000
-LOCATION:412 Longwood Ave \, Bound Brook\, NJ 08805
+LOCATION:412 Longwood Ave \, Bound Brook\, NJ\, 08805
 DESCRIPTION:Omg such a great variety of vintage items\,something for every
  one. This man was a guitarist for the best cover band in New Jersey calle
  d Prophet in the 1980s.He saved everything from the 70s till now.Best rec
@@ -36,12 +36,12 @@ URL:https://www.estatesales.net/NJ/Bound%20Brook/08805/5163261
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14294-20261121@port-murray
-DTSTAMP:20261121T171741Z
+DTSTAMP:20261122T190859Z
 SUMMARY:Lucky Day Estate Sale\, COOLEST Sale ever Records\, Christmas Toys
  \,Tools All Vintage
 DTSTART;TZID=America/New_York:20261121T090000
 DTEND;TZID=America/New_York:20261121T150000
-LOCATION:412 Longwood Ave \, Bound Brook\, NJ 08805
+LOCATION:412 Longwood Ave \, Bound Brook\, NJ\, 08805
 DESCRIPTION:Omg such a great variety of vintage items\,something for every
  one. This man was a guitarist for the best cover band in New Jersey calle
  d Prophet in the 1980s.He saved everything from the 70s till now.Best rec
@@ -53,12 +53,12 @@ URL:https://www.estatesales.net/NJ/Bound%20Brook/08805/5163261
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-14294-20261122@port-murray
-DTSTAMP:20261121T171741Z
+DTSTAMP:20261122T190859Z
 SUMMARY:Lucky Day Estate Sale\, COOLEST Sale ever Records\, Christmas Toys
  \,Tools All Vintage
 DTSTART;TZID=America/New_York:20261122T100000
 DTEND;TZID=America/New_York:20261122T150000
-LOCATION:412 Longwood Ave \, Bound Brook\, NJ 08805
+LOCATION:412 Longwood Ave \, Bound Brook\, NJ\, 08805
 DESCRIPTION:Omg such a great variety of vintage items\,something for every
  one. This man was a guitarist for the best cover band in New Jersey calle
  d Prophet in the 1980s.He saved everything from the 70s till now.Best rec

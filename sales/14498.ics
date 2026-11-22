@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-14498-20261125@port-murray
-DTSTAMP:20261121T171741Z
+DTSTAMP:20261122T190900Z
 SUMMARY:Relo Sale - Modern decor\, office furniture\, electronics and more
   - Bidding ends 11/25
 DTSTART;TZID=America/New_York:20261125T190000
