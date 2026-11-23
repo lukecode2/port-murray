@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15588-20261210@port-murray
+DTSTAMP:20261123T171712Z
+SUMMARY:Downsizing Sale - Antiques\, collectibles\, furniture\, tool\, chi
+ na & more ends 12/10
+DTSTART;TZID=America/New_York:20261210T190000
+LOCATION:Bethlehem\, PA\, 18020
+DESCRIPTION:Welcome\nHome\nto CTBids!  We put together an excellent select
+ ion of items for you! Start exploring and discover the deals for yourself
+ !\nBidding on ALL items starts at $1!\nThis wonderful family is downsizin
+ g and would love to share their wonderful items which include collectible
+ s\, antiques\, furniture\, tools\, china and so much more. Please come in
+  and check out all the amazing things. Sale ends 12/10 with pickup on 12/
+ 12\n.\nEVERYTHING MUST GO!\nBrowse and bid on unique and everyday treasur
+ es at\nLehighValley.CTBids.com\nAbout Caring Transitions and CTBids:\nWe 
+ are carefully managing the treasures and everyday household items for our
+  clients as they downsize or transition to new homes. These items have qu
+ ality\, value\, and a history that are a perfect fit for someone else. Ou
+ r mission was to create a platform where these estate sales are brought t
+ o you online. Instead of set pricing\, bidding starts at $1. This process
+  allows our bidders to find unique and everyday treasures for a great val
+ ue. In addition\, the repurposing of these belongings will have a positiv
+ e and lasting impact on the world we all share.\nCTBids\ngives us the abi
+ lity to connect family heirlooms made with yesterday’s craftsmanship wi
+ th new owners who will give them\nnew LIFE\n.  From unique treasures to e
+ veryday items\, you will always find something interesting on CTBids! Eve
+ ryone wins\, including the environment!  Transitions\, by nature\, can ha
+ ve profound effects on the environment\, and we’re committed to mitigat
+ ing these impacts. We care about the environment\, and the necessity to r
+ epurpose household treasures.\nCaring Transitions is the\nnation’s larg
+ est and most trusted organization\nspecializing in downsizing\, relocatio
+ n\, estate sales\, decluttering\, home cleanouts\, online auctions and ot
+ her services. There are\nover 325 locations\nnationwide that are total so
+ lution providers for all of life’s transitions. Embrace new beginnings 
+ with confidence by learning more on our\nwebsite\nALL bidders need to reg
+ ister on CTBids\, but registration is easy. We look forward to seeing you
+  there!\nBidding Just Got Easier! Download our new app in your app store 
+ today.\nWant to be the first to hear about our new sales?  Follow us on\n
+ Facebook\n!\nOverwhelmed by your belongings? Learn more about our service
+ s visit our\nwebsite\n!
+URL:https://estatesales.org/estate-sales/pa/bethlehem/18020/downsizing-sal
+ e-antiques-collectibles-furniture-2475096
+END:VEVENT
+END:VCALENDAR

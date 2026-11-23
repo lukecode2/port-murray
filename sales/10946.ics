@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-10946-20261206@port-murray
-DTSTAMP:20261122T190859Z
+DTSTAMP:20261123T171712Z
 SUMMARY:Collectibles\, Toys\, Sports\, Antiques - Consignor Sale - 12/6 (W
  ind Gap\, PA)
 DTSTART;TZID=America/New_York:20261206T180000
-LOCATION:228 S Broadway  Suite D\, Wind Gap\, PA\, 18091
+LOCATION:228 S Broadway  Suite D
 DESCRIPTION:13% Buyer's Premium / 3% Cash Discount\n\n6% sales tax to Penn
  sylvania residents who do not have an exemption sent to us prior to their
   charge.\n\nAuction includes:\n\n-Sports Cards and Memorabilia\n   1960's

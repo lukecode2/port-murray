@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15610-20261127@port-murray
+DTSTAMP:20261123T171712Z
+SUMMARY:Amazing 3-Day Clinton Estate Sale—Beautiful High End Items
+DTSTART;TZID=America/New_York:20261127T100000
+DTEND;TZID=America/New_York:20261127T150000
+LOCATION:Lebanon\, NJ\, 08833
+DESCRIPTION:This sale features high end designer glass dining room table f
+ rom the D & D building in NYC\, Crate and Barrel dining room chairs\, gla
+ ss & marble round dining table with chairs\, Mason & Hamlin piano\, wroug
+ ht iron garden arbor arches\, wrought iron benches\, teak bench\, large c
+ ement statues\, white wrought iron bar & stool set\, copper bird bath\, w
+ rought iron large planters & urns\, cement planters\, wine refrigerator\,
+  bakers rack\, pot rack\, 2 cherry entertainment and glass cabinets\, han
+ d painted chest\, armoires\, air hockey table with ping pong top\, weight
+  bench\, elliptical\, Nordik Track\, Christmas trees & decor\, antique de
+ sk\, antique mirrored vanity & bench\, full size wood headboard\, dresser
+ \, side table & desk set\, antique upholstered chairs\, art\, generator\,
+  snow blower\, basketball net\, soccer bench\, sports equipment\, train t
+ able\, outside table & chairs\, ladders\, speakers\, craft cabinet\, Pott
+ ery Barn children's chairs\, tools\, garden tools\, household items\, woo
+ d dog houses\, saw table\, potting bench\, office chair\, and so much mor
+ e!
+URL:https://www.estatesales.net/NJ/Lebanon/08833/5168748
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15610-20261128@port-murray
+DTSTAMP:20261123T171712Z
+SUMMARY:Amazing 3-Day Clinton Estate Sale—Beautiful High End Items
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T140000
+LOCATION:Lebanon\, NJ\, 08833
+DESCRIPTION:This sale features high end designer glass dining room table f
+ rom the D & D building in NYC\, Crate and Barrel dining room chairs\, gla
+ ss & marble round dining table with chairs\, Mason & Hamlin piano\, wroug
+ ht iron garden arbor arches\, wrought iron benches\, teak bench\, large c
+ ement statues\, white wrought iron bar & stool set\, copper bird bath\, w
+ rought iron large planters & urns\, cement planters\, wine refrigerator\,
+  bakers rack\, pot rack\, 2 cherry entertainment and glass cabinets\, han
+ d painted chest\, armoires\, air hockey table with ping pong top\, weight
+  bench\, elliptical\, Nordik Track\, Christmas trees & decor\, antique de
+ sk\, antique mirrored vanity & bench\, full size wood headboard\, dresser
+ \, side table & desk set\, antique upholstered chairs\, art\, generator\,
+  snow blower\, basketball net\, soccer bench\, sports equipment\, train t
+ able\, outside table & chairs\, ladders\, speakers\, craft cabinet\, Pott
+ ery Barn children's chairs\, tools\, garden tools\, household items\, woo
+ d dog houses\, saw table\, potting bench\, office chair\, and so much mor
+ e!
+URL:https://www.estatesales.net/NJ/Lebanon/08833/5168748
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15610-20261129@port-murray
+DTSTAMP:20261123T171712Z
+SUMMARY:Amazing 3-Day Clinton Estate Sale—Beautiful High End Items
+DTSTART;TZID=America/New_York:20261129T100000
+DTEND;TZID=America/New_York:20261129T130000
+LOCATION:Lebanon\, NJ\, 08833
+DESCRIPTION:This sale features high end designer glass dining room table f
+ rom the D & D building in NYC\, Crate and Barrel dining room chairs\, gla
+ ss & marble round dining table with chairs\, Mason & Hamlin piano\, wroug
+ ht iron garden arbor arches\, wrought iron benches\, teak bench\, large c
+ ement statues\, white wrought iron bar & stool set\, copper bird bath\, w
+ rought iron large planters & urns\, cement planters\, wine refrigerator\,
+  bakers rack\, pot rack\, 2 cherry entertainment and glass cabinets\, han
+ d painted chest\, armoires\, air hockey table with ping pong top\, weight
+  bench\, elliptical\, Nordik Track\, Christmas trees & decor\, antique de
+ sk\, antique mirrored vanity & bench\, full size wood headboard\, dresser
+ \, side table & desk set\, antique upholstered chairs\, art\, generator\,
+  snow blower\, basketball net\, soccer bench\, sports equipment\, train t
+ able\, outside table & chairs\, ladders\, speakers\, craft cabinet\, Pott
+ ery Barn children's chairs\, tools\, garden tools\, household items\, woo
+ d dog houses\, saw table\, potting bench\, office chair\, and so much mor
+ e!
+URL:https://www.estatesales.net/NJ/Lebanon/08833/5168748
+END:VEVENT
+END:VCALENDAR

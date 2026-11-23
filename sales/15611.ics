@@ -18,8 +18,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-15015-20261204@port-murray
-DTSTAMP:20261122T190900Z
+UID:sale-15611-20261204@port-murray
+DTSTAMP:20261123T171712Z
 SUMMARY:DISCOVERY presents Packed Pristine Basking Ridge Estate Contents
 DTSTART;TZID=America/New_York:20261204T100000
 DTEND;TZID=America/New_York:20261204T160000
@@ -33,11 +33,11 @@ DESCRIPTION:…..preliminary listing- check back for updated pics and list
  lectronics\nWii\nKitchenware\nTools\nPool Accessories\nincluding Polaris 
  Robotic Cleaner\nChristmas decor\nHuge Aluminum extension ladder\nTons of
   home goods\nand\nAccessories - more to come !!!
-URL:https://www.estatesales.net/NJ/Basking-Ridge/07920/5161014
+URL:https://www.estatesales.net/NJ/Basking%20Ridge/07920/5161014
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-15015-20261205@port-murray
-DTSTAMP:20261122T190900Z
+UID:sale-15611-20261205@port-murray
+DTSTAMP:20261123T171712Z
 SUMMARY:DISCOVERY presents Packed Pristine Basking Ridge Estate Contents
 DTSTART;TZID=America/New_York:20261205T100000
 DTEND;TZID=America/New_York:20261205T160000
@@ -51,11 +51,11 @@ DESCRIPTION:…..preliminary listing- check back for updated pics and list
  lectronics\nWii\nKitchenware\nTools\nPool Accessories\nincluding Polaris 
  Robotic Cleaner\nChristmas decor\nHuge Aluminum extension ladder\nTons of
   home goods\nand\nAccessories - more to come !!!
-URL:https://www.estatesales.net/NJ/Basking-Ridge/07920/5161014
+URL:https://www.estatesales.net/NJ/Basking%20Ridge/07920/5161014
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-15015-20261206@port-murray
-DTSTAMP:20261122T190900Z
+UID:sale-15611-20261206@port-murray
+DTSTAMP:20261123T171712Z
 SUMMARY:DISCOVERY presents Packed Pristine Basking Ridge Estate Contents
 DTSTART;TZID=America/New_York:20261206T100000
 DTEND;TZID=America/New_York:20261206T160000
@@ -69,6 +69,6 @@ DESCRIPTION:…..preliminary listing- check back for updated pics and list
  lectronics\nWii\nKitchenware\nTools\nPool Accessories\nincluding Polaris 
  Robotic Cleaner\nChristmas decor\nHuge Aluminum extension ladder\nTons of
   home goods\nand\nAccessories - more to come !!!
-URL:https://www.estatesales.net/NJ/Basking-Ridge/07920/5161014
+URL:https://www.estatesales.net/NJ/Basking%20Ridge/07920/5161014
 END:VEVENT
 END:VCALENDAR

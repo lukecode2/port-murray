@@ -18,10 +18,10 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-14772-20261130@port-murray
-DTSTAMP:20261122T190859Z
+UID:sale-14955-20261130@port-murray
+DTSTAMP:20261123T171712Z
 SUMMARY:Home for the Holidays: Two Estates\, One Collection – Madison & 
- Morristown\, NJ (PU 10/2 in Boonton)
+ Morristown\, NJ (PU 12/2 in Boonton)
 DTSTART;TZID=America/New_York:20261130T190000
 LOCATION:Boonton\, NJ\, 07005
 DESCRIPTION:Two longtime homes. Two families. Decades of memories ready fo
@@ -35,6 +35,7 @@ DESCRIPTION:Two longtime homes. Two families. Decades of memories ready fo
  's something for collectors\, music lovers\, and holiday shoppers. Perhap
  s a favorite from their homes will become a tradition in yours. **Pickup 
  in Boonton\, NJ.**
-URL:https://www.estatesales.net/NJ/Boonton/07005/5166822
+URL:https://estatesales.org/estate-sales/nj/boonton/07005/home-for-the-hol
+ idays-two-2474789
 END:VEVENT
 END:VCALENDAR
