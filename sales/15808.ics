@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15808-20261204@port-murray
+DTSTAMP:20261124T172228Z
+SUMMARY:Augusta Estate Sale
+DTSTART;TZID=America/New_York:20261204T090000
+DTEND;TZID=America/New_York:20261204T150000
+LOCATION:Augusta\, NJ\, 07822
+DESCRIPTION:Large collections of paper\, Maps\, some antique toys\, toy so
+ ldiers\, antique metal toy trains\, HO Gauge Train set\, US Military butt
+ ons\, medals\, etc\, Railroad prints\, Vintage & Antique Railroad paper\,
+  dining car menus\, timetables\, ticket stubs\, etc\, passenger ship prin
+ ts\, post cards\, China\, John Deere Lawn Tractor\, Tools\, Sailboat w/tr
+ ailer\, furniture\, Antique RCA Nipper\, Cut glass\, Antique wooden boat/
+ ship models\, Lamps\, Living room furniture\, Kitchen items\, Nice cherry
+  bedroom set w/4 post bed\, Artwork\, Steamer trunk\, Lighting/lamps\, Vi
+ ntage Record/Console player\, vinyl records\, Books\, antique horse drawn
+  buggy\, garage accumulation\, bench vise\, & much much more !  Too much 
+ to list !
+URL:https://www.estatesales.net/NJ/Augusta/07822/5170275
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15808-20261205@port-murray
+DTSTAMP:20261124T172228Z
+SUMMARY:Augusta Estate Sale
+DTSTART;TZID=America/New_York:20261205T090000
+DTEND;TZID=America/New_York:20261205T150000
+LOCATION:Augusta\, NJ\, 07822
+DESCRIPTION:Large collections of paper\, Maps\, some antique toys\, toy so
+ ldiers\, antique metal toy trains\, HO Gauge Train set\, US Military butt
+ ons\, medals\, etc\, Railroad prints\, Vintage & Antique Railroad paper\,
+  dining car menus\, timetables\, ticket stubs\, etc\, passenger ship prin
+ ts\, post cards\, China\, John Deere Lawn Tractor\, Tools\, Sailboat w/tr
+ ailer\, furniture\, Antique RCA Nipper\, Cut glass\, Antique wooden boat/
+ ship models\, Lamps\, Living room furniture\, Kitchen items\, Nice cherry
+  bedroom set w/4 post bed\, Artwork\, Steamer trunk\, Lighting/lamps\, Vi
+ ntage Record/Console player\, vinyl records\, Books\, antique horse drawn
+  buggy\, garage accumulation\, bench vise\, & much much more !  Too much 
+ to list !
+URL:https://www.estatesales.net/NJ/Augusta/07822/5170275
+END:VEVENT
+END:VCALENDAR

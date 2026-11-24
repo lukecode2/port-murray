@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15919-20261203@port-murray
+DTSTAMP:20261124T172228Z
+SUMMARY:26341 Morris County NJ (Landing\, NJ)
+DTSTART;TZID=America/New_York:20261203T190000
+LOCATION:1 Zachary Drive\,\, Landing\, NJ\, 07850
+DESCRIPTION:Do you want your home to look like a model? Register today for
+  this auction offering beautiful furniture and accessories from the prest
+ igious builder\, Ryan Homes!\nPlease note that there will be no "In-Perso
+ n Inspection" for this auction. Please pay close attention to the lot des
+ cription. \nThe model home is located at 1 Zachary Drive\, Landing\, NJ 0
+ 7850 in the Stone Water Village Community.\nBruce E. Sutter\, Auctioneer
+URL:https://hibid.com/catalog/797658
+END:VEVENT
+END:VCALENDAR

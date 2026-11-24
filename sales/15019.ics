@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15019-20261204@port-murray
-DTSTAMP:20261123T171712Z
+DTSTAMP:20261124T172228Z
 SUMMARY:A Second Chance will be Succasunna for a 3 day sale
 DTSTART;TZID=America/New_York:20261204T090000
 DTEND;TZID=America/New_York:20261204T160000
-LOCATION:Succasunna\, NJ 07876
+LOCATION:Succasunna\, NJ\, 07876
 DESCRIPTION:A packed house we just took a few pictures and more to come af
  ter we get in and start setting up. Lots of glassware\, kitchenware\, fur
  niture\, home decor \, lots of vintage\, landscaping items\, snowblower\,
@@ -32,11 +32,11 @@ URL:https://www.estatesales.net/NJ/Succasunna/07876/5137017
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15019-20261205@port-murray
-DTSTAMP:20261123T171712Z
+DTSTAMP:20261124T172228Z
 SUMMARY:A Second Chance will be Succasunna for a 3 day sale
 DTSTART;TZID=America/New_York:20261205T090000
 DTEND;TZID=America/New_York:20261205T160000
-LOCATION:Succasunna\, NJ 07876
+LOCATION:Succasunna\, NJ\, 07876
 DESCRIPTION:A packed house we just took a few pictures and more to come af
  ter we get in and start setting up. Lots of glassware\, kitchenware\, fur
  niture\, home decor \, lots of vintage\, landscaping items\, snowblower\,
@@ -45,11 +45,11 @@ URL:https://www.estatesales.net/NJ/Succasunna/07876/5137017
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15019-20261206@port-murray
-DTSTAMP:20261123T171712Z
+DTSTAMP:20261124T172228Z
 SUMMARY:A Second Chance will be Succasunna for a 3 day sale
 DTSTART;TZID=America/New_York:20261206T090000
 DTEND;TZID=America/New_York:20261206T140000
-LOCATION:Succasunna\, NJ 07876
+LOCATION:Succasunna\, NJ\, 07876
 DESCRIPTION:A packed house we just took a few pictures and more to come af
  ter we get in and start setting up. Lots of glassware\, kitchenware\, fur
  niture\, home decor \, lots of vintage\, landscaping items\, snowblower\,
