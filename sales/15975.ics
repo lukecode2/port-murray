@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15975-20261128@port-murray
+DTSTAMP:20261125T171730Z
+SUMMARY:Lego Garage Sale
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+LOCATION:137 Mountain Ave\, Hackettstown\, NJ\, 07840
+DESCRIPTION:We are selling off hundreds of used Lego Sets from many years 
+ of camps. The sets include many different themes and may not be 100 perce
+ nt complete. Also for sale are loose minifigures\, directions booklets\, 
+ and bulk parts. We also will have a variety of kid’s science toys such 
+ as drones and 3-d pens.
+URL:https://www.yardsalesearch.com/yss-garage-sale.jsp?id=196470929
+END:VEVENT
+END:VCALENDAR

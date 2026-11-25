@@ -19,10 +19,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15919-20261203@port-murray
-DTSTAMP:20261124T172228Z
+DTSTAMP:20261125T171730Z
 SUMMARY:26341 Morris County NJ (Landing\, NJ)
 DTSTART;TZID=America/New_York:20261203T190000
-LOCATION:1 Zachary Drive\,\, Landing\, NJ\, 07850
+LOCATION:1 Zachary Drive\,
 DESCRIPTION:Do you want your home to look like a model? Register today for
   this auction offering beautiful furniture and accessories from the prest
  igious builder\, Ryan Homes!\nPlease note that there will be no "In-Perso

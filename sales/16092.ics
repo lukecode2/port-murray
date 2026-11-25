@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-16092-20261202@port-murray
+DTSTAMP:20261125T171730Z
+SUMMARY:247: Sports Cards\, Vintage and Modern. Pokemon\, Collectibles (Ph
+ illipsburg\, NJ)
+DTSTART;TZID=America/New_York:20261202T180000
+LOCATION:271 Windmill Court\, Phillipsburg\, NJ\, 08865
+DESCRIPTION:Please Note:  Payment Links will be emailed after the auction 
+ ends. All invoices will be emailed out with a secured Payment link.\n\nDu
+ e to changes with the credit card processor\, we are unable to run credit
+  cards on file\,  You will need to make payments with the secure link we 
+ email you after the auction ends. \n\n\nPlease Note: We use a scanner for
+  a lot of the cards in the auction. The lines on the card are from the pl
+ astic sleeves. You will find a huge selection of the Hottest RC's and Sta
+ rs from today and yesterday.  Our inventory is very large and covers a wi
+ de variety from Vintage to Modern to Non-Sport in a variety of price rang
+ es.  From High-End to $1 and Bulk deals\, we have something for everyone.
+   You will usually find something you have never seen before\, as we try 
+ to keep the inventory fresh and unique.\nWe add new items daily\, so chec
+ k back for additional items up to the start of the auction.\nFor single c
+ ard orders under $10\, we offer $2.99 PWE shipping.  For orders over $10\
+ , minimum shipping cost per order $7.49.   Orders Over $100.00 will requi
+ re insurance at a small additional charge based on amount over $100.   He
+ avy orders will be charged by weight\, and we extend our shipping discoun
+ ts to our customers.  We strive to have the most affordable shipping rate
+ s for our customers.\nAll invoices will be sent 24-48 hours after the clo
+ se of the auction and will have shipping charges included. Invoices will 
+ be charged to the credit cards on file upon time of invoicing.  All order
+ s will be shipped out within 3-5 Business Days.  PLEASE ENSURE YOUR SHIPP
+ ING ADDRESS AND EMAIL ADDRESS ON FILE ARE UP TO DATE.  If your account ha
+ s multiple addresses on file\, we will make 2 attempts (1 by email\, 1 by
+  phone) to verify your accurate shipping address.  It is the buyer's resp
+ onsibility to respond to address verifications within 5 business days of 
+ contact.  We will hold orders for 7 days. If Payment is not made you will
+  not be allowed to bid in future auctions. \nHibid has doubled their fees
+  to sellers. Our goal is to have one of the lowest buyers premiums and do
+  our best to keep fees low for our customers.  To help offset this major 
+ increase in expenses on our end\, we have decided to add a $1.00 per orde
+ r handling fee rather than increase the buyers premium.  We appreciate ou
+ r customers and hope to continue to provide large scale auctions at great
+  prices.
+URL:https://hibid.com/catalog/797730
+END:VEVENT
+END:VCALENDAR

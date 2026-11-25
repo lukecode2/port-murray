@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15971-20261209@port-murray
+DTSTAMP:20261125T171730Z
+SUMMARY:Millea Bros "SELECT" (Day 1 of 3)
+DTSTART;TZID=America/New_York:20261209T235900
+LOCATION:Boonton\, NJ\, 07005
+DESCRIPTION:Day 1 of 3: Modern Art & Design | African Art | Post-War & Con
+ temporary Art - Offering a strong selection of Modern design\, including 
+ Jacques Grange furniture from a Garance Rousseau private commission\, a r
+ are pair of Jean Dunand chairs\, a Christian Liaigre cabinet\, and a Font
+ ana Arte occasional table from the Personal Collection of Robert A.M. Ste
+ rn. Additional design highlights include a Diego Giacometti “Table Berc
+ eau.?? Accompanied by an extensive collection of African art from the Col
+ lection of photographer Marc Bernheim\, a Fang reliquary exhibited at the
+  Kimbell Art Museum\, and a Hemba Singiti previously owned by Pierre Dart
+ evelle. Interspersed throughout the session are Post-War and Contemporary
+  works featuring a William Hemmerling double-sided panel\, a William Morr
+ is glass vessel\, a Liu Jianhua porcelain figure\, and an A.R. Penck cera
+ mic. Other highlights include a Wendell Castle music stand\, an Ingo Maur
+ er “San-Ju?? chandelier\, a Manierre Dawson painting previously exhibit
+ ed at the Whitney Museum of American Art\, and a life-size hyperrealist s
+ culpture by John DeAndrea.
+URL:https://www.estatesales.net/NJ/Boonton/07005/5164581
+END:VEVENT
+END:VCALENDAR

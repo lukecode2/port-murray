@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15610-20261127@port-murray
-DTSTAMP:20261124T172228Z
+DTSTAMP:20261125T171730Z
 SUMMARY:Amazing 3-Day Clinton Estate Sale—Beautiful High End Items
 DTSTART;TZID=America/New_York:20261127T100000
 DTEND;TZID=America/New_York:20261127T150000
-LOCATION:Lebanon\, NJ\, 08833
+LOCATION:Lebanon\, NJ 08833
 DESCRIPTION:This sale features high end designer glass dining room table f
  rom the D & D building in NYC\, Crate and Barrel dining room chairs\, gla
  ss & marble round dining table with chairs\, Mason & Hamlin piano\, wroug
@@ -44,11 +44,11 @@ URL:https://www.estatesales.net/NJ/Lebanon/08833/5168748
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15610-20261128@port-murray
-DTSTAMP:20261124T172228Z
+DTSTAMP:20261125T171730Z
 SUMMARY:Amazing 3-Day Clinton Estate Sale—Beautiful High End Items
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T140000
-LOCATION:Lebanon\, NJ\, 08833
+LOCATION:Lebanon\, NJ 08833
 DESCRIPTION:This sale features high end designer glass dining room table f
  rom the D & D building in NYC\, Crate and Barrel dining room chairs\, gla
  ss & marble round dining table with chairs\, Mason & Hamlin piano\, wroug
@@ -69,11 +69,11 @@ URL:https://www.estatesales.net/NJ/Lebanon/08833/5168748
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15610-20261129@port-murray
-DTSTAMP:20261124T172228Z
+DTSTAMP:20261125T171730Z
 SUMMARY:Amazing 3-Day Clinton Estate Sale—Beautiful High End Items
 DTSTART;TZID=America/New_York:20261129T100000
 DTEND;TZID=America/New_York:20261129T130000
-LOCATION:Lebanon\, NJ\, 08833
+LOCATION:Lebanon\, NJ 08833
 DESCRIPTION:This sale features high end designer glass dining room table f
  rom the D & D building in NYC\, Crate and Barrel dining room chairs\, gla
  ss & marble round dining table with chairs\, Mason & Hamlin piano\, wroug

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-15969-20261127@port-murray
+DTSTAMP:20261125T171730Z
+SUMMARY:"You guys have such cool stuff" estate and garage sale
+DTSTART;TZID=America/New_York:20261127T090000
+DTEND;TZID=America/New_York:20261127T170000
+LOCATION:Milford\, NJ\, 08848
+DESCRIPTION:Almost 40 year collection of stuff. Including but not limited 
+ to...antiques\, collectibles\, vintage\, MCM\, sporting equipment\, house
+ hold items\, lighting\, vinyl\, VCRs\, speakers and audio components\, Ho
+ liday decor\, trim a tree\, books\, automotive repair books\, tribal\, fr
+ amed art\, antique saratoga and flat top trunks and much more.
+URL:https://www.estatesales.net/NJ/Milford/08848/5171841
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15969-20261128@port-murray
+DTSTAMP:20261125T171730Z
+SUMMARY:"You guys have such cool stuff" estate and garage sale
+DTSTART;TZID=America/New_York:20261128T090000
+DTEND;TZID=America/New_York:20261128T170000
+LOCATION:Milford\, NJ\, 08848
+DESCRIPTION:Almost 40 year collection of stuff. Including but not limited 
+ to...antiques\, collectibles\, vintage\, MCM\, sporting equipment\, house
+ hold items\, lighting\, vinyl\, VCRs\, speakers and audio components\, Ho
+ liday decor\, trim a tree\, books\, automotive repair books\, tribal\, fr
+ amed art\, antique saratoga and flat top trunks and much more.
+URL:https://www.estatesales.net/NJ/Milford/08848/5171841
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-15969-20261129@port-murray
+DTSTAMP:20261125T171730Z
+SUMMARY:"You guys have such cool stuff" estate and garage sale
+DTSTART;TZID=America/New_York:20261129T090000
+DTEND;TZID=America/New_York:20261129T170000
+LOCATION:Milford\, NJ\, 08848
+DESCRIPTION:Almost 40 year collection of stuff. Including but not limited 
+ to...antiques\, collectibles\, vintage\, MCM\, sporting equipment\, house
+ hold items\, lighting\, vinyl\, VCRs\, speakers and audio components\, Ho
+ liday decor\, trim a tree\, books\, automotive repair books\, tribal\, fr
+ amed art\, antique saratoga and flat top trunks and much more.
+URL:https://www.estatesales.net/NJ/Milford/08848/5171841
+END:VEVENT
+END:VCALENDAR
