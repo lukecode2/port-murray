@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-16244-20261211@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Millea Bros "SELECT" (Day 3 of 3)
+DTSTART;TZID=America/New_York:20261211T235900
+LOCATION:Boonton\, NJ\, 07005
+DESCRIPTION:Day 3 of 3: Continental Art\, Antiques & Silver | Impressionis
+ t Art | European Modern Art & Design - Featuring a strong collection of C
+ ontinental art and antiques\, including a large Romanesque limestone figu
+ re\, a Sienese School painting of Mary Magdalene\, Styrian School carving
+ s\, Albrecht Dürer woodcuts\, and a Biedermeier secrétaire à abattant.
+  Impressionist and Modern art selections feature Georges d'Espagnat from 
+ the Roy E. Disney Family Collection and a John Marin watercolor from the 
+ Collection of June and Frank Barsalona. An exemplary offering of Continen
+ tal furniture and design features an André Ducuing lacquer screen\, a Lo
+ uis XV Revival salon suite from Stevens Institute of Technology\, and an 
+ Art Nouveau leaded glass screen. Additional highlights include a monument
+ al Pierre Bourdelle mural from the Great Hall of the university's Samuel 
+ C. Williams Library. Also featured are Art Nouveau brooches from the Esta
+ te of Alexander Dobkin\, Austro-Hungarian gold cigarette cases\, and art 
+ glass by Daum\, Gallé\, and Le Verre Français. The sale concludes with 
+ a selection of antiquities\, including Roman glass\, Hellenistic pottery\
+ , and a Gandharan schist Bodhisattva.
+URL:https://www.estatesales.net/NJ/Boonton/07005/5164599
+END:VEVENT
+END:VCALENDAR

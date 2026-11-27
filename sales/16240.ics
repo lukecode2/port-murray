@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-16240-20261127@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Ninja Estate Sale
+DTSTART;TZID=America/New_York:20261127T100000
+DTEND;TZID=America/New_York:20261127T160000
+LOCATION:9 Montgomery Ave\, Rocky Hill\, NJ\, 08553
+DESCRIPTION:Please park at the Municipal Building next door.\nJoin us for 
+ an exciting estate sale featuring a huge variety of items! Whether you're
+  a collector\, bargain hunter\, reseller\, or simply looking for somethin
+ g unique\, there's something for everyone.\nItems include:\nBooks and col
+ lectibles\nFurniture and home décor\nKitchenware\, dishes\, and small ap
+ pliances\nCleaning supplies and household essentials\nBoard games\, toys\
+ , and entertainment\nAntiques and vintage treasures\nPortraits\, Photogra
+ phs and memorabilia\nClothing\, shoes\, and accessories\nTools and hardwa
+ re\nPersonal items and home accessories\nGlassware\, decorative pieces\, 
+ and unique finds\nJewelry\nMuch more!\nCome browse\, shop\, and discover 
+ some great deals. You never know what treasures you'll find!
+URL:https://www.estatesales.net/NJ/Rocky%20Hill/08553/5168544
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-16240-20261128@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Ninja Estate Sale
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T160000
+LOCATION:9 Montgomery Ave\, Rocky Hill\, NJ\, 08553
+DESCRIPTION:Please park at the Municipal Building next door.\nJoin us for 
+ an exciting estate sale featuring a huge variety of items! Whether you're
+  a collector\, bargain hunter\, reseller\, or simply looking for somethin
+ g unique\, there's something for everyone.\nItems include:\nBooks and col
+ lectibles\nFurniture and home décor\nKitchenware\, dishes\, and small ap
+ pliances\nCleaning supplies and household essentials\nBoard games\, toys\
+ , and entertainment\nAntiques and vintage treasures\nPortraits\, Photogra
+ phs and memorabilia\nClothing\, shoes\, and accessories\nTools and hardwa
+ re\nPersonal items and home accessories\nGlassware\, decorative pieces\, 
+ and unique finds\nJewelry\nMuch more!\nCome browse\, shop\, and discover 
+ some great deals. You never know what treasures you'll find!
+URL:https://www.estatesales.net/NJ/Rocky%20Hill/08553/5168544
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-16240-20261129@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Ninja Estate Sale
+DTSTART;TZID=America/New_York:20261129T100000
+DTEND;TZID=America/New_York:20261129T160000
+LOCATION:9 Montgomery Ave\, Rocky Hill\, NJ\, 08553
+DESCRIPTION:Please park at the Municipal Building next door.\nJoin us for 
+ an exciting estate sale featuring a huge variety of items! Whether you're
+  a collector\, bargain hunter\, reseller\, or simply looking for somethin
+ g unique\, there's something for everyone.\nItems include:\nBooks and col
+ lectibles\nFurniture and home décor\nKitchenware\, dishes\, and small ap
+ pliances\nCleaning supplies and household essentials\nBoard games\, toys\
+ , and entertainment\nAntiques and vintage treasures\nPortraits\, Photogra
+ phs and memorabilia\nClothing\, shoes\, and accessories\nTools and hardwa
+ re\nPersonal items and home accessories\nGlassware\, decorative pieces\, 
+ and unique finds\nJewelry\nMuch more!\nCome browse\, shop\, and discover 
+ some great deals. You never know what treasures you'll find!
+URL:https://www.estatesales.net/NJ/Rocky%20Hill/08553/5168544
+END:VEVENT
+END:VCALENDAR

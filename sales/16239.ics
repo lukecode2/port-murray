@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-16239-20261127@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:One day huge sale thousands of crystals in Andover NJ
+DTSTART;TZID=America/New_York:20261127T090000
+DTEND;TZID=America/New_York:20261127T170000
+LOCATION:125 Main Street \, Andover\, NJ\, 07821
+DESCRIPTION:THIS IS A NO-JOKE SALE.\nPictures say it a!!\nMASSIVE EVENT in
+  the town of Andover. Made in the Shade is hosting a HUGE\, weekend sale 
+ & a MUST-SEE estate sale in Andover\, New Jersey. Everything has been bro
+ ught back into the shop and driveway and the place is full to the max —
+  and it’s all coming out in one epic pop-up event. 17 ESTATES that deal
+ ers purchased from & We are fully stocked. 👉 If you’re a collector\,
+  decorator\, reseller\, or vintage lover — this is the event of the yea
+ r.\nONE ENORMOUS SALE\nYou’ll Find:\n• thousands of Vintage jewelry\,
+  glass beads\,\n• thousands of chandeliers crystals\n• Farmhouse déc
+ or & furniture\n• Painted furniture\n• Mid-Century pieces\n• Antiqu
+ es — lots of them\n• Christmas & holiday décor\n• Stained glass\n
+ • Shabby chic\nTons of chandeliers\n• French gilt antique mirrors\n
+ • Wall sconces\n• Maitland-Smith\n• Tuscany mirrors\n• Bernhardt\
+ n• Ethan Allen\n• Habersham\n• Vintage clothing …and so much more
+ .\n• Too much to list — if you’re looking for it\, we probably have
+  it\n🕘 Come early. Come ready. This is a true liquidation.\n🛻 Bring
+  a truck. Bring a friend. Don’t miss it.
+URL:https://www.estatesales.net/NJ/Andover/07821/5173089
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-16239-20261128@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:One day huge sale thousands of crystals in Andover NJ
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T170000
+LOCATION:125 Main Street \, Andover\, NJ\, 07821
+DESCRIPTION:THIS IS A NO-JOKE SALE.\nPictures say it a!!\nMASSIVE EVENT in
+  the town of Andover. Made in the Shade is hosting a HUGE\, weekend sale 
+ & a MUST-SEE estate sale in Andover\, New Jersey. Everything has been bro
+ ught back into the shop and driveway and the place is full to the max —
+  and it’s all coming out in one epic pop-up event. 17 ESTATES that deal
+ ers purchased from & We are fully stocked. 👉 If you’re a collector\,
+  decorator\, reseller\, or vintage lover — this is the event of the yea
+ r.\nONE ENORMOUS SALE\nYou’ll Find:\n• thousands of Vintage jewelry\,
+  glass beads\,\n• thousands of chandeliers crystals\n• Farmhouse déc
+ or & furniture\n• Painted furniture\n• Mid-Century pieces\n• Antiqu
+ es — lots of them\n• Christmas & holiday décor\n• Stained glass\n
+ • Shabby chic\nTons of chandeliers\n• French gilt antique mirrors\n
+ • Wall sconces\n• Maitland-Smith\n• Tuscany mirrors\n• Bernhardt\
+ n• Ethan Allen\n• Habersham\n• Vintage clothing …and so much more
+ .\n• Too much to list — if you’re looking for it\, we probably have
+  it\n🕘 Come early. Come ready. This is a true liquidation.\n🛻 Bring
+  a truck. Bring a friend. Don’t miss it.
+URL:https://www.estatesales.net/NJ/Andover/07821/5173089
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-16239-20261129@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:One day huge sale thousands of crystals in Andover NJ
+DTSTART;TZID=America/New_York:20261129T100000
+DTEND;TZID=America/New_York:20261129T170000
+LOCATION:125 Main Street \, Andover\, NJ\, 07821
+DESCRIPTION:THIS IS A NO-JOKE SALE.\nPictures say it a!!\nMASSIVE EVENT in
+  the town of Andover. Made in the Shade is hosting a HUGE\, weekend sale 
+ & a MUST-SEE estate sale in Andover\, New Jersey. Everything has been bro
+ ught back into the shop and driveway and the place is full to the max —
+  and it’s all coming out in one epic pop-up event. 17 ESTATES that deal
+ ers purchased from & We are fully stocked. 👉 If you’re a collector\,
+  decorator\, reseller\, or vintage lover — this is the event of the yea
+ r.\nONE ENORMOUS SALE\nYou’ll Find:\n• thousands of Vintage jewelry\,
+  glass beads\,\n• thousands of chandeliers crystals\n• Farmhouse déc
+ or & furniture\n• Painted furniture\n• Mid-Century pieces\n• Antiqu
+ es — lots of them\n• Christmas & holiday décor\n• Stained glass\n
+ • Shabby chic\nTons of chandeliers\n• French gilt antique mirrors\n
+ • Wall sconces\n• Maitland-Smith\n• Tuscany mirrors\n• Bernhardt\
+ n• Ethan Allen\n• Habersham\n• Vintage clothing …and so much more
+ .\n• Too much to list — if you’re looking for it\, we probably have
+  it\n🕘 Come early. Come ready. This is a true liquidation.\n🛻 Bring
+  a truck. Bring a friend. Don’t miss it.
+URL:https://www.estatesales.net/NJ/Andover/07821/5173089
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-16270-20261127@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Collectibles Great for Christmas Gifting ~ Estate Sale
+DTSTART;TZID=America/New_York:20261127T100000
+DTEND;TZID=America/New_York:20261127T170000
+LOCATION:215 Allentown Road\, Parsippany\, NJ\, 07054
+DESCRIPTION:Join us for our 'Collectibles Great for Christmas Gifting' est
+ ate sale! A marvelously curated collection of artifacts assembled over th
+ e years by our client's Mom. Items include: *Outdoor furniture *Outdoor p
+ lanters & garden decor *Living room furniture pieces *Curio cabinets *Kee
+ psakes & curiosities *Decorative teapots & teacups *Statuettes & figurine
+ s *Glassware of all kinds *Accent tables *Crockery *Framed artwork *Mirro
+ rs & other wall hangings *Area rugs *Records *Lionel trains *Model cars *
+ Lamps of all kinds *Picture frames *Board games *Antique chairs *Jardinie
+ re *Christmas decor galore *Hess truck collection *Sewing machine *Ribbon
+ s *Bedroom furniture set *Clothing *Bed linens *Handbags *Pots & pans *Co
+ okbooks *Cutlery & utensils *Casual dinnerware *Hardware *Brooms & mops *
+ Vintage Corningware & Pyrex *Fine China sets *Cats Meow collectible homes
+  *Blue Willow pieces *Cast iron models *Planters & pots *Step stool and s
+ o much more... Come see the gift shop like setting that our stager has cr
+ eated here! Treasures & gems abound at this modest Parsippany property! W
+ ANT AN ADDITIONAL SNEAK PEEK OF THE ITEMS TO BE OFFERED: https://www.esta
+ tesales.net/NJ/Parsippany/07054/5150478 Hours: Friday\, 11/27 10:00am-5:0
+ 0pm Saturday\, 11/28 10:00am-5:00pm Location: 215 Allentown Road Parsippa
+ ny\, NJ 07054 Sale hosted by: The Consummate Home ~ [hidden information]
+URL:https://www.facebook.com/marketplace/item/1113907051465340/
+END:VEVENT
+BEGIN:VEVENT
+UID:sale-16270-20261128@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Collectibles Great for Christmas Gifting ~ Estate Sale
+DTSTART;TZID=America/New_York:20261128T100000
+DTEND;TZID=America/New_York:20261128T170000
+LOCATION:215 Allentown Road\, Parsippany\, NJ\, 07054
+DESCRIPTION:Join us for our 'Collectibles Great for Christmas Gifting' est
+ ate sale! A marvelously curated collection of artifacts assembled over th
+ e years by our client's Mom. Items include: *Outdoor furniture *Outdoor p
+ lanters & garden decor *Living room furniture pieces *Curio cabinets *Kee
+ psakes & curiosities *Decorative teapots & teacups *Statuettes & figurine
+ s *Glassware of all kinds *Accent tables *Crockery *Framed artwork *Mirro
+ rs & other wall hangings *Area rugs *Records *Lionel trains *Model cars *
+ Lamps of all kinds *Picture frames *Board games *Antique chairs *Jardinie
+ re *Christmas decor galore *Hess truck collection *Sewing machine *Ribbon
+ s *Bedroom furniture set *Clothing *Bed linens *Handbags *Pots & pans *Co
+ okbooks *Cutlery & utensils *Casual dinnerware *Hardware *Brooms & mops *
+ Vintage Corningware & Pyrex *Fine China sets *Cats Meow collectible homes
+  *Blue Willow pieces *Cast iron models *Planters & pots *Step stool and s
+ o much more... Come see the gift shop like setting that our stager has cr
+ eated here! Treasures & gems abound at this modest Parsippany property! W
+ ANT AN ADDITIONAL SNEAK PEEK OF THE ITEMS TO BE OFFERED: https://www.esta
+ tesales.net/NJ/Parsippany/07054/5150478 Hours: Friday\, 11/27 10:00am-5:0
+ 0pm Saturday\, 11/28 10:00am-5:00pm Location: 215 Allentown Road Parsippa
+ ny\, NJ 07054 Sale hosted by: The Consummate Home ~ [hidden information]
+URL:https://www.facebook.com/marketplace/item/1113907051465340/
+END:VEVENT
+END:VCALENDAR

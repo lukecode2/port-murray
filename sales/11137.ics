@@ -18,12 +18,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-13513-20261127@port-murray
-DTSTAMP:20261125T171730Z
+UID:sale-11137-20261127@port-murray
+DTSTAMP:20261127T175448Z
 SUMMARY:Black Friday Finds in Lebanon - Vintage\, Barn Finds and MORE!
 DTSTART;TZID=America/New_York:20261127T100000
 DTEND;TZID=America/New_York:20261127T140000
-LOCATION:Lebanon\, NJ 08833
+LOCATION:1076 Stanton Lebanon Rd\, Lebanon\, NJ\, 08833
 DESCRIPTION:Spend Black Friday and Thanksgiving weekend visiting us in Leb
  anon!\nThis sale features a filled house and barn to dig through. Wonderf
  ul antiques\, great vintage items and more are waiting in Clinton Townshi
@@ -53,15 +53,16 @@ DESCRIPTION:Spend Black Friday and Thanksgiving weekend visiting us in Leb
   everyday household items.\nCOME VISIT US TO SEE ALL THIS AND MORE! For p
  lanning purposes\, this home is about 1 mile from Country Square Plaza in
   Lebanon.
-URL:https://www.estatesales.net/NJ/Lebanon/08833/5133144
+URL:https://estatesales.org/estate-sales/nj/lebanon/08833/black-friday-fin
+ ds-in-lebanon-2470199
 END:VEVENT
 BEGIN:VEVENT
-UID:sale-13513-20261128@port-murray
-DTSTAMP:20261125T171730Z
+UID:sale-11137-20261128@port-murray
+DTSTAMP:20261127T175448Z
 SUMMARY:Black Friday Finds in Lebanon - Vintage\, Barn Finds and MORE!
 DTSTART;TZID=America/New_York:20261128T100000
 DTEND;TZID=America/New_York:20261128T150000
-LOCATION:Lebanon\, NJ 08833
+LOCATION:1076 Stanton Lebanon Rd\, Lebanon\, NJ\, 08833
 DESCRIPTION:Spend Black Friday and Thanksgiving weekend visiting us in Leb
  anon!\nThis sale features a filled house and barn to dig through. Wonderf
  ul antiques\, great vintage items and more are waiting in Clinton Townshi
@@ -91,6 +92,7 @@ DESCRIPTION:Spend Black Friday and Thanksgiving weekend visiting us in Leb
   everyday household items.\nCOME VISIT US TO SEE ALL THIS AND MORE! For p
  lanning purposes\, this home is about 1 mile from Country Square Plaza in
   Lebanon.
-URL:https://www.estatesales.net/NJ/Lebanon/08833/5133144
+URL:https://estatesales.org/estate-sales/nj/lebanon/08833/black-friday-fin
+ ds-in-lebanon-2470199
 END:VEVENT
 END:VCALENDAR

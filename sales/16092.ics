@@ -18,11 +18,11 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sale-16092-20261202@port-murray
-DTSTAMP:20261125T171730Z
+UID:sale-16092-20261204@port-murray
+DTSTAMP:20261127T175448Z
 SUMMARY:247: Sports Cards\, Vintage and Modern. Pokemon\, Collectibles (Ph
  illipsburg\, NJ)
-DTSTART;TZID=America/New_York:20261202T180000
+DTSTART;TZID=America/New_York:20261204T180000
 LOCATION:271 Windmill Court\, Phillipsburg\, NJ\, 08865
 DESCRIPTION:Please Note:  Payment Links will be emailed after the auction 
  ends. All invoices will be emailed out with a secured Payment link.\n\nDu

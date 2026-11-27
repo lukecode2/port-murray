@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15970-20261127@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:Artist Home- Life Long Art\, Antique and Architectural Salvage Col
  lections
 DTSTART;TZID=America/New_York:20261127T090000
@@ -31,7 +31,7 @@ URL:https://www.estatesales.net/NJ/Stockton/08559/5171940
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15970-20261128@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:Artist Home- Life Long Art\, Antique and Architectural Salvage Col
  lections
 DTSTART;TZID=America/New_York:20261128T090000

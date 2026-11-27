@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15969-20261127@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:"You guys have such cool stuff" estate and garage sale
 DTSTART;TZID=America/New_York:20261127T090000
 DTEND;TZID=America/New_York:20261127T170000
-LOCATION:Milford\, NJ\, 08848
+LOCATION:730 Frenchtown Rd\, Milford\, NJ\, 08848
 DESCRIPTION:Almost 40 year collection of stuff. Including but not limited 
  to...antiques\, collectibles\, vintage\, MCM\, sporting equipment\, house
  hold items\, lighting\, vinyl\, VCRs\, speakers and audio components\, Ho
@@ -33,11 +33,11 @@ URL:https://www.estatesales.net/NJ/Milford/08848/5171841
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15969-20261128@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:"You guys have such cool stuff" estate and garage sale
 DTSTART;TZID=America/New_York:20261128T090000
 DTEND;TZID=America/New_York:20261128T170000
-LOCATION:Milford\, NJ\, 08848
+LOCATION:730 Frenchtown Rd\, Milford\, NJ\, 08848
 DESCRIPTION:Almost 40 year collection of stuff. Including but not limited 
  to...antiques\, collectibles\, vintage\, MCM\, sporting equipment\, house
  hold items\, lighting\, vinyl\, VCRs\, speakers and audio components\, Ho
@@ -47,11 +47,11 @@ URL:https://www.estatesales.net/NJ/Milford/08848/5171841
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15969-20261129@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:"You guys have such cool stuff" estate and garage sale
 DTSTART;TZID=America/New_York:20261129T090000
 DTEND;TZID=America/New_York:20261129T170000
-LOCATION:Milford\, NJ\, 08848
+LOCATION:730 Frenchtown Rd\, Milford\, NJ\, 08848
 DESCRIPTION:Almost 40 year collection of stuff. Including but not limited 
  to...antiques\, collectibles\, vintage\, MCM\, sporting equipment\, house
  hold items\, lighting\, vinyl\, VCRs\, speakers and audio components\, Ho

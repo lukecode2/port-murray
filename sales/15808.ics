@@ -19,11 +19,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sale-15808-20261204@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:Augusta Estate Sale
 DTSTART;TZID=America/New_York:20261204T090000
 DTEND;TZID=America/New_York:20261204T150000
-LOCATION:Augusta\, NJ 07822
+LOCATION:Augusta\, NJ\, 07822
 DESCRIPTION:Large collections of paper\, Maps\, some antique toys\, toy so
  ldiers\, antique metal toy trains\, HO Gauge Train set\, US Military butt
  ons\, medals\, etc\, Railroad prints\, Vintage & Antique Railroad paper\,
@@ -39,11 +39,11 @@ URL:https://www.estatesales.net/NJ/Augusta/07822/5170275
 END:VEVENT
 BEGIN:VEVENT
 UID:sale-15808-20261205@port-murray
-DTSTAMP:20261125T171730Z
+DTSTAMP:20261127T175448Z
 SUMMARY:Augusta Estate Sale
 DTSTART;TZID=America/New_York:20261205T090000
 DTEND;TZID=America/New_York:20261205T150000
-LOCATION:Augusta\, NJ 07822
+LOCATION:Augusta\, NJ\, 07822
 DESCRIPTION:Large collections of paper\, Maps\, some antique toys\, toy so
  ldiers\, antique metal toy trains\, HO Gauge Train set\, US Military butt
  ons\, medals\, etc\, Railroad prints\, Vintage & Antique Railroad paper\,

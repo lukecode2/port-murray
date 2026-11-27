@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Port Murray//Sales//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sale-16243-20261210@port-murray
+DTSTAMP:20261127T175448Z
+SUMMARY:Millea Bros "SELECT" (Day 2 of 3)
+DTSTART;TZID=America/New_York:20261210T235900
+LOCATION:Boonton\, NJ\, 07005
+DESCRIPTION:Day 2 of 3: American & British Art\, Antiques & Silver | Asian
+  Art | Science - A distinguished selection of fine art\, antique furnitur
+ e\, decorative arts\, and scientific collectibles from the collections of
+  Stevens Institute of Technology in Hoboken\, New Jersey comes to auction
+  this season. Highlights include an Edward Hudson cherry tall case clock 
+ from Boxly\, the Chestnut Hill residence of pioneering industrial enginee
+ r Frederick Winslow Taylor\; and American paintings from the Edward B. Ga
+ llaher estate\, including a Charles Reiffel oil exhibited at the Pennsylv
+ ania Academy of the Fine Arts. Proceeds support the preservation of and a
+ ccess to historical collections managed by the university's Samuel C. Wil
+ liams Library Archives & Special Collections. Asian art highlights includ
+ e a Chinese Export porcelain hound\, a Chinese silk textile from the Iris
+  Apfel Collection\, and a Han Dynasty pottery mythical beast. Other highl
+ ights of the day include a curated collection of Tiffany art glass and li
+ ghting featuring a “Pomegranate?? leaded glass table lamp\, two publish
+ ed portraits by Joshua Reynolds\, and an Ira Hudson decoy.
+URL:https://www.estatesales.net/NJ/Boonton/07005/5164584
+END:VEVENT
+END:VCALENDAR
